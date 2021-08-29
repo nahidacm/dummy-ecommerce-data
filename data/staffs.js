@@ -1,8 +1,4 @@
-import { plainToClass } from 'class-transformer';
-import Staff from '../services/staff/staff.type';
-
-const loadStaffs = (): Staff[] => {
-  return plainToClass(Staff, [
+const staffs = [
     {
       id: '1',
       first_name: 'James',
@@ -103,7 +99,6 @@ const loadStaffs = (): Staff[] => {
 
       creation_date: new Date(),
     },
-  ]);
-};
+  ];
 
-export default loadStaffs;
+export default staffs;

@@ -1,8 +1,4 @@
-import Coupon from "../services/coupon/coupon.type";
-import { plainToClass } from "class-transformer";
-
-const loadCoupons = (): Coupon[] => {
-  return plainToClass(Coupon, [
+const coupons = [
     {
       id: 1,
       title: "Ramadan Sale",
@@ -176,7 +172,6 @@ const loadCoupons = (): Coupon[] => {
       expiration_date: new Date(),
       creation_date: new Date()
     }
-  ]);
-};
+  ];
 
-export default loadCoupons;
+export default coupons;

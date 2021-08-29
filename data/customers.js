@@ -1,8 +1,4 @@
-import { plainToClass } from "class-transformer";
-import Customer from "../services/customer/customer.type";
-
-const loadCustomers = (): Customer[] => {
-  return plainToClass(Customer, [
+const customers = [
     {
       id: "1",
       name: "James L. Frank",
@@ -570,7 +566,6 @@ const loadCustomers = (): Customer[] => {
       ],
       creation_date: new Date()
     }
-  ]);
-};
+  ];
 
-export default loadCustomers;
+export default customers;

@@ -1,8 +1,4 @@
-import { plainToClass } from "class-transformer";
-import Order from "../services/order/order.type";
-
-const loadOrders = (): Order[] => {
-  return plainToClass(Order, [
+const orders = [
     {
       id: 1,
       customer_id: "1",
@@ -536,7 +532,6 @@ const loadOrders = (): Order[] => {
       ],
       status: "pending"
     }
-  ]);
-};
+  ];
 
-export default loadOrders;
+  export default orders;
