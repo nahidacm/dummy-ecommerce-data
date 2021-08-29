@@ -10,22 +10,22 @@ const productData = [
     description:
       'A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called plantains distinguishing them from dessert bananas.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/banana.jpg',
+    image: 'banana.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/banana.jpg',
+        url: 'banana.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/banana.jpg',
+        url: 'banana.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/banana.jpg',
+        url: 'banana.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/banana.jpg',
+        url: 'banana.jpg',
       },
     ],
     categories: [
@@ -53,22 +53,22 @@ const productData = [
     description:
       'The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium. Its close relatives include the garlic, shallot, leek, chive, and Chinese onion.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/onions.jpg',
+    image: 'onions.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/onions.jpg',
+        url: 'onions.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/onions.jpg',
+        url: 'onions.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/onions.jpg',
+        url: 'onions.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/onions.jpg',
+        url: 'onions.jpg',
       },
     ],
     categories: [
@@ -96,26 +96,26 @@ const productData = [
     description:
       'he Concord grape is a cultivar derived from the grape species Vitis labrusca (also called fox grape) that are used as table grapes, wine grapes and juice grapes. ... The skin of a Concord grape is typically dark blue or purple, and often is covered with a lighter-coloured epicuticular wax bloom that can be rubbed off.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/blue_grapes.jpg',
+    image: 'blue_grapes.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/blue_grapes.jpg',
+          'blue_grapes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/blue_grapes.jpg',
+          'blue_grapes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/blue_grapes.jpg',
+          'blue_grapes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/blue_grapes.jpg',
+          'blue_grapes.jpg',
       },
     ],
     categories: [
@@ -142,22 +142,22 @@ const productData = [
     description:
       'The coconut tree is a member of the palm tree family and the only known living species of the genus Cocos. The term coconut can refer to the whole coconut palm, the seed, or the fruit, which botanically is a drupe, not a nut.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cocnut.jpg',
+    image: 'cocnut.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cocnut.jpg',
+        url: 'cocnut.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cocnut.jpg',
+        url: 'cocnut.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cocnut.jpg',
+        url: 'cocnut.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cocnut.jpg',
+        url: 'cocnut.jpg',
       },
     ],
     categories: [
@@ -184,22 +184,22 @@ const productData = [
     description:
       'Garlic is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and Chinese onion. Garlic is native to Central Asia and northeastern Iran, and has long been a common seasoning worldwide, with a history of several thousand years of human consumption and use.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/garlic.jpg',
+    image: 'garlic.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/garlic.jpg',
+        url: 'garlic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/garlic.jpg',
+        url: 'garlic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/garlic.jpg',
+        url: 'garlic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/garlic.jpg',
+        url: 'garlic.jpg',
       },
     ],
     categories: [
@@ -227,26 +227,26 @@ const productData = [
     description:
       'An apple is a sweet, edible fruit produced by an apple tree (Malus domestica). Apple trees are ... The skin of ripe apples is generally red, yellow, green, pink, or russetted, though many bi- or tri-colored cultivars may be found. ',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Green_Apple.jpg',
+    image: 'Green_Apple.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Green_Apple.jpg',
+          'Green_Apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Green_Apple.jpg',
+          'Green_Apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Green_Apple.jpg',
+          'Green_Apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Green_Apple.jpg',
+          'Green_Apple.jpg',
       },
     ],
     categories: [
@@ -274,22 +274,22 @@ const productData = [
     description:
       'Guava is a common tropical fruit cultivated in many tropical and subtropical regions. Psidium guajava is a small tree in the myrtle family, native to Mexico, Central America, the Caribbean and northern South America. ',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/guava.jpg',
+    image: 'guava.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/guava.jpg',
+        url: 'guava.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/guava.jpg',
+        url: 'guava.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/guava.jpg',
+        url: 'guava.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/guava.jpg',
+        url: 'guava.jpg',
       },
     ],
     categories: [
@@ -317,22 +317,22 @@ const productData = [
     description:
       'The lemon, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lemon.jpg',
+    image: 'lemon.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lemon.jpg',
+        url: 'lemon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lemon.jpg',
+        url: 'lemon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lemon.jpg',
+        url: 'lemon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lemon.jpg',
+        url: 'lemon.jpg',
       },
     ],
     categories: [
@@ -360,22 +360,22 @@ const productData = [
     description:
       'The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually; varieties of sweet orange arise through mutations.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oranges.jpg',
+    image: 'oranges.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oranges.jpg',
+        url: 'oranges.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oranges.jpg',
+        url: 'oranges.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oranges.jpg',
+        url: 'oranges.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oranges.jpg',
+        url: 'oranges.jpg',
       },
     ],
     categories: [
@@ -402,22 +402,22 @@ const productData = [
     description:
       'Black pepper is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. When fresh and fully mature, it is about 5 mm in diameter and dark red, and contains a single seed, like all drupes',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pepper.jpg',
+    image: 'pepper.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pepper.jpg',
+        url: 'pepper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pepper.jpg',
+        url: 'pepper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pepper.jpg',
+        url: 'pepper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pepper.jpg',
+        url: 'pepper.jpg',
       },
     ],
     categories: [
@@ -444,22 +444,22 @@ const productData = [
     description:
       'The pineapple is a tropical plant with an edible fruit, also called pineapples, and the most economically significant plant in the family Bromeliaceae. Pineapples may be cultivated from the offset produced at the top of the fruit, possibly flowering in five to ten months and fruiting in the following six months',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pineapple.jpg',
+    image: 'pineapple.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pineapple.jpg',
+        url: 'pineapple.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pineapple.jpg',
+        url: 'pineapple.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pineapple.jpg',
+        url: 'pineapple.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pineapple.jpg',
+        url: 'pineapple.jpg',
       },
     ],
     categories: [
@@ -487,26 +487,26 @@ const productData = [
     description:
       'The pomegranate is a fruit-bearing deciduous shrub in the family Lythraceae, subfamily Punicoideae, that grows between 5 and 10 m tall. The fruit is typically in season in the Northern Hemisphere from September to February, and in the Southern Hemisphere from March to May.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pomegranate.jpg',
+    image: 'pomegranate.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pomegranate.jpg',
+          'pomegranate.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pomegranate.jpg',
+          'pomegranate.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pomegranate.jpg',
+          'pomegranate.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pomegranate.jpg',
+          'pomegranate.jpg',
       },
     ],
     categories: [
@@ -534,22 +534,22 @@ const productData = [
     description:
       'An apple is a sweet, edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. ',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_apple.jpg',
+    image: 'red_apple.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_apple.jpg',
+        url: 'red_apple.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_apple.jpg',
+        url: 'red_apple.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_apple.jpg',
+        url: 'red_apple.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_apple.jpg',
+        url: 'red_apple.jpg',
       },
     ],
     categories: [
@@ -577,22 +577,22 @@ const productData = [
     description:
       'A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_grapes.jpg',
+    image: 'red_grapes.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_grapes.jpg',
+        url: 'red_grapes.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_grapes.jpg',
+        url: 'red_grapes.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_grapes.jpg',
+        url: 'red_grapes.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_grapes.jpg',
+        url: 'red_grapes.jpg',
       },
     ],
     categories: [
@@ -620,22 +620,22 @@ const productData = [
     description:
       'The garden strawberry is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/strawberry.jpg',
+    image: 'strawberry.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/strawberry.jpg',
+        url: 'strawberry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/strawberry.jpg',
+        url: 'strawberry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/strawberry.jpg',
+        url: 'strawberry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/strawberry.jpg',
+        url: 'strawberry.jpg',
       },
     ],
     categories: [
@@ -663,22 +663,22 @@ const productData = [
     description:
       'The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America. The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tomatoes.jpg',
+    image: 'tomatoes.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tomatoes.jpg',
+        url: 'tomatoes.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tomatoes.jpg',
+        url: 'tomatoes.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tomatoes.jpg',
+        url: 'tomatoes.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tomatoes.jpg',
+        url: 'tomatoes.jpg',
       },
     ],
     categories: [
@@ -706,22 +706,22 @@ const productData = [
     description:
       'Citrullus lanatus is a plant species in the family Cucurbitaceae, a vine-like flowering plant originating in West Africa. It is cultivated for its fruit.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/watermelon.jpg',
+    image: 'watermelon.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/watermelon.jpg',
+        url: 'watermelon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/watermelon.jpg',
+        url: 'watermelon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/watermelon.jpg',
+        url: 'watermelon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/watermelon.jpg',
+        url: 'watermelon.jpg',
       },
     ],
     categories: [
@@ -748,22 +748,22 @@ const productData = [
     description:
       'Sardine and pilchard are common names used to refer to various small, oily fish in the herring family Clupeidae. The term sardine was first used in English during the early 15th century and may come from the Mediterranean island of Sardinia, around which sardines were once abundant',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/sardine.jpg',
+    image: 'sardine.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/sardine.jpg',
+        url: 'sardine.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/sardine.jpg',
+        url: 'sardine.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/sardine.jpg',
+        url: 'sardine.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/sardine.jpg',
+        url: 'sardine.jpg',
       },
     ],
     categories: [
@@ -791,22 +791,22 @@ const productData = [
     description:
       'Salmon is the common name for several species of ray-finned fish in the family Salmonidae. Other fish in the same family include trout, char, grayling and whitefish. Salmon are native to tributaries of the North Atlantic and Pacific Ocean',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+    image: 'snapper.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+        url: 'snapper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+        url: 'snapper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+        url: 'snapper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+        url: 'snapper.jpg',
       },
     ],
     categories: [
@@ -834,22 +834,22 @@ const productData = [
     description:
       'A tuna is a saltwater fish that belongs to the tribe Thunnini, a subgrouping of the Scombridae family. The Thunnini comprise 15 species across five genera, the sizes of which vary greatly, ranging from the bullet tuna up to the Atlantic bluefin tuna. The bluefin averages 2 m, and is believed to live up to 50 years.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tuna.jpg',
+    image: 'tuna.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tuna.jpg',
+        url: 'tuna.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tuna.jpg',
+        url: 'tuna.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tuna.jpg',
+        url: 'tuna.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tuna.jpg',
+        url: 'tuna.jpg',
       },
     ],
     categories: [
@@ -877,22 +877,22 @@ const productData = [
     description:
       'Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+    image: 'cod.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+        url: 'cod.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+        url: 'cod.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+        url: 'cod.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+        url: 'cod.jpg',
       },
     ],
     categories: [
@@ -920,22 +920,22 @@ const productData = [
     description:
       'Trout is the common name for a number of species of freshwater fish belonging to the genera Oncorhynchus, Salmo and Salvelinus, all of the subfamily Salmoninae of the family Salmonidae.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/trout.jpg',
+    image: 'trout.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+        url: 'cod.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+        url: 'cod.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+        url: 'cod.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cod.jpg',
+        url: 'cod.jpg',
       },
     ],
     categories: [
@@ -962,22 +962,22 @@ const productData = [
     description:
       'The northern red snapper is a species of snapper native to the western Atlantic Ocean including the Gulf of Mexico, where it inhabits environments associated with reefs. This species is commercially important and is also sought-after as a game fish.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+    image: 'snapper.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+        url: 'snapper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+        url: 'snapper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+        url: 'snapper.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/snapper.jpg',
+        url: 'snapper.jpg',
       },
     ],
     categories: [
@@ -1004,22 +1004,22 @@ const productData = [
     description:
       'Tilapia is the common name for nearly a hundred species of cichlid fish from the tilapiine cichlid tribe. Tilapia are mainly freshwater fish inhabiting shallow streams, ponds, rivers, and lakes, and less commonly found living in brackish water.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/talapia.jpg',
+    image: 'talapia.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/talapia.jpg',
+        url: 'talapia.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/talapia.jpg',
+        url: 'talapia.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/talapia.jpg',
+        url: 'talapia.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/talapia.jpg',
+        url: 'talapia.jpg',
       },
     ],
     categories: [
@@ -1047,22 +1047,22 @@ const productData = [
     description:
       'Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/perch.jpg',
+    image: 'perch.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/perch.jpg',
+        url: 'perch.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/perch.jpg',
+        url: 'perch.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/perch.jpg',
+        url: 'perch.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/perch.jpg',
+        url: 'perch.jpg',
       },
     ],
     categories: [
@@ -1089,22 +1089,22 @@ const productData = [
     description:
       'The haddock is a saltwater fish from the family Gadidae, the true cods, it is the only species in the monotypic genus Melanogrammus. It is found in the North Atlantic Ocean and associated seas where it is an important species for fisheries, especially in northern Europe.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/haddock.jpg',
+    image: 'haddock.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/haddock.jpg',
+        url: 'haddock.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/haddock.jpg',
+        url: 'haddock.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/haddock.jpg',
+        url: 'haddock.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/haddock.jpg',
+        url: 'haddock.jpg',
       },
     ],
     categories: [
@@ -1132,22 +1132,22 @@ const productData = [
     description:
       'Carp are various species of oily freshwater fish from the family Cyprinidae, a very large group of fish native to Europe and Asia.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/carp.jpg',
+    image: 'carp.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/carp.jpg',
+        url: 'carp.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/carp.jpg',
+        url: 'carp.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/carp.jpg',
+        url: 'carp.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/carp.jpg',
+        url: 'carp.jpg',
       },
     ],
     categories: [
@@ -1174,22 +1174,22 @@ const productData = [
     description:
       'Mackerel is a common name applied to a number of different species of pelagic fish, mostly from the family Scombridae. They are found in both temperate and tropical seas, mostly living along the coast or offshore in the oceanic environment.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mackerel.jpg',
+    image: 'Mackerel.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mackerel.jpg',
+        url: 'Mackerel.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mackerel.jpg',
+        url: 'Mackerel.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mackerel.jpg',
+        url: 'Mackerel.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mackerel.jpg',
+        url: 'Mackerel.jpg',
       },
     ],
     categories: [
@@ -1218,26 +1218,26 @@ const productData = [
       'Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising them in comparison to animals such as cattle or hogs, chickens have become prevalent throughout the cuisine of cultures around the world, and their meat has been variously adapted to regional tastes',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Chicken_Brest.jpg',
+      'Chicken_Brest.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chicken_Brest.jpg',
+          'Chicken_Brest.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chicken_Brest.jpg',
+          'Chicken_Brest.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chicken_Brest.jpg',
+          'Chicken_Brest.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chicken_Brest.jpg',
+          'Chicken_Brest.jpg',
       },
     ],
     categories: [
@@ -1266,26 +1266,26 @@ const productData = [
       'Cuts of beef are first divided into primal cuts, pieces of meat initially separated from the carcass ... The trimmings and some whole boneless chucks are ground for ground beef.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/boneless_beef.jpg',
+      'boneless_beef.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/boneless_beef.jpg',
+          'boneless_beef.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/boneless_beef.jpg',
+          'boneless_beef.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/boneless_beef.jpg',
+          'boneless_beef.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/boneless_beef.jpg',
+          'boneless_beef.jpg',
       },
     ],
     categories: [
@@ -1313,22 +1313,22 @@ const productData = [
     description:
       'Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beef.jpg',
+    image: 'beef.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beef.jpg',
+        url: 'beef.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beef.jpg',
+        url: 'beef.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beef.jpg',
+        url: 'beef.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beef.jpg',
+        url: 'beef.jpg',
       },
     ],
     categories: [
@@ -1356,26 +1356,26 @@ const productData = [
     description:
       'A meat chop is a cut of meat cut perpendicular to the spine, and usually containing a rib or riblet part of a vertebra and served as an individual portion. The most common kinds of meat chops are pork and lamb. A thin boneless chop, or one with only the rib bone, may be called a cutlet, ',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/bonelss_lamb.jpg',
+    image: 'bonelss_lamb.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bonelss_lamb.jpg',
+          'bonelss_lamb.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bonelss_lamb.jpg',
+          'bonelss_lamb.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bonelss_lamb.jpg',
+          'bonelss_lamb.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bonelss_lamb.jpg',
+          'bonelss_lamb.jpg',
       },
     ],
     categories: [
@@ -1403,22 +1403,22 @@ const productData = [
     description:
       'Lamb chop or Lambchop may refer to: Meat chop of lamb. Lamb meat · Lamb Chop (puppet), a sock puppet sheep created by Shari Lewis and now played by .',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lamb_chops.jpg',
+    image: 'lamb_chops.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lamb_chops.jpg',
+        url: 'lamb_chops.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lamb_chops.jpg',
+        url: 'lamb_chops.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lamb_chops.jpg',
+        url: 'lamb_chops.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lamb_chops.jpg',
+        url: 'lamb_chops.jpg',
       },
     ],
     categories: [
@@ -1447,26 +1447,26 @@ const productData = [
       'Material: Laptop Shoulder Bag is made of quality canvas, protecting your laptop from dust, scratches and water',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Advent_laptop_bags.jpg',
+      'Advent_laptop_bags.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Advent_laptop_bags.jpg',
+          'Advent_laptop_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Advent_laptop_bags.jpg',
+          'Advent_laptop_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Advent_laptop_bags.jpg',
+          'Advent_laptop_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Advent_laptop_bags.jpg',
+          'Advent_laptop_bags.jpg',
       },
     ],
     categories: [
@@ -1490,26 +1490,26 @@ const productData = [
       'Luxury British fashion house Alexander McQueen is famed for its exquisitely designed handbags and accessories, as showcased through this stunning black Box bag. Expertly crafted in Italy from supple calf leather, the bag is an ideal accessory choice which suits a variety of styles and occasions.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Alex_maquine_shoulder.jpg',
+      'Alex_maquine_shoulder.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Alex_maquine_shoulder.jpg',
+          'Alex_maquine_shoulder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Alex_maquine_shoulder.jpg',
+          'Alex_maquine_shoulder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Alex_maquine_shoulder.jpg',
+          'Alex_maquine_shoulder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Alex_maquine_shoulder.jpg',
+          'Alex_maquine_shoulder.jpg',
       },
     ],
     categories: [
@@ -1533,26 +1533,26 @@ const productData = [
       'Brand New Emporio Armani Leather Wallet. Shipped with USPS First Class Package.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_black_wallet.jpg',
+      'Armani_black_wallet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_black_wallet.jpg',
+          'Armani_black_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_black_wallet.jpg',
+          'Armani_black_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_black_wallet.jpg',
+          'Armani_black_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_black_wallet.jpg',
+          'Armani_black_wallet.jpg',
       },
     ],
     categories: [
@@ -1576,26 +1576,26 @@ const productData = [
       'Black logo embossed messenger bag from Giorgio Armani featuring an adjustable shoulder strap, a top zip fastening and a front zip pocket.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_Handbag.jpg',
+      'Armani_Handbag.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_Handbag.jpg',
+          'Armani_Handbag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_Handbag.jpg',
+          'Armani_Handbag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_Handbag.jpg',
+          'Armani_Handbag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_Handbag.jpg',
+          'Armani_Handbag.jpg',
       },
     ],
     categories: [
@@ -1619,26 +1619,26 @@ const productData = [
       'The name Giorgio Armani has become synonymous with clean lines and Italian style. One of the most recognisable fashion houses in the world, the label has dressed some of the world’s most beautiful women.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_leather_purse.jpg',
+      'Armani_leather_purse.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_leather_purse.jpg',
+          'Armani_leather_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_leather_purse.jpg',
+          'Armani_leather_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_leather_purse.jpg',
+          'Armani_leather_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_leather_purse.jpg',
+          'Armani_leather_purse.jpg',
       },
     ],
     categories: [
@@ -1661,26 +1661,26 @@ const productData = [
     description:
       'Black logo embossed messenger bag from Giorgio Armani featuring an adjustable shoulder strap, a top zip fastening and a front zip pocket.',
     type: 'bags',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_purse.jpg',
+    image: 'Armani_purse.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_purse.jpg',
+          'Armani_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_purse.jpg',
+          'Armani_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_purse.jpg',
+          'Armani_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_purse.jpg',
+          'Armani_purse.jpg',
       },
     ],
     categories: [
@@ -1704,26 +1704,26 @@ const productData = [
       'Brand New Emporio Armani Leather Wallet. Shipped with USPS First Class Package.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_wallet.jpg',
+      'Armani_wallet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_wallet.jpg',
+          'Armani_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_wallet.jpg',
+          'Armani_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_wallet.jpg',
+          'Armani_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Armani_wallet.jpg',
+          'Armani_wallet.jpg',
       },
     ],
     categories: [
@@ -1747,26 +1747,26 @@ const productData = [
       '00% Authenticity Guaranteed Chanel Classic Jumbo Single Flap Black Caviar Shoulder Bag',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_shoulder_bag.jpg',
+      'chanel_shoulder_bag.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_shoulder_bag.jpg',
+          'chanel_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_shoulder_bag.jpg',
+          'chanel_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_shoulder_bag.jpg',
+          'chanel_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_shoulder_bag.jpg',
+          'chanel_shoulder_bag.jpg',
       },
     ],
     categories: [
@@ -1790,26 +1790,26 @@ const productData = [
       'Beautiful new Chanel fingerless wallet. Tweed with leather CC on top and leather on the backside of the wallet.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_wallet_brown.jpg',
+      'chanel_wallet_brown.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_wallet_brown.jpg',
+          'chanel_wallet_brown.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_wallet_brown.jpg',
+          'chanel_wallet_brown.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_wallet_brown.jpg',
+          'chanel_wallet_brown.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chanel_wallet_brown.jpg',
+          'chanel_wallet_brown.jpg',
       },
     ],
     categories: [
@@ -1832,26 +1832,26 @@ const productData = [
       'Beautiful new Chanel fingerless wallet. Tweed with leather CC on top and leather on the backside of the wallet.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+      'Chanel_wallet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+          'Chanel_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+          'Chanel_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+          'Chanel_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+          'Chanel_wallet.jpg',
       },
     ],
     categories: [
@@ -1875,26 +1875,26 @@ const productData = [
       "Established in 1952, Givenchy's stance on contemporary elegance is perfectly captured through the brand’s premium accessory collections. Crafted from calf leather, this grey GV3 croc-effect shoulder bag from Givenchy features a chain top handle with logo charm, a detachable shoulder strap, a front flap closure, a metal logo plaque to the front, gold-tone hardware and suede panels.",
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Givenchy_shoulder_bag.jpg',
+      'Givenchy_shoulder_bag.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+          'Chanel_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+          'Chanel_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+          'Chanel_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chanel_wallet.jpg',
+          'Chanel_wallet.jpg',
       },
     ],
     categories: [
@@ -1918,26 +1918,26 @@ const productData = [
       "Established in 1952, Givenchy's stance on contemporary elegance is perfectly captured through the brand’s premium accessory collections. Crafted from calf leather, this grey GV3 croc-effect shoulder bag from Givenchy features a chain top handle with logo charm, a detachable shoulder strap, a front flap closure, a metal logo plaque to the front, gold-tone hardware and suede panels.",
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/givency_purse.jpg',
+      'givency_purse.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/givency_purse.jpg',
+          'givency_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/givency_purse.jpg',
+          'givency_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/givency_purse.jpg',
+          'givency_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/givency_purse.jpg',
+          'givency_purse.jpg',
       },
     ],
     categories: [
@@ -1960,22 +1960,22 @@ const productData = [
     description:
       'Luxury Italian fashion house Gucci is renowned for its instantly recognisable bags and accessories, infusing its unique sense of quality and exquisite design into each piece. This pink logo print leather backpack from Gucci features top handles, a drawstring fastening, a pebbled leather texture, a removable zipped pouch and a vintage Gucci logo.',
     type: 'bags',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/gucchi.jpg',
+    image: 'gucchi.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/gucchi.jpg',
+        url: 'gucchi.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/gucchi.jpg',
+        url: 'gucchi.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/gucchi.jpg',
+        url: 'gucchi.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/gucchi.jpg',
+        url: 'gucchi.jpg',
       },
     ],
     categories: [
@@ -1999,26 +1999,26 @@ const productData = [
       'Luxury Italian fashion house Gucci is renowned for its instantly recognisable bags and accessories, infusing its unique sense of quality and exquisite design into each piece. This pink logo print leather backpack from Gucci features top handles, a drawstring fastening, a pebbled leather texture, a removable zipped pouch and a vintage Gucci logo.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+      'gucci_mini_purse.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+          'gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+          'gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+          'gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+          'gucci_mini_purse.jpg',
       },
     ],
     categories: [
@@ -2040,26 +2040,26 @@ const productData = [
     description:
       'Luxury Italian fashion house Gucci is renowned for its instantly recognisable bags and accessories, infusing its unique sense of quality and exquisite design into each piece. This pink logo print leather backpack from Gucci features top handles, a drawstring fastening, a pebbled leather texture, a removable zipped pouch and a vintage Gucci logo.',
     type: 'bags',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_purse.jpg',
+    image: 'gucci_purse.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+          'gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+          'gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+          'gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gucci_mini_purse.jpg',
+          'gucci_mini_purse.jpg',
       },
     ],
     categories: [
@@ -2083,26 +2083,26 @@ const productData = [
       'Bewitching black, plush padding and faux-fur lining surround and cradle your 15.6 Ultrabook in trendsetting luxury. It is the perfect accessory for every season and all occasions. Dress it up; dress it down. Take it with you everywhere you go.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/hp_laptop_bag.jpg',
+      'hp_laptop_bag.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hp_laptop_bag.jpg',
+          'hp_laptop_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hp_laptop_bag.jpg',
+          'hp_laptop_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hp_laptop_bag.jpg',
+          'hp_laptop_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hp_laptop_bag.jpg',
+          'hp_laptop_bag.jpg',
       },
     ],
     categories: [
@@ -2126,26 +2126,26 @@ const productData = [
       'Bewitching black, plush padding and faux-fur lining surround and cradle your 15.6 macbook™ in trendsetting luxury. It is the perfect accessory for every season and all occasions. Dress it up; dress it down. Take it with you everywhere you go.',
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/mac_laptop_bag.jpg',
+      'mac_laptop_bag.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mac_laptop_bag.jpg',
+          'mac_laptop_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mac_laptop_bag.jpg',
+          'mac_laptop_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mac_laptop_bag.jpg',
+          'mac_laptop_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mac_laptop_bag.jpg',
+          'mac_laptop_bag.jpg',
       },
     ],
     categories: [
@@ -2168,26 +2168,26 @@ const productData = [
     description:
       'Muse Medium Zip Around Wallet has been crafted from a beautiful clotted cream saffiano leather. The leather has been thoughtfully paired with brass hardware throughout and a discrete foil logo. The interior is lined with cotton twill and is fitted with 2 main compartments with a zip coin pocket, 2 note pockets and 12 credit card slots, all in soft nappa leather.',
     type: 'bags',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Muse_wallet.jpg',
+    image: 'Muse_wallet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Muse_wallet.jpg',
+          'Muse_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Muse_wallet.jpg',
+          'Muse_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Muse_wallet.jpg',
+          'Muse_wallet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Muse_wallet.jpg',
+          'Muse_wallet.jpg',
       },
     ],
     categories: [
@@ -2210,26 +2210,26 @@ const productData = [
       "Structured buffed nappa leather top handle bag in 'scarlet' red. Carry handle at top. Detachable and adjustable shoulder strap with lanyard clasp fastening. Foldover flap with signature logo-engraved 'paper clip' fastening. Patch pocket and gold-tone logo stamp at two-compartment interior. ",
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Philip_lim_shoulder_bag.jpg',
+      'Philip_lim_shoulder_bag.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Philip_lim_shoulder_bag.jpg',
+          'Philip_lim_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Philip_lim_shoulder_bag.jpg',
+          'Philip_lim_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Philip_lim_shoulder_bag.jpg',
+          'Philip_lim_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Philip_lim_shoulder_bag.jpg',
+          'Philip_lim_shoulder_bag.jpg',
       },
     ],
     categories: [
@@ -2253,26 +2253,26 @@ const productData = [
       "Structured buffed nappa leather top handle bag in 'scarlet' red. Carry handle at top. Detachable and adjustable shoulder strap with lanyard clasp fastening. Foldover flap with signature logo-engraved 'paper clip' fastening. Patch pocket and gold-tone logo stamp at two-compartment interior. ",
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Sports_shoulder_bag.jpg',
+      'Sports_shoulder_bag.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Sports_shoulder_bag.jpg',
+          'Sports_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Sports_shoulder_bag.jpg',
+          'Sports_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Sports_shoulder_bag.jpg',
+          'Sports_shoulder_bag.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Sports_shoulder_bag.jpg',
+          'Sports_shoulder_bag.jpg',
       },
     ],
     categories: [
@@ -2295,26 +2295,26 @@ const productData = [
       "Structured buffed nappa leather top handle bag in 'scarlet' red. Carry handle at top. Detachable and adjustable shoulder strap with lanyard clasp fastening. Foldover flap with signature logo-engraved 'paper clip' fastening. Patch pocket and gold-tone logo stamp at two-compartment interior. ",
     type: 'bags',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/supreme_shoulder_bags.jpg',
+      'supreme_shoulder_bags.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/supreme_shoulder_bags.jpg',
+          'supreme_shoulder_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/supreme_shoulder_bags.jpg',
+          'supreme_shoulder_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/supreme_shoulder_bags.jpg',
+          'supreme_shoulder_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/supreme_shoulder_bags.jpg',
+          'supreme_shoulder_bags.jpg',
       },
     ],
     categories: [
@@ -2337,26 +2337,26 @@ const productData = [
       'Fendi began life in 1925 as a fur and leather speciality store in Rome. Despite growing into one of the world’s most renowned luxury labels, the business has retained its family feel, with a focus on fine detail, Italian craftsmanship and the support of local artisans.',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg',
+      'Roadstar_solid_top.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg',
+          'Roadstar_solid_top.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg',
+          'Roadstar_solid_top.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg',
+          'Roadstar_solid_top.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadstar_solid_top.jpg',
+          'Roadstar_solid_top.jpg',
       },
     ],
     categories: [
@@ -2379,22 +2379,22 @@ const productData = [
     description:
       'Mauve printed knitted fit and flare dress, has a round neck, three-quarter sleeves, concealed zip closure,, flared hem',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/magnetic.jpg',
+    image: 'magnetic.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/magnetic.jpg',
+        url: 'magnetic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/magnetic.jpg',
+        url: 'magnetic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/magnetic.jpg',
+        url: 'magnetic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/magnetic.jpg',
+        url: 'magnetic.jpg',
       },
     ],
     categories: [
@@ -2422,22 +2422,22 @@ const productData = [
     description:
       'Off-White self-striped knitted midi A-line dress, has a scoop neck, sleeveless, straight hem',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mango.jpg',
+    image: 'mango.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mango.jpg',
+        url: 'mango.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mango.jpg',
+        url: 'mango.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mango.jpg',
+        url: 'mango.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mango.jpg',
+        url: 'mango.jpg',
       },
     ],
     categories: [
@@ -2465,22 +2465,22 @@ const productData = [
     description:
       'Grey solid woven bodycon dress, has a round neck, sleeveless, straight hem',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/FOREVER_21.jpg',
+    image: 'FOREVER_21.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/FOREVER_21.jpg',
+        url: 'FOREVER_21.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/FOREVER_21.jpg',
+        url: 'FOREVER_21.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/FOREVER_21.jpg',
+        url: 'FOREVER_21.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/FOREVER_21.jpg',
+        url: 'FOREVER_21.jpg',
       },
     ],
     categories: [
@@ -2509,26 +2509,26 @@ const productData = [
       'Rust red self-striped knitted A-line dress, has a V-neck with button detailing, three-quarter sleeves, flared hem',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/DOROTHY_PERKINS.jpg',
+      'DOROTHY_PERKINS.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/DOROTHY_PERKINS.jpg',
+          'DOROTHY_PERKINS.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/DOROTHY_PERKINS.jpg',
+          'DOROTHY_PERKINS.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/DOROTHY_PERKINS.jpg',
+          'DOROTHY_PERKINS.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/DOROTHY_PERKINS.jpg',
+          'DOROTHY_PERKINS.jpg',
       },
     ],
     categories: [
@@ -2556,26 +2556,26 @@ const productData = [
     description:
       'Blue washed mini A-line denim pencil skirt, has a waistband with nabelt loops, button closures',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg',
+    image: 'Flounce_High.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg',
+          'Flounce_High.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg',
+          'Flounce_High.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg',
+          'Flounce_High.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Flounce_High.jpg',
+          'Flounce_High.jpg',
       },
     ],
     categories: [
@@ -2598,26 +2598,26 @@ const productData = [
     description:
       'Blue washed pencil denim distressed skirt with ruffle detail, has a waistband with belt loops, 2 pockets, straight hem with back slit Comes with a fabric belt.',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg',
+    image: 'Basic_hollow.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg',
+          'Basic_hollow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg',
+          'Basic_hollow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg',
+          'Basic_hollow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Basic_hollow.jpg',
+          'Basic_hollow.jpg',
       },
     ],
     categories: [
@@ -2640,26 +2640,26 @@ const productData = [
     salePrice: 28,
     discountInPercent: 20,
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg',
+    image: 'Charming_red.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg',
+          'Charming_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg',
+          'Charming_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg',
+          'Charming_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Charming_red.jpg',
+          'Charming_red.jpg',
       },
     ],
     categories: [
@@ -2682,22 +2682,22 @@ const productData = [
     description:
       'Red and gold-coloured printed flared maxi skirt with satin lining, has an elasticated waistband with side hook closure, flared hem',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg',
+    image: 'Plain_midi.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg',
+        url: 'Plain_midi.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg',
+        url: 'Plain_midi.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg',
+        url: 'Plain_midi.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Plain_midi.jpg',
+        url: 'Plain_midi.jpg',
       },
     ],
     categories: [
@@ -2719,22 +2719,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Fold_over.jpg',
+    image: 'Fold_over.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Fold_over.jpg',
+        url: 'Fold_over.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Fold_over.jpg',
+        url: 'Fold_over.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Fold_over.jpg',
+        url: 'Fold_over.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Fold_over.jpg',
+        url: 'Fold_over.jpg',
       },
     ],
     categories: [
@@ -2762,26 +2762,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Solid_Notch.jpg',
+    image: 'Solid_Notch.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Solid_Notch.jpg',
+          'Solid_Notch.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Solid_Notch.jpg',
+          'Solid_Notch.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Solid_Notch.jpg',
+          'Solid_Notch.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Solid_Notch.jpg',
+          'Solid_Notch.jpg',
       },
     ],
     categories: [
@@ -2809,26 +2809,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel.jpg',
+    image: 'Notch_Lapel.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel.jpg',
+          'Notch_Lapel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel.jpg',
+          'Notch_Lapel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel.jpg',
+          'Notch_Lapel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel.jpg',
+          'Notch_Lapel.jpg',
       },
     ],
     categories: [
@@ -2856,26 +2856,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Narrow_Notch.jpg',
+    image: 'Narrow_Notch.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Narrow_Notch.jpg',
+          'Narrow_Notch.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Narrow_Notch.jpg',
+          'Narrow_Notch.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Narrow_Notch.jpg',
+          'Narrow_Notch.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Narrow_Notch.jpg',
+          'Narrow_Notch.jpg',
       },
     ],
     categories: [
@@ -2904,26 +2904,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel_Elastic.jpg',
+      'Notch_Lapel_Elastic.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel_Elastic.jpg',
+          'Notch_Lapel_Elastic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel_Elastic.jpg',
+          'Notch_Lapel_Elastic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel_Elastic.jpg',
+          'Notch_Lapel_Elastic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Notch_Lapel_Elastic.jpg',
+          'Notch_Lapel_Elastic.jpg',
       },
     ],
     categories: [
@@ -2950,22 +2950,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Turn_Down.jpg',
+    image: 'Turn_Down.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Turn_Down.jpg',
+        url: 'Turn_Down.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Turn_Down.jpg',
+        url: 'Turn_Down.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Turn_Down.jpg',
+        url: 'Turn_Down.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Turn_Down.jpg',
+        url: 'Turn_Down.jpg',
       },
     ],
     categories: [
@@ -2991,22 +2991,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Cowl_Neck.jpg',
+    image: 'Cowl_Neck.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Cowl_Neck.jpg',
+        url: 'Cowl_Neck.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Cowl_Neck.jpg',
+        url: 'Cowl_Neck.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Cowl_Neck.jpg',
+        url: 'Cowl_Neck.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Cowl_Neck.jpg',
+        url: 'Cowl_Neck.jpg',
       },
     ],
     categories: [
@@ -3033,26 +3033,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Hooded_Zips.jpg',
+    image: 'Hooded_Zips.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hooded_Zips.jpg',
+          'Hooded_Zips.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hooded_Zips.jpg',
+          'Hooded_Zips.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hooded_Zips.jpg',
+          'Hooded_Zips.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hooded_Zips.jpg',
+          'Hooded_Zips.jpg',
       },
     ],
     categories: [
@@ -3080,22 +3080,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lapel_Zips.jpg',
+    image: 'Lapel_Zips.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lapel_Zips.jpg',
+        url: 'Lapel_Zips.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lapel_Zips.jpg',
+        url: 'Lapel_Zips.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lapel_Zips.jpg',
+        url: 'Lapel_Zips.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lapel_Zips.jpg',
+        url: 'Lapel_Zips.jpg',
       },
     ],
     categories: [
@@ -3123,26 +3123,26 @@ const productData = [
       'Blue and navy cotton Decima zipped cardigan from ANGLOZINE featuring a classic collar, a front zip fastening, a chest pocket, long sleeves, contrasting panels and a slim fit. This item is unisex.',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/BOXY_CARDIGAN.jpg',
+      'BOXY_CARDIGAN.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/BOXY_CARDIGAN.jpg',
+          'BOXY_CARDIGAN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/BOXY_CARDIGAN.jpg',
+          'BOXY_CARDIGAN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/BOXY_CARDIGAN.jpg',
+          'BOXY_CARDIGAN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/BOXY_CARDIGAN.jpg',
+          'BOXY_CARDIGAN.jpg',
       },
     ],
     categories: [
@@ -3170,26 +3170,26 @@ const productData = [
       'Blue and navy cotton Decima zipped cardigan from ANGLOZINE featuring a classic collar, a front zip fastening, a chest pocket, long sleeves, contrasting panels and a slim fit. This item is unisex.',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/STRETCH_COTTON.jpg',
+      'STRETCH_COTTON.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/STRETCH_COTTON.jpg',
+          'STRETCH_COTTON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/STRETCH_COTTON.jpg',
+          'STRETCH_COTTON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/STRETCH_COTTON.jpg',
+          'STRETCH_COTTON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/STRETCH_COTTON.jpg',
+          'STRETCH_COTTON.jpg',
       },
     ],
     categories: [
@@ -3218,26 +3218,26 @@ const productData = [
       "Black cotton shearling denim jacket from Levi's featuring long sleeves, a front button fastening, two chest pockets, side slit pockets, a shearling lining and a logo tag.",
     type: 'women-cloths',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+      "LEVI'S_WESTERN.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+          "LEVI'S_WESTERN.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+          "LEVI'S_WESTERN.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+          "LEVI'S_WESTERN.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/LEVI'S_WESTERN.jpg",
+          "LEVI'S_WESTERN.jpg",
       },
     ],
     categories: [
@@ -3260,26 +3260,26 @@ const productData = [
     description:
       "Black cotton shearling denim jacket from Levi's featuring long sleeves, a front button fastening, two chest pockets, side slit pockets, a shearling lining and a logo tag.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg',
+    image: 'IVORY_CHECK.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg',
+          'IVORY_CHECK.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg',
+          'IVORY_CHECK.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg',
+          'IVORY_CHECK.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/IVORY_CHECK.jpg',
+          'IVORY_CHECK.jpg',
       },
     ],
     categories: [
@@ -3301,22 +3301,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg',
+    image: 'VERO_MODA.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg',
+        url: 'VERO_MODA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg',
+        url: 'VERO_MODA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg',
+        url: 'VERO_MODA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VERO_MODA.jpg',
+        url: 'VERO_MODA.jpg',
       },
     ],
     categories: [
@@ -3344,26 +3344,26 @@ const productData = [
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg',
+      'SKECHERS_KALLEN.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg',
+          'SKECHERS_KALLEN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg',
+          'SKECHERS_KALLEN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg',
+          'SKECHERS_KALLEN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/SKECHERS_KALLEN.jpg',
+          'SKECHERS_KALLEN.jpg',
       },
     ],
     categories: [
@@ -3390,22 +3390,22 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg',
+    image: 'REEBOK.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg',
+        url: 'REEBOK.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg',
+        url: 'REEBOK.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg',
+        url: 'REEBOK.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/REEBOK.jpg',
+        url: 'REEBOK.jpg',
       },
     ],
     categories: [
@@ -3433,26 +3433,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg',
+      'WHITE_INFINITY.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg',
+          'WHITE_INFINITY.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg',
+          'WHITE_INFINITY.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg',
+          'WHITE_INFINITY.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/WHITE_INFINITY.jpg',
+          'WHITE_INFINITY.jpg',
       },
     ],
     categories: [
@@ -3481,26 +3481,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg',
+      'JUNAROSE_QUEEN.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg',
+          'JUNAROSE_QUEEN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg',
+          'JUNAROSE_QUEEN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg',
+          'JUNAROSE_QUEEN.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/JUNAROSE_QUEEN.jpg',
+          'JUNAROSE_QUEEN.jpg',
       },
     ],
     categories: [
@@ -3527,22 +3527,22 @@ const productData = [
     description:
       'Bourjois Little Round Pot Blusher has been keeping women beautiful for generations. Made in an exclusive baked technology process, its incredibly transparent & light texture formula is easy to apply and blends impeccably.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bourjois.jpg',
+    image: 'Bourjois.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bourjois.jpg',
+        url: 'Bourjois.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bourjois.jpg',
+        url: 'Bourjois.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bourjois.jpg',
+        url: 'Bourjois.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bourjois.jpg',
+        url: 'Bourjois.jpg',
       },
     ],
     categories: [
@@ -3570,22 +3570,22 @@ const productData = [
     description:
       'Bourjois Little Round Pot Blusher has been keeping women beautiful for generations. Made in an exclusive baked technology process, its incredibly transparent & light texture formula is easy to apply and blends impeccably.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CYO.jpg',
+    image: 'CYO.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CYO.jpg',
+        url: 'CYO.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CYO.jpg',
+        url: 'CYO.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CYO.jpg',
+        url: 'CYO.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CYO.jpg',
+        url: 'CYO.jpg',
       },
     ],
     categories: [
@@ -3612,22 +3612,22 @@ const productData = [
     description:
       "An easy-to-use, six-well contour kit with pigment-packed, blendable highlighter, bronzer, and blush powders. Use these versatile shades to create an effortlessly lifted neutral look or a warm, just-cruised-down-the-coast glow. It features three matte and two pearlescent powders to shape, bronze, and highlight. It also includes one matte blush to add a youthful flush of subtle color to any look. It is formulated Without: - Parabens- Phthalates This laid-back makeup palette makes it easy to add warmth and dimension to your look. Customize your signature Cali glow using six neutrals, including two of Smashbox's bestselling contour shades. This product is cruelty-free and formulated without parabens, phthalates, fragrance.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Smashbox.jpg',
+    image: 'Smashbox.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Smashbox.jpg',
+        url: 'Smashbox.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Smashbox.jpg',
+        url: 'Smashbox.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Smashbox.jpg',
+        url: 'Smashbox.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Smashbox.jpg',
+        url: 'Smashbox.jpg',
       },
     ],
     categories: [
@@ -3654,22 +3654,22 @@ const productData = [
     description:
       "An easy-to-use, six-well contour kit with pigment-packed, blendable highlighter, bronzer, and blush powders. Use these versatile shades to create an effortlessly lifted neutral look or a warm, just-cruised-down-the-coast glow. It features three matte and two pearlescent powders to shape, bronze, and highlight. It also includes one matte blush to add a youthful flush of subtle color to any look. It is formulated Without: - Parabens- Phthalates This laid-back makeup palette makes it easy to add warmth and dimension to your look. Customize your signature Cali glow using six neutrals, including two of Smashbox's bestselling contour shades. This product is cruelty-free and formulated without parabens, phthalates, fragrance.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/DIOR.jpg',
+    image: 'DIOR.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/DIOR.jpg',
+        url: 'DIOR.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/DIOR.jpg',
+        url: 'DIOR.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/DIOR.jpg',
+        url: 'DIOR.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/DIOR.jpg',
+        url: 'DIOR.jpg',
       },
     ],
     categories: [
@@ -3697,22 +3697,22 @@ const productData = [
     description:
       'Everything you need to create beautiful eye make-up looks. From dark and dramatic, blown out colour, pastel washes and contoured creations, this is the ultimate eye blending set. The larger shaders are ideal to apply a base colour, then build the detail with the smaller shaders and blenders.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Spectrum.jpg',
+    image: 'Spectrum.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Spectrum.jpg',
+        url: 'Spectrum.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Spectrum.jpg',
+        url: 'Spectrum.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Spectrum.jpg',
+        url: 'Spectrum.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Spectrum.jpg',
+        url: 'Spectrum.jpg',
       },
     ],
     categories: [
@@ -3735,22 +3735,22 @@ const productData = [
     description:
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Max_factor.jpg',
+    image: 'Max_factor.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Max_factor.jpg',
+        url: 'Max_factor.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Max_factor.jpg',
+        url: 'Max_factor.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Max_factor.jpg',
+        url: 'Max_factor.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Max_factor.jpg',
+        url: 'Max_factor.jpg',
       },
     ],
     categories: [
@@ -3777,26 +3777,26 @@ const productData = [
     description:
       'An eyeshadow palette of 16 longwearing Moroccan-inspired shades ranging from matte to shimmer finishes—perfect for spicing up your look in limitless ways.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Fenty_Beauty.jpg',
+    image: 'Fenty_Beauty.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fenty_Beauty.jpg',
+          'Fenty_Beauty.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fenty_Beauty.jpg',
+          'Fenty_Beauty.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fenty_Beauty.jpg',
+          'Fenty_Beauty.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fenty_Beauty.jpg',
+          'Fenty_Beauty.jpg',
       },
     ],
     categories: [
@@ -3823,22 +3823,22 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Clarins.jpg',
+    image: 'Clarins.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Clarins.jpg',
+        url: 'Clarins.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Clarins.jpg',
+        url: 'Clarins.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Clarins.jpg',
+        url: 'Clarins.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Clarins.jpg',
+        url: 'Clarins.jpg',
       },
     ],
     categories: [
@@ -3865,22 +3865,22 @@ const productData = [
     description:
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Stila.jpg',
+    image: 'Stila.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Stila.jpg',
+        url: 'Stila.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Stila.jpg',
+        url: 'Stila.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Stila.jpg',
+        url: 'Stila.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Stila.jpg',
+        url: 'Stila.jpg',
       },
     ],
     categories: [
@@ -3907,22 +3907,22 @@ const productData = [
     description:
       "No more bad days with our Party Glitter Mirror. Keeping your make up in check is easy as can be with this cute little addition! Plus, it's the perfect size to throw in your handbag!",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Skinnydip.jpg',
+    image: 'Skinnydip.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Skinnydip.jpg',
+        url: 'Skinnydip.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Skinnydip.jpg',
+        url: 'Skinnydip.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Skinnydip.jpg',
+        url: 'Skinnydip.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Skinnydip.jpg',
+        url: 'Skinnydip.jpg',
       },
     ],
     categories: [
@@ -3949,22 +3949,22 @@ const productData = [
     description:
       'Shockwaves Sleek n Shine Hairspray 250ml for a hairstyle that you want to look great, just apply Sleek and Shine Hairspray to damp or dry hair and allow it to dry naturally or blow dry using a diffusor. Great for all types and styles of hair, this product provides sleek looks with lasting shape, definition and shine, helped by an anti-freeze effect. It protects your hair from the humidity and gives it that beautiful, sleek  feel that lasts for up to 24 hours.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Shockwaves.jpg',
+    image: 'Shockwaves.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Shockwaves.jpg',
+        url: 'Shockwaves.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Shockwaves.jpg',
+        url: 'Shockwaves.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Shockwaves.jpg',
+        url: 'Shockwaves.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Shockwaves.jpg',
+        url: 'Shockwaves.jpg',
       },
     ],
     categories: [
@@ -3987,22 +3987,22 @@ const productData = [
     description:
       'A lightunit and luminous liquid base formulated with light diffusers to unify skin tone and effortlessly cover imperfections. Specially designed ‘true colour’ pigments work perfectly with your skins’ natural tones in an ultra-blendable formula.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/EX1.jpg',
+    image: 'EX1.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/EX1.jpg',
+        url: 'EX1.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/EX1.jpg',
+        url: 'EX1.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/EX1.jpg',
+        url: 'EX1.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/EX1.jpg',
+        url: 'EX1.jpg',
       },
     ],
     categories: [
@@ -4029,22 +4029,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+    image: 'Barry.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+        url: 'Barry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+        url: 'Barry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+        url: 'Barry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+        url: 'Barry.jpg',
       },
     ],
     categories: [
@@ -4071,22 +4071,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/RETRO.jpg',
+    image: 'RETRO.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/RETRO.jpg',
+        url: 'RETRO.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/RETRO.jpg',
+        url: 'RETRO.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/RETRO.jpg',
+        url: 'RETRO.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/RETRO.jpg',
+        url: 'RETRO.jpg',
       },
     ],
     categories: [
@@ -4114,22 +4114,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/LIPTENSITY.jpg',
+    image: 'LIPTENSITY.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/LIPTENSITY.jpg',
+        url: 'LIPTENSITY.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/LIPTENSITY.jpg',
+        url: 'LIPTENSITY.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/LIPTENSITY.jpg',
+        url: 'LIPTENSITY.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/LIPTENSITY.jpg',
+        url: 'LIPTENSITY.jpg',
       },
     ],
     categories: [
@@ -4157,22 +4157,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/BLING.jpg',
+    image: 'BLING.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/BLING.jpg',
+        url: 'BLING.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/BLING.jpg',
+        url: 'BLING.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/BLING.jpg',
+        url: 'BLING.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/BLING.jpg',
+        url: 'BLING.jpg',
       },
     ],
     categories: [
@@ -4199,22 +4199,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VIVA.jpg',
+    image: 'VIVA.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VIVA.jpg',
+        url: 'VIVA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VIVA.jpg',
+        url: 'VIVA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VIVA.jpg',
+        url: 'VIVA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/VIVA.jpg',
+        url: 'VIVA.jpg',
       },
     ],
     categories: [
@@ -4241,22 +4241,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Too_Faced.jpg',
+    image: 'Too_Faced.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Too_Faced.jpg',
+        url: 'Too_Faced.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Too_Faced.jpg',
+        url: 'Too_Faced.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Too_Faced.jpg',
+        url: 'Too_Faced.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Too_Faced.jpg',
+        url: 'Too_Faced.jpg',
       },
     ],
     categories: [
@@ -4283,22 +4283,22 @@ const productData = [
     description:
       "NIVEA Daily essentials Double Effective Eye Make-up Remover with a two-phase extra strength formula: The oil phase effectively removes even waterproof mascara and eye-make-up. Specially formulated and tested for the sensitive eye area. The aqueous phase protects and cares for the eye lashes with it's caring formula, without leaving an oily residue.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/NIVEA.jpg',
+    image: 'NIVEA.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/NIVEA.jpg',
+        url: 'NIVEA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/NIVEA.jpg',
+        url: 'NIVEA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/NIVEA.jpg',
+        url: 'NIVEA.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/NIVEA.jpg',
+        url: 'NIVEA.jpg',
       },
     ],
     categories: [
@@ -4320,22 +4320,22 @@ const productData = [
     description:
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lancome.jpg',
+    image: 'Lancome.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lancome.jpg',
+        url: 'Lancome.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lancome.jpg',
+        url: 'Lancome.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lancome.jpg',
+        url: 'Lancome.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Lancome.jpg',
+        url: 'Lancome.jpg',
       },
     ],
     categories: [
@@ -4362,22 +4362,22 @@ const productData = [
     description:
       "This formula is infused with ID.SCULPT Technology—a blend of Micro-Tingling Spicules and a patented Sodium Deoxycholate Complex—that work together to help define and firm the appearance of skin over time. Experience the exclusive skin secrets from Dr. Sanghoon Park, founder of Korea's premier dermatology clinic ID ",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/skin_serum.jpg',
+    image: 'skin_serum.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/skin_serum.jpg',
+        url: 'skin_serum.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/skin_serum.jpg',
+        url: 'skin_serum.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/skin_serum.jpg',
+        url: 'skin_serum.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/skin_serum.jpg',
+        url: 'skin_serum.jpg',
       },
     ],
     categories: [
@@ -4401,26 +4401,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/belmont_custard_cream.jpg',
+      'belmont_custard_cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/belmont_custard_cream.jpg',
+          'belmont_custard_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/belmont_custard_cream.jpg',
+          'belmont_custard_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/belmont_custard_cream.jpg',
+          'belmont_custard_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/belmont_custard_cream.jpg',
+          'belmont_custard_cream.jpg',
       },
     ],
     categories: [
@@ -4449,26 +4449,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_digestives.jpg',
+      'crawford_digestives.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_digestives.jpg',
+          'crawford_digestives.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_digestives.jpg',
+          'crawford_digestives.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_digestives.jpg',
+          'crawford_digestives.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_digestives.jpg',
+          'crawford_digestives.jpg',
       },
     ],
     categories: [
@@ -4496,26 +4496,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_shortie.jpg',
+      'crawford_shortie.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_shortie.jpg',
+          'crawford_shortie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_shortie.jpg',
+          'crawford_shortie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_shortie.jpg',
+          'crawford_shortie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crawford_shortie.jpg',
+          'crawford_shortie.jpg',
       },
     ],
     categories: [
@@ -4543,26 +4543,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Hill_Biscuits_Mini_Pack_Mix_.jpg',
+      'Hill_Biscuits_Mini_Pack_Mix_.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hill_Biscuits_Mini_Pack_Mix_.jpg',
+          'Hill_Biscuits_Mini_Pack_Mix_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hill_Biscuits_Mini_Pack_Mix_.jpg',
+          'Hill_Biscuits_Mini_Pack_Mix_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hill_Biscuits_Mini_Pack_Mix_.jpg',
+          'Hill_Biscuits_Mini_Pack_Mix_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hill_Biscuits_Mini_Pack_Mix_.jpg',
+          'Hill_Biscuits_Mini_Pack_Mix_.jpg',
       },
     ],
     categories: [
@@ -4590,26 +4590,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie_Dodgers.jpg',
+      'Jammie_Dodgers.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie_Dodgers.jpg',
+          'Jammie_Dodgers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie_Dodgers.jpg',
+          'Jammie_Dodgers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie_Dodgers.jpg',
+          'Jammie_Dodgers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie_Dodgers.jpg',
+          'Jammie_Dodgers.jpg',
       },
     ],
     categories: [
@@ -4637,26 +4637,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie-Bakes-Raspberry.jpg',
+      'Jammie-Bakes-Raspberry.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie-Bakes-Raspberry.jpg',
+          'Jammie-Bakes-Raspberry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie-Bakes-Raspberry.jpg',
+          'Jammie-Bakes-Raspberry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie-Bakes-Raspberry.jpg',
+          'Jammie-Bakes-Raspberry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Jammie-Bakes-Raspberry.jpg',
+          'Jammie-Bakes-Raspberry.jpg',
       },
     ],
     categories: [
@@ -4684,26 +4684,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/julis_cheese_crackers.jpg',
+      'julis_cheese_crackers.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/julis_cheese_crackers.jpg',
+          'julis_cheese_crackers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/julis_cheese_crackers.jpg',
+          'julis_cheese_crackers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/julis_cheese_crackers.jpg',
+          'julis_cheese_crackers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/julis_cheese_crackers.jpg',
+          'julis_cheese_crackers.jpg',
       },
     ],
     categories: [
@@ -4731,26 +4731,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_orange_cream.jpg',
+      'khong_guan_orange_cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_orange_cream.jpg',
+          'khong_guan_orange_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_orange_cream.jpg',
+          'khong_guan_orange_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_orange_cream.jpg',
+          'khong_guan_orange_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_orange_cream.jpg',
+          'khong_guan_orange_cream.jpg',
       },
     ],
     categories: [
@@ -4778,26 +4778,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_premium_marie.jpg',
+      'khong_guan_premium_marie.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_premium_marie.jpg',
+          'khong_guan_premium_marie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_premium_marie.jpg',
+          'khong_guan_premium_marie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_premium_marie.jpg',
+          'khong_guan_premium_marie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/khong_guan_orange_cream.jpg',
+          'khong_guan_orange_cream.jpg',
       },
     ],
     categories: [
@@ -4825,26 +4825,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/lotus_biscoff.jpg',
+      'lotus_biscoff.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lotus_biscoff.jpg',
+          'lotus_biscoff.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lotus_biscoff.jpg',
+          'lotus_biscoff.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lotus_biscoff.jpg',
+          'lotus_biscoff.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lotus_biscoff.jpg',
+          'lotus_biscoff.jpg',
       },
     ],
     categories: [
@@ -4872,26 +4872,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/artiach_filipino.jpg',
+      'artiach_filipino.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/artiach_filipino.jpg',
+          'artiach_filipino.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/artiach_filipino.jpg',
+          'artiach_filipino.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/artiach_filipino.jpg',
+          'artiach_filipino.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/artiach_filipino.jpg',
+          'artiach_filipino.jpg',
       },
     ],
     categories: [
@@ -4919,26 +4919,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_dairy_milk_crispello.jpg',
+      'cadbury_dairy_milk_crispello.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_dairy_milk_crispello.jpg',
+          'cadbury_dairy_milk_crispello.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_dairy_milk_crispello.jpg',
+          'cadbury_dairy_milk_crispello.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_dairy_milk_crispello.jpg',
+          'cadbury_dairy_milk_crispello.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_dairy_milk_crispello.jpg',
+          'cadbury_dairy_milk_crispello.jpg',
       },
     ],
     categories: [
@@ -4966,26 +4966,26 @@ const productData = [
     description:
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_zip.jpg',
+    image: 'cadbury_zip.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_zip.jpg',
+          'cadbury_zip.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_zip.jpg',
+          'cadbury_zip.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_zip.jpg',
+          'cadbury_zip.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury_zip.jpg',
+          'cadbury_zip.jpg',
       },
     ],
     categories: [
@@ -5013,26 +5013,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury-dairy-milk-reclose.jpg',
+      'cadbury-dairy-milk-reclose.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury-dairy-milk-reclose.jpg',
+          'cadbury-dairy-milk-reclose.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury-dairy-milk-reclose.jpg',
+          'cadbury-dairy-milk-reclose.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury-dairy-milk-reclose.jpg',
+          'cadbury-dairy-milk-reclose.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cadbury-dairy-milk-reclose.jpg',
+          'cadbury-dairy-milk-reclose.jpg',
       },
     ],
     categories: [
@@ -5060,26 +5060,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_chocowoffle.jpg',
+      'cloetta_chocowoffle.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_chocowoffle.jpg',
+          'cloetta_chocowoffle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_chocowoffle.jpg',
+          'cloetta_chocowoffle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_chocowoffle.jpg',
+          'cloetta_chocowoffle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_chocowoffle.jpg',
+          'cloetta_chocowoffle.jpg',
       },
     ],
     categories: [
@@ -5107,26 +5107,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_sprinkle.jpg',
+      'cloetta_sprinkle.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_sprinkle.jpg',
+          'cloetta_sprinkle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_sprinkle.jpg',
+          'cloetta_sprinkle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_sprinkle.jpg',
+          'cloetta_sprinkle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cloetta_sprinkle.jpg',
+          'cloetta_sprinkle.jpg',
       },
     ],
     categories: [
@@ -5154,26 +5154,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/hershey_symphony.jpg',
+      'hershey_symphony.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hershey_symphony.jpg',
+          'hershey_symphony.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hershey_symphony.jpg',
+          'hershey_symphony.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hershey_symphony.jpg',
+          'hershey_symphony.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hershey_symphony.jpg',
+          'hershey_symphony.jpg',
       },
     ],
     categories: [
@@ -5202,26 +5202,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/hersheys_kisses.jpg',
+      'hersheys_kisses.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hersheys_kisses.jpg',
+          'hersheys_kisses.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hersheys_kisses.jpg',
+          'hersheys_kisses.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hersheys_kisses.jpg',
+          'hersheys_kisses.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hersheys_kisses.jpg',
+          'hersheys_kisses.jpg',
       },
     ],
     categories: [
@@ -5248,26 +5248,26 @@ const productData = [
     description:
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/m&m_funsize.jpg',
+    image: 'm&m_funsize.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/m&m_funsize.jpg',
+          'm&m_funsize.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/m&m_funsize.jpg',
+          'm&m_funsize.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/m&m_funsize.jpg',
+          'm&m_funsize.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/m&m_funsize.jpg',
+          'm&m_funsize.jpg',
       },
     ],
     categories: [
@@ -5295,26 +5295,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_butterfinger.jpg',
+      'nestle_butterfinger.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_butterfinger.jpg',
+          'nestle_butterfinger.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_butterfinger.jpg',
+          'nestle_butterfinger.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_butterfinger.jpg',
+          'nestle_butterfinger.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_butterfinger.jpg',
+          'nestle_butterfinger.jpg',
       },
     ],
     categories: [
@@ -5342,26 +5342,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_kitkat.jpg',
+      'nestle_kitkat.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_kitkat.jpg',
+          'nestle_kitkat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_kitkat.jpg',
+          'nestle_kitkat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_kitkat.jpg',
+          'nestle_kitkat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_kitkat.jpg',
+          'nestle_kitkat.jpg',
       },
     ],
     categories: [
@@ -5389,26 +5389,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_slice.jpg',
+      'snikers_slice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_slice.jpg',
+          'snikers_slice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_slice.jpg',
+          'snikers_slice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_slice.jpg',
+          'snikers_slice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_slice.jpg',
+          'snikers_slice.jpg',
       },
     ],
     categories: [
@@ -5436,26 +5436,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_snacksize.jpg',
+      'snikers_snacksize.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_snacksize.jpg',
+          'snikers_snacksize.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_snacksize.jpg',
+          'snikers_snacksize.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_snacksize.jpg',
+          'snikers_snacksize.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snikers_snacksize.jpg',
+          'snikers_snacksize.jpg',
       },
     ],
     categories: [
@@ -5483,26 +5483,26 @@ const productData = [
     description:
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cottage_bbq.jpg',
+    image: 'cottage_bbq.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cottage_bbq.jpg',
+          'cottage_bbq.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cottage_bbq.jpg',
+          'cottage_bbq.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cottage_bbq.jpg',
+          'cottage_bbq.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cottage_bbq.jpg',
+          'cottage_bbq.jpg',
       },
     ],
     categories: [
@@ -5530,26 +5530,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/crisps-puzzle.jpg',
+      'crisps-puzzle.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crisps-puzzle.jpg',
+          'crisps-puzzle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crisps-puzzle.jpg',
+          'crisps-puzzle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crisps-puzzle.jpg',
+          'crisps-puzzle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crisps-puzzle.jpg',
+          'crisps-puzzle.jpg',
       },
     ],
     categories: [
@@ -5576,22 +5576,22 @@ const productData = [
     description:
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/doritos.jpg',
+    image: 'doritos.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/doritos.jpg',
+        url: 'doritos.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/doritos.jpg',
+        url: 'doritos.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/doritos.jpg',
+        url: 'doritos.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/doritos.jpg',
+        url: 'doritos.jpg',
       },
     ],
     categories: [
@@ -5618,22 +5618,22 @@ const productData = [
     description:
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_baked.jpg',
+    image: 'lays_baked.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_baked.jpg',
+        url: 'lays_baked.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_baked.jpg',
+        url: 'lays_baked.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_baked.jpg',
+        url: 'lays_baked.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_baked.jpg',
+        url: 'lays_baked.jpg',
       },
     ],
     categories: [
@@ -5661,26 +5661,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_sea_salted.jpg',
+      'lays_sea_salted.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_sea_salted.jpg',
+          'lays_sea_salted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_sea_salted.jpg',
+          'lays_sea_salted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_sea_salted.jpg',
+          'lays_sea_salted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays_sea_salted.jpg',
+          'lays_sea_salted.jpg',
       },
     ],
     categories: [
@@ -5708,26 +5708,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-kettle-cooked.jpg',
+      'lays-kettle-cooked.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-kettle-cooked.jpg',
+          'lays-kettle-cooked.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-kettle-cooked.jpg',
+          'lays-kettle-cooked.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-kettle-cooked.jpg',
+          'lays-kettle-cooked.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-kettle-cooked.jpg',
+          'lays-kettle-cooked.jpg',
       },
     ],
     categories: [
@@ -5755,26 +5755,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-sour-cream.jpg',
+      'lays-sour-cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-sour-cream.jpg',
+          'lays-sour-cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-sour-cream.jpg',
+          'lays-sour-cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-sour-cream.jpg',
+          'lays-sour-cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lays-sour-cream.jpg',
+          'lays-sour-cream.jpg',
       },
     ],
     categories: [
@@ -5802,26 +5802,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nims_apple_fruit.jpg',
+      'nims_apple_fruit.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nims_apple_fruit.jpg',
+          'nims_apple_fruit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nims_apple_fruit.jpg',
+          'nims_apple_fruit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nims_apple_fruit.jpg',
+          'nims_apple_fruit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nims_apple_fruit.jpg',
+          'nims_apple_fruit.jpg',
       },
     ],
     categories: [
@@ -5849,26 +5849,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Ready-Salted-Crisps.jpg',
+      'Ready-Salted-Crisps.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ready-Salted-Crisps.jpg',
+          'Ready-Salted-Crisps.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ready-Salted-Crisps.jpg',
+          'Ready-Salted-Crisps.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ready-Salted-Crisps.jpg',
+          'Ready-Salted-Crisps.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ready-Salted-Crisps.jpg',
+          'Ready-Salted-Crisps.jpg',
       },
     ],
     categories: [
@@ -5895,26 +5895,26 @@ const productData = [
     description:
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Roysters_6pk.jpg',
+    image: 'Roysters_6pk.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roysters_6pk.jpg',
+          'Roysters_6pk.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roysters_6pk.jpg',
+          'Roysters_6pk.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roysters_6pk.jpg',
+          'Roysters_6pk.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roysters_6pk.jpg',
+          'Roysters_6pk.jpg',
       },
     ],
     categories: [
@@ -5942,26 +5942,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/snackrite_bags.jpg',
+      'snackrite_bags.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snackrite_bags.jpg',
+          'snackrite_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snackrite_bags.jpg',
+          'snackrite_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snackrite_bags.jpg',
+          'snackrite_bags.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/snackrite_bags.jpg',
+          'snackrite_bags.jpg',
       },
     ],
     categories: [
@@ -5989,26 +5989,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_cheese_onion.jpg',
+      'tayto_cheese_onion.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_cheese_onion.jpg',
+          'tayto_cheese_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_cheese_onion.jpg',
+          'tayto_cheese_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_cheese_onion.jpg',
+          'tayto_cheese_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_cheese_onion.jpg',
+          'tayto_cheese_onion.jpg',
       },
     ],
     categories: [
@@ -6036,26 +6036,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_pickled_onion.jpg',
+      'tayto_pickled_onion.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_pickled_onion.jpg',
+          'tayto_pickled_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_pickled_onion.jpg',
+          'tayto_pickled_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_pickled_onion.jpg',
+          'tayto_pickled_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tayto_pickled_onion.jpg',
+          'tayto_pickled_onion.jpg',
       },
     ],
     categories: [
@@ -6083,26 +6083,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/walkers_cheese_onion.jpg',
+      'walkers_cheese_onion.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/walkers_cheese_onion.jpg',
+          'walkers_cheese_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/walkers_cheese_onion.jpg',
+          'walkers_cheese_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/walkers_cheese_onion.jpg',
+          'walkers_cheese_onion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/walkers_cheese_onion.jpg',
+          'walkers_cheese_onion.jpg',
       },
     ],
     categories: [
@@ -6130,26 +6130,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cintan_chicken.jpg',
+      'cintan_chicken.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cintan_chicken.jpg',
+          'cintan_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cintan_chicken.jpg',
+          'cintan_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cintan_chicken.jpg',
+          'cintan_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cintan_chicken.jpg',
+          'cintan_chicken.jpg',
       },
     ],
     categories: [
@@ -6177,26 +6177,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/indomie_special_chicken.jpg',
+      'indomie_special_chicken.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/indomie_special_chicken.jpg',
+          'indomie_special_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/indomie_special_chicken.jpg',
+          'indomie_special_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/indomie_special_chicken.jpg',
+          'indomie_special_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/indomie_special_chicken.jpg',
+          'indomie_special_chicken.jpg',
       },
     ],
     categories: [
@@ -6224,26 +6224,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kame_stir_fry.jpg',
+      'kame_stir_fry.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kame_stir_fry.jpg',
+          'kame_stir_fry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kame_stir_fry.jpg',
+          'kame_stir_fry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kame_stir_fry.jpg',
+          'kame_stir_fry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kame_stir_fry.jpg',
+          'kame_stir_fry.jpg',
       },
     ],
     categories: [
@@ -6270,22 +6270,22 @@ const productData = [
     description:
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/koka_curry.jpg',
+    image: 'koka_curry.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/koka_curry.jpg',
+        url: 'koka_curry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/koka_curry.jpg',
+        url: 'koka_curry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/koka_curry.jpg',
+        url: 'koka_curry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/koka_curry.jpg',
+        url: 'koka_curry.jpg',
       },
     ],
     categories: [
@@ -6312,22 +6312,22 @@ const productData = [
     description:
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_bbq.jpg',
+    image: 'maggi_bbq.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_bbq.jpg',
+        url: 'maggi_bbq.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_bbq.jpg',
+        url: 'maggi_bbq.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_bbq.jpg',
+        url: 'maggi_bbq.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_bbq.jpg',
+        url: 'maggi_bbq.jpg',
       },
     ],
     categories: [
@@ -6354,22 +6354,22 @@ const productData = [
     description:
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_beef.jpg',
+    image: 'maggi_beef.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_beef.jpg',
+        url: 'maggi_beef.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_beef.jpg',
+        url: 'maggi_beef.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_beef.jpg',
+        url: 'maggi_beef.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_beef.jpg',
+        url: 'maggi_beef.jpg',
       },
     ],
     categories: [
@@ -6397,26 +6397,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_biriyani.jpg',
+      'maggi_biriyani.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_biriyani.jpg',
+          'maggi_biriyani.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_biriyani.jpg',
+          'maggi_biriyani.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_biriyani.jpg',
+          'maggi_biriyani.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_biriyani.jpg',
+          'maggi_biriyani.jpg',
       },
     ],
     categories: [
@@ -6444,26 +6444,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_chicken.jpg',
+      'maggi_chicken.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_chicken.jpg',
+          'maggi_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_chicken.jpg',
+          'maggi_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_chicken.jpg',
+          'maggi_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maggi_chicken.jpg',
+          'maggi_chicken.jpg',
       },
     ],
     categories: [
@@ -6491,26 +6491,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pixxden_chisense_masala.jpg',
+      'pixxden_chisense_masala.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pixxden_chisense_masala.jpg',
+          'pixxden_chisense_masala.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pixxden_chisense_masala.jpg',
+          'pixxden_chisense_masala.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pixxden_chisense_masala.jpg',
+          'pixxden_chisense_masala.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pixxden_chisense_masala.jpg',
+          'pixxden_chisense_masala.jpg',
       },
     ],
     categories: [
@@ -6538,26 +6538,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/badia_pinenuts.jpg',
+      'badia_pinenuts.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/badia_pinenuts.jpg',
+          'badia_pinenuts.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/badia_pinenuts.jpg',
+          'badia_pinenuts.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/badia_pinenuts.jpg',
+          'badia_pinenuts.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/badia_pinenuts.jpg',
+          'badia_pinenuts.jpg',
       },
     ],
     categories: [
@@ -6585,26 +6585,26 @@ const productData = [
     description:
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/cacao_cashew.jpg',
+    image: 'cacao_cashew.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cacao_cashew.jpg',
+          'cacao_cashew.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cacao_cashew.jpg',
+          'cacao_cashew.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cacao_cashew.jpg',
+          'cacao_cashew.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cacao_cashew.jpg',
+          'cacao_cashew.jpg',
       },
     ],
     categories: [
@@ -6632,26 +6632,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/fisher_peanut.jpg',
+      'fisher_peanut.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/fisher_peanut.jpg',
+          'fisher_peanut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/fisher_peanut.jpg',
+          'fisher_peanut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/fisher_peanut.jpg',
+          'fisher_peanut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/fisher_peanut.jpg',
+          'fisher_peanut.jpg',
       },
     ],
     categories: [
@@ -6679,26 +6679,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+      'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+          'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+          'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+          'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+          'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
       },
     ],
     categories: [
@@ -6726,26 +6726,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Packet.jpg',
+      'Fruits-And-Nuts-Full-Meal-Packet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Packet.jpg',
+          'Fruits-And-Nuts-Full-Meal-Packet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Packet.jpg',
+          'Fruits-And-Nuts-Full-Meal-Packet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Packet.jpg',
+          'Fruits-And-Nuts-Full-Meal-Packet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fruits-And-Nuts-Full-Meal-Packet.jpg',
+          'Fruits-And-Nuts-Full-Meal-Packet.jpg',
       },
     ],
     categories: [
@@ -6773,26 +6773,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/ivory_cashewnut.jpg',
+      'ivory_cashewnut.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/ivory_cashewnut.jpg',
+          'ivory_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/ivory_cashewnut.jpg',
+          'ivory_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/ivory_cashewnut.jpg',
+          'ivory_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/ivory_cashewnut.jpg',
+          'ivory_cashewnut.jpg',
       },
     ],
     categories: [
@@ -6820,26 +6820,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/jaybee_whole_cashewnut.jpg',
+      'jaybee_whole_cashewnut.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/jaybee_whole_cashewnut.jpg',
+          'jaybee_whole_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/jaybee_whole_cashewnut.jpg',
+          'jaybee_whole_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/jaybee_whole_cashewnut.jpg',
+          'jaybee_whole_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/jaybee_whole_cashewnut.jpg',
+          'jaybee_whole_cashewnut.jpg',
       },
     ],
     categories: [
@@ -6867,26 +6867,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kirkland_mixed_nuts.jpg',
+      'kirkland_mixed_nuts.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kirkland_mixed_nuts.jpg',
+          'kirkland_mixed_nuts.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kirkland_mixed_nuts.jpg',
+          'kirkland_mixed_nuts.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kirkland_mixed_nuts.jpg',
+          'kirkland_mixed_nuts.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kirkland_mixed_nuts.jpg',
+          'kirkland_mixed_nuts.jpg',
       },
     ],
     categories: [
@@ -6914,26 +6914,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_cashewnut.jpg',
+      'natural_cashewnut.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_cashewnut.jpg',
+          'natural_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_cashewnut.jpg',
+          'natural_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_cashewnut.jpg',
+          'natural_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_cashewnut.jpg',
+          'natural_cashewnut.jpg',
       },
     ],
     categories: [
@@ -6961,26 +6961,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/planter_cashewnut.jpg',
+      'planter_cashewnut.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planter_cashewnut.jpg',
+          'planter_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planter_cashewnut.jpg',
+          'planter_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planter_cashewnut.jpg',
+          'planter_cashewnut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planter_cashewnut.jpg',
+          'planter_cashewnut.jpg',
       },
     ],
     categories: [
@@ -7008,26 +7008,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_dry_roasted.jpg',
+      'planters_dry_roasted.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_dry_roasted.jpg',
+          'planters_dry_roasted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_dry_roasted.jpg',
+          'planters_dry_roasted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_dry_roasted.jpg',
+          'planters_dry_roasted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_dry_roasted.jpg',
+          'planters_dry_roasted.jpg',
       },
     ],
     categories: [
@@ -7055,26 +7055,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_honey_roasted.jpg',
+      'planters_honey_roasted.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_honey_roasted.jpg',
+          'planters_honey_roasted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_honey_roasted.jpg',
+          'planters_honey_roasted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_honey_roasted.jpg',
+          'planters_honey_roasted.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/planters_honey_roasted.jpg',
+          'planters_honey_roasted.jpg',
       },
     ],
     categories: [
@@ -7102,26 +7102,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_macaroni.jpg',
+      'bambino_macaroni.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_macaroni.jpg',
+          'bambino_macaroni.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_macaroni.jpg',
+          'bambino_macaroni.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_macaroni.jpg',
+          'bambino_macaroni.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_macaroni.jpg',
+          'bambino_macaroni.jpg',
       },
     ],
     categories: [
@@ -7149,26 +7149,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_premium_pasta.jpg',
+      'bambino_premium_pasta.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_premium_pasta.jpg',
+          'bambino_premium_pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_premium_pasta.jpg',
+          'bambino_premium_pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_premium_pasta.jpg',
+          'bambino_premium_pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bambino_premium_pasta.jpg',
+          'bambino_premium_pasta.jpg',
       },
     ],
     categories: [
@@ -7196,26 +7196,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/batchelors_pasta_sauce.jpg',
+      'batchelors_pasta_sauce.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/batchelors_pasta_sauce.jpg',
+          'batchelors_pasta_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/batchelors_pasta_sauce.jpg',
+          'batchelors_pasta_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/batchelors_pasta_sauce.jpg',
+          'batchelors_pasta_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/batchelors_pasta_sauce.jpg',
+          'batchelors_pasta_sauce.jpg',
       },
     ],
     categories: [
@@ -7242,26 +7242,26 @@ const productData = [
     description:
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/borges-pasta.jpg',
+    image: 'borges-pasta.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/borges-pasta.jpg',
+          'borges-pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/borges-pasta.jpg',
+          'borges-pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/borges-pasta.jpg',
+          'borges-pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/borges-pasta.jpg',
+          'borges-pasta.jpg',
       },
     ],
     categories: [
@@ -7290,26 +7290,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+      'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+          'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+          'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+          'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+          'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
       },
     ],
     categories: [
@@ -7338,26 +7338,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/sunremo_chicken_curry_pasta.jpg',
+      'sunremo_chicken_curry_pasta.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/sunremo_chicken_curry_pasta.jpg',
+          'sunremo_chicken_curry_pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/sunremo_chicken_curry_pasta.jpg',
+          'sunremo_chicken_curry_pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/sunremo_chicken_curry_pasta.jpg',
+          'sunremo_chicken_curry_pasta.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/sunremo_chicken_curry_pasta.jpg',
+          'sunremo_chicken_curry_pasta.jpg',
       },
     ],
     categories: [
@@ -7385,26 +7385,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_pastaria.jpg',
+      'knorr_pastaria.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_pastaria.jpg',
+          'knorr_pastaria.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_pastaria.jpg',
+          'knorr_pastaria.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_pastaria.jpg',
+          'knorr_pastaria.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_pastaria.jpg',
+          'knorr_pastaria.jpg',
       },
     ],
     categories: [
@@ -7432,26 +7432,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/allegro_bbq_sauce.jpg',
+      'allegro_bbq_sauce.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/allegro_bbq_sauce.jpg',
+          'allegro_bbq_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/allegro_bbq_sauce.jpg',
+          'allegro_bbq_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/allegro_bbq_sauce.jpg',
+          'allegro_bbq_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/allegro_bbq_sauce.jpg',
+          'allegro_bbq_sauce.jpg',
       },
     ],
     categories: [
@@ -7479,26 +7479,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/asain_zing_chili.jpg',
+      'asain_zing_chili.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/asain_zing_chili.jpg',
+          'asain_zing_chili.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/asain_zing_chili.jpg',
+          'asain_zing_chili.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/asain_zing_chili.jpg',
+          'asain_zing_chili.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/asain_zing_chili.jpg',
+          'asain_zing_chili.jpg',
       },
     ],
     categories: [
@@ -7526,26 +7526,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/crunch_hot_chili_sauce.jpg',
+      'crunch_hot_chili_sauce.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crunch_hot_chili_sauce.jpg',
+          'crunch_hot_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crunch_hot_chili_sauce.jpg',
+          'crunch_hot_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crunch_hot_chili_sauce.jpg',
+          'crunch_hot_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crunch_hot_chili_sauce.jpg',
+          'crunch_hot_chili_sauce.jpg',
       },
     ],
     categories: [
@@ -7573,26 +7573,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/felix_chili_sauce.jpg',
+      'felix_chili_sauce.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/felix_chili_sauce.jpg',
+          'felix_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/felix_chili_sauce.jpg',
+          'felix_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/felix_chili_sauce.jpg',
+          'felix_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/felix_chili_sauce.jpg',
+          'felix_chili_sauce.jpg',
       },
     ],
     categories: [
@@ -7620,26 +7620,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/heinz_chili_sauce.jpg',
+      'heinz_chili_sauce.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/heinz_chili_sauce.jpg',
+          'heinz_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/heinz_chili_sauce.jpg',
+          'heinz_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/heinz_chili_sauce.jpg',
+          'heinz_chili_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/heinz_chili_sauce.jpg',
+          'heinz_chili_sauce.jpg',
       },
     ],
     categories: [
@@ -7666,22 +7666,22 @@ const productData = [
     description:
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/kosmos_bbq.jpg',
+    image: 'kosmos_bbq.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/kosmos_bbq.jpg',
+        url: 'kosmos_bbq.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/kosmos_bbq.jpg',
+        url: 'kosmos_bbq.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/kosmos_bbq.jpg',
+        url: 'kosmos_bbq.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/kosmos_bbq.jpg',
+        url: 'kosmos_bbq.jpg',
       },
     ],
     categories: [
@@ -7709,26 +7709,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_diablo_sauce.jpg',
+      'taco_bell_diablo_sauce.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_diablo_sauce.jpg',
+          'taco_bell_diablo_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_diablo_sauce.jpg',
+          'taco_bell_diablo_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_diablo_sauce.jpg',
+          'taco_bell_diablo_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_diablo_sauce.jpg',
+          'taco_bell_diablo_sauce.jpg',
       },
     ],
     categories: [
@@ -7756,26 +7756,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_fire_sauce.jpg',
+      'taco_bell_fire_sauce.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_fire_sauce.jpg',
+          'taco_bell_fire_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_fire_sauce.jpg',
+          'taco_bell_fire_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_fire_sauce.jpg',
+          'taco_bell_fire_sauce.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taco_bell_fire_sauce.jpg',
+          'taco_bell_fire_sauce.jpg',
       },
     ],
     categories: [
@@ -7802,26 +7802,26 @@ const productData = [
     description:
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/bak_kuh_teh.jpg',
+    image: 'bak_kuh_teh.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bak_kuh_teh.jpg',
+          'bak_kuh_teh.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bak_kuh_teh.jpg',
+          'bak_kuh_teh.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bak_kuh_teh.jpg',
+          'bak_kuh_teh.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bak_kuh_teh.jpg',
+          'bak_kuh_teh.jpg',
       },
     ],
     categories: [
@@ -7849,26 +7849,26 @@ const productData = [
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/chings_mixvegsoup.jpg',
+      'chings_mixvegsoup.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chings_mixvegsoup.jpg',
+          'chings_mixvegsoup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chings_mixvegsoup.jpg',
+          'chings_mixvegsoup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chings_mixvegsoup.jpg',
+          'chings_mixvegsoup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chings_mixvegsoup.jpg',
+          'chings_mixvegsoup.jpg',
       },
     ],
     categories: [
@@ -7896,26 +7896,26 @@ const productData = [
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dashi_chicken_corn.jpg',
+      'dashi_chicken_corn.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dashi_chicken_corn.jpg',
+          'dashi_chicken_corn.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dashi_chicken_corn.jpg',
+          'dashi_chicken_corn.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dashi_chicken_corn.jpg',
+          'dashi_chicken_corn.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dashi_chicken_corn.jpg',
+          'dashi_chicken_corn.jpg',
       },
     ],
     categories: [
@@ -7943,26 +7943,26 @@ const productData = [
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_thai_vegetable.jpg',
+      'knorr_thai_vegetable.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_thai_vegetable.jpg',
+          'knorr_thai_vegetable.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_thai_vegetable.jpg',
+          'knorr_thai_vegetable.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_thai_vegetable.jpg',
+          'knorr_thai_vegetable.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/knorr_thai_vegetable.jpg',
+          'knorr_thai_vegetable.jpg',
       },
     ],
     categories: [
@@ -7989,22 +7989,22 @@ const productData = [
     description:
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/rempah_sup.jpg',
+    image: 'rempah_sup.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/rempah_sup.jpg',
+        url: 'rempah_sup.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/rempah_sup.jpg',
+        url: 'rempah_sup.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/rempah_sup.jpg',
+        url: 'rempah_sup.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/rempah_sup.jpg',
+        url: 'rempah_sup.jpg',
       },
     ],
     categories: [
@@ -8031,22 +8031,22 @@ const productData = [
     description:
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg',
+    image: 'grain_free.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg',
+        url: 'grain_free.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg',
+        url: 'grain_free.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg',
+        url: 'grain_free.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/grain_free.jpg',
+        url: 'grain_free.jpg',
       },
     ],
     categories: [
@@ -8074,26 +8074,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg',
+      'hills_science_diet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg',
+          'hills_science_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg',
+          'hills_science_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg',
+          'hills_science_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hills_science_diet.jpg',
+          'hills_science_diet.jpg',
       },
     ],
     categories: [
@@ -8121,26 +8121,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg',
+      'instinct_the_raw.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg',
+          'instinct_the_raw.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg',
+          'instinct_the_raw.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg',
+          'instinct_the_raw.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/instinct_the_raw.jpg',
+          'instinct_the_raw.jpg',
       },
     ],
     categories: [
@@ -8168,26 +8168,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg',
+      'natural_balance.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg',
+          'natural_balance.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg',
+          'natural_balance.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg',
+          'natural_balance.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/natural_balance.jpg',
+          'natural_balance.jpg',
       },
     ],
     categories: [
@@ -8215,26 +8215,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg',
+      'prescription_diet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg',
+          'prescription_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg',
+          'prescription_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg',
+          'prescription_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/prescription_diet.jpg',
+          'prescription_diet.jpg',
       },
     ],
     categories: [
@@ -8261,22 +8261,22 @@ const productData = [
     description:
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg',
+    image: 'pro_diet.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg',
+        url: 'pro_diet.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg',
+        url: 'pro_diet.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg',
+        url: 'pro_diet.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pro_diet.jpg',
+        url: 'pro_diet.jpg',
       },
     ],
     categories: [
@@ -8304,26 +8304,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg',
+      'purina_pro_plan.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg',
+          'purina_pro_plan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg',
+          'purina_pro_plan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg',
+          'purina_pro_plan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/purina_pro_plan.jpg',
+          'purina_pro_plan.jpg',
       },
     ],
     categories: [
@@ -8351,26 +8351,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg',
+      'special_kitty.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg',
+          'special_kitty.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg',
+          'special_kitty.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg',
+          'special_kitty.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/special_kitty.jpg',
+          'special_kitty.jpg',
       },
     ],
     categories: [
@@ -8398,26 +8398,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+      'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+          'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+          'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+          'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+          'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
       },
     ],
     categories: [
@@ -8445,26 +8445,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+      'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+          'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+          'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+          'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+          'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
       },
     ],
     categories: [
@@ -8492,26 +8492,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+      'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+          'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+          'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+          'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+          'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
       },
     ],
     categories: [
@@ -8539,26 +8539,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+      "dog_food_blain's_farm&fleet.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+          "dog_food_blain's_farm&fleet.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+          "dog_food_blain's_farm&fleet.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+          "dog_food_blain's_farm&fleet.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blain's_farm&fleet.jpg",
+          "dog_food_blain's_farm&fleet.jpg",
       },
     ],
     categories: [
@@ -8587,26 +8587,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg',
+      'dog_food_blue_wilderness.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg',
+          'dog_food_blue_wilderness.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg',
+          'dog_food_blue_wilderness.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg',
+          'dog_food_blue_wilderness.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_blue_wilderness.jpg',
+          'dog_food_blue_wilderness.jpg',
       },
     ],
     categories: [
@@ -8634,26 +8634,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg',
+      'dog_food_whole_hearted_beef&pea.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg',
+          'dog_food_whole_hearted_beef&pea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg',
+          'dog_food_whole_hearted_beef&pea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg',
+          'dog_food_whole_hearted_beef&pea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_beef&pea.jpg',
+          'dog_food_whole_hearted_beef&pea.jpg',
       },
     ],
     categories: [
@@ -8681,26 +8681,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg',
+      'dog_food_whole_hearted_salmon&pea.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg',
+          'dog_food_whole_hearted_salmon&pea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg',
+          'dog_food_whole_hearted_salmon&pea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg',
+          'dog_food_whole_hearted_salmon&pea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_whole_hearted_salmon&pea.jpg',
+          'dog_food_whole_hearted_salmon&pea.jpg',
       },
     ],
     categories: [
@@ -8728,26 +8728,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg',
+      'dog_food_zenith.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg',
+          'dog_food_zenith.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg',
+          'dog_food_zenith.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg',
+          'dog_food_zenith.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dog_food_zenith.jpg',
+          'dog_food_zenith.jpg',
       },
     ],
     categories: [
@@ -8775,26 +8775,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg',
+      'kitten_food_applaws_adult_cat_chicken.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg',
+          'kitten_food_applaws_adult_cat_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg',
+          'kitten_food_applaws_adult_cat_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg',
+          'kitten_food_applaws_adult_cat_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_applaws_adult_cat_chicken.jpg',
+          'kitten_food_applaws_adult_cat_chicken.jpg',
       },
     ],
     categories: [
@@ -8822,26 +8822,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg',
+      'kitten_food_authority_real_chicken.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg',
+          'kitten_food_authority_real_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg',
+          'kitten_food_authority_real_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg',
+          'kitten_food_authority_real_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_authority_real_chicken.jpg',
+          'kitten_food_authority_real_chicken.jpg',
       },
     ],
     categories: [
@@ -8869,26 +8869,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg',
+      'kitten_food_blue_wilderness_chicken.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg',
+          'kitten_food_blue_wilderness_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg',
+          'kitten_food_blue_wilderness_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg',
+          'kitten_food_blue_wilderness_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_blue_wilderness_chicken.jpg',
+          'kitten_food_blue_wilderness_chicken.jpg',
       },
     ],
     categories: [
@@ -8916,26 +8916,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+      "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
       },
     ],
     categories: [
@@ -8963,26 +8963,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+      "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
       },
     ],
     categories: [
@@ -9010,26 +9010,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg',
+      'kitten_food_iamso_upto1year.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg',
+          'kitten_food_iamso_upto1year.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg',
+          'kitten_food_iamso_upto1year.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg',
+          'kitten_food_iamso_upto1year.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_iamso_upto1year.jpg',
+          'kitten_food_iamso_upto1year.jpg',
       },
     ],
     categories: [
@@ -9057,26 +9057,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg',
+      'kitten_food_instinct_chicken.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg',
+          'kitten_food_instinct_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg',
+          'kitten_food_instinct_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg',
+          'kitten_food_instinct_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_instinct_chicken.jpg',
+          'kitten_food_instinct_chicken.jpg',
       },
     ],
     categories: [
@@ -9104,26 +9104,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+      'kitten_food_merrick.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+          'kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+          'kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+          'kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+          'kitten_food_merrick.jpg',
       },
     ],
     categories: [
@@ -9151,26 +9151,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+      'kitten_food_merrick.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+          'kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+          'kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+          'kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_merrick.jpg',
+          'kitten_food_merrick.jpg',
       },
     ],
     categories: [
@@ -9199,26 +9199,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg',
+      'kitten_food_purina_one.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg',
+          'kitten_food_purina_one.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg',
+          'kitten_food_purina_one.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg',
+          'kitten_food_purina_one.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_one.jpg',
+          'kitten_food_purina_one.jpg',
       },
     ],
     categories: [
@@ -9246,26 +9246,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg',
+      'kitten_food_purina_proplan.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg',
+          'kitten_food_purina_proplan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg',
+          'kitten_food_purina_proplan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg',
+          'kitten_food_purina_proplan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_purina_proplan.jpg',
+          'kitten_food_purina_proplan.jpg',
       },
     ],
     categories: [
@@ -9293,26 +9293,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg',
+      'kitten_food_wellness.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg',
+          'kitten_food_wellness.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg',
+          'kitten_food_wellness.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg',
+          'kitten_food_wellness.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_wellness.jpg',
+          'kitten_food_wellness.jpg',
       },
     ],
     categories: [
@@ -9340,26 +9340,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg',
+      'kitten_food_whiskas_real_chicken.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg',
+          'kitten_food_whiskas_real_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg',
+          'kitten_food_whiskas_real_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg',
+          'kitten_food_whiskas_real_chicken.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitten_food_whiskas_real_chicken.jpg',
+          'kitten_food_whiskas_real_chicken.jpg',
       },
     ],
     categories: [
@@ -9387,26 +9387,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg',
+      'pet_accessories_black_winter_cap.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg',
+          'pet_accessories_black_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg',
+          'pet_accessories_black_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg',
+          'pet_accessories_black_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_black_winter_cap.jpg',
+          'pet_accessories_black_winter_cap.jpg',
       },
     ],
     categories: [
@@ -9434,26 +9434,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+      'pet_accessories_brown&white_winter_cap.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+          'pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+          'pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+          'pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+          'pet_accessories_brown&white_winter_cap.jpg',
       },
     ],
     categories: [
@@ -9481,26 +9481,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+      'pet_accessories_brown&white_winter_cap.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+          'pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+          'pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+          'pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_brown&white_winter_cap.jpg',
+          'pet_accessories_brown&white_winter_cap.jpg',
       },
     ],
     categories: [
@@ -9528,26 +9528,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg',
+      'pet_accessories_costume1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg',
+          'pet_accessories_costume1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg',
+          'pet_accessories_costume1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg',
+          'pet_accessories_costume1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume1.jpg',
+          'pet_accessories_costume1.jpg',
       },
     ],
     categories: [
@@ -9576,26 +9576,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg',
+      'pet_accessories_costume2.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg',
+          'pet_accessories_costume2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg',
+          'pet_accessories_costume2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg',
+          'pet_accessories_costume2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_costume2.jpg',
+          'pet_accessories_costume2.jpg',
       },
     ],
     categories: [
@@ -9624,26 +9624,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg',
+      'pet_accessories_jacket_ash.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg',
+          'pet_accessories_jacket_ash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg',
+          'pet_accessories_jacket_ash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg',
+          'pet_accessories_jacket_ash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_ash.jpg',
+          'pet_accessories_jacket_ash.jpg',
       },
     ],
     categories: [
@@ -9672,26 +9672,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg',
+      'pet_accessories_jacket_red.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg',
+          'pet_accessories_jacket_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg',
+          'pet_accessories_jacket_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg',
+          'pet_accessories_jacket_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_jacket_red.jpg',
+          'pet_accessories_jacket_red.jpg',
       },
     ],
     categories: [
@@ -9719,26 +9719,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg',
+      'pet_accessories_pet_bed1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg',
+          'pet_accessories_pet_bed1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg',
+          'pet_accessories_pet_bed1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg',
+          'pet_accessories_pet_bed1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed1.jpg',
+          'pet_accessories_pet_bed1.jpg',
       },
     ],
     categories: [
@@ -9766,26 +9766,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg',
+      'pet_accessories_pet_bed2.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg',
+          'pet_accessories_pet_bed2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg',
+          'pet_accessories_pet_bed2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg',
+          'pet_accessories_pet_bed2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed2.jpg',
+          'pet_accessories_pet_bed2.jpg',
       },
     ],
     categories: [
@@ -9814,26 +9814,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed3.jpg',
+      'pet_accessories_pet_bed3.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed3.jpg',
+          'pet_accessories_pet_bed3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed3.jpg',
+          'pet_accessories_pet_bed3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed3.jpg',
+          'pet_accessories_pet_bed3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed3.jpg',
+          'pet_accessories_pet_bed3.jpg',
       },
     ],
     categories: [
@@ -9861,26 +9861,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg',
+      'pet_accessories_pet_bed4.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg',
+          'pet_accessories_pet_bed4.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg',
+          'pet_accessories_pet_bed4.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg',
+          'pet_accessories_pet_bed4.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_pet_bed4.jpg',
+          'pet_accessories_pet_bed4.jpg',
       },
     ],
     categories: [
@@ -9908,26 +9908,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg',
+      'pet_accessories_red&white_christmas_sweater.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg',
+          'pet_accessories_red&white_christmas_sweater.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg',
+          'pet_accessories_red&white_christmas_sweater.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg',
+          'pet_accessories_red&white_christmas_sweater.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_christmas_sweater.jpg',
+          'pet_accessories_red&white_christmas_sweater.jpg',
       },
     ],
     categories: [
@@ -9955,26 +9955,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg',
+      'pet_accessories_red&white_jumper1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg',
+          'pet_accessories_red&white_jumper1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg',
+          'pet_accessories_red&white_jumper1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg',
+          'pet_accessories_red&white_jumper1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper1.jpg',
+          'pet_accessories_red&white_jumper1.jpg',
       },
     ],
     categories: [
@@ -10002,26 +10002,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper2.jpg',
+      'pet_accessories_red&white_jumper2.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper2.jpg',
+          'pet_accessories_red&white_jumper2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper2.jpg',
+          'pet_accessories_red&white_jumper2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper2.jpg',
+          'pet_accessories_red&white_jumper2.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper2.jpg',
+          'pet_accessories_red&white_jumper2.jpg',
       },
     ],
     categories: [
@@ -10050,26 +10050,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper3.jpg',
+      'pet_accessories_red&white_jumper3.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper3.jpg',
+          'pet_accessories_red&white_jumper3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper3.jpg',
+          'pet_accessories_red&white_jumper3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper3.jpg',
+          'pet_accessories_red&white_jumper3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red&white_jumper3.jpg',
+          'pet_accessories_red&white_jumper3.jpg',
       },
     ],
     categories: [
@@ -10097,26 +10097,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg',
+      'pet_accessories_red_crhistmas_winter_cap.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg',
+          'pet_accessories_red_crhistmas_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg',
+          'pet_accessories_red_crhistmas_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg',
+          'pet_accessories_red_crhistmas_winter_cap.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_red_crhistmas_winter_cap.jpg',
+          'pet_accessories_red_crhistmas_winter_cap.jpg',
       },
     ],
     categories: [
@@ -10144,26 +10144,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg',
+      'pet_accessories_tie.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg',
+          'pet_accessories_tie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg',
+          'pet_accessories_tie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg',
+          'pet_accessories_tie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pet_accessories_tie.jpg',
+          'pet_accessories_tie.jpg',
       },
     ],
     categories: [
@@ -10191,26 +10191,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_acana_ozmo.jpg',
+      'air_freshner_acana_ozmo.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_acana_ozmo.jpg',
+          'air_freshner_acana_ozmo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_acana_ozmo.jpg',
+          'air_freshner_acana_ozmo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_acana_ozmo.jpg',
+          'air_freshner_acana_ozmo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_acana_ozmo.jpg',
+          'air_freshner_acana_ozmo.jpg',
       },
     ],
     categories: [
@@ -10238,26 +10238,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_air_wick_essential_oils.jpg',
+      'air_freshner_air_wick_essential_oils.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_air_wick_essential_oils.jpg',
+          'air_freshner_air_wick_essential_oils.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_air_wick_essential_oils.jpg',
+          'air_freshner_air_wick_essential_oils.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_air_wick_essential_oils.jpg',
+          'air_freshner_air_wick_essential_oils.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_air_wick_essential_oils.jpg',
+          'air_freshner_air_wick_essential_oils.jpg',
       },
     ],
     categories: [
@@ -10286,26 +10286,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+      'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+          'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+          'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+          'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+          'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
       },
     ],
     categories: [
@@ -10334,26 +10334,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_boardwalk_mango.jpg',
+      'air_freshner_boardwalk_mango.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_boardwalk_mango.jpg',
+          'air_freshner_boardwalk_mango.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_boardwalk_mango.jpg',
+          'air_freshner_boardwalk_mango.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_boardwalk_mango.jpg',
+          'air_freshner_boardwalk_mango.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_boardwalk_mango.jpg',
+          'air_freshner_boardwalk_mango.jpg',
       },
     ],
     categories: [
@@ -10382,26 +10382,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_bora_bora.jpg',
+      'air_freshner_febreze_air_bora_bora.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_bora_bora.jpg',
+          'air_freshner_febreze_air_bora_bora.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_bora_bora.jpg',
+          'air_freshner_febreze_air_bora_bora.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_bora_bora.jpg',
+          'air_freshner_febreze_air_bora_bora.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_bora_bora.jpg',
+          'air_freshner_febreze_air_bora_bora.jpg',
       },
     ],
     categories: [
@@ -10430,26 +10430,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_effects.jpg',
+      'air_freshner_febreze_air_effects.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_effects.jpg',
+          'air_freshner_febreze_air_effects.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_effects.jpg',
+          'air_freshner_febreze_air_effects.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_effects.jpg',
+          'air_freshner_febreze_air_effects.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_effects.jpg',
+          'air_freshner_febreze_air_effects.jpg',
       },
     ],
     categories: [
@@ -10478,26 +10478,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_hawaiian.jpg',
+      'air_freshner_febreze_air_hawaiian.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_hawaiian.jpg',
+          'air_freshner_febreze_air_hawaiian.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_hawaiian.jpg',
+          'air_freshner_febreze_air_hawaiian.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_hawaiian.jpg',
+          'air_freshner_febreze_air_hawaiian.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_febreze_air_hawaiian.jpg',
+          'air_freshner_febreze_air_hawaiian.jpg',
       },
     ],
     categories: [
@@ -10525,26 +10525,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+      'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+          'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+          'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+          'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+          'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
       },
     ],
     categories: [
@@ -10572,26 +10572,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_clean_linen.jpg',
+      'air_freshner_sc_johnson_glade_clean_linen.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_clean_linen.jpg',
+          'air_freshner_sc_johnson_glade_clean_linen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_clean_linen.jpg',
+          'air_freshner_sc_johnson_glade_clean_linen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_clean_linen.jpg',
+          'air_freshner_sc_johnson_glade_clean_linen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_sc_johnson_glade_clean_linen.jpg',
+          'air_freshner_sc_johnson_glade_clean_linen.jpg',
       },
     ],
     categories: [
@@ -10619,26 +10619,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_vibrant_linen.jpg',
+      'air_freshner_vibrant_linen.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_vibrant_linen.jpg',
+          'air_freshner_vibrant_linen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_vibrant_linen.jpg',
+          'air_freshner_vibrant_linen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_vibrant_linen.jpg',
+          'air_freshner_vibrant_linen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/air_freshner_vibrant_linen.jpg',
+          'air_freshner_vibrant_linen.jpg',
       },
     ],
     categories: [
@@ -10666,26 +10666,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ajax.jpg',
+      'cleaning_supply_ajax.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ajax.jpg',
+          'cleaning_supply_ajax.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ajax.jpg',
+          'cleaning_supply_ajax.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ajax.jpg',
+          'cleaning_supply_ajax.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ajax.jpg',
+          'cleaning_supply_ajax.jpg',
       },
     ],
     categories: [
@@ -10714,26 +10714,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_astonish.jpg',
+      'cleaning_supply_astonish.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_astonish.jpg',
+          'cleaning_supply_astonish.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_astonish.jpg',
+          'cleaning_supply_astonish.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_astonish.jpg',
+          'cleaning_supply_astonish.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_astonish.jpg',
+          'cleaning_supply_astonish.jpg',
       },
     ],
     categories: [
@@ -10762,26 +10762,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bio.jpg',
+      'cleaning_supply_bio.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bio.jpg',
+          'cleaning_supply_bio.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bio.jpg',
+          'cleaning_supply_bio.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bio.jpg',
+          'cleaning_supply_bio.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bio.jpg',
+          'cleaning_supply_bio.jpg',
       },
     ],
     categories: [
@@ -10810,26 +10810,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bona.jpg',
+      'cleaning_supply_bona.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bona.jpg',
+          'cleaning_supply_bona.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bona.jpg',
+          'cleaning_supply_bona.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bona.jpg',
+          'cleaning_supply_bona.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_bona.jpg',
+          'cleaning_supply_bona.jpg',
       },
     ],
     categories: [
@@ -10858,26 +10858,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ever_spring.jpg',
+      'cleaning_supply_ever_spring.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ever_spring.jpg',
+          'cleaning_supply_ever_spring.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ever_spring.jpg',
+          'cleaning_supply_ever_spring.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ever_spring.jpg',
+          'cleaning_supply_ever_spring.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_ever_spring.jpg',
+          'cleaning_supply_ever_spring.jpg',
       },
     ],
     categories: [
@@ -10906,26 +10906,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_glass_cleaner.jpg',
+      'cleaning_supply_glitz_glass_cleaner.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_glass_cleaner.jpg',
+          'cleaning_supply_glitz_glass_cleaner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_glass_cleaner.jpg',
+          'cleaning_supply_glitz_glass_cleaner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_glass_cleaner.jpg',
+          'cleaning_supply_glitz_glass_cleaner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_glass_cleaner.jpg',
+          'cleaning_supply_glitz_glass_cleaner.jpg',
       },
     ],
     categories: [
@@ -10954,26 +10954,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_steel_cleaner.jpg',
+      'cleaning_supply_glitz_steel_cleaner.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_steel_cleaner.jpg',
+          'cleaning_supply_glitz_steel_cleaner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_steel_cleaner.jpg',
+          'cleaning_supply_glitz_steel_cleaner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_steel_cleaner.jpg',
+          'cleaning_supply_glitz_steel_cleaner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_glitz_steel_cleaner.jpg',
+          'cleaning_supply_glitz_steel_cleaner.jpg',
       },
     ],
     categories: [
@@ -11001,26 +11001,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_method.jpg',
+      'cleaning_supply_method.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_method.jpg',
+          'cleaning_supply_method.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_method.jpg',
+          'cleaning_supply_method.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_method.jpg',
+          'cleaning_supply_method.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/cleaning_supply_method.jpg',
+          'cleaning_supply_method.jpg',
       },
     ],
     categories: [
@@ -11048,26 +11048,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_la_faune.jpg',
+      'dishwasher_dawn_la_faune.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_la_faune.jpg',
+          'dishwasher_dawn_la_faune.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_la_faune.jpg',
+          'dishwasher_dawn_la_faune.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_la_faune.jpg',
+          'dishwasher_dawn_la_faune.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_la_faune.jpg',
+          'dishwasher_dawn_la_faune.jpg',
       },
     ],
     categories: [
@@ -11095,26 +11095,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_new_zealand_spring_scent.jpg',
+      'dishwasher_dawn_new_zealand_spring_scent.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_new_zealand_spring_scent.jpg',
+          'dishwasher_dawn_new_zealand_spring_scent.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_new_zealand_spring_scent.jpg',
+          'dishwasher_dawn_new_zealand_spring_scent.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_new_zealand_spring_scent.jpg',
+          'dishwasher_dawn_new_zealand_spring_scent.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_dawn_new_zealand_spring_scent.jpg',
+          'dishwasher_dawn_new_zealand_spring_scent.jpg',
       },
     ],
     categories: [
@@ -11142,26 +11142,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_fairy_lemon.jpg',
+      'dishwasher_fairy_lemon.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_fairy_lemon.jpg',
+          'dishwasher_fairy_lemon.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_fairy_lemon.jpg',
+          'dishwasher_fairy_lemon.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_fairy_lemon.jpg',
+          'dishwasher_fairy_lemon.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_fairy_lemon.jpg',
+          'dishwasher_fairy_lemon.jpg',
       },
     ],
     categories: [
@@ -11189,26 +11189,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_finish.jpg',
+      'dishwasher_finish.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_finish.jpg',
+          'dishwasher_finish.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_finish.jpg',
+          'dishwasher_finish.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_finish.jpg',
+          'dishwasher_finish.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_finish.jpg',
+          'dishwasher_finish.jpg',
       },
     ],
     categories: [
@@ -11236,26 +11236,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_lemi_shine.jpg',
+      'dishwasher_lemi_shine.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_lemi_shine.jpg',
+          'dishwasher_lemi_shine.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_lemi_shine.jpg',
+          'dishwasher_lemi_shine.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_lemi_shine.jpg',
+          'dishwasher_lemi_shine.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_lemi_shine.jpg',
+          'dishwasher_lemi_shine.jpg',
       },
     ],
     categories: [
@@ -11283,26 +11283,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_seventh_generation_free&clear.jpg',
+      'dishwasher_seventh_generation_free&clear.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_seventh_generation_free&clear.jpg',
+          'dishwasher_seventh_generation_free&clear.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_seventh_generation_free&clear.jpg',
+          'dishwasher_seventh_generation_free&clear.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_seventh_generation_free&clear.jpg',
+          'dishwasher_seventh_generation_free&clear.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_seventh_generation_free&clear.jpg',
+          'dishwasher_seventh_generation_free&clear.jpg',
       },
     ],
     categories: [
@@ -11330,26 +11330,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_bango_schiuma.jpg",
+      "dishwasher_winni's_bango_schiuma.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_bango_schiuma.jpg",
+          "dishwasher_winni's_bango_schiuma.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_bango_schiuma.jpg",
+          "dishwasher_winni's_bango_schiuma.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_bango_schiuma.jpg",
+          "dishwasher_winni's_bango_schiuma.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_bango_schiuma.jpg",
+          "dishwasher_winni's_bango_schiuma.jpg",
       },
     ],
     categories: [
@@ -11377,26 +11377,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_fiori_bianchi.jpg",
+      "dishwasher_winni's_fiori_bianchi.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_fiori_bianchi.jpg",
+          "dishwasher_winni's_fiori_bianchi.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_fiori_bianchi.jpg",
+          "dishwasher_winni's_fiori_bianchi.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_fiori_bianchi.jpg",
+          "dishwasher_winni's_fiori_bianchi.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/dishwasher_winni's_fiori_bianchi.jpg",
+          "dishwasher_winni's_fiori_bianchi.jpg",
       },
     ],
     categories: [
@@ -11424,26 +11424,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_camp_cutlery.jpg',
+      'kitchen_accessories_camp_cutlery.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_camp_cutlery.jpg',
+          'kitchen_accessories_camp_cutlery.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_camp_cutlery.jpg',
+          'kitchen_accessories_camp_cutlery.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_camp_cutlery.jpg',
+          'kitchen_accessories_camp_cutlery.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_camp_cutlery.jpg',
+          'kitchen_accessories_camp_cutlery.jpg',
       },
     ],
     categories: [
@@ -11471,26 +11471,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_dinner_spoons.jpg',
+      'kitchen_accessories_dinner_spoons.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_dinner_spoons.jpg',
+          'kitchen_accessories_dinner_spoons.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_dinner_spoons.jpg',
+          'kitchen_accessories_dinner_spoons.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_dinner_spoons.jpg',
+          'kitchen_accessories_dinner_spoons.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_dinner_spoons.jpg',
+          'kitchen_accessories_dinner_spoons.jpg',
       },
     ],
     categories: [
@@ -11518,26 +11518,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_ice_cream_scoop.jpg',
+      'kitchen_accessories_ice_cream_scoop.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_ice_cream_scoop.jpg',
+          'kitchen_accessories_ice_cream_scoop.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_ice_cream_scoop.jpg',
+          'kitchen_accessories_ice_cream_scoop.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_ice_cream_scoop.jpg',
+          'kitchen_accessories_ice_cream_scoop.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_ice_cream_scoop.jpg',
+          'kitchen_accessories_ice_cream_scoop.jpg',
       },
     ],
     categories: [
@@ -11565,26 +11565,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_kitchen_tools.jpg',
+      'kitchen_accessories_kitchen_tools.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_kitchen_tools.jpg',
+          'kitchen_accessories_kitchen_tools.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_kitchen_tools.jpg',
+          'kitchen_accessories_kitchen_tools.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_kitchen_tools.jpg',
+          'kitchen_accessories_kitchen_tools.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_kitchen_tools.jpg',
+          'kitchen_accessories_kitchen_tools.jpg',
       },
     ],
     categories: [
@@ -11612,26 +11612,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_mash_strainers.jpg',
+      'kitchen_accessories_mash_strainers.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_mash_strainers.jpg',
+          'kitchen_accessories_mash_strainers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_mash_strainers.jpg',
+          'kitchen_accessories_mash_strainers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_mash_strainers.jpg',
+          'kitchen_accessories_mash_strainers.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_mash_strainers.jpg',
+          'kitchen_accessories_mash_strainers.jpg',
       },
     ],
     categories: [
@@ -11659,26 +11659,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_skimmer.jpg',
+      'kitchen_accessories_skimmer.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_skimmer.jpg',
+          'kitchen_accessories_skimmer.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_skimmer.jpg',
+          'kitchen_accessories_skimmer.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_skimmer.jpg',
+          'kitchen_accessories_skimmer.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_skimmer.jpg',
+          'kitchen_accessories_skimmer.jpg',
       },
     ],
     categories: [
@@ -11706,26 +11706,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_solid_turner.jpg',
+      'kitchen_accessories_solid_turner.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_solid_turner.jpg',
+          'kitchen_accessories_solid_turner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_solid_turner.jpg',
+          'kitchen_accessories_solid_turner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_solid_turner.jpg',
+          'kitchen_accessories_solid_turner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kitchen_accessories_solid_turner.jpg',
+          'kitchen_accessories_solid_turner.jpg',
       },
     ],
     categories: [
@@ -11753,26 +11753,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_woolite.jpg',
+      'laundry_products_woolite.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_woolite.jpg',
+          'laundry_products_woolite.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_woolite.jpg',
+          'laundry_products_woolite.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_woolite.jpg',
+          'laundry_products_woolite.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_woolite.jpg',
+          'laundry_products_woolite.jpg',
       },
     ],
     categories: [
@@ -11800,26 +11800,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_tide.jpg',
+      'laundry_products_tide.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_tide.jpg',
+          'laundry_products_tide.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_tide.jpg',
+          'laundry_products_tide.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_tide.jpg',
+          'laundry_products_tide.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_tide.jpg',
+          'laundry_products_tide.jpg',
       },
     ],
     categories: [
@@ -11847,26 +11847,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_seventh_generation.jpg',
+      'laundry_products_seventh_generation.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_seventh_generation.jpg',
+          'laundry_products_seventh_generation.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_seventh_generation.jpg',
+          'laundry_products_seventh_generation.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_seventh_generation.jpg',
+          'laundry_products_seventh_generation.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_seventh_generation.jpg',
+          'laundry_products_seventh_generation.jpg',
       },
     ],
     categories: [
@@ -11894,26 +11894,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_safe_wash.jpg',
+      'laundry_products_safe_wash.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_safe_wash.jpg',
+          'laundry_products_safe_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_safe_wash.jpg',
+          'laundry_products_safe_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_safe_wash.jpg',
+          'laundry_products_safe_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_safe_wash.jpg',
+          'laundry_products_safe_wash.jpg',
       },
     ],
     categories: [
@@ -11941,26 +11941,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_purex.jpg',
+      'laundry_products_purex.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_purex.jpg',
+          'laundry_products_purex.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_purex.jpg',
+          'laundry_products_purex.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_purex.jpg',
+          'laundry_products_purex.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_purex.jpg',
+          'laundry_products_purex.jpg',
       },
     ],
     categories: [
@@ -11988,26 +11988,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_persil.jpg',
+      'laundry_products_persil.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_persil.jpg',
+          'laundry_products_persil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_persil.jpg',
+          'laundry_products_persil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_persil.jpg',
+          'laundry_products_persil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_persil.jpg',
+          'laundry_products_persil.jpg',
       },
     ],
     categories: [
@@ -12035,26 +12035,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_home_made_simple.jpg',
+      'laundry_products_home_made_simple.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_home_made_simple.jpg',
+          'laundry_products_home_made_simple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_home_made_simple.jpg',
+          'laundry_products_home_made_simple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_home_made_simple.jpg',
+          'laundry_products_home_made_simple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_home_made_simple.jpg',
+          'laundry_products_home_made_simple.jpg',
       },
     ],
     categories: [
@@ -12082,26 +12082,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_ecos.jpg',
+      'laundry_products_ecos.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_ecos.jpg',
+          'laundry_products_ecos.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_ecos.jpg',
+          'laundry_products_ecos.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_ecos.jpg',
+          'laundry_products_ecos.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_ecos.jpg',
+          'laundry_products_ecos.jpg',
       },
     ],
     categories: [
@@ -12129,26 +12129,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_daz.jpg',
+      'laundry_products_daz.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_daz.jpg',
+          'laundry_products_daz.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_daz.jpg',
+          'laundry_products_daz.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_daz.jpg',
+          'laundry_products_daz.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_daz.jpg',
+          'laundry_products_daz.jpg',
       },
     ],
     categories: [
@@ -12176,26 +12176,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chomel.jpg',
+      'laundry_products_chomel.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chomel.jpg',
+          'laundry_products_chomel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chomel.jpg',
+          'laundry_products_chomel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chomel.jpg',
+          'laundry_products_chomel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chomel.jpg',
+          'laundry_products_chomel.jpg',
       },
     ],
     categories: [
@@ -12223,26 +12223,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chicco.jpg',
+      'laundry_products_chicco.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chicco.jpg',
+          'laundry_products_chicco.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chicco.jpg',
+          'laundry_products_chicco.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chicco.jpg',
+          'laundry_products_chicco.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_chicco.jpg',
+          'laundry_products_chicco.jpg',
       },
     ],
     categories: [
@@ -12270,26 +12270,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_babyhug.jpg',
+      'laundry_products_babyhug.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_babyhug.jpg',
+          'laundry_products_babyhug.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_babyhug.jpg',
+          'laundry_products_babyhug.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_babyhug.jpg',
+          'laundry_products_babyhug.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/laundry_products_babyhug.jpg',
+          'laundry_products_babyhug.jpg',
       },
     ],
     categories: [
@@ -12317,26 +12317,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_doff.jpg',
+      'pest_control_doff.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_doff.jpg',
+          'pest_control_doff.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_doff.jpg',
+          'pest_control_doff.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_doff.jpg',
+          'pest_control_doff.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_doff.jpg',
+          'pest_control_doff.jpg',
       },
     ],
     categories: [
@@ -12364,26 +12364,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_eco_deffence_home_pest_control.jpg',
+      'pest_control_eco_deffence_home_pest_control.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_eco_deffence_home_pest_control.jpg',
+          'pest_control_eco_deffence_home_pest_control.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_eco_deffence_home_pest_control.jpg',
+          'pest_control_eco_deffence_home_pest_control.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_eco_deffence_home_pest_control.jpg',
+          'pest_control_eco_deffence_home_pest_control.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_eco_deffence_home_pest_control.jpg',
+          'pest_control_eco_deffence_home_pest_control.jpg',
       },
     ],
     categories: [
@@ -12411,26 +12411,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_karlsten.jpg',
+      'pest_control_karlsten.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_karlsten.jpg',
+          'pest_control_karlsten.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_karlsten.jpg',
+          'pest_control_karlsten.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_karlsten.jpg',
+          'pest_control_karlsten.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_karlsten.jpg',
+          'pest_control_karlsten.jpg',
       },
     ],
     categories: [
@@ -12458,26 +12458,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_kritterkill.jpg',
+      'pest_control_kritterkill.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_kritterkill.jpg',
+          'pest_control_kritterkill.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_kritterkill.jpg',
+          'pest_control_kritterkill.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_kritterkill.jpg',
+          'pest_control_kritterkill.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_kritterkill.jpg',
+          'pest_control_kritterkill.jpg',
       },
     ],
     categories: [
@@ -12505,26 +12505,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_naturally_green.jpg',
+      'pest_control_naturally_green.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_naturally_green.jpg',
+          'pest_control_naturally_green.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_naturally_green.jpg',
+          'pest_control_naturally_green.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_naturally_green.jpg',
+          'pest_control_naturally_green.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_naturally_green.jpg',
+          'pest_control_naturally_green.jpg',
       },
     ],
     categories: [
@@ -12552,26 +12552,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_sc_johnson_raid.jpg',
+      'pest_control_sc_johnson_raid.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_sc_johnson_raid.jpg',
+          'pest_control_sc_johnson_raid.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_sc_johnson_raid.jpg',
+          'pest_control_sc_johnson_raid.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_sc_johnson_raid.jpg',
+          'pest_control_sc_johnson_raid.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_sc_johnson_raid.jpg',
+          'pest_control_sc_johnson_raid.jpg',
       },
     ],
     categories: [
@@ -12599,26 +12599,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_wondercide_indoor_pest_control.jpg',
+      'pest_control_wondercide_indoor_pest_control.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_wondercide_indoor_pest_control.jpg',
+          'pest_control_wondercide_indoor_pest_control.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_wondercide_indoor_pest_control.jpg',
+          'pest_control_wondercide_indoor_pest_control.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_wondercide_indoor_pest_control.jpg',
+          'pest_control_wondercide_indoor_pest_control.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pest_control_wondercide_indoor_pest_control.jpg',
+          'pest_control_wondercide_indoor_pest_control.jpg',
       },
     ],
     categories: [
@@ -12646,26 +12646,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_barney.jpg',
+      'butter_barney.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_barney.jpg',
+          'butter_barney.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_barney.jpg',
+          'butter_barney.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_barney.jpg',
+          'butter_barney.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_barney.jpg',
+          'butter_barney.jpg',
       },
     ],
     categories: [
@@ -12693,26 +12693,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_ground_up.jpg',
+      'butter_ground_up.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_ground_up.jpg',
+          'butter_ground_up.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_ground_up.jpg',
+          'butter_ground_up.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_ground_up.jpg',
+          'butter_ground_up.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_ground_up.jpg',
+          'butter_ground_up.jpg',
       },
     ],
     categories: [
@@ -12740,26 +12740,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_kirkland.jpg',
+      'butter_kirkland.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_kirkland.jpg',
+          'butter_kirkland.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_kirkland.jpg',
+          'butter_kirkland.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_kirkland.jpg',
+          'butter_kirkland.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_kirkland.jpg',
+          'butter_kirkland.jpg',
       },
     ],
     categories: [
@@ -12787,26 +12787,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nature's_tattva.jpg",
+      "butter_nature's_tattva.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nature's_tattva.jpg",
+          "butter_nature's_tattva.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nature's_tattva.jpg",
+          "butter_nature's_tattva.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nature's_tattva.jpg",
+          "butter_nature's_tattva.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nature's_tattva.jpg",
+          "butter_nature's_tattva.jpg",
       },
     ],
     categories: [
@@ -12834,26 +12834,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nikki's.jpg",
+      "butter_nikki's.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nikki's.jpg",
+          "butter_nikki's.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nikki's.jpg",
+          "butter_nikki's.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nikki's.jpg",
+          "butter_nikki's.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/butter_nikki's.jpg",
+          "butter_nikki's.jpg",
       },
     ],
     categories: [
@@ -12880,26 +12880,26 @@ const productData = [
     description:
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tnuva.jpg',
+    image: 'butter_tnuva.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tnuva.jpg',
+          'butter_tnuva.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tnuva.jpg',
+          'butter_tnuva.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tnuva.jpg',
+          'butter_tnuva.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tnuva.jpg',
+          'butter_tnuva.jpg',
       },
     ],
     categories: [
@@ -12927,26 +12927,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tru_nut.jpg',
+      'butter_tru_nut.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tru_nut.jpg',
+          'butter_tru_nut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tru_nut.jpg',
+          'butter_tru_nut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tru_nut.jpg',
+          'butter_tru_nut.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_tru_nut.jpg',
+          'butter_tru_nut.jpg',
       },
     ],
     categories: [
@@ -12974,26 +12974,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_whole_earth.jpg',
+      'butter_whole_earth.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_whole_earth.jpg',
+          'butter_whole_earth.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_whole_earth.jpg',
+          'butter_whole_earth.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_whole_earth.jpg',
+          'butter_whole_earth.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/butter_whole_earth.jpg',
+          'butter_whole_earth.jpg',
       },
     ],
     categories: [
@@ -13020,26 +13020,26 @@ const productData = [
     description:
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cavanagh.jpg',
+    image: 'egg_cavanagh.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cavanagh.jpg',
+          'egg_cavanagh.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cavanagh.jpg',
+          'egg_cavanagh.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cavanagh.jpg',
+          'egg_cavanagh.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cavanagh.jpg',
+          'egg_cavanagh.jpg',
       },
     ],
     categories: [
@@ -13067,26 +13067,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_clarenece_court.jpg',
+      'egg_clarenece_court.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_clarenece_court.jpg',
+          'egg_clarenece_court.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_clarenece_court.jpg',
+          'egg_clarenece_court.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_clarenece_court.jpg',
+          'egg_clarenece_court.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_clarenece_court.jpg',
+          'egg_clarenece_court.jpg',
       },
     ],
     categories: [
@@ -13113,22 +13113,22 @@ const productData = [
     description:
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cp.jpg',
+    image: 'egg_cp.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cp.jpg',
+        url: 'egg_cp.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cp.jpg',
+        url: 'egg_cp.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cp.jpg',
+        url: 'egg_cp.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_cp.jpg',
+        url: 'egg_cp.jpg',
       },
     ],
     categories: [
@@ -13156,26 +13156,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_freshlay_golden_yolks.jpg',
+      'egg_freshlay_golden_yolks.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_freshlay_golden_yolks.jpg',
+          'egg_freshlay_golden_yolks.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_freshlay_golden_yolks.jpg',
+          'egg_freshlay_golden_yolks.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_freshlay_golden_yolks.jpg',
+          'egg_freshlay_golden_yolks.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_freshlay_golden_yolks.jpg',
+          'egg_freshlay_golden_yolks.jpg',
       },
     ],
     categories: [
@@ -13202,26 +13202,26 @@ const productData = [
     description:
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_gold_hen.jpg',
+    image: 'egg_gold_hen.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_gold_hen.jpg',
+          'egg_gold_hen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_gold_hen.jpg',
+          'egg_gold_hen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_gold_hen.jpg',
+          'egg_gold_hen.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_gold_hen.jpg',
+          'egg_gold_hen.jpg',
       },
     ],
     categories: [
@@ -13249,26 +13249,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_happy_egg_organic.jpg',
+      'egg_happy_egg_organic.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_happy_egg_organic.jpg',
+          'egg_happy_egg_organic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_happy_egg_organic.jpg',
+          'egg_happy_egg_organic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_happy_egg_organic.jpg',
+          'egg_happy_egg_organic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_happy_egg_organic.jpg',
+          'egg_happy_egg_organic.jpg',
       },
     ],
     categories: [
@@ -13296,26 +13296,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_morrisons.jpg',
+      'egg_morrisons.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_morrisons.jpg',
+          'egg_morrisons.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_morrisons.jpg',
+          'egg_morrisons.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_morrisons.jpg',
+          'egg_morrisons.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_morrisons.jpg',
+          'egg_morrisons.jpg',
       },
     ],
     categories: [
@@ -13343,26 +13343,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_nutri_plus_telur_kampang_omega3.jpg',
+      'egg_nutri_plus_telur_kampang_omega3.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_nutri_plus_telur_kampang_omega3.jpg',
+          'egg_nutri_plus_telur_kampang_omega3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_nutri_plus_telur_kampang_omega3.jpg',
+          'egg_nutri_plus_telur_kampang_omega3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_nutri_plus_telur_kampang_omega3.jpg',
+          'egg_nutri_plus_telur_kampang_omega3.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/egg_nutri_plus_telur_kampang_omega3.jpg',
+          'egg_nutri_plus_telur_kampang_omega3.jpg',
       },
     ],
     categories: [
@@ -13390,26 +13390,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_lacto_free.jpg',
+      'milk_arla_lacto_free.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_lacto_free.jpg',
+          'milk_arla_lacto_free.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_lacto_free.jpg',
+          'milk_arla_lacto_free.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_lacto_free.jpg',
+          'milk_arla_lacto_free.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_lacto_free.jpg',
+          'milk_arla_lacto_free.jpg',
       },
     ],
     categories: [
@@ -13437,26 +13437,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_low_fat1.5.jpg',
+      'milk_arla_low_fat1.5.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_low_fat1.5.jpg',
+          'milk_arla_low_fat1.5.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_low_fat1.5.jpg',
+          'milk_arla_low_fat1.5.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_low_fat1.5.jpg',
+          'milk_arla_low_fat1.5.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_arla_low_fat1.5.jpg',
+          'milk_arla_low_fat1.5.jpg',
       },
     ],
     categories: [
@@ -13484,26 +13484,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_f&n_magnolia.jpg',
+      'milk_f&n_magnolia.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_f&n_magnolia.jpg',
+          'milk_f&n_magnolia.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_f&n_magnolia.jpg',
+          'milk_f&n_magnolia.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_f&n_magnolia.jpg',
+          'milk_f&n_magnolia.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_f&n_magnolia.jpg',
+          'milk_f&n_magnolia.jpg',
       },
     ],
     categories: [
@@ -13532,26 +13532,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_greenfields_choco_malt_flavoured.jpg',
+      'milk_greenfields_choco_malt_flavoured.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_greenfields_choco_malt_flavoured.jpg',
+          'milk_greenfields_choco_malt_flavoured.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_greenfields_choco_malt_flavoured.jpg',
+          'milk_greenfields_choco_malt_flavoured.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_greenfields_choco_malt_flavoured.jpg',
+          'milk_greenfields_choco_malt_flavoured.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_greenfields_choco_malt_flavoured.jpg',
+          'milk_greenfields_choco_malt_flavoured.jpg',
       },
     ],
     categories: [
@@ -13579,26 +13579,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_heritage.jpg',
+      'milk_heritage.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_heritage.jpg',
+          'milk_heritage.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_heritage.jpg',
+          'milk_heritage.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_heritage.jpg',
+          'milk_heritage.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_heritage.jpg',
+          'milk_heritage.jpg',
       },
     ],
     categories: [
@@ -13625,26 +13625,26 @@ const productData = [
     description:
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_lactaid.jpg',
+    image: 'milk_lactaid.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_lactaid.jpg',
+          'milk_lactaid.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_lactaid.jpg',
+          'milk_lactaid.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_lactaid.jpg',
+          'milk_lactaid.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_lactaid.jpg',
+          'milk_lactaid.jpg',
       },
     ],
     categories: [
@@ -13672,26 +13672,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_living_planet.jpg',
+      'milk_living_planet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_living_planet.jpg',
+          'milk_living_planet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_living_planet.jpg',
+          'milk_living_planet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_living_planet.jpg',
+          'milk_living_planet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_living_planet.jpg',
+          'milk_living_planet.jpg',
       },
     ],
     categories: [
@@ -13719,26 +13719,26 @@ const productData = [
       'Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_califia_farms.jpg',
+      'milk_cream_califia_farms.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_califia_farms.jpg',
+          'milk_cream_califia_farms.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_califia_farms.jpg',
+          'milk_cream_califia_farms.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_califia_farms.jpg',
+          'milk_cream_califia_farms.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_califia_farms.jpg',
+          'milk_cream_califia_farms.jpg',
       },
     ],
     categories: [
@@ -13766,26 +13766,26 @@ const productData = [
       'Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_clover.jpg',
+      'milk_cream_clover.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_clover.jpg',
+          'milk_cream_clover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_clover.jpg',
+          'milk_cream_clover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_clover.jpg',
+          'milk_cream_clover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_clover.jpg',
+          'milk_cream_clover.jpg',
       },
     ],
     categories: [
@@ -13813,26 +13813,26 @@ const productData = [
       'Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_fernleaf.jpg',
+      'milk_cream_fernleaf.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_fernleaf.jpg',
+          'milk_cream_fernleaf.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_fernleaf.jpg',
+          'milk_cream_fernleaf.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_fernleaf.jpg',
+          'milk_cream_fernleaf.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_fernleaf.jpg',
+          'milk_cream_fernleaf.jpg',
       },
     ],
     categories: [
@@ -13860,26 +13860,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_scape.jpg',
+      'powder_milk_scape.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_scape.jpg',
+          'powder_milk_scape.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_scape.jpg',
+          'powder_milk_scape.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_scape.jpg',
+          'powder_milk_scape.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_scape.jpg',
+          'powder_milk_scape.jpg',
       },
     ],
     categories: [
@@ -13907,26 +13907,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_z_natural_foods.jpg',
+      'powder_milk_z_natural_foods.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_z_natural_foods.jpg',
+          'powder_milk_z_natural_foods.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_z_natural_foods.jpg',
+          'powder_milk_z_natural_foods.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_z_natural_foods.jpg',
+          'powder_milk_z_natural_foods.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_z_natural_foods.jpg',
+          'powder_milk_z_natural_foods.jpg',
       },
     ],
     categories: [
@@ -13954,26 +13954,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_param.jpg',
+      'powder_milk_param.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_param.jpg',
+          'powder_milk_param.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_param.jpg',
+          'powder_milk_param.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_param.jpg',
+          'powder_milk_param.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_param.jpg',
+          'powder_milk_param.jpg',
       },
     ],
     categories: [
@@ -14001,26 +14001,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_nestle_nido_900gram.jpg',
+      'powder_milk_nestle_nido_900gram.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_nestle_nido_900gram.jpg',
+          'powder_milk_nestle_nido_900gram.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_nestle_nido_900gram.jpg',
+          'powder_milk_nestle_nido_900gram.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_nestle_nido_900gram.jpg',
+          'powder_milk_nestle_nido_900gram.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_nestle_nido_900gram.jpg',
+          'powder_milk_nestle_nido_900gram.jpg',
       },
     ],
     categories: [
@@ -14048,26 +14048,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_milgro.jpg',
+      'powder_milk_milgro.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_milgro.jpg',
+          'powder_milk_milgro.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_milgro.jpg',
+          'powder_milk_milgro.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_milgro.jpg',
+          'powder_milk_milgro.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_milgro.jpg',
+          'powder_milk_milgro.jpg',
       },
     ],
     categories: [
@@ -14095,26 +14095,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_lifestyle_food.jpg',
+      'powder_milk_lifestyle_food.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_lifestyle_food.jpg',
+          'powder_milk_lifestyle_food.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_lifestyle_food.jpg',
+          'powder_milk_lifestyle_food.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_lifestyle_food.jpg',
+          'powder_milk_lifestyle_food.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_lifestyle_food.jpg',
+          'powder_milk_lifestyle_food.jpg',
       },
     ],
     categories: [
@@ -14142,26 +14142,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_goldmilys.jpg',
+      'powder_milk_goldmilys.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_goldmilys.jpg',
+          'powder_milk_goldmilys.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_goldmilys.jpg',
+          'powder_milk_goldmilys.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_goldmilys.jpg',
+          'powder_milk_goldmilys.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/powder_milk_goldmilys.jpg',
+          'powder_milk_goldmilys.jpg',
       },
     ],
     categories: [
@@ -14189,26 +14189,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_nammilk.jpg',
+      'milk_cream_nammilk.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_nammilk.jpg',
+          'milk_cream_nammilk.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_nammilk.jpg',
+          'milk_cream_nammilk.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_nammilk.jpg',
+          'milk_cream_nammilk.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/milk_cream_nammilk.jpg',
+          'milk_cream_nammilk.jpg',
       },
     ],
     categories: [
@@ -14236,26 +14236,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_balkan.jpg',
+      'yogourt_astro_balkan.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_balkan.jpg',
+          'yogourt_astro_balkan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_balkan.jpg',
+          'yogourt_astro_balkan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_balkan.jpg',
+          'yogourt_astro_balkan.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_balkan.jpg',
+          'yogourt_astro_balkan.jpg',
       },
     ],
     categories: [
@@ -14283,26 +14283,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_bio_best.jpg',
+      'yogourt_astro_bio_best.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_bio_best.jpg',
+          'yogourt_astro_bio_best.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_bio_best.jpg',
+          'yogourt_astro_bio_best.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_bio_best.jpg',
+          'yogourt_astro_bio_best.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_astro_bio_best.jpg',
+          'yogourt_astro_bio_best.jpg',
       },
     ],
     categories: [
@@ -14330,26 +14330,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_plain_non_fat.jpg',
+      'yogourt_chobani_plain_non_fat.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_plain_non_fat.jpg',
+          'yogourt_chobani_plain_non_fat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_plain_non_fat.jpg',
+          'yogourt_chobani_plain_non_fat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_plain_non_fat.jpg',
+          'yogourt_chobani_plain_non_fat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_plain_non_fat.jpg',
+          'yogourt_chobani_plain_non_fat.jpg',
       },
     ],
     categories: [
@@ -14377,26 +14377,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_vanilla.jpg',
+      'yogourt_chobani_vanilla.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_vanilla.jpg',
+          'yogourt_chobani_vanilla.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_vanilla.jpg',
+          'yogourt_chobani_vanilla.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_vanilla.jpg',
+          'yogourt_chobani_vanilla.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_chobani_vanilla.jpg',
+          'yogourt_chobani_vanilla.jpg',
       },
     ],
     categories: [
@@ -14424,26 +14424,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_strawberry.jpg',
+      'yogourt_dannon_strawberry.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_strawberry.jpg',
+          'yogourt_dannon_strawberry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_strawberry.jpg',
+          'yogourt_dannon_strawberry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_strawberry.jpg',
+          'yogourt_dannon_strawberry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_strawberry.jpg',
+          'yogourt_dannon_strawberry.jpg',
       },
     ],
     categories: [
@@ -14471,26 +14471,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_vanilla.jpg',
+      'yogourt_dannon_vanilla.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_vanilla.jpg',
+          'yogourt_dannon_vanilla.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_vanilla.jpg',
+          'yogourt_dannon_vanilla.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_vanilla.jpg',
+          'yogourt_dannon_vanilla.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_dannon_vanilla.jpg',
+          'yogourt_dannon_vanilla.jpg',
       },
     ],
     categories: [
@@ -14518,26 +14518,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_marigold.jpg',
+      'yogourt_marigold.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_marigold.jpg',
+          'yogourt_marigold.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_marigold.jpg',
+          'yogourt_marigold.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_marigold.jpg',
+          'yogourt_marigold.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_marigold.jpg',
+          'yogourt_marigold.jpg',
       },
     ],
     categories: [
@@ -14565,26 +14565,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_stony_field_vanilla_fudge_swirl.jpg',
+      'yogourt_stony_field_vanilla_fudge_swirl.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_stony_field_vanilla_fudge_swirl.jpg',
+          'yogourt_stony_field_vanilla_fudge_swirl.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_stony_field_vanilla_fudge_swirl.jpg',
+          'yogourt_stony_field_vanilla_fudge_swirl.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_stony_field_vanilla_fudge_swirl.jpg',
+          'yogourt_stony_field_vanilla_fudge_swirl.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/yogourt_stony_field_vanilla_fudge_swirl.jpg',
+          'yogourt_stony_field_vanilla_fudge_swirl.jpg',
       },
     ],
     categories: [
@@ -14612,26 +14612,26 @@ const productData = [
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_1_2_3_vegitable.jpg',
+      'oil_1_2_3_vegitable.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_1_2_3_vegitable.jpg',
+          'oil_1_2_3_vegitable.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_1_2_3_vegitable.jpg',
+          'oil_1_2_3_vegitable.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_1_2_3_vegitable.jpg',
+          'oil_1_2_3_vegitable.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_1_2_3_vegitable.jpg',
+          'oil_1_2_3_vegitable.jpg',
       },
     ],
     categories: [
@@ -14659,26 +14659,26 @@ const productData = [
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_clover_valley.jpg',
+      'oil_clover_valley.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_clover_valley.jpg',
+          'oil_clover_valley.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_clover_valley.jpg',
+          'oil_clover_valley.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_clover_valley.jpg',
+          'oil_clover_valley.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_clover_valley.jpg',
+          'oil_clover_valley.jpg',
       },
     ],
     categories: [
@@ -14705,22 +14705,22 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_daisy.jpg',
+    image: 'oil_daisy.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_daisy.jpg',
+        url: 'oil_daisy.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_daisy.jpg',
+        url: 'oil_daisy.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_daisy.jpg',
+        url: 'oil_daisy.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_daisy.jpg',
+        url: 'oil_daisy.jpg',
       },
     ],
     categories: [
@@ -14747,22 +14747,22 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_eva.jpg',
+    image: 'oil_eva.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_eva.jpg',
+        url: 'oil_eva.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_eva.jpg',
+        url: 'oil_eva.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_eva.jpg',
+        url: 'oil_eva.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_eva.jpg',
+        url: 'oil_eva.jpg',
       },
     ],
     categories: [
@@ -14789,22 +14789,22 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_goya.jpg',
+    image: 'oil_goya.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_goya.jpg',
+        url: 'oil_goya.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_goya.jpg',
+        url: 'oil_goya.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_goya.jpg',
+        url: 'oil_goya.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_goya.jpg',
+        url: 'oil_goya.jpg',
       },
     ],
     categories: [
@@ -14831,26 +14831,26 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_natural.jpg',
+    image: 'oil_natural.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_natural.jpg',
+          'oil_natural.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_natural.jpg',
+          'oil_natural.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_natural.jpg',
+          'oil_natural.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_natural.jpg',
+          'oil_natural.jpg',
       },
     ],
     categories: [
@@ -14878,26 +14878,26 @@ const productData = [
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_san_lucas.jpg',
+      'oil_san_lucas.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_san_lucas.jpg',
+          'oil_san_lucas.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_san_lucas.jpg',
+          'oil_san_lucas.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_san_lucas.jpg',
+          'oil_san_lucas.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_san_lucas.jpg',
+          'oil_san_lucas.jpg',
       },
     ],
     categories: [
@@ -14924,26 +14924,26 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_sunfoil.jpg',
+    image: 'oil_sunfoil.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_sunfoil.jpg',
+          'oil_sunfoil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_sunfoil.jpg',
+          'oil_sunfoil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_sunfoil.jpg',
+          'oil_sunfoil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/oil_sunfoil.jpg',
+          'oil_sunfoil.jpg',
       },
     ],
     categories: [
@@ -14971,26 +14971,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/chefa_choice_bamboo_rice.jpg',
+      'chefa_choice_bamboo_rice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chefa_choice_bamboo_rice.jpg',
+          'chefa_choice_bamboo_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chefa_choice_bamboo_rice.jpg',
+          'chefa_choice_bamboo_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chefa_choice_bamboo_rice.jpg',
+          'chefa_choice_bamboo_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chefa_choice_bamboo_rice.jpg',
+          'chefa_choice_bamboo_rice.jpg',
       },
     ],
     categories: [
@@ -15018,26 +15018,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+      'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+          'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+          'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+          'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+          'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
       },
     ],
     categories: [
@@ -15065,26 +15065,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/hulas_premium_basmati_rice.jpg',
+      'hulas_premium_basmati_rice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hulas_premium_basmati_rice.jpg',
+          'hulas_premium_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hulas_premium_basmati_rice.jpg',
+          'hulas_premium_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hulas_premium_basmati_rice.jpg',
+          'hulas_premium_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/hulas_premium_basmati_rice.jpg',
+          'hulas_premium_basmati_rice.jpg',
       },
     ],
     categories: [
@@ -15112,26 +15112,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+      'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+          'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+          'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+          'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+          'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
       },
     ],
     categories: [
@@ -15159,26 +15159,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/india_gate_basmati_rice.jpg',
+      'india_gate_basmati_rice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/india_gate_basmati_rice.jpg',
+          'india_gate_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/india_gate_basmati_rice.jpg',
+          'india_gate_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/india_gate_basmati_rice.jpg',
+          'india_gate_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/india_gate_basmati_rice.jpg',
+          'india_gate_basmati_rice.jpg',
       },
     ],
     categories: [
@@ -15206,26 +15206,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/nature's_gift_basmati_rice.jpg",
+      "nature's_gift_basmati_rice.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/nature's_gift_basmati_rice.jpg",
+          "nature's_gift_basmati_rice.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/nature's_gift_basmati_rice.jpg",
+          "nature's_gift_basmati_rice.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/nature's_gift_basmati_rice.jpg",
+          "nature's_gift_basmati_rice.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/nature's_gift_basmati_rice.jpg",
+          "nature's_gift_basmati_rice.jpg",
       },
     ],
     categories: [
@@ -15253,26 +15253,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/seeds_of_change_brown_basmati_rice.jpg',
+      'seeds_of_change_brown_basmati_rice.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/seeds_of_change_brown_basmati_rice.jpg',
+          'seeds_of_change_brown_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/seeds_of_change_brown_basmati_rice.jpg',
+          'seeds_of_change_brown_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/seeds_of_change_brown_basmati_rice.jpg',
+          'seeds_of_change_brown_basmati_rice.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/seeds_of_change_brown_basmati_rice.jpg',
+          'seeds_of_change_brown_basmati_rice.jpg',
       },
     ],
     categories: [
@@ -15300,26 +15300,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/tai_ping_Sushi_Rice_1kg.jpg',
+      'tai_ping_Sushi_Rice_1kg.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tai_ping_Sushi_Rice_1kg.jpg',
+          'tai_ping_Sushi_Rice_1kg.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tai_ping_Sushi_Rice_1kg.jpg',
+          'tai_ping_Sushi_Rice_1kg.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tai_ping_Sushi_Rice_1kg.jpg',
+          'tai_ping_Sushi_Rice_1kg.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tai_ping_Sushi_Rice_1kg.jpg',
+          'tai_ping_Sushi_Rice_1kg.jpg',
       },
     ],
     categories: [
@@ -15347,26 +15347,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/clover_valley_sea_salt_grinder.jpg',
+      'clover_valley_sea_salt_grinder.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/clover_valley_sea_salt_grinder.jpg',
+          'clover_valley_sea_salt_grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/clover_valley_sea_salt_grinder.jpg',
+          'clover_valley_sea_salt_grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/clover_valley_sea_salt_grinder.jpg',
+          'clover_valley_sea_salt_grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/clover_valley_sea_salt_grinder.jpg',
+          'clover_valley_sea_salt_grinder.jpg',
       },
     ],
     categories: [
@@ -15394,26 +15394,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/gathering_place_sea_salt_100g_grinder.jpg',
+      'gathering_place_sea_salt_100g_grinder.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gathering_place_sea_salt_100g_grinder.jpg',
+          'gathering_place_sea_salt_100g_grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gathering_place_sea_salt_100g_grinder.jpg',
+          'gathering_place_sea_salt_100g_grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gathering_place_sea_salt_100g_grinder.jpg',
+          'gathering_place_sea_salt_100g_grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gathering_place_sea_salt_100g_grinder.jpg',
+          'gathering_place_sea_salt_100g_grinder.jpg',
       },
     ],
     categories: [
@@ -15441,26 +15441,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/herbivore_Calm_deadsea_soaking_salt.jpg',
+      'herbivore_Calm_deadsea_soaking_salt.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/herbivore_Calm_deadsea_soaking_salt.jpg',
+          'herbivore_Calm_deadsea_soaking_salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/herbivore_Calm_deadsea_soaking_salt.jpg',
+          'herbivore_Calm_deadsea_soaking_salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/herbivore_Calm_deadsea_soaking_salt.jpg',
+          'herbivore_Calm_deadsea_soaking_salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/herbivore_Calm_deadsea_soaking_salt.jpg',
+          'herbivore_Calm_deadsea_soaking_salt.jpg',
       },
     ],
     categories: [
@@ -15488,26 +15488,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nomu_atlantic_Sea_Salt_Grinder.jpg',
+      'nomu_atlantic_Sea_Salt_Grinder.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nomu_atlantic_Sea_Salt_Grinder.jpg',
+          'nomu_atlantic_Sea_Salt_Grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nomu_atlantic_Sea_Salt_Grinder.jpg',
+          'nomu_atlantic_Sea_Salt_Grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nomu_atlantic_Sea_Salt_Grinder.jpg',
+          'nomu_atlantic_Sea_Salt_Grinder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nomu_atlantic_Sea_Salt_Grinder.jpg',
+          'nomu_atlantic_Sea_Salt_Grinder.jpg',
       },
     ],
     categories: [
@@ -15535,26 +15535,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/tasteology_chili_salt.jpg',
+      'tasteology_chili_salt.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tasteology_chili_salt.jpg',
+          'tasteology_chili_salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tasteology_chili_salt.jpg',
+          'tasteology_chili_salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tasteology_chili_salt.jpg',
+          'tasteology_chili_salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tasteology_chili_salt.jpg',
+          'tasteology_chili_salt.jpg',
       },
     ],
     categories: [
@@ -15582,26 +15582,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/the_spice_house_white_Truffle_Salt.jpg',
+      'the_spice_house_white_Truffle_Salt.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_spice_house_white_Truffle_Salt.jpg',
+          'the_spice_house_white_Truffle_Salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_spice_house_white_Truffle_Salt.jpg',
+          'the_spice_house_white_Truffle_Salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_spice_house_white_Truffle_Salt.jpg',
+          'the_spice_house_white_Truffle_Salt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_spice_house_white_Truffle_Salt.jpg',
+          'the_spice_house_white_Truffle_Salt.jpg',
       },
     ],
     categories: [
@@ -15629,26 +15629,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/gula_aromatic_brown_sugar.jpg',
+      'gula_aromatic_brown_sugar.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gula_aromatic_brown_sugar.jpg',
+          'gula_aromatic_brown_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gula_aromatic_brown_sugar.jpg',
+          'gula_aromatic_brown_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gula_aromatic_brown_sugar.jpg',
+          'gula_aromatic_brown_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gula_aromatic_brown_sugar.jpg',
+          'gula_aromatic_brown_sugar.jpg',
       },
     ],
     categories: [
@@ -15676,26 +15676,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/sis_white_sugar.jpg',
+      'sis_white_sugar.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/sis_white_sugar.jpg',
+          'sis_white_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/sis_white_sugar.jpg',
+          'sis_white_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/sis_white_sugar.jpg',
+          'sis_white_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/sis_white_sugar.jpg',
+          'sis_white_sugar.jpg',
       },
     ],
     categories: [
@@ -15722,22 +15722,22 @@ const productData = [
     description:
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tate_sugar.jpg',
+    image: 'tate_sugar.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tate_sugar.jpg',
+        url: 'tate_sugar.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tate_sugar.jpg',
+        url: 'tate_sugar.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tate_sugar.jpg',
+        url: 'tate_sugar.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/tate_sugar.jpg',
+        url: 'tate_sugar.jpg',
       },
     ],
     categories: [
@@ -15765,26 +15765,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/the_pantry_icing_Sugar.jpg',
+      'the_pantry_icing_Sugar.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_pantry_icing_Sugar.jpg',
+          'the_pantry_icing_Sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_pantry_icing_Sugar.jpg',
+          'the_pantry_icing_Sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_pantry_icing_Sugar.jpg',
+          'the_pantry_icing_Sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_pantry_icing_Sugar.jpg',
+          'the_pantry_icing_Sugar.jpg',
       },
     ],
     categories: [
@@ -15812,26 +15812,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/whitworths_sugar.jpg',
+      'whitworths_sugar.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/whitworths_sugar.jpg',
+          'whitworths_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/whitworths_sugar.jpg',
+          'whitworths_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/whitworths_sugar.jpg',
+          'whitworths_sugar.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/whitworths_sugar.jpg',
+          'whitworths_sugar.jpg',
       },
     ],
     categories: [
@@ -15859,26 +15859,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Wholesome_Organic_Cane_Sugar_2LB.jpg',
+      'Wholesome_Organic_Cane_Sugar_2LB.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Wholesome_Organic_Cane_Sugar_2LB.jpg',
+          'Wholesome_Organic_Cane_Sugar_2LB.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Wholesome_Organic_Cane_Sugar_2LB.jpg',
+          'Wholesome_Organic_Cane_Sugar_2LB.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Wholesome_Organic_Cane_Sugar_2LB.jpg',
+          'Wholesome_Organic_Cane_Sugar_2LB.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Wholesome_Organic_Cane_Sugar_2LB.jpg',
+          'Wholesome_Organic_Cane_Sugar_2LB.jpg',
       },
     ],
     categories: [
@@ -15906,26 +15906,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+      'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+          'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+          'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+          'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+          'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
       },
     ],
     categories: [
@@ -15953,26 +15953,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/crispy_chill_flakes.jpg',
+      'crispy_chill_flakes.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crispy_chill_flakes.jpg',
+          'crispy_chill_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crispy_chill_flakes.jpg',
+          'crispy_chill_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crispy_chill_flakes.jpg',
+          'crispy_chill_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crispy_chill_flakes.jpg',
+          'crispy_chill_flakes.jpg',
       },
     ],
     categories: [
@@ -16000,26 +16000,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+      'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+          'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+          'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+          'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+          'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
       },
     ],
     categories: [
@@ -16047,26 +16047,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Frontier_Curry_Powder.jpg',
+      'Frontier_Curry_Powder.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Frontier_Curry_Powder.jpg',
+          'Frontier_Curry_Powder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Frontier_Curry_Powder.jpg',
+          'Frontier_Curry_Powder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Frontier_Curry_Powder.jpg',
+          'Frontier_Curry_Powder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Frontier_Curry_Powder.jpg',
+          'Frontier_Curry_Powder.jpg',
       },
     ],
     categories: [
@@ -16094,26 +16094,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/mccormic_chilli_flakes.jpg',
+      'mccormic_chilli_flakes.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mccormic_chilli_flakes.jpg',
+          'mccormic_chilli_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mccormic_chilli_flakes.jpg',
+          'mccormic_chilli_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mccormic_chilli_flakes.jpg',
+          'mccormic_chilli_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mccormic_chilli_flakes.jpg',
+          'mccormic_chilli_flakes.jpg',
       },
     ],
     categories: [
@@ -16141,26 +16141,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/redman_red_chilli_powder.jpg',
+      'redman_red_chilli_powder.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/redman_red_chilli_powder.jpg',
+          'redman_red_chilli_powder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/redman_red_chilli_powder.jpg',
+          'redman_red_chilli_powder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/redman_red_chilli_powder.jpg',
+          'redman_red_chilli_powder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/redman_red_chilli_powder.jpg',
+          'redman_red_chilli_powder.jpg',
       },
     ],
     categories: [
@@ -16188,26 +16188,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/tajin_clasico_seasoning.jpg',
+      'tajin_clasico_seasoning.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tajin_clasico_seasoning.jpg',
+          'tajin_clasico_seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tajin_clasico_seasoning.jpg',
+          'tajin_clasico_seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tajin_clasico_seasoning.jpg',
+          'tajin_clasico_seasoning.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tajin_clasico_seasoning.jpg',
+          'tajin_clasico_seasoning.jpg',
       },
     ],
     categories: [
@@ -16235,26 +16235,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/weber_all_natural.jpg',
+      'weber_all_natural.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/weber_all_natural.jpg',
+          'weber_all_natural.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/weber_all_natural.jpg',
+          'weber_all_natural.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/weber_all_natural.jpg',
+          'weber_all_natural.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/weber_all_natural.jpg',
+          'weber_all_natural.jpg',
       },
     ],
     categories: [
@@ -16282,26 +16282,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/best_taste_Bread_garry.jpg',
+      'best_taste_Bread_garry.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/best_taste_Bread_garry.jpg',
+          'best_taste_Bread_garry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/best_taste_Bread_garry.jpg',
+          'best_taste_Bread_garry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/best_taste_Bread_garry.jpg',
+          'best_taste_Bread_garry.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/best_taste_Bread_garry.jpg',
+          'best_taste_Bread_garry.jpg',
       },
     ],
     categories: [
@@ -16330,26 +16330,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Everyday_Essentials_Wholemeal_Bread.jpg',
+      'Everyday_Essentials_Wholemeal_Bread.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Everyday_Essentials_Wholemeal_Bread.jpg',
+          'Everyday_Essentials_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Everyday_Essentials_Wholemeal_Bread.jpg',
+          'Everyday_Essentials_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Everyday_Essentials_Wholemeal_Bread.jpg',
+          'Everyday_Essentials_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Everyday_Essentials_Wholemeal_Bread.jpg',
+          'Everyday_Essentials_Wholemeal_Bread.jpg',
       },
     ],
     categories: [
@@ -16377,26 +16377,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+      'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+          'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+          'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+          'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+          'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
       },
     ],
     categories: [
@@ -16425,26 +16425,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/roberts_Seriously_Seeded_Bloomer.jpg',
+      'roberts_Seriously_Seeded_Bloomer.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/roberts_Seriously_Seeded_Bloomer.jpg',
+          'roberts_Seriously_Seeded_Bloomer.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/roberts_Seriously_Seeded_Bloomer.jpg',
+          'roberts_Seriously_Seeded_Bloomer.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/roberts_Seriously_Seeded_Bloomer.jpg',
+          'roberts_Seriously_Seeded_Bloomer.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/roberts_Seriously_Seeded_Bloomer.jpg',
+          'roberts_Seriously_Seeded_Bloomer.jpg',
       },
     ],
     categories: [
@@ -16473,26 +16473,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+      'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+          'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+          'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+          'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+          'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
       },
     ],
     categories: [
@@ -16521,26 +16521,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_low_fat.jpg',
+      'the_village_bakery_danish_low_fat.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_low_fat.jpg',
+          'the_village_bakery_danish_low_fat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_low_fat.jpg',
+          'the_village_bakery_danish_low_fat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_low_fat.jpg',
+          'the_village_bakery_danish_low_fat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_low_fat.jpg',
+          'the_village_bakery_danish_low_fat.jpg',
       },
     ],
     categories: [
@@ -16568,26 +16568,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_Soft_White_Toastie.jpg',
+      'the_village_bakery_danish_Soft_White_Toastie.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_Soft_White_Toastie.jpg',
+          'the_village_bakery_danish_Soft_White_Toastie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_Soft_White_Toastie.jpg',
+          'the_village_bakery_danish_Soft_White_Toastie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_Soft_White_Toastie.jpg',
+          'the_village_bakery_danish_Soft_White_Toastie.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_danish_Soft_White_Toastie.jpg',
+          'the_village_bakery_danish_Soft_White_Toastie.jpg',
       },
     ],
     categories: [
@@ -16616,26 +16616,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Soft_Wholemeal_Bread.jpg',
+      'the_village_bakery_Soft_Wholemeal_Bread.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Soft_Wholemeal_Bread.jpg',
+          'the_village_bakery_Soft_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Soft_Wholemeal_Bread.jpg',
+          'the_village_bakery_Soft_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Soft_Wholemeal_Bread.jpg',
+          'the_village_bakery_Soft_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_village_bakery_Soft_Wholemeal_Bread.jpg',
+          'the_village_bakery_Soft_Wholemeal_Bread.jpg',
       },
     ],
     categories: [
@@ -16663,26 +16663,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Warburtons_Wholemeal_mild_soft.jpg',
+      'Warburtons_Wholemeal_mild_soft.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Warburtons_Wholemeal_mild_soft.jpg',
+          'Warburtons_Wholemeal_mild_soft.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Warburtons_Wholemeal_mild_soft.jpg',
+          'Warburtons_Wholemeal_mild_soft.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Warburtons_Wholemeal_mild_soft.jpg',
+          'Warburtons_Wholemeal_mild_soft.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Warburtons_Wholemeal_mild_soft.jpg',
+          'Warburtons_Wholemeal_mild_soft.jpg',
       },
     ],
     categories: [
@@ -16710,26 +16710,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/fibre1_crunchy_original.jpg',
+      'fibre1_crunchy_original.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/fibre1_crunchy_original.jpg',
+          'fibre1_crunchy_original.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/fibre1_crunchy_original.jpg',
+          'fibre1_crunchy_original.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/fibre1_crunchy_original.jpg',
+          'fibre1_crunchy_original.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/fibre1_crunchy_original.jpg',
+          'fibre1_crunchy_original.jpg',
       },
     ],
     categories: [
@@ -16758,26 +16758,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+      'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+          'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+          'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+          'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+          'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
       },
     ],
     categories: [
@@ -16805,26 +16805,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+      'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+          'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+          'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+          'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+          'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
       },
     ],
     categories: [
@@ -16852,26 +16852,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_made_with_whole_grain_corn_flakes.jpg',
+      'nestle_made_with_whole_grain_corn_flakes.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_made_with_whole_grain_corn_flakes.jpg',
+          'nestle_made_with_whole_grain_corn_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_made_with_whole_grain_corn_flakes.jpg',
+          'nestle_made_with_whole_grain_corn_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_made_with_whole_grain_corn_flakes.jpg',
+          'nestle_made_with_whole_grain_corn_flakes.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nestle_made_with_whole_grain_corn_flakes.jpg',
+          'nestle_made_with_whole_grain_corn_flakes.jpg',
       },
     ],
     categories: [
@@ -16899,26 +16899,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/post_honey_comb_cereal_12.5oz.jpg',
+      'post_honey_comb_cereal_12.5oz.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/post_honey_comb_cereal_12.5oz.jpg',
+          'post_honey_comb_cereal_12.5oz.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/post_honey_comb_cereal_12.5oz.jpg',
+          'post_honey_comb_cereal_12.5oz.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/post_honey_comb_cereal_12.5oz.jpg',
+          'post_honey_comb_cereal_12.5oz.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/post_honey_comb_cereal_12.5oz.jpg',
+          'post_honey_comb_cereal_12.5oz.jpg',
       },
     ],
     categories: [
@@ -16946,26 +16946,26 @@ const productData = [
       'Honey is a sweet, viscous food substance made by bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/beechworth_honey_bee_creamy_creamy_honey.jpg',
+      'beechworth_honey_bee_creamy_creamy_honey.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/beechworth_honey_bee_creamy_creamy_honey.jpg',
+          'beechworth_honey_bee_creamy_creamy_honey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/beechworth_honey_bee_creamy_creamy_honey.jpg',
+          'beechworth_honey_bee_creamy_creamy_honey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/beechworth_honey_bee_creamy_creamy_honey.jpg',
+          'beechworth_honey_bee_creamy_creamy_honey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/beechworth_honey_bee_creamy_creamy_honey.jpg',
+          'beechworth_honey_bee_creamy_creamy_honey.jpg',
       },
     ],
     categories: [
@@ -16993,26 +16993,26 @@ const productData = [
       'Honey is a sweet, viscous food substance made by bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/beekeeper's_naturals_wildflower_raw_honey.jpg",
+      "beekeeper's_naturals_wildflower_raw_honey.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/beekeeper's_naturals_wildflower_raw_honey.jpg",
+          "beekeeper's_naturals_wildflower_raw_honey.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/beekeeper's_naturals_wildflower_raw_honey.jpg",
+          "beekeeper's_naturals_wildflower_raw_honey.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/beekeeper's_naturals_wildflower_raw_honey.jpg",
+          "beekeeper's_naturals_wildflower_raw_honey.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/beekeeper's_naturals_wildflower_raw_honey.jpg",
+          "beekeeper's_naturals_wildflower_raw_honey.jpg",
       },
     ],
     categories: [
@@ -17040,26 +17040,26 @@ const productData = [
       'Honey is a sweet, viscous food substance made by bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/coffee_blossom_honey.jpg',
+      'coffee_blossom_honey.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coffee_blossom_honey.jpg',
+          'coffee_blossom_honey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coffee_blossom_honey.jpg',
+          'coffee_blossom_honey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coffee_blossom_honey.jpg',
+          'coffee_blossom_honey.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coffee_blossom_honey.jpg',
+          'coffee_blossom_honey.jpg',
       },
     ],
     categories: [
@@ -17087,26 +17087,26 @@ const productData = [
       'Honey is a sweet, viscous food substance made by bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Urban_Bee_Honey_fireweed.jpg',
+      'Urban_Bee_Honey_fireweed.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Urban_Bee_Honey_fireweed.jpg',
+          'Urban_Bee_Honey_fireweed.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Urban_Bee_Honey_fireweed.jpg',
+          'Urban_Bee_Honey_fireweed.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Urban_Bee_Honey_fireweed.jpg',
+          'Urban_Bee_Honey_fireweed.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Urban_Bee_Honey_fireweed.jpg',
+          'Urban_Bee_Honey_fireweed.jpg',
       },
     ],
     categories: [
@@ -17134,26 +17134,26 @@ const productData = [
       'Jam typically contains both the juice and flesh of a fruit or vegetable, although one cookbook defines it as a cooked and jelled puree. The term jam refers to a product made of whole fruit cut into pieces or crushed, then heated with water and sugar to activate its pectin before being put into containers:',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/chivers_mixed_fruit_jam.jpg',
+      'chivers_mixed_fruit_jam.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chivers_mixed_fruit_jam.jpg',
+          'chivers_mixed_fruit_jam.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chivers_mixed_fruit_jam.jpg',
+          'chivers_mixed_fruit_jam.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chivers_mixed_fruit_jam.jpg',
+          'chivers_mixed_fruit_jam.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/chivers_mixed_fruit_jam.jpg',
+          'chivers_mixed_fruit_jam.jpg',
       },
     ],
     categories: [
@@ -17181,26 +17181,26 @@ const productData = [
       'Jam typically contains both the juice and flesh of a fruit or vegetable, although one cookbook defines it as a cooked and jelled puree. The term jam refers to a product made of whole fruit cut into pieces or crushed, then heated with water and sugar to activate its pectin before being put into containers:',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/red_jacket_raspberry_jam.jpg',
+      'red_jacket_raspberry_jam.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/red_jacket_raspberry_jam.jpg',
+          'red_jacket_raspberry_jam.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/red_jacket_raspberry_jam.jpg',
+          'red_jacket_raspberry_jam.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/red_jacket_raspberry_jam.jpg',
+          'red_jacket_raspberry_jam.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/red_jacket_raspberry_jam.jpg',
+          'red_jacket_raspberry_jam.jpg',
       },
     ],
     categories: [
@@ -17227,22 +17227,22 @@ const productData = [
     description:
       'Jam typically contains both the juice and flesh of a fruit or vegetable, although one cookbook defines it as a cooked and jelled puree. The term jam refers to a product made of whole fruit cut into pieces or crushed, then heated with water and sugar to activate its pectin before being put into containers:',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Gin_Jam.jpg',
+    image: 'Gin_Jam.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Gin_Jam.jpg',
+        url: 'Gin_Jam.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Gin_Jam.jpg',
+        url: 'Gin_Jam.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Gin_Jam.jpg',
+        url: 'Gin_Jam.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Gin_Jam.jpg',
+        url: 'Gin_Jam.jpg',
       },
     ],
     categories: [
@@ -17270,26 +17270,26 @@ const productData = [
       'Mayonnaise , informally mayo  is a thick cold condiment or dressing commonly used in sandwiches and composed salads or on chips (French fries)',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/best_foods_mayonnaise1.jpg',
+      'best_foods_mayonnaise1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/best_foods_mayonnaise1.jpg',
+          'best_foods_mayonnaise1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/best_foods_mayonnaise1.jpg',
+          'best_foods_mayonnaise1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/best_foods_mayonnaise1.jpg',
+          'best_foods_mayonnaise1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/best_foods_mayonnaise1.jpg',
+          'best_foods_mayonnaise1.jpg',
       },
     ],
     categories: [
@@ -17317,26 +17317,26 @@ const productData = [
       'Mayonnaise , informally mayo  is a thick cold condiment or dressing commonly used in sandwiches and composed salads or on chips (French fries)',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Ballymaloe_Mayonnaise_240g.jpg',
+      'Ballymaloe_Mayonnaise_240g.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ballymaloe_Mayonnaise_240g.jpg',
+          'Ballymaloe_Mayonnaise_240g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ballymaloe_Mayonnaise_240g.jpg',
+          'Ballymaloe_Mayonnaise_240g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ballymaloe_Mayonnaise_240g.jpg',
+          'Ballymaloe_Mayonnaise_240g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ballymaloe_Mayonnaise_240g.jpg',
+          'Ballymaloe_Mayonnaise_240g.jpg',
       },
     ],
     categories: [
@@ -17364,26 +17364,26 @@ const productData = [
       'Mayonnaise , informally mayo  is a thick cold condiment or dressing commonly used in sandwiches and composed salads or on chips (French fries)',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Heinz_Mayonnaise.jpg',
+      'Heinz_Mayonnaise.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Heinz_Mayonnaise.jpg',
+          'Heinz_Mayonnaise.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Heinz_Mayonnaise.jpg',
+          'Heinz_Mayonnaise.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Heinz_Mayonnaise.jpg',
+          'Heinz_Mayonnaise.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Heinz_Mayonnaise.jpg',
+          'Heinz_Mayonnaise.jpg',
       },
     ],
     categories: [
@@ -17411,26 +17411,26 @@ const productData = [
       'Mayonnaise , informally mayo  is a thick cold condiment or dressing commonly used in sandwiches and composed salads or on chips (French fries)',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/kraft_mayonnaise1.jpg',
+      'kraft_mayonnaise1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kraft_mayonnaise1.jpg',
+          'kraft_mayonnaise1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kraft_mayonnaise1.jpg',
+          'kraft_mayonnaise1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kraft_mayonnaise1.jpg',
+          'kraft_mayonnaise1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/kraft_mayonnaise1.jpg',
+          'kraft_mayonnaise1.jpg',
       },
     ],
     categories: [
@@ -17458,26 +17458,26 @@ const productData = [
       'Oats are any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/FITWELL_OAT_ENRICH.jpg',
+      'FITWELL_OAT_ENRICH.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/FITWELL_OAT_ENRICH.jpg',
+          'FITWELL_OAT_ENRICH.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/FITWELL_OAT_ENRICH.jpg',
+          'FITWELL_OAT_ENRICH.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/FITWELL_OAT_ENRICH.jpg',
+          'FITWELL_OAT_ENRICH.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/FITWELL_OAT_ENRICH.jpg',
+          'FITWELL_OAT_ENRICH.jpg',
       },
     ],
     categories: [
@@ -17505,26 +17505,26 @@ const productData = [
       'Oats are any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/quaker_large_flake_oats.jpg',
+      'quaker_large_flake_oats.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/quaker_large_flake_oats.jpg',
+          'quaker_large_flake_oats.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/quaker_large_flake_oats.jpg',
+          'quaker_large_flake_oats.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/quaker_large_flake_oats.jpg',
+          'quaker_large_flake_oats.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/quaker_large_flake_oats.jpg',
+          'quaker_large_flake_oats.jpg',
       },
     ],
     categories: [
@@ -17552,26 +17552,26 @@ const productData = [
       'Oats are any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/mornflake_jumbo_oats.jpg',
+      'mornflake_jumbo_oats.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mornflake_jumbo_oats.jpg',
+          'mornflake_jumbo_oats.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mornflake_jumbo_oats.jpg',
+          'mornflake_jumbo_oats.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mornflake_jumbo_oats.jpg',
+          'mornflake_jumbo_oats.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mornflake_jumbo_oats.jpg',
+          'mornflake_jumbo_oats.jpg',
       },
     ],
     categories: [
@@ -17599,26 +17599,26 @@ const productData = [
       'Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/javarama_classic.jpg',
+      'javarama_classic.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/javarama_classic.jpg',
+          'javarama_classic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/javarama_classic.jpg',
+          'javarama_classic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/javarama_classic.jpg',
+          'javarama_classic.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/javarama_classic.jpg',
+          'javarama_classic.jpg',
       },
     ],
     categories: [
@@ -17646,26 +17646,26 @@ const productData = [
       'Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_house_blend.jpg',
+      'starbucks_house_blend.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_house_blend.jpg',
+          'starbucks_house_blend.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_house_blend.jpg',
+          'starbucks_house_blend.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_house_blend.jpg',
+          'starbucks_house_blend.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_house_blend.jpg',
+          'starbucks_house_blend.jpg',
       },
     ],
     categories: [
@@ -17693,26 +17693,26 @@ const productData = [
       'Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_vanilla_latte.jpg',
+      'starbucks_vanilla_latte.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_vanilla_latte.jpg',
+          'starbucks_vanilla_latte.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_vanilla_latte.jpg',
+          'starbucks_vanilla_latte.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_vanilla_latte.jpg',
+          'starbucks_vanilla_latte.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/starbucks_vanilla_latte.jpg',
+          'starbucks_vanilla_latte.jpg',
       },
     ],
     categories: [
@@ -17740,26 +17740,26 @@ const productData = [
       'Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+      'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+          'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+          'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+          'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+          'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
       },
     ],
     categories: [
@@ -17786,22 +17786,22 @@ const productData = [
     description:
       'An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dragon.jpg',
+    image: 'dragon.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dragon.jpg',
+        url: 'dragon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dragon.jpg',
+        url: 'dragon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dragon.jpg',
+        url: 'dragon.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dragon.jpg',
+        url: 'dragon.jpg',
       },
     ],
     categories: [
@@ -17828,22 +17828,22 @@ const productData = [
     description:
       'An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Monster.jpg',
+    image: 'Monster.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Monster.jpg',
+        url: 'Monster.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Monster.jpg',
+        url: 'Monster.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Monster.jpg',
+        url: 'Monster.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Monster.jpg',
+        url: 'Monster.jpg',
       },
     ],
     categories: [
@@ -17870,22 +17870,22 @@ const productData = [
     description:
       'An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Quake.jpg',
+    image: 'Quake.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Quake.jpg',
+        url: 'Quake.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Quake.jpg',
+        url: 'Quake.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Quake.jpg',
+        url: 'Quake.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Quake.jpg',
+        url: 'Quake.jpg',
       },
     ],
     categories: [
@@ -17912,22 +17912,22 @@ const productData = [
     description:
       'An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).',
     type: 'grocery',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_bull.jpg',
+    image: 'red_bull.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_bull.jpg',
+        url: 'red_bull.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_bull.jpg',
+        url: 'red_bull.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_bull.jpg',
+        url: 'red_bull.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/red_bull.jpg',
+        url: 'red_bull.jpg',
       },
     ],
     categories: [
@@ -17955,26 +17955,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/iceland_tropical_juice_drink.jpg',
+      'iceland_tropical_juice_drink.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/iceland_tropical_juice_drink.jpg',
+          'iceland_tropical_juice_drink.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/iceland_tropical_juice_drink.jpg',
+          'iceland_tropical_juice_drink.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/iceland_tropical_juice_drink.jpg',
+          'iceland_tropical_juice_drink.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/iceland_tropical_juice_drink.jpg',
+          'iceland_tropical_juice_drink.jpg',
       },
     ],
     categories: [
@@ -18002,26 +18002,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/minute_maid_orange.jpg',
+      'minute_maid_orange.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/minute_maid_orange.jpg',
+          'minute_maid_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/minute_maid_orange.jpg',
+          'minute_maid_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/minute_maid_orange.jpg',
+          'minute_maid_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/minute_maid_orange.jpg',
+          'minute_maid_orange.jpg',
       },
     ],
     categories: [
@@ -18049,26 +18049,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nongmo_simply_apple.jpg',
+      'nongmo_simply_apple.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nongmo_simply_apple.jpg',
+          'nongmo_simply_apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nongmo_simply_apple.jpg',
+          'nongmo_simply_apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nongmo_simply_apple.jpg',
+          'nongmo_simply_apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nongmo_simply_apple.jpg',
+          'nongmo_simply_apple.jpg',
       },
     ],
     categories: [
@@ -18096,26 +18096,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_apple.jpg',
+      'tropicana_apple.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_apple.jpg',
+          'tropicana_apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_apple.jpg',
+          'tropicana_apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_apple.jpg',
+          'tropicana_apple.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_apple.jpg',
+          'tropicana_apple.jpg',
       },
     ],
     categories: [
@@ -18143,26 +18143,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_orange_no_pulp.jpg',
+      'tropicana_orange_no_pulp.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_orange_no_pulp.jpg',
+          'tropicana_orange_no_pulp.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_orange_no_pulp.jpg',
+          'tropicana_orange_no_pulp.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_orange_no_pulp.jpg',
+          'tropicana_orange_no_pulp.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tropicana_orange_no_pulp.jpg',
+          'tropicana_orange_no_pulp.jpg',
       },
     ],
     categories: [
@@ -18190,26 +18190,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/7up_lemon_lime_355ml.jpg',
+      '7up_lemon_lime_355ml.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/7up_lemon_lime_355ml.jpg',
+          '7up_lemon_lime_355ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/7up_lemon_lime_355ml.jpg',
+          '7up_lemon_lime_355ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/7up_lemon_lime_355ml.jpg',
+          '7up_lemon_lime_355ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/7up_lemon_lime_355ml.jpg',
+          '7up_lemon_lime_355ml.jpg',
       },
     ],
     categories: [
@@ -18237,26 +18237,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Coca_Cola_200ml_Bottle.jpg',
+      'Coca_Cola_200ml_Bottle.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Coca_Cola_200ml_Bottle.jpg',
+          'Coca_Cola_200ml_Bottle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Coca_Cola_200ml_Bottle.jpg',
+          'Coca_Cola_200ml_Bottle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Coca_Cola_200ml_Bottle.jpg',
+          'Coca_Cola_200ml_Bottle.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Coca_Cola_200ml_Bottle.jpg',
+          'Coca_Cola_200ml_Bottle.jpg',
       },
     ],
     categories: [
@@ -18284,26 +18284,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/coca_cola_zero.jpg',
+      'coca_cola_zero.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coca_cola_zero.jpg',
+          'coca_cola_zero.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coca_cola_zero.jpg',
+          'coca_cola_zero.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coca_cola_zero.jpg',
+          'coca_cola_zero.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coca_cola_zero.jpg',
+          'coca_cola_zero.jpg',
       },
     ],
     categories: [
@@ -18331,26 +18331,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/coke_diet_355ml.jpg',
+      'coke_diet_355ml.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coke_diet_355ml.jpg',
+          'coke_diet_355ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coke_diet_355ml.jpg',
+          'coke_diet_355ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coke_diet_355ml.jpg',
+          'coke_diet_355ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/coke_diet_355ml.jpg',
+          'coke_diet_355ml.jpg',
       },
     ],
     categories: [
@@ -18378,26 +18378,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dr_pepper_diet.jpg',
+      'dr_pepper_diet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dr_pepper_diet.jpg',
+          'dr_pepper_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dr_pepper_diet.jpg',
+          'dr_pepper_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dr_pepper_diet.jpg',
+          'dr_pepper_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dr_pepper_diet.jpg',
+          'dr_pepper_diet.jpg',
       },
     ],
     categories: [
@@ -18425,26 +18425,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Fanta_orange_can_250ml.jpg',
+      'Fanta_orange_can_250ml.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fanta_orange_can_250ml.jpg',
+          'Fanta_orange_can_250ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fanta_orange_can_250ml.jpg',
+          'Fanta_orange_can_250ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fanta_orange_can_250ml.jpg',
+          'Fanta_orange_can_250ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fanta_orange_can_250ml.jpg',
+          'Fanta_orange_can_250ml.jpg',
       },
     ],
     categories: [
@@ -18472,26 +18472,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/mountain_dew_diet.jpg',
+      'mountain_dew_diet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mountain_dew_diet.jpg',
+          'mountain_dew_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mountain_dew_diet.jpg',
+          'mountain_dew_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mountain_dew_diet.jpg',
+          'mountain_dew_diet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mountain_dew_diet.jpg',
+          'mountain_dew_diet.jpg',
       },
     ],
     categories: [
@@ -18519,26 +18519,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/aunt_jemima_original_syrup.jpg',
+      'aunt_jemima_original_syrup.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aunt_jemima_original_syrup.jpg',
+          'aunt_jemima_original_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aunt_jemima_original_syrup.jpg',
+          'aunt_jemima_original_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aunt_jemima_original_syrup.jpg',
+          'aunt_jemima_original_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aunt_jemima_original_syrup.jpg',
+          'aunt_jemima_original_syrup.jpg',
       },
     ],
     categories: [
@@ -18566,26 +18566,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+      'canadian_maple_syrup.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+          'canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+          'canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+          'canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+          'canadian_maple_syrup.jpg',
       },
     ],
     categories: [
@@ -18613,26 +18613,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+      'canadian_maple_syrup.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+          'canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+          'canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+          'canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/canadian_maple_syrup.jpg',
+          'canadian_maple_syrup.jpg',
       },
     ],
     categories: [
@@ -18660,26 +18660,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/gatorade_thirst_quencher_powder_packs_orange.jpg',
+      'gatorade_thirst_quencher_powder_packs_orange.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gatorade_thirst_quencher_powder_packs_orange.jpg',
+          'gatorade_thirst_quencher_powder_packs_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gatorade_thirst_quencher_powder_packs_orange.jpg',
+          'gatorade_thirst_quencher_powder_packs_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gatorade_thirst_quencher_powder_packs_orange.jpg',
+          'gatorade_thirst_quencher_powder_packs_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gatorade_thirst_quencher_powder_packs_orange.jpg',
+          'gatorade_thirst_quencher_powder_packs_orange.jpg',
       },
     ],
     categories: [
@@ -18707,26 +18707,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/horlicks_classic_malt.jpg',
+      'horlicks_classic_malt.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/horlicks_classic_malt.jpg',
+          'horlicks_classic_malt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/horlicks_classic_malt.jpg',
+          'horlicks_classic_malt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/horlicks_classic_malt.jpg',
+          'horlicks_classic_malt.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/horlicks_classic_malt.jpg',
+          'horlicks_classic_malt.jpg',
       },
     ],
     categories: [
@@ -18754,26 +18754,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/servivita_chocolate_syrup.jpg',
+      'servivita_chocolate_syrup.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/servivita_chocolate_syrup.jpg',
+          'servivita_chocolate_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/servivita_chocolate_syrup.jpg',
+          'servivita_chocolate_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/servivita_chocolate_syrup.jpg',
+          'servivita_chocolate_syrup.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/servivita_chocolate_syrup.jpg',
+          'servivita_chocolate_syrup.jpg',
       },
     ],
     categories: [
@@ -18801,26 +18801,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/ava_juice_Detox_Matcha.jpg',
+      'ava_juice_Detox_Matcha.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/ava_juice_Detox_Matcha.jpg',
+          'ava_juice_Detox_Matcha.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/ava_juice_Detox_Matcha.jpg',
+          'ava_juice_Detox_Matcha.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/ava_juice_Detox_Matcha.jpg',
+          'ava_juice_Detox_Matcha.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/ava_juice_Detox_Matcha.jpg',
+          'ava_juice_Detox_Matcha.jpg',
       },
     ],
     categories: [
@@ -18848,26 +18848,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/boh_3in1_instant_tea_mix.jpg',
+      'boh_3in1_instant_tea_mix.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/boh_3in1_instant_tea_mix.jpg',
+          'boh_3in1_instant_tea_mix.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/boh_3in1_instant_tea_mix.jpg',
+          'boh_3in1_instant_tea_mix.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/boh_3in1_instant_tea_mix.jpg',
+          'boh_3in1_instant_tea_mix.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/boh_3in1_instant_tea_mix.jpg',
+          'boh_3in1_instant_tea_mix.jpg',
       },
     ],
     categories: [
@@ -18895,26 +18895,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/crystal_light_lemon_iced_tea.jpg',
+      'crystal_light_lemon_iced_tea.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crystal_light_lemon_iced_tea.jpg',
+          'crystal_light_lemon_iced_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crystal_light_lemon_iced_tea.jpg',
+          'crystal_light_lemon_iced_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crystal_light_lemon_iced_tea.jpg',
+          'crystal_light_lemon_iced_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/crystal_light_lemon_iced_tea.jpg',
+          'crystal_light_lemon_iced_tea.jpg',
       },
     ],
     categories: [
@@ -18942,26 +18942,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/imperial_tea_longjing_tea.jpg',
+      'imperial_tea_longjing_tea.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/imperial_tea_longjing_tea.jpg',
+          'imperial_tea_longjing_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/imperial_tea_longjing_tea.jpg',
+          'imperial_tea_longjing_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/imperial_tea_longjing_tea.jpg',
+          'imperial_tea_longjing_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/imperial_tea_longjing_tea.jpg',
+          'imperial_tea_longjing_tea.jpg',
       },
     ],
     categories: [
@@ -18989,26 +18989,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/luzianne_iced_tea.jpg',
+      'luzianne_iced_tea.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/luzianne_iced_tea.jpg',
+          'luzianne_iced_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/luzianne_iced_tea.jpg',
+          'luzianne_iced_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/luzianne_iced_tea.jpg',
+          'luzianne_iced_tea.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/luzianne_iced_tea.jpg',
+          'luzianne_iced_tea.jpg',
       },
     ],
     categories: [
@@ -19037,26 +19037,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Elkali_natural_alkaline_spring_water.jpg',
+      'Elkali_natural_alkaline_spring_water.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Elkali_natural_alkaline_spring_water.jpg',
+          'Elkali_natural_alkaline_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Elkali_natural_alkaline_spring_water.jpg',
+          'Elkali_natural_alkaline_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Elkali_natural_alkaline_spring_water.jpg',
+          'Elkali_natural_alkaline_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Elkali_natural_alkaline_spring_water.jpg',
+          'Elkali_natural_alkaline_spring_water.jpg',
       },
     ],
     categories: [
@@ -19084,26 +19084,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/glaceau_smart_water.jpg',
+      'glaceau_smart_water.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/glaceau_smart_water.jpg',
+          'glaceau_smart_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/glaceau_smart_water.jpg',
+          'glaceau_smart_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/glaceau_smart_water.jpg',
+          'glaceau_smart_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/glaceau_smart_water.jpg',
+          'glaceau_smart_water.jpg',
       },
     ],
     categories: [
@@ -19131,26 +19131,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/glastonbury_still_spring_water.jpg',
+      'glastonbury_still_spring_water.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/glastonbury_still_spring_water.jpg',
+          'glastonbury_still_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/glastonbury_still_spring_water.jpg',
+          'glastonbury_still_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/glastonbury_still_spring_water.jpg',
+          'glastonbury_still_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/glastonbury_still_spring_water.jpg',
+          'glastonbury_still_spring_water.jpg',
       },
     ],
     categories: [
@@ -19178,26 +19178,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/poland_spring_natural_spring_water.jpg',
+      'poland_spring_natural_spring_water.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/poland_spring_natural_spring_water.jpg',
+          'poland_spring_natural_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/poland_spring_natural_spring_water.jpg',
+          'poland_spring_natural_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/poland_spring_natural_spring_water.jpg',
+          'poland_spring_natural_spring_water.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/poland_spring_natural_spring_water.jpg',
+          'poland_spring_natural_spring_water.jpg',
       },
     ],
     categories: [
@@ -19225,26 +19225,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/westfield_pure_spring_water_300ml.jpg',
+      'westfield_pure_spring_water_300ml.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/westfield_pure_spring_water_300ml.jpg',
+          'westfield_pure_spring_water_300ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/westfield_pure_spring_water_300ml.jpg',
+          'westfield_pure_spring_water_300ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/westfield_pure_spring_water_300ml.jpg',
+          'westfield_pure_spring_water_300ml.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/westfield_pure_spring_water_300ml.jpg',
+          'westfield_pure_spring_water_300ml.jpg',
       },
     ],
     categories: [
@@ -19272,26 +19272,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+      'attitude_night_bubble_bath.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+          'attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+          'attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+          'attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+          'attitude_night_bubble_bath.jpg',
       },
     ],
     categories: [
@@ -19319,26 +19319,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+      'aveeno_baby_shampoo.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+          'aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+          'aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+          'aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+          'aveeno_baby_shampoo.jpg',
       },
     ],
     categories: [
@@ -19366,26 +19366,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+      'moisturizing_hair_bath_g.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+          'moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+          'moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+          'moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+          'moisturizing_hair_bath_g.jpg',
       },
     ],
     categories: [
@@ -19413,26 +19413,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+      'neutrogena_Body_Oil.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+          'neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+          'neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+          'neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+          'neutrogena_Body_Oil.jpg',
       },
     ],
     categories: [
@@ -19460,26 +19460,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+      'eo_body_lotion.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+          'eo_body_lotion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+          'eo_body_lotion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+          'eo_body_lotion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+          'eo_body_lotion.jpg',
       },
     ],
     categories: [
@@ -19507,26 +19507,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_aloe_vera_moisturizing_cream.jpg',
+      'gnc_aloe_vera_moisturizing_cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_aloe_vera_moisturizing_cream.jpg',
+          'gnc_aloe_vera_moisturizing_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_aloe_vera_moisturizing_cream.jpg',
+          'gnc_aloe_vera_moisturizing_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_aloe_vera_moisturizing_cream.jpg',
+          'gnc_aloe_vera_moisturizing_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_aloe_vera_moisturizing_cream.jpg',
+          'gnc_aloe_vera_moisturizing_cream.jpg',
       },
     ],
     categories: [
@@ -19554,26 +19554,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_paris_age_perfect.jpg',
+      'loreal_paris_age_perfect.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_paris_age_perfect.jpg',
+          'loreal_paris_age_perfect.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_paris_age_perfect.jpg',
+          'loreal_paris_age_perfect.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_paris_age_perfect.jpg',
+          'loreal_paris_age_perfect.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_paris_age_perfect.jpg',
+          'loreal_paris_age_perfect.jpg',
       },
     ],
     categories: [
@@ -19601,26 +19601,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/waso_shiseido_mega_hydrating_cream.jpg',
+      'waso_shiseido_mega_hydrating_cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/waso_shiseido_mega_hydrating_cream.jpg',
+          'waso_shiseido_mega_hydrating_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/waso_shiseido_mega_hydrating_cream.jpg',
+          'waso_shiseido_mega_hydrating_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/waso_shiseido_mega_hydrating_cream.jpg',
+          'waso_shiseido_mega_hydrating_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/waso_shiseido_mega_hydrating_cream.jpg',
+          'waso_shiseido_mega_hydrating_cream.jpg',
       },
     ],
     categories: [
@@ -19648,26 +19648,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      "https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_women's_progesterone_cream.jpg",
+      "gnc_women's_progesterone_cream.jpg",
     gallery: [
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_women's_progesterone_cream.jpg",
+          "gnc_women's_progesterone_cream.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_women's_progesterone_cream.jpg",
+          "gnc_women's_progesterone_cream.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_women's_progesterone_cream.jpg",
+          "gnc_women's_progesterone_cream.jpg",
       },
 
       {
         url:
-          "https://s3.amazonaws.com/redqteam.com/pickbazar/gnc_women's_progesterone_cream.jpg",
+          "gnc_women's_progesterone_cream.jpg",
       },
     ],
     categories: [
@@ -19695,26 +19695,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+      'bionsen_DEO_ROLL_ON.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+          'bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+          'bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+          'bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+          'bionsen_DEO_ROLL_ON.jpg',
       },
     ],
     categories: [
@@ -19742,26 +19742,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+      'vichy_deodorant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+          'vichy_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+          'vichy_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+          'vichy_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+          'vichy_deodorant.jpg',
       },
     ],
     categories: [
@@ -19789,26 +19789,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+      'type_A_ashley_graham_deodorant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+          'type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+          'type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+          'type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+          'type_A_ashley_graham_deodorant.jpg',
       },
     ],
     categories: [
@@ -19836,26 +19836,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+      'the_post_deodorant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+          'the_post_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+          'the_post_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+          'the_post_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+          'the_post_deodorant.jpg',
       },
     ],
     categories: [
@@ -19883,26 +19883,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+      'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
     ],
     categories: [
@@ -19930,26 +19930,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+      'spadet_Deodorant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+          'spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+          'spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+          'spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+          'spadet_Deodorant.jpg',
       },
     ],
     categories: [
@@ -19977,26 +19977,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+      'face_republic_Sun_gel.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+          'face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+          'face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+          'face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+          'face_republic_Sun_gel.jpg',
       },
     ],
     categories: [
@@ -20024,26 +20024,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+      'frei_ol_urea2in1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+          'frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+          'frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+          'frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+          'frei_ol_urea2in1.jpg',
       },
     ],
     categories: [
@@ -20071,26 +20071,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+      'garnier_pure_active.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+          'garnier_pure_active.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+          'garnier_pure_active.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+          'garnier_pure_active.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+          'garnier_pure_active.jpg',
       },
     ],
     categories: [
@@ -20118,26 +20118,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+      'nuage_men_facial_wash.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+          'nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+          'nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+          'nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+          'nuage_men_facial_wash.jpg',
       },
     ],
     categories: [
@@ -20165,26 +20165,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+      'absolute_plus_Meat_Dental_Set_.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+          'absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+          'absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+          'absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+          'absolute_plus_Meat_Dental_Set_.jpg',
       },
     ],
     categories: [
@@ -20212,26 +20212,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_oral_care_kit1.jpg',
+      'dentek_professional_oral_care_kit1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_oral_care_kit1.jpg',
+          'dentek_professional_oral_care_kit1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_oral_care_kit1.jpg',
+          'dentek_professional_oral_care_kit1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_oral_care_kit1.jpg',
+          'dentek_professional_oral_care_kit1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_oral_care_kit1.jpg',
+          'dentek_professional_oral_care_kit1.jpg',
       },
     ],
     categories: [
@@ -20259,26 +20259,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_oral_care_cleaning_kit.jpg',
+      'gum_oral_care_cleaning_kit.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_oral_care_cleaning_kit.jpg',
+          'gum_oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_oral_care_cleaning_kit.jpg',
+          'gum_oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_oral_care_cleaning_kit.jpg',
+          'gum_oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_oral_care_cleaning_kit.jpg',
+          'gum_oral_care_cleaning_kit.jpg',
       },
     ],
     categories: [
@@ -20306,26 +20306,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+      'Duke_Cannon_SHAVE_CREAM.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+          'Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+          'Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+          'Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+          'Duke_Cannon_SHAVE_CREAM.jpg',
       },
     ],
     categories: [
@@ -20353,26 +20353,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+      'nair_hair_remover.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+          'nair_hair_remover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+          'nair_hair_remover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+          'nair_hair_remover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+          'nair_hair_remover.jpg',
       },
     ],
     categories: [
@@ -20400,26 +20400,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+      'Longmarket_Barber_Aftershave_Balm.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+          'Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+          'Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+          'Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+          'Longmarket_Barber_Aftershave_Balm.jpg',
       },
     ],
     categories: [
@@ -20447,26 +20447,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+      'espa_men_dual_action_shave_mud.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+          'espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+          'espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+          'espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+          'espa_men_dual_action_shave_mud.jpg',
       },
     ],
     categories: [
@@ -20494,26 +20494,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+      'human_nature_shaving_cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+          'human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+          'human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+          'human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+          'human_nature_shaving_cream.jpg',
       },
     ],
     categories: [
@@ -20541,26 +20541,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+      'pacific_shaving_co._natural_shaving_cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+          'pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+          'pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+          'pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+          'pacific_shaving_co._natural_shaving_cream.jpg',
       },
     ],
     categories: [
@@ -20588,26 +20588,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+      'Duke_Cannon_SHAVE_CREAM.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+          'Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+          'Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+          'Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Duke_Cannon_SHAVE_CREAM.jpg',
+          'Duke_Cannon_SHAVE_CREAM.jpg',
       },
     ],
     categories: [
@@ -20630,26 +20630,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+      'nair_hair_remover.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+          'nair_hair_remover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+          'nair_hair_remover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+          'nair_hair_remover.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nair_hair_remover.jpg',
+          'nair_hair_remover.jpg',
       },
     ],
     categories: [
@@ -20672,26 +20672,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+      'Longmarket_Barber_Aftershave_Balm.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+          'Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+          'Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+          'Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Longmarket_Barber_Aftershave_Balm.jpg',
+          'Longmarket_Barber_Aftershave_Balm.jpg',
       },
     ],
     categories: [
@@ -20714,26 +20714,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+      'espa_men_dual_action_shave_mud.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+          'espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+          'espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+          'espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/espa_men_dual_action_shave_mud.jpg',
+          'espa_men_dual_action_shave_mud.jpg',
       },
     ],
     categories: [
@@ -20756,26 +20756,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+      'human_nature_shaving_cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+          'human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+          'human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+          'human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/human_nature_shaving_cream.jpg',
+          'human_nature_shaving_cream.jpg',
       },
     ],
     categories: [
@@ -20798,26 +20798,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+      'pacific_shaving_co._natural_shaving_cream.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+          'pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+          'pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+          'pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/pacific_shaving_co._natural_shaving_cream.jpg',
+          'pacific_shaving_co._natural_shaving_cream.jpg',
       },
     ],
     categories: [
@@ -20840,26 +20840,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+      'absolute_plus_Meat_Dental_Set_.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+          'absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+          'absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+          'absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/absolute_plus_Meat_Dental_Set_.jpg',
+          'absolute_plus_Meat_Dental_Set_.jpg',
       },
     ],
     categories: [
@@ -20882,26 +20882,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg',
+      'dentek_professional_Oral_care_kit1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg',
+          'dentek_professional_Oral_care_kit1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg',
+          'dentek_professional_Oral_care_kit1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg',
+          'dentek_professional_Oral_care_kit1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dentek_professional_Oral_care_kit1.jpg',
+          'dentek_professional_Oral_care_kit1.jpg',
       },
     ],
     categories: [
@@ -20924,26 +20924,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_Oral_care_cleaning_kit.jpg',
+      'gum_Oral_care_cleaning_kit.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_Oral_care_cleaning_kit.jpg',
+          'gum_Oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_Oral_care_cleaning_kit.jpg',
+          'gum_Oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_Oral_care_cleaning_kit.jpg',
+          'gum_Oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gum_Oral_care_cleaning_kit.jpg',
+          'gum_Oral_care_cleaning_kit.jpg',
       },
     ],
     categories: [
@@ -20966,26 +20966,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+      'face_republic_Sun_gel.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+          'face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+          'face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+          'face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/face_republic_Sun_gel.jpg',
+          'face_republic_Sun_gel.jpg',
       },
     ],
     categories: [
@@ -21008,26 +21008,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+      'frei_ol_urea2in1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+          'frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+          'frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+          'frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/frei_ol_urea2in1.jpg',
+          'frei_ol_urea2in1.jpg',
       },
     ],
     categories: [
@@ -21050,26 +21050,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+      'garnier_pure_active.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+          'garnier_pure_active.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+          'garnier_pure_active.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+          'garnier_pure_active.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/garnier_pure_active.jpg',
+          'garnier_pure_active.jpg',
       },
     ],
     categories: [
@@ -21092,26 +21092,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+      'nuage_men_facial_wash.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+          'nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+          'nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+          'nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nuage_men_facial_wash.jpg',
+          'nuage_men_facial_wash.jpg',
       },
     ],
     categories: [
@@ -21134,26 +21134,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+      'bionsen_DEO_ROLL_ON.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+          'bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+          'bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+          'bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/bionsen_DEO_ROLL_ON.jpg',
+          'bionsen_DEO_ROLL_ON.jpg',
       },
     ],
     categories: [
@@ -21176,26 +21176,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+      'vichy_deodorant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+          'vichy_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+          'vichy_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+          'vichy_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/vichy_deodorant.jpg',
+          'vichy_deodorant.jpg',
       },
     ],
     categories: [
@@ -21218,26 +21218,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+      'type_A_ashley_graham_deodorant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+          'type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+          'type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+          'type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/type_A_ashley_graham_deodorant.jpg',
+          'type_A_ashley_graham_deodorant.jpg',
       },
     ],
     categories: [
@@ -21260,26 +21260,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+      'the_post_deodorant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+          'the_post_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+          'the_post_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+          'the_post_deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/the_post_deodorant.jpg',
+          'the_post_deodorant.jpg',
       },
     ],
     categories: [
@@ -21302,26 +21302,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+      'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
     ],
     categories: [
@@ -21344,26 +21344,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+      'spadet_Deodorant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+          'spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+          'spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+          'spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/spadet_Deodorant.jpg',
+          'spadet_Deodorant.jpg',
       },
     ],
     categories: [
@@ -21386,26 +21386,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+      'attitude_night_bubble_bath.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+          'attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+          'attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+          'attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/attitude_night_bubble_bath.jpg',
+          'attitude_night_bubble_bath.jpg',
       },
     ],
     categories: [
@@ -21428,26 +21428,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+      'aveeno_baby_shampoo.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+          'aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+          'aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+          'aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/aveeno_baby_shampoo.jpg',
+          'aveeno_baby_shampoo.jpg',
       },
     ],
     categories: [
@@ -21470,26 +21470,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+      'moisturizing_hair_bath_g.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+          'moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+          'moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+          'moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/moisturizing_hair_bath_g.jpg',
+          'moisturizing_hair_bath_g.jpg',
       },
     ],
     categories: [
@@ -21512,26 +21512,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+      'neutrogena_Body_Oil.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+          'neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+          'neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+          'neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/neutrogena_Body_Oil.jpg',
+          'neutrogena_Body_Oil.jpg',
       },
     ],
     categories: [
@@ -21554,26 +21554,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+      'eo_body_lotion.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+          'eo_body_lotion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+          'eo_body_lotion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+          'eo_body_lotion.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/eo_body_lotion.jpg',
+          'eo_body_lotion.jpg',
       },
     ],
     categories: [
@@ -21596,26 +21596,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/EXPERT_WEAR_EYE_SHADOW.jpg',
+      'EXPERT_WEAR_EYE_SHADOW.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/EXPERT_WEAR_EYE_SHADOW.jpg',
+          'EXPERT_WEAR_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/EXPERT_WEAR_EYE_SHADOW.jpg',
+          'EXPERT_WEAR_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/EXPERT_WEAR_EYE_SHADOW.jpg',
+          'EXPERT_WEAR_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/EXPERT_WEAR_EYE_SHADOW.jpg',
+          'EXPERT_WEAR_EYE_SHADOW.jpg',
       },
     ],
     categories: [
@@ -21643,26 +21643,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Matte_Bar_Eyeshadow.jpg',
+      'Matte_Bar_Eyeshadow.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Matte_Bar_Eyeshadow.jpg',
+          'Matte_Bar_Eyeshadow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Matte_Bar_Eyeshadow.jpg',
+          'Matte_Bar_Eyeshadow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Matte_Bar_Eyeshadow.jpg',
+          'Matte_Bar_Eyeshadow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Matte_Bar_Eyeshadow.jpg',
+          'Matte_Bar_Eyeshadow.jpg',
       },
     ],
     categories: [
@@ -21690,26 +21690,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/SODA_POP_EYESHADOW.jpg',
+      'SODA_POP_EYESHADOW.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/SODA_POP_EYESHADOW.jpg',
+          'SODA_POP_EYESHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/SODA_POP_EYESHADOW.jpg',
+          'SODA_POP_EYESHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/SODA_POP_EYESHADOW.jpg',
+          'SODA_POP_EYESHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/SODA_POP_EYESHADOW.jpg',
+          'SODA_POP_EYESHADOW.jpg',
       },
     ],
     categories: [
@@ -21737,26 +21737,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/THE%20CITY_MINI_PALETTE.jpg',
+      'THE%20CITY_MINI_PALETTE.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE%20CITY_MINI_PALETTE.jpg',
+          'THE%20CITY_MINI_PALETTE.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE%20CITY_MINI_PALETTE.jpg',
+          'THE%20CITY_MINI_PALETTE.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE%20CITY_MINI_PALETTE.jpg',
+          'THE%20CITY_MINI_PALETTE.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE%20CITY_MINI_PALETTE.jpg',
+          'THE%20CITY_MINI_PALETTE.jpg',
       },
     ],
     categories: [
@@ -21784,26 +21784,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_BURGUNDY_BAR_EYESHADOW.jpg',
+      'THE_BURGUNDY_BAR_EYESHADOW.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_BURGUNDY_BAR_EYESHADOW.jpg',
+          'THE_BURGUNDY_BAR_EYESHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_BURGUNDY_BAR_EYESHADOW.jpg',
+          'THE_BURGUNDY_BAR_EYESHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_BURGUNDY_BAR_EYESHADOW.jpg',
+          'THE_BURGUNDY_BAR_EYESHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_BURGUNDY_BAR_EYESHADOW.jpg',
+          'THE_BURGUNDY_BAR_EYESHADOW.jpg',
       },
     ],
     categories: [
@@ -21831,26 +21831,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_ROCK_NUDES_EYE_SHADOW.jpg',
+      'THE_ROCK_NUDES_EYE_SHADOW.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_ROCK_NUDES_EYE_SHADOW.jpg',
+          'THE_ROCK_NUDES_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_ROCK_NUDES_EYE_SHADOW.jpg',
+          'THE_ROCK_NUDES_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_ROCK_NUDES_EYE_SHADOW.jpg',
+          'THE_ROCK_NUDES_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/THE_ROCK_NUDES_EYE_SHADOW.jpg',
+          'THE_ROCK_NUDES_EYE_SHADOW.jpg',
       },
     ],
     categories: [
@@ -21879,26 +21879,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+      'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+          'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+          'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+          'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+          'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
       },
     ],
     categories: [
@@ -21926,26 +21926,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/TOTAL_TEMPTATION_EYESHADOW.jpeg',
+      'TOTAL_TEMPTATION_EYESHADOW.jpeg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/TOTAL_TEMPTATION_EYESHADOW.jpeg',
+          'TOTAL_TEMPTATION_EYESHADOW.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/TOTAL_TEMPTATION_EYESHADOW.jpeg',
+          'TOTAL_TEMPTATION_EYESHADOW.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/TOTAL_TEMPTATION_EYESHADOW.jpeg',
+          'TOTAL_TEMPTATION_EYESHADOW.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/TOTAL_TEMPTATION_EYESHADOW.jpeg',
+          'TOTAL_TEMPTATION_EYESHADOW.jpeg',
       },
     ],
     categories: [
@@ -21972,22 +21972,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png',
+    image: 'roadster.png',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png',
+        url: 'roadster.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png',
+        url: 'roadster.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png',
+        url: 'roadster.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/roadster.png',
+        url: 'roadster.png',
       },
     ],
     categories: [
@@ -22014,26 +22014,26 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg',
+    image: 'RICHTAN_hero.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg',
+          'RICHTAN_hero.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg',
+          'RICHTAN_hero.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg',
+          'RICHTAN_hero.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/RICHTAN_hero.jpg',
+          'RICHTAN_hero.jpg',
       },
     ],
     categories: [
@@ -22060,22 +22060,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg',
+    image: 'Invictus.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg',
+        url: 'Invictus.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg',
+        url: 'Invictus.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg',
+        url: 'Invictus.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Invictus.jpg',
+        url: 'Invictus.jpg',
       },
     ],
     categories: [
@@ -22103,26 +22103,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg',
+      'High_Lander_Light_Khaki.jpeg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg',
+          'High_Lander_Light_Khaki.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg',
+          'High_Lander_Light_Khaki.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg',
+          'High_Lander_Light_Khaki.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Light_Khaki.jpeg',
+          'High_Lander_Light_Khaki.jpeg',
       },
     ],
     categories: [
@@ -22150,26 +22150,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpg',
+      'High_Lander_Deep_Khaki.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpg',
+          'High_Lander_Deep_Khaki.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpeg',
+          'High_Lander_Deep_Khaki.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpeg',
+          'High_Lander_Deep_Khaki.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander_Deep_Khaki.jpeg',
+          'High_Lander_Deep_Khaki.jpeg',
       },
     ],
     categories: [
@@ -22197,26 +22197,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpg',
+      'A.P.C._classic_chinos.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpg',
+          'A.P.C._classic_chinos.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpeg',
+          'A.P.C._classic_chinos.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpeg',
+          'A.P.C._classic_chinos.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/A.P.C._classic_chinos.jpeg',
+          'A.P.C._classic_chinos.jpeg',
       },
     ],
     categories: [
@@ -22243,26 +22243,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/David_Jones.jpg',
+    image: 'David_Jones.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/David_Jones.jpg',
+          'David_Jones.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/David_Jones.jpg',
+          'David_Jones.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/David_Jones.jpg',
+          'David_Jones.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/David_Jones.jpg',
+          'David_Jones.jpg',
       },
     ],
     categories: [
@@ -22289,22 +22289,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/GOLDERS.jpg',
+    image: 'GOLDERS.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/GOLDERS.jpg',
+        url: 'GOLDERS.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/GOLDERS.jpg',
+        url: 'GOLDERS.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/GOLDERS.jpg',
+        url: 'GOLDERS.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/GOLDERS.jpg',
+        url: 'GOLDERS.jpg',
       },
     ],
     categories: [
@@ -22331,22 +22331,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mos_Mosh.jpg',
+    image: 'Mos_Mosh.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mos_Mosh.jpg',
+        url: 'Mos_Mosh.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mos_Mosh.jpg',
+        url: 'Mos_Mosh.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mos_Mosh.jpg',
+        url: 'Mos_Mosh.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Mos_Mosh.jpg',
+        url: 'Mos_Mosh.jpg',
       },
     ],
     categories: [
@@ -22373,22 +22373,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raymond.jpg',
+    image: 'Raymond.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raymond.jpg',
+        url: 'Raymond.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raymond.jpg',
+        url: 'Raymond.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raymond.jpg',
+        url: 'Raymond.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raymond.jpg',
+        url: 'Raymond.jpg',
       },
     ],
     categories: [
@@ -22415,22 +22415,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: "https://s3.amazonaws.com/redqteam.com/pickbazar/Ricki's.jpg",
+    image: "Ricki's.jpg",
     gallery: [
       {
-        url: "https://s3.amazonaws.com/redqteam.com/pickbazar/Ricki's.jpg",
+        url: "Ricki's.jpg",
       },
 
       {
-        url: "https://s3.amazonaws.com/redqteam.com/pickbazar/Ricki's.jpg",
+        url: "Ricki's.jpg",
       },
 
       {
-        url: "https://s3.amazonaws.com/redqteam.com/pickbazar/Ricki's.jpg",
+        url: "Ricki's.jpg",
       },
 
       {
-        url: "https://s3.amazonaws.com/redqteam.com/pickbazar/Ricki's.jpg",
+        url: "Ricki's.jpg",
       },
     ],
     categories: [
@@ -22457,22 +22457,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/The_Row.jpg',
+    image: 'The_Row.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/The_Row.jpg',
+        url: 'The_Row.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/The_Row.jpg',
+        url: 'The_Row.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/The_Row.jpg',
+        url: 'The_Row.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/The_Row.jpg',
+        url: 'The_Row.jpg',
       },
     ],
     categories: [
@@ -22500,26 +22500,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Bluebird_M_AlpineStartJacket.jpg',
+      'Bluebird_M_AlpineStartJacket.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Bluebird_M_AlpineStartJacket.jpg',
+          'Bluebird_M_AlpineStartJacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Bluebird_M_AlpineStartJacket.jpg',
+          'Bluebird_M_AlpineStartJacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Bluebird_M_AlpineStartJacket.jpg',
+          'Bluebird_M_AlpineStartJacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Bluebird_M_AlpineStartJacket.jpg',
+          'Bluebird_M_AlpineStartJacket.jpg',
       },
     ],
     categories: [
@@ -22547,26 +22547,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_taped_sports_jacket_in_wine.jpg',
+      'Fred_perry_taped_sports_jacket_in_wine.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_taped_sports_jacket_in_wine.jpg',
+          'Fred_perry_taped_sports_jacket_in_wine.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_taped_sports_jacket_in_wine.jpg',
+          'Fred_perry_taped_sports_jacket_in_wine.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_taped_sports_jacket_in_wine.jpg',
+          'Fred_perry_taped_sports_jacket_in_wine.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_taped_sports_jacket_in_wine.jpg',
+          'Fred_perry_taped_sports_jacket_in_wine.jpg',
       },
     ],
     categories: [
@@ -22594,26 +22594,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+      'Loap_infery_kids_winter_jacket_blue_gray.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
     ],
     categories: [
@@ -22641,26 +22641,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+      'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+          'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+          'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+          'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+          'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
       },
     ],
     categories: [
@@ -22688,26 +22688,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+      'Loap_infery_kids_winter_jacket_blue_gray.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
     ],
     categories: [
@@ -22735,26 +22735,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+      'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+          'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+          'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+          'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+          'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
       },
     ],
     categories: [
@@ -22782,26 +22782,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_red.jpg',
+      'Loap_jerryk_mens_winter_city_jacket_red.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_red.jpg',
+          'Loap_jerryk_mens_winter_city_jacket_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_red.jpg',
+          'Loap_jerryk_mens_winter_city_jacket_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_red.jpg',
+          'Loap_jerryk_mens_winter_city_jacket_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Loap_jerryk_mens_winter_city_jacket_red.jpg',
+          'Loap_jerryk_mens_winter_city_jacket_red.jpg',
       },
     ],
     categories: [
@@ -22829,26 +22829,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster_Polar_fleece_jacket.jpg',
+      'Roadster_Polar_fleece_jacket.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster_Polar_fleece_jacket.jpg',
+          'Roadster_Polar_fleece_jacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster_Polar_fleece_jacket.jpg',
+          'Roadster_Polar_fleece_jacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster_Polar_fleece_jacket.jpg',
+          'Roadster_Polar_fleece_jacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster_Polar_fleece_jacket.jpg',
+          'Roadster_Polar_fleece_jacket.jpg',
       },
     ],
     categories: [
@@ -22876,26 +22876,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Montane_womens_phoenix_jacket.jpg',
+      'Montane_womens_phoenix_jacket.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Montane_womens_phoenix_jacket.jpg',
+          'Montane_womens_phoenix_jacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Montane_womens_phoenix_jacket.jpg',
+          'Montane_womens_phoenix_jacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Montane_womens_phoenix_jacket.jpg',
+          'Montane_womens_phoenix_jacket.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Montane_womens_phoenix_jacket.jpg',
+          'Montane_womens_phoenix_jacket.jpg',
       },
     ],
     categories: [
@@ -22923,26 +22923,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Score_lazio_red.jpg',
+      'Score_lazio_red.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Score_lazio_red.jpg',
+          'Score_lazio_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Score_lazio_red.jpg',
+          'Score_lazio_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Score_lazio_red.jpg',
+          'Score_lazio_red.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Score_lazio_red.jpg',
+          'Score_lazio_red.jpg',
       },
     ],
     categories: [
@@ -22970,26 +22970,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_Taverner.jpg',
+      'Brook_Taverner.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_Taverner.jpg',
+          'Brook_Taverner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_Taverner.jpg',
+          'Brook_Taverner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_Taverner.jpg',
+          'Brook_Taverner.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_Taverner.jpg',
+          'Brook_Taverner.jpg',
       },
     ],
     categories: [
@@ -23017,26 +23017,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_taverner_scapoli_ladies_waistcoat.jpg',
+      'Brook_taverner_scapoli_ladies_waistcoat.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_taverner_scapoli_ladies_waistcoat.jpg',
+          'Brook_taverner_scapoli_ladies_waistcoat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_taverner_scapoli_ladies_waistcoat.jpg',
+          'Brook_taverner_scapoli_ladies_waistcoat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_taverner_scapoli_ladies_waistcoat.jpg',
+          'Brook_taverner_scapoli_ladies_waistcoat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Brook_taverner_scapoli_ladies_waistcoat.jpg',
+          'Brook_taverner_scapoli_ladies_waistcoat.jpg',
       },
     ],
     categories: [
@@ -23064,26 +23064,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Chill_Winston.jpg',
+      'Chill_Winston.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chill_Winston.jpg',
+          'Chill_Winston.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chill_Winston.jpg',
+          'Chill_Winston.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chill_Winston.jpg',
+          'Chill_Winston.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Chill_Winston.jpg',
+          'Chill_Winston.jpg',
       },
     ],
     categories: [
@@ -23110,22 +23110,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Deyann.jpg',
+    image: 'Deyann.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Deyann.jpg',
+        url: 'Deyann.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Deyann.jpg',
+        url: 'Deyann.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Deyann.jpg',
+        url: 'Deyann.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Deyann.jpg',
+        url: 'Deyann.jpg',
       },
     ],
     categories: [
@@ -23153,26 +23153,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Hypernation_render_Gilet.jpg',
+      'Hypernation_render_Gilet.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hypernation_render_Gilet.jpg',
+          'Hypernation_render_Gilet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hypernation_render_Gilet.jpg',
+          'Hypernation_render_Gilet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hypernation_render_Gilet.jpg',
+          'Hypernation_render_Gilet.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hypernation_render_Gilet.jpg',
+          'Hypernation_render_Gilet.jpg',
       },
     ],
     categories: [
@@ -23199,22 +23199,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Jack&Jones.jpg',
+    image: 'Jack&Jones.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Jack&Jones.jpg',
+        url: 'Jack&Jones.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Jack&Jones.jpg',
+        url: 'Jack&Jones.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Jack&Jones.jpg',
+        url: 'Jack&Jones.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Jack&Jones.jpg',
+        url: 'Jack&Jones.jpg',
       },
     ],
     categories: [
@@ -23241,22 +23241,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raas.jpg',
+    image: 'Raas.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raas.jpg',
+        url: 'Raas.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raas.jpg',
+        url: 'Raas.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raas.jpg',
+        url: 'Raas.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Raas.jpg',
+        url: 'Raas.jpg',
       },
     ],
     categories: [
@@ -23284,26 +23284,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Rhino-_Waistcoat_Navy.jpg',
+      'Rhino-_Waistcoat_Navy.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Rhino-_Waistcoat_Navy.jpg',
+          'Rhino-_Waistcoat_Navy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Rhino-_Waistcoat_Navy.jpg',
+          'Rhino-_Waistcoat_Navy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Rhino-_Waistcoat_Navy.jpg',
+          'Rhino-_Waistcoat_Navy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Rhino-_Waistcoat_Navy.jpg',
+          'Rhino-_Waistcoat_Navy.jpg',
       },
     ],
     categories: [
@@ -23331,26 +23331,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Scott_washable_performance_waistcoat.jpg',
+      'Scott_washable_performance_waistcoat.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scott_washable_performance_waistcoat.jpg',
+          'Scott_washable_performance_waistcoat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scott_washable_performance_waistcoat.jpg',
+          'Scott_washable_performance_waistcoat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scott_washable_performance_waistcoat.jpg',
+          'Scott_washable_performance_waistcoat.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scott_washable_performance_waistcoat.jpg',
+          'Scott_washable_performance_waistcoat.jpg',
       },
     ],
     categories: [
@@ -23378,22 +23378,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bossini.jpg',
+    image: 'Bossini.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bossini.jpg',
+        url: 'Bossini.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bossini.jpg',
+        url: 'Bossini.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bossini.jpg',
+        url: 'Bossini.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Bossini.jpg',
+        url: 'Bossini.jpg',
       },
     ],
     categories: [
@@ -23420,26 +23420,26 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png',
+    image: 'High_Lander.png',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png',
+          'High_Lander.png',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png',
+          'High_Lander.png',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png',
+          'High_Lander.png',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/High_Lander.png',
+          'High_Lander.png',
       },
     ],
     categories: [
@@ -23466,22 +23466,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg',
+    image: 'Roadster.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg',
+        url: 'Roadster.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg',
+        url: 'Roadster.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg',
+        url: 'Roadster.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Roadster.jpg',
+        url: 'Roadster.jpg',
       },
     ],
     categories: [
@@ -23509,26 +23509,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg',
+      'Scotch_soda_ralston_stone_and_sand.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg',
+          'Scotch_soda_ralston_stone_and_sand.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg',
+          'Scotch_soda_ralston_stone_and_sand.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg',
+          'Scotch_soda_ralston_stone_and_sand.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_ralston_stone_and_sand.jpg',
+          'Scotch_soda_ralston_stone_and_sand.jpg',
       },
     ],
     categories: [
@@ -23556,26 +23556,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg',
+      'Scotch_soda_skim.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg',
+          'Scotch_soda_skim.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg',
+          'Scotch_soda_skim.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg',
+          'Scotch_soda_skim.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Scotch_soda_skim.jpg',
+          'Scotch_soda_skim.jpg',
       },
     ],
     categories: [
@@ -23602,22 +23602,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg',
+    image: 'Wrogn.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg',
+        url: 'Wrogn.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg',
+        url: 'Wrogn.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg',
+        url: 'Wrogn.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Wrogn.jpg',
+        url: 'Wrogn.jpg',
       },
     ],
     categories: [
@@ -23644,22 +23644,22 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg',
+    image: '2Go.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg',
+        url: '2Go.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg',
+        url: '2Go.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg',
+        url: '2Go.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/2Go.jpg',
+        url: '2Go.jpg',
       },
     ],
     categories: [
@@ -23686,22 +23686,22 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg',
+    image: 'Addidas.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg',
+        url: 'Addidas.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg',
+        url: 'Addidas.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg',
+        url: 'Addidas.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Addidas.jpg',
+        url: 'Addidas.jpg',
       },
     ],
     categories: [
@@ -23728,22 +23728,22 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg',
+    image: 'Champion.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg',
+        url: 'Champion.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg',
+        url: 'Champion.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg',
+        url: 'Champion.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Champion.jpg',
+        url: 'Champion.jpg',
       },
     ],
     categories: [
@@ -23771,26 +23771,26 @@ const productData = [
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg',
+      'Ellesse_candreva_joggers_dress_blue.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg',
+          'Ellesse_candreva_joggers_dress_blue.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg',
+          'Ellesse_candreva_joggers_dress_blue.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg',
+          'Ellesse_candreva_joggers_dress_blue.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Ellesse_candreva_joggers_dress_blue.jpg',
+          'Ellesse_candreva_joggers_dress_blue.jpg',
       },
     ],
     categories: [
@@ -23817,26 +23817,26 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg',
+    image: 'Hubberholme.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg',
+          'Hubberholme.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg',
+          'Hubberholme.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg',
+          'Hubberholme.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Hubberholme.jpg',
+          'Hubberholme.jpg',
       },
     ],
     categories: [
@@ -23864,26 +23864,26 @@ const productData = [
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Kids_Nike_Dry_Academy_Football_Pant.jpg',
+      'Kids_Nike_Dry_Academy_Football_Pant.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Kids_Nike_Dry_Academy_Football_Pant.jpg',
+          'Kids_Nike_Dry_Academy_Football_Pant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Kids_Nike_Dry_Academy_Football_Pant.jpg',
+          'Kids_Nike_Dry_Academy_Football_Pant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Kids_Nike_Dry_Academy_Football_Pant.jpg',
+          'Kids_Nike_Dry_Academy_Football_Pant.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Kids_Nike_Dry_Academy_Football_Pant.jpg',
+          'Kids_Nike_Dry_Academy_Football_Pant.jpg',
       },
     ],
     categories: [
@@ -23910,26 +23910,26 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Under_Armour.jpg',
+    image: 'Under_Armour.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Under_Armour.jpg',
+          'Under_Armour.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Under_Armour.jpg',
+          'Under_Armour.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Under_Armour.jpg',
+          'Under_Armour.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Under_Armour.jpg',
+          'Under_Armour.jpg',
       },
     ],
     categories: [
@@ -23956,22 +23956,22 @@ const productData = [
     description:
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/13361.jpg',
+    image: '13361.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/13361.jpg',
+        url: '13361.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/13361.jpg',
+        url: '13361.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/13361.jpg',
+        url: '13361.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/13361.jpg',
+        url: '13361.jpg',
       },
     ],
     categories: [
@@ -23999,26 +23999,26 @@ const productData = [
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+      'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+          'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+          'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+          'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+          'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
       },
     ],
     categories: [
@@ -24046,26 +24046,26 @@ const productData = [
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+      'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+          'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+          'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+          'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+          'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
       },
     ],
     categories: [
@@ -24092,22 +24092,22 @@ const productData = [
     description:
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/ILU003.jpg',
+    image: 'ILU003.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/ILU003.jpg',
+        url: 'ILU003.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/ILU003.jpg',
+        url: 'ILU003.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/ILU003.jpg',
+        url: 'ILU003.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/ILU003.jpg',
+        url: 'ILU003.jpg',
       },
     ],
     categories: [
@@ -24135,26 +24135,26 @@ const productData = [
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+      'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+          'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+          'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+          'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+          'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
       },
     ],
     categories: [
@@ -24182,26 +24182,26 @@ const productData = [
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+      'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+          'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+          'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+          'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+          'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
       },
     ],
     categories: [
@@ -24229,26 +24229,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+      '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+          '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+          '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+          '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+          '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
       },
     ],
     categories: [
@@ -24275,22 +24275,22 @@ const productData = [
     description:
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/10725812.jpg',
+    image: '10725812.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/10725812.jpg',
+        url: '10725812.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/10725812.jpg',
+        url: '10725812.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/10725812.jpg',
+        url: '10725812.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/10725812.jpg',
+        url: '10725812.jpg',
       },
     ],
     categories: [
@@ -24318,26 +24318,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/1539805842-lancome-big-monsieur-1500313391.jpg',
+      '1539805842-lancome-big-monsieur-1500313391.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/1539805842-lancome-big-monsieur-1500313391.jpg',
+          '1539805842-lancome-big-monsieur-1500313391.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/1539805842-lancome-big-monsieur-1500313391.jpg',
+          '1539805842-lancome-big-monsieur-1500313391.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/1539805842-lancome-big-monsieur-1500313391.jpg',
+          '1539805842-lancome-big-monsieur-1500313391.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/1539805842-lancome-big-monsieur-1500313391.jpg',
+          '1539805842-lancome-big-monsieur-1500313391.jpg',
       },
     ],
     categories: [
@@ -24365,26 +24365,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/1553526549-dior-1553526540.jpg',
+      '1553526549-dior-1553526540.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/1553526549-dior-1553526540.jpg',
+          '1553526549-dior-1553526540.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/1553526549-dior-1553526540.jpg',
+          '1553526549-dior-1553526540.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/1553526549-dior-1553526540.jpg',
+          '1553526549-dior-1553526540.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/1553526549-dior-1553526540.jpg',
+          '1553526549-dior-1553526540.jpg',
       },
     ],
     categories: [
@@ -24412,26 +24412,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/big-look-mascara-cap-on-appl-to-side.jpg',
+      'big-look-mascara-cap-on-appl-to-side.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/big-look-mascara-cap-on-appl-to-side.jpg',
+          'big-look-mascara-cap-on-appl-to-side.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/big-look-mascara-cap-on-appl-to-side.jpg',
+          'big-look-mascara-cap-on-appl-to-side.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/big-look-mascara-cap-on-appl-to-side.jpg',
+          'big-look-mascara-cap-on-appl-to-side.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/big-look-mascara-cap-on-appl-to-side.jpg',
+          'big-look-mascara-cap-on-appl-to-side.jpg',
       },
     ],
     categories: [
@@ -24459,26 +24459,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/mascara_cap_off-black-web_ready_1.jpeg',
+      'mascara_cap_off-black-web_ready_1.jpeg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mascara_cap_off-black-web_ready_1.jpeg',
+          'mascara_cap_off-black-web_ready_1.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mascara_cap_off-black-web_ready_1.jpeg',
+          'mascara_cap_off-black-web_ready_1.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mascara_cap_off-black-web_ready_1.jpeg',
+          'mascara_cap_off-black-web_ready_1.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/mascara_cap_off-black-web_ready_1.jpeg',
+          'mascara_cap_off-black-web_ready_1.jpeg',
       },
     ],
     categories: [
@@ -24506,26 +24506,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+      'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+          'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+          'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+          'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+          'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
       },
     ],
     categories: [
@@ -24552,22 +24552,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beauty.jpg',
+    image: 'beauty.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beauty.jpg',
+        url: 'beauty.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beauty.jpg',
+        url: 'beauty.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beauty.jpg',
+        url: 'beauty.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/beauty.jpg',
+        url: 'beauty.jpg',
       },
     ],
     categories: [
@@ -24595,26 +24595,26 @@ const productData = [
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/DrHauschka_CompactPowder.jpg',
+      'DrHauschka_CompactPowder.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/DrHauschka_CompactPowder.jpg',
+          'DrHauschka_CompactPowder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/DrHauschka_CompactPowder.jpg',
+          'DrHauschka_CompactPowder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/DrHauschka_CompactPowder.jpg',
+          'DrHauschka_CompactPowder.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/DrHauschka_CompactPowder.jpg',
+          'DrHauschka_CompactPowder.jpg',
       },
     ],
     categories: [
@@ -24641,22 +24641,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/g9.jpg',
+    image: 'g9.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/g9.jpg',
+        url: 'g9.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/g9.jpg',
+        url: 'g9.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/g9.jpg',
+        url: 'g9.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/g9.jpg',
+        url: 'g9.jpg',
       },
     ],
     categories: [
@@ -24683,22 +24683,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Iman.jpeg',
+    image: 'Iman.jpeg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Iman.jpeg',
+        url: 'Iman.jpeg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Iman.jpeg',
+        url: 'Iman.jpeg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Iman.jpeg',
+        url: 'Iman.jpeg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Iman.jpeg',
+        url: 'Iman.jpeg',
       },
     ],
     categories: [
@@ -24725,22 +24725,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lorac.jpg',
+    image: 'lorac.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lorac.jpg',
+        url: 'lorac.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lorac.jpg',
+        url: 'lorac.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lorac.jpg',
+        url: 'lorac.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lorac.jpg',
+        url: 'lorac.jpg',
       },
     ],
     categories: [
@@ -24767,22 +24767,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pupa.jpg',
+    image: 'pupa.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pupa.jpg',
+        url: 'pupa.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pupa.jpg',
+        url: 'pupa.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pupa.jpg',
+        url: 'pupa.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pupa.jpg',
+        url: 'pupa.jpg',
       },
     ],
     categories: [
@@ -24810,26 +24810,26 @@ const productData = [
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_colorstay.jpg',
+      'revlon_colorstay.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_colorstay.jpg',
+          'revlon_colorstay.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_colorstay.jpg',
+          'revlon_colorstay.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_colorstay.jpg',
+          'revlon_colorstay.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_colorstay.jpg',
+          'revlon_colorstay.jpg',
       },
     ],
     categories: [
@@ -24856,22 +24856,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/wet_wild.png',
+    image: 'wet_wild.png',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/wet_wild.png',
+        url: 'wet_wild.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/wet_wild.png',
+        url: 'wet_wild.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/wet_wild.png',
+        url: 'wet_wild.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/wet_wild.png',
+        url: 'wet_wild.png',
       },
     ],
     categories: [
@@ -24898,22 +24898,22 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/elf.jpg',
+    image: 'elf.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/elf.jpg',
+        url: 'elf.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/elf.jpg',
+        url: 'elf.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/elf.jpg',
+        url: 'elf.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/elf.jpg',
+        url: 'elf.jpg',
       },
     ],
     categories: [
@@ -24940,26 +24940,26 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_24hr.jpg',
+    image: 'loreal_24hr.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_24hr.jpg',
+          'loreal_24hr.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_24hr.jpg',
+          'loreal_24hr.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_24hr.jpg',
+          'loreal_24hr.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_24hr.jpg',
+          'loreal_24hr.jpg',
       },
     ],
     categories: [
@@ -24987,26 +24987,26 @@ const productData = [
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_infallable.jpeg',
+      'loreal_infallable.jpeg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_infallable.jpeg',
+          'loreal_infallable.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_infallable.jpeg',
+          'loreal_infallable.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_infallable.jpeg',
+          'loreal_infallable.jpeg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_infallable.jpeg',
+          'loreal_infallable.jpeg',
       },
     ],
     categories: [
@@ -25034,26 +25034,26 @@ const productData = [
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_true_match.jpg',
+      'loreal_true_match.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_true_match.jpg',
+          'loreal_true_match.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_true_match.jpg',
+          'loreal_true_match.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_true_match.jpg',
+          'loreal_true_match.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/loreal_true_match.jpg',
+          'loreal_true_match.jpg',
       },
     ],
     categories: [
@@ -25081,26 +25081,26 @@ const productData = [
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy_minerals.png',
+      'lucy_minerals.png',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy_minerals.png',
+          'lucy_minerals.png',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy_minerals.png',
+          'lucy_minerals.png',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy_minerals.png',
+          'lucy_minerals.png',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy_minerals.png',
+          'lucy_minerals.png',
       },
     ],
     categories: [
@@ -25127,22 +25127,22 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mac.jpg',
+    image: 'mac.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mac.jpg',
+        url: 'mac.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mac.jpg',
+        url: 'mac.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mac.jpg',
+        url: 'mac.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/mac.jpg',
+        url: 'mac.jpg',
       },
     ],
     categories: [
@@ -25169,22 +25169,22 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pur.jpg',
+    image: 'pur.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pur.jpg',
+        url: 'pur.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pur.jpg',
+        url: 'pur.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pur.jpg',
+        url: 'pur.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/pur.jpg',
+        url: 'pur.jpg',
       },
     ],
     categories: [
@@ -25211,22 +25211,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+    image: 'Barry.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+        url: 'Barry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+        url: 'Barry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+        url: 'Barry.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/Barry.jpg',
+        url: 'Barry.jpg',
       },
     ],
     categories: [
@@ -25253,22 +25253,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CT.jpeg',
+    image: 'CT.jpeg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CT.jpeg',
+        url: 'CT.jpeg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CT.jpeg',
+        url: 'CT.jpeg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CT.jpeg',
+        url: 'CT.jpeg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/CT.jpeg',
+        url: 'CT.jpeg',
       },
     ],
     categories: [
@@ -25295,22 +25295,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dsl.jpg',
+    image: 'dsl.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dsl.jpg',
+        url: 'dsl.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dsl.jpg',
+        url: 'dsl.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dsl.jpg',
+        url: 'dsl.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/dsl.jpg',
+        url: 'dsl.jpg',
       },
     ],
     categories: [
@@ -25337,22 +25337,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/find.jpg',
+    image: 'find.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/find.jpg',
+        url: 'find.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/find.jpg',
+        url: 'find.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/find.jpg',
+        url: 'find.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/find.jpg',
+        url: 'find.jpg',
       },
     ],
     categories: [
@@ -25379,22 +25379,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/image.png',
+    image: 'image.png',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/image.png',
+        url: 'image.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/image.png',
+        url: 'image.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/image.png',
+        url: 'image.png',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/image.png',
+        url: 'image.png',
       },
     ],
     categories: [
@@ -25421,26 +25421,26 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/star_strucl.jpg',
+    image: 'star_strucl.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/star_strucl.jpg',
+          'star_strucl.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/star_strucl.jpg',
+          'star_strucl.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/star_strucl.jpg',
+          'star_strucl.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/star_strucl.jpg',
+          'star_strucl.jpg',
       },
     ],
     categories: [
@@ -25467,22 +25467,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/technic.jpg',
+    image: 'technic.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/technic.jpg',
+        url: 'technic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/technic.jpg',
+        url: 'technic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/technic.jpg',
+        url: 'technic.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/technic.jpg',
+        url: 'technic.jpg',
       },
     ],
     categories: [
@@ -25509,22 +25509,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/believe.jpg',
+    image: 'believe.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/believe.jpg',
+        url: 'believe.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/believe.jpg',
+        url: 'believe.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/believe.jpg',
+        url: 'believe.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/believe.jpg',
+        url: 'believe.jpg',
       },
     ],
     categories: [
@@ -25552,26 +25552,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/charlottetilbury.jpg',
+      'charlottetilbury.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/charlottetilbury.jpg',
+          'charlottetilbury.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/charlottetilbury.jpg',
+          'charlottetilbury.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/charlottetilbury.jpg',
+          'charlottetilbury.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/charlottetilbury.jpg',
+          'charlottetilbury.jpg',
       },
     ],
     categories: [
@@ -25599,26 +25599,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/covergirl-melting-pout-vinyl-wow.jpg',
+      'covergirl-melting-pout-vinyl-wow.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/covergirl-melting-pout-vinyl-wow.jpg',
+          'covergirl-melting-pout-vinyl-wow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/covergirl-melting-pout-vinyl-wow.jpg',
+          'covergirl-melting-pout-vinyl-wow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/covergirl-melting-pout-vinyl-wow.jpg',
+          'covergirl-melting-pout-vinyl-wow.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/covergirl-melting-pout-vinyl-wow.jpg',
+          'covergirl-melting-pout-vinyl-wow.jpg',
       },
     ],
     categories: [
@@ -25646,26 +25646,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/gosh_lip_gloss.jpg',
+      'gosh_lip_gloss.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gosh_lip_gloss.jpg',
+          'gosh_lip_gloss.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gosh_lip_gloss.jpg',
+          'gosh_lip_gloss.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gosh_lip_gloss.jpg',
+          'gosh_lip_gloss.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/gosh_lip_gloss.jpg',
+          'gosh_lip_gloss.jpg',
       },
     ],
     categories: [
@@ -25692,22 +25692,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy.jpg',
+    image: 'lucy.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy.jpg',
+        url: 'lucy.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy.jpg',
+        url: 'lucy.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy.jpg',
+        url: 'lucy.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/lucy.jpg',
+        url: 'lucy.jpg',
       },
     ],
     categories: [
@@ -25735,26 +25735,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_the_gloss.jpg',
+      'revlon_the_gloss.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_the_gloss.jpg',
+          'revlon_the_gloss.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_the_gloss.jpg',
+          'revlon_the_gloss.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_the_gloss.jpg',
+          'revlon_the_gloss.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/revlon_the_gloss.jpg',
+          'revlon_the_gloss.jpg',
       },
     ],
     categories: [
@@ -25782,26 +25782,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/tarteist-glossy.jpg',
+      'tarteist-glossy.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tarteist-glossy.jpg',
+          'tarteist-glossy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tarteist-glossy.jpg',
+          'tarteist-glossy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tarteist-glossy.jpg',
+          'tarteist-glossy.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/tarteist-glossy.jpg',
+          'tarteist-glossy.jpg',
       },
     ],
     categories: [
@@ -25828,22 +25828,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/w7-kiss-me.jpg',
+    image: 'w7-kiss-me.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/w7-kiss-me.jpg',
+        url: 'w7-kiss-me.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/w7-kiss-me.jpg',
+        url: 'w7-kiss-me.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/w7-kiss-me.jpg',
+        url: 'w7-kiss-me.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/w7-kiss-me.jpg',
+        url: 'w7-kiss-me.jpg',
       },
     ],
     categories: [
@@ -25871,26 +25871,26 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/badass-icon.jpg',
+    image: 'badass-icon.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/badass-icon.jpg',
+          'badass-icon.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/badass-icon.jpg',
+          'badass-icon.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/badass-icon.jpg',
+          'badass-icon.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/badass-icon.jpg',
+          'badass-icon.jpg',
       },
     ],
     categories: [
@@ -25918,26 +25918,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/Gel-Semi-Matte.jpg',
+      'Gel-Semi-Matte.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Gel-Semi-Matte.jpg',
+          'Gel-Semi-Matte.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Gel-Semi-Matte.jpg',
+          'Gel-Semi-Matte.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Gel-Semi-Matte.jpg',
+          'Gel-Semi-Matte.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/Gel-Semi-Matte.jpg',
+          'Gel-Semi-Matte.jpg',
       },
     ],
     categories: [
@@ -25965,26 +25965,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/maybelline-new-york.jpg',
+      'maybelline-new-york.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maybelline-new-york.jpg',
+          'maybelline-new-york.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maybelline-new-york.jpg',
+          'maybelline-new-york.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maybelline-new-york.jpg',
+          'maybelline-new-york.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/maybelline-new-york.jpg',
+          'maybelline-new-york.jpg',
       },
     ],
     categories: [
@@ -26012,26 +26012,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/nars-lipstick-dressed-to-kill.jpg',
+      'nars-lipstick-dressed-to-kill.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nars-lipstick-dressed-to-kill.jpg',
+          'nars-lipstick-dressed-to-kill.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nars-lipstick-dressed-to-kill.jpg',
+          'nars-lipstick-dressed-to-kill.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nars-lipstick-dressed-to-kill.jpg',
+          'nars-lipstick-dressed-to-kill.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/nars-lipstick-dressed-to-kill.jpg',
+          'nars-lipstick-dressed-to-kill.jpg',
       },
     ],
     categories: [
@@ -26058,22 +26058,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'https://s3.amazonaws.com/redqteam.com/pickbazar/yo182_1.jpg',
+    image: 'yo182_1.jpg',
     gallery: [
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/yo182_1.jpg',
+        url: 'yo182_1.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/yo182_1.jpg',
+        url: 'yo182_1.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/yo182_1.jpg',
+        url: 'yo182_1.jpg',
       },
 
       {
-        url: 'https://s3.amazonaws.com/redqteam.com/pickbazar/yo182_1.jpg',
+        url: 'yo182_1.jpg',
       },
     ],
     categories: [
@@ -26101,26 +26101,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'https://s3.amazonaws.com/redqteam.com/pickbazar/youngblood-casablanca.jpg',
+      'youngblood-casablanca.jpg',
     gallery: [
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/youngblood-casablanca.jpg',
+          'youngblood-casablanca.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/youngblood-casablanca.jpg',
+          'youngblood-casablanca.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/youngblood-casablanca.jpg',
+          'youngblood-casablanca.jpg',
       },
 
       {
         url:
-          'https://s3.amazonaws.com/redqteam.com/pickbazar/youngblood-casablanca.jpg',
+          'youngblood-casablanca.jpg',
       },
     ],
     categories: [
