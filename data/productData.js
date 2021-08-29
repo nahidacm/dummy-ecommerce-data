@@ -10,22 +10,22 @@ const productData = [
     description:
       'A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called plantains distinguishing them from dessert bananas.',
     type: 'grocery',
-    image: 'banana.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/banana.jpg',
     gallery: [
       {
-        url: 'banana.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/banana.jpg',
       },
 
       {
-        url: 'banana.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/banana.jpg',
       },
 
       {
-        url: 'banana.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/banana.jpg',
       },
 
       {
-        url: 'banana.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/banana.jpg',
       },
     ],
     categories: [
@@ -53,22 +53,22 @@ const productData = [
     description:
       'The onion, also known as the bulb onion or common onion, is a vegetable that is the most widely cultivated species of the genus Allium. Its close relatives include the garlic, shallot, leek, chive, and Chinese onion.',
     type: 'grocery',
-    image: 'onions.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/onions.jpg',
     gallery: [
       {
-        url: 'onions.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/onions.jpg',
       },
 
       {
-        url: 'onions.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/onions.jpg',
       },
 
       {
-        url: 'onions.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/onions.jpg',
       },
 
       {
-        url: 'onions.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/onions.jpg',
       },
     ],
     categories: [
@@ -96,26 +96,26 @@ const productData = [
     description:
       'he Concord grape is a cultivar derived from the grape species Vitis labrusca (also called fox grape) that are used as table grapes, wine grapes and juice grapes. ... The skin of a Concord grape is typically dark blue or purple, and often is covered with a lighter-coloured epicuticular wax bloom that can be rubbed off.',
     type: 'grocery',
-    image: 'blue_grapes.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/blue_grapes.jpg',
     gallery: [
       {
         url:
-          'blue_grapes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/blue_grapes.jpg',
       },
 
       {
         url:
-          'blue_grapes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/blue_grapes.jpg',
       },
 
       {
         url:
-          'blue_grapes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/blue_grapes.jpg',
       },
 
       {
         url:
-          'blue_grapes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/blue_grapes.jpg',
       },
     ],
     categories: [
@@ -142,22 +142,22 @@ const productData = [
     description:
       'The coconut tree is a member of the palm tree family and the only known living species of the genus Cocos. The term coconut can refer to the whole coconut palm, the seed, or the fruit, which botanically is a drupe, not a nut.',
     type: 'grocery',
-    image: 'cocnut.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cocnut.jpg',
     gallery: [
       {
-        url: 'cocnut.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cocnut.jpg',
       },
 
       {
-        url: 'cocnut.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cocnut.jpg',
       },
 
       {
-        url: 'cocnut.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cocnut.jpg',
       },
 
       {
-        url: 'cocnut.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cocnut.jpg',
       },
     ],
     categories: [
@@ -184,22 +184,22 @@ const productData = [
     description:
       'Garlic is a species in the onion genus, Allium. Its close relatives include the onion, shallot, leek, chive, and Chinese onion. Garlic is native to Central Asia and northeastern Iran, and has long been a common seasoning worldwide, with a history of several thousand years of human consumption and use.',
     type: 'grocery',
-    image: 'garlic.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garlic.jpg',
     gallery: [
       {
-        url: 'garlic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garlic.jpg',
       },
 
       {
-        url: 'garlic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garlic.jpg',
       },
 
       {
-        url: 'garlic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garlic.jpg',
       },
 
       {
-        url: 'garlic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garlic.jpg',
       },
     ],
     categories: [
@@ -227,26 +227,26 @@ const productData = [
     description:
       'An apple is a sweet, edible fruit produced by an apple tree (Malus domestica). Apple trees are ... The skin of ripe apples is generally red, yellow, green, pink, or russetted, though many bi- or tri-colored cultivars may be found. ',
     type: 'grocery',
-    image: 'Green_Apple.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Green_Apple.jpg',
     gallery: [
       {
         url:
-          'Green_Apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Green_Apple.jpg',
       },
 
       {
         url:
-          'Green_Apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Green_Apple.jpg',
       },
 
       {
         url:
-          'Green_Apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Green_Apple.jpg',
       },
 
       {
         url:
-          'Green_Apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Green_Apple.jpg',
       },
     ],
     categories: [
@@ -274,22 +274,22 @@ const productData = [
     description:
       'Guava is a common tropical fruit cultivated in many tropical and subtropical regions. Psidium guajava is a small tree in the myrtle family, native to Mexico, Central America, the Caribbean and northern South America. ',
     type: 'grocery',
-    image: 'guava.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/guava.jpg',
     gallery: [
       {
-        url: 'guava.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/guava.jpg',
       },
 
       {
-        url: 'guava.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/guava.jpg',
       },
 
       {
-        url: 'guava.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/guava.jpg',
       },
 
       {
-        url: 'guava.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/guava.jpg',
       },
     ],
     categories: [
@@ -317,22 +317,22 @@ const productData = [
     description:
       'The lemon, Citrus limon Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to South Asia, primarily North eastern India.',
     type: 'grocery',
-    image: 'lemon.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lemon.jpg',
     gallery: [
       {
-        url: 'lemon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lemon.jpg',
       },
 
       {
-        url: 'lemon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lemon.jpg',
       },
 
       {
-        url: 'lemon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lemon.jpg',
       },
 
       {
-        url: 'lemon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lemon.jpg',
       },
     ],
     categories: [
@@ -360,22 +360,22 @@ const productData = [
     description:
       'The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually; varieties of sweet orange arise through mutations.',
     type: 'grocery',
-    image: 'oranges.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oranges.jpg',
     gallery: [
       {
-        url: 'oranges.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oranges.jpg',
       },
 
       {
-        url: 'oranges.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oranges.jpg',
       },
 
       {
-        url: 'oranges.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oranges.jpg',
       },
 
       {
-        url: 'oranges.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oranges.jpg',
       },
     ],
     categories: [
@@ -402,22 +402,22 @@ const productData = [
     description:
       'Black pepper is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. When fresh and fully mature, it is about 5 mm in diameter and dark red, and contains a single seed, like all drupes',
     type: 'grocery',
-    image: 'pepper.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pepper.jpg',
     gallery: [
       {
-        url: 'pepper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pepper.jpg',
       },
 
       {
-        url: 'pepper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pepper.jpg',
       },
 
       {
-        url: 'pepper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pepper.jpg',
       },
 
       {
-        url: 'pepper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pepper.jpg',
       },
     ],
     categories: [
@@ -444,22 +444,22 @@ const productData = [
     description:
       'The pineapple is a tropical plant with an edible fruit, also called pineapples, and the most economically significant plant in the family Bromeliaceae. Pineapples may be cultivated from the offset produced at the top of the fruit, possibly flowering in five to ten months and fruiting in the following six months',
     type: 'grocery',
-    image: 'pineapple.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pineapple.jpg',
     gallery: [
       {
-        url: 'pineapple.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pineapple.jpg',
       },
 
       {
-        url: 'pineapple.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pineapple.jpg',
       },
 
       {
-        url: 'pineapple.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pineapple.jpg',
       },
 
       {
-        url: 'pineapple.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pineapple.jpg',
       },
     ],
     categories: [
@@ -487,26 +487,26 @@ const productData = [
     description:
       'The pomegranate is a fruit-bearing deciduous shrub in the family Lythraceae, subfamily Punicoideae, that grows between 5 and 10 m tall. The fruit is typically in season in the Northern Hemisphere from September to February, and in the Southern Hemisphere from March to May.',
     type: 'grocery',
-    image: 'pomegranate.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pomegranate.jpg',
     gallery: [
       {
         url:
-          'pomegranate.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pomegranate.jpg',
       },
 
       {
         url:
-          'pomegranate.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pomegranate.jpg',
       },
 
       {
         url:
-          'pomegranate.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pomegranate.jpg',
       },
 
       {
         url:
-          'pomegranate.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pomegranate.jpg',
       },
     ],
     categories: [
@@ -534,22 +534,22 @@ const productData = [
     description:
       'An apple is a sweet, edible fruit produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. ',
     type: 'grocery',
-    image: 'red_apple.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_apple.jpg',
     gallery: [
       {
-        url: 'red_apple.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_apple.jpg',
       },
 
       {
-        url: 'red_apple.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_apple.jpg',
       },
 
       {
-        url: 'red_apple.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_apple.jpg',
       },
 
       {
-        url: 'red_apple.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_apple.jpg',
       },
     ],
     categories: [
@@ -577,22 +577,22 @@ const productData = [
     description:
       'A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes can be eaten fresh as table grapes or they can be used for making wine, jam, juice, jelly, grape seed extract, raisins, vinegar, and grape seed oil.',
     type: 'grocery',
-    image: 'red_grapes.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_grapes.jpg',
     gallery: [
       {
-        url: 'red_grapes.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_grapes.jpg',
       },
 
       {
-        url: 'red_grapes.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_grapes.jpg',
       },
 
       {
-        url: 'red_grapes.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_grapes.jpg',
       },
 
       {
-        url: 'red_grapes.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_grapes.jpg',
       },
     ],
     categories: [
@@ -620,22 +620,22 @@ const productData = [
     description:
       'The garden strawberry is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries, which are cultivated worldwide for their fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness.',
     type: 'grocery',
-    image: 'strawberry.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/strawberry.jpg',
     gallery: [
       {
-        url: 'strawberry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/strawberry.jpg',
       },
 
       {
-        url: 'strawberry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/strawberry.jpg',
       },
 
       {
-        url: 'strawberry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/strawberry.jpg',
       },
 
       {
-        url: 'strawberry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/strawberry.jpg',
       },
     ],
     categories: [
@@ -663,22 +663,22 @@ const productData = [
     description:
       'The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America. The Nahuatl word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived.',
     type: 'grocery',
-    image: 'tomatoes.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tomatoes.jpg',
     gallery: [
       {
-        url: 'tomatoes.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tomatoes.jpg',
       },
 
       {
-        url: 'tomatoes.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tomatoes.jpg',
       },
 
       {
-        url: 'tomatoes.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tomatoes.jpg',
       },
 
       {
-        url: 'tomatoes.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tomatoes.jpg',
       },
     ],
     categories: [
@@ -706,22 +706,22 @@ const productData = [
     description:
       'Citrullus lanatus is a plant species in the family Cucurbitaceae, a vine-like flowering plant originating in West Africa. It is cultivated for its fruit.',
     type: 'grocery',
-    image: 'watermelon.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/watermelon.jpg',
     gallery: [
       {
-        url: 'watermelon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/watermelon.jpg',
       },
 
       {
-        url: 'watermelon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/watermelon.jpg',
       },
 
       {
-        url: 'watermelon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/watermelon.jpg',
       },
 
       {
-        url: 'watermelon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/watermelon.jpg',
       },
     ],
     categories: [
@@ -748,22 +748,22 @@ const productData = [
     description:
       'Sardine and pilchard are common names used to refer to various small, oily fish in the herring family Clupeidae. The term sardine was first used in English during the early 15th century and may come from the Mediterranean island of Sardinia, around which sardines were once abundant',
     type: 'grocery',
-    image: 'sardine.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sardine.jpg',
     gallery: [
       {
-        url: 'sardine.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sardine.jpg',
       },
 
       {
-        url: 'sardine.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sardine.jpg',
       },
 
       {
-        url: 'sardine.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sardine.jpg',
       },
 
       {
-        url: 'sardine.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sardine.jpg',
       },
     ],
     categories: [
@@ -791,22 +791,22 @@ const productData = [
     description:
       'Salmon is the common name for several species of ray-finned fish in the family Salmonidae. Other fish in the same family include trout, char, grayling and whitefish. Salmon are native to tributaries of the North Atlantic and Pacific Ocean',
     type: 'grocery',
-    image: 'snapper.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
     gallery: [
       {
-        url: 'snapper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
       },
 
       {
-        url: 'snapper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
       },
 
       {
-        url: 'snapper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
       },
 
       {
-        url: 'snapper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
       },
     ],
     categories: [
@@ -834,22 +834,22 @@ const productData = [
     description:
       'A tuna is a saltwater fish that belongs to the tribe Thunnini, a subgrouping of the Scombridae family. The Thunnini comprise 15 species across five genera, the sizes of which vary greatly, ranging from the bullet tuna up to the Atlantic bluefin tuna. The bluefin averages 2 m, and is believed to live up to 50 years.',
     type: 'grocery',
-    image: 'tuna.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tuna.jpg',
     gallery: [
       {
-        url: 'tuna.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tuna.jpg',
       },
 
       {
-        url: 'tuna.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tuna.jpg',
       },
 
       {
-        url: 'tuna.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tuna.jpg',
       },
 
       {
-        url: 'tuna.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tuna.jpg',
       },
     ],
     categories: [
@@ -877,22 +877,22 @@ const productData = [
     description:
       'Cod is the common name for the demersal fish genus Gadus, belonging to the family Gadidae. Cod is also used as part of the common name for a number of other fish species, and some species suggested to belong to genus Gadus are not called cod.',
     type: 'grocery',
-    image: 'cod.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
     gallery: [
       {
-        url: 'cod.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
       },
 
       {
-        url: 'cod.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
       },
 
       {
-        url: 'cod.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
       },
 
       {
-        url: 'cod.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
       },
     ],
     categories: [
@@ -920,22 +920,22 @@ const productData = [
     description:
       'Trout is the common name for a number of species of freshwater fish belonging to the genera Oncorhynchus, Salmo and Salvelinus, all of the subfamily Salmoninae of the family Salmonidae.',
     type: 'grocery',
-    image: 'trout.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/trout.jpg',
     gallery: [
       {
-        url: 'cod.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
       },
 
       {
-        url: 'cod.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
       },
 
       {
-        url: 'cod.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
       },
 
       {
-        url: 'cod.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cod.jpg',
       },
     ],
     categories: [
@@ -962,22 +962,22 @@ const productData = [
     description:
       'The northern red snapper is a species of snapper native to the western Atlantic Ocean including the Gulf of Mexico, where it inhabits environments associated with reefs. This species is commercially important and is also sought-after as a game fish.',
     type: 'grocery',
-    image: 'snapper.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
     gallery: [
       {
-        url: 'snapper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
       },
 
       {
-        url: 'snapper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
       },
 
       {
-        url: 'snapper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
       },
 
       {
-        url: 'snapper.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snapper.jpg',
       },
     ],
     categories: [
@@ -1004,22 +1004,22 @@ const productData = [
     description:
       'Tilapia is the common name for nearly a hundred species of cichlid fish from the tilapiine cichlid tribe. Tilapia are mainly freshwater fish inhabiting shallow streams, ponds, rivers, and lakes, and less commonly found living in brackish water.',
     type: 'grocery',
-    image: 'talapia.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/talapia.jpg',
     gallery: [
       {
-        url: 'talapia.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/talapia.jpg',
       },
 
       {
-        url: 'talapia.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/talapia.jpg',
       },
 
       {
-        url: 'talapia.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/talapia.jpg',
       },
 
       {
-        url: 'talapia.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/talapia.jpg',
       },
     ],
     categories: [
@@ -1047,22 +1047,22 @@ const productData = [
     description:
       'Perch is a common name for fish of the genus Perca, freshwater gamefish belonging to the family Percidae.',
     type: 'grocery',
-    image: 'perch.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/perch.jpg',
     gallery: [
       {
-        url: 'perch.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/perch.jpg',
       },
 
       {
-        url: 'perch.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/perch.jpg',
       },
 
       {
-        url: 'perch.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/perch.jpg',
       },
 
       {
-        url: 'perch.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/perch.jpg',
       },
     ],
     categories: [
@@ -1089,22 +1089,22 @@ const productData = [
     description:
       'The haddock is a saltwater fish from the family Gadidae, the true cods, it is the only species in the monotypic genus Melanogrammus. It is found in the North Atlantic Ocean and associated seas where it is an important species for fisheries, especially in northern Europe.',
     type: 'grocery',
-    image: 'haddock.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/haddock.jpg',
     gallery: [
       {
-        url: 'haddock.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/haddock.jpg',
       },
 
       {
-        url: 'haddock.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/haddock.jpg',
       },
 
       {
-        url: 'haddock.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/haddock.jpg',
       },
 
       {
-        url: 'haddock.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/haddock.jpg',
       },
     ],
     categories: [
@@ -1132,22 +1132,22 @@ const productData = [
     description:
       'Carp are various species of oily freshwater fish from the family Cyprinidae, a very large group of fish native to Europe and Asia.',
     type: 'grocery',
-    image: 'carp.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/carp.jpg',
     gallery: [
       {
-        url: 'carp.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/carp.jpg',
       },
 
       {
-        url: 'carp.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/carp.jpg',
       },
 
       {
-        url: 'carp.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/carp.jpg',
       },
 
       {
-        url: 'carp.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/carp.jpg',
       },
     ],
     categories: [
@@ -1174,22 +1174,22 @@ const productData = [
     description:
       'Mackerel is a common name applied to a number of different species of pelagic fish, mostly from the family Scombridae. They are found in both temperate and tropical seas, mostly living along the coast or offshore in the oceanic environment.',
     type: 'grocery',
-    image: 'Mackerel.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mackerel.jpg',
     gallery: [
       {
-        url: 'Mackerel.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mackerel.jpg',
       },
 
       {
-        url: 'Mackerel.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mackerel.jpg',
       },
 
       {
-        url: 'Mackerel.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mackerel.jpg',
       },
 
       {
-        url: 'Mackerel.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mackerel.jpg',
       },
     ],
     categories: [
@@ -1218,26 +1218,26 @@ const productData = [
       'Chicken is the most common type of poultry in the world. Owing to the relative ease and low cost of raising them in comparison to animals such as cattle or hogs, chickens have become prevalent throughout the cuisine of cultures around the world, and their meat has been variously adapted to regional tastes',
     type: 'grocery',
     image:
-      'Chicken_Brest.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chicken_Brest.jpg',
     gallery: [
       {
         url:
-          'Chicken_Brest.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chicken_Brest.jpg',
       },
 
       {
         url:
-          'Chicken_Brest.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chicken_Brest.jpg',
       },
 
       {
         url:
-          'Chicken_Brest.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chicken_Brest.jpg',
       },
 
       {
         url:
-          'Chicken_Brest.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chicken_Brest.jpg',
       },
     ],
     categories: [
@@ -1266,26 +1266,26 @@ const productData = [
       'Cuts of beef are first divided into primal cuts, pieces of meat initially separated from the carcass ... The trimmings and some whole boneless chucks are ground for ground beef.',
     type: 'grocery',
     image:
-      'boneless_beef.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boneless_beef.jpg',
     gallery: [
       {
         url:
-          'boneless_beef.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boneless_beef.jpg',
       },
 
       {
         url:
-          'boneless_beef.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boneless_beef.jpg',
       },
 
       {
         url:
-          'boneless_beef.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boneless_beef.jpg',
       },
 
       {
         url:
-          'boneless_beef.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boneless_beef.jpg',
       },
     ],
     categories: [
@@ -1313,22 +1313,22 @@ const productData = [
     description:
       'Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.',
     type: 'grocery',
-    image: 'beef.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beef.jpg',
     gallery: [
       {
-        url: 'beef.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beef.jpg',
       },
 
       {
-        url: 'beef.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beef.jpg',
       },
 
       {
-        url: 'beef.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beef.jpg',
       },
 
       {
-        url: 'beef.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beef.jpg',
       },
     ],
     categories: [
@@ -1356,26 +1356,26 @@ const productData = [
     description:
       'A meat chop is a cut of meat cut perpendicular to the spine, and usually containing a rib or riblet part of a vertebra and served as an individual portion. The most common kinds of meat chops are pork and lamb. A thin boneless chop, or one with only the rib bone, may be called a cutlet, ',
     type: 'grocery',
-    image: 'bonelss_lamb.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bonelss_lamb.jpg',
     gallery: [
       {
         url:
-          'bonelss_lamb.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bonelss_lamb.jpg',
       },
 
       {
         url:
-          'bonelss_lamb.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bonelss_lamb.jpg',
       },
 
       {
         url:
-          'bonelss_lamb.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bonelss_lamb.jpg',
       },
 
       {
         url:
-          'bonelss_lamb.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bonelss_lamb.jpg',
       },
     ],
     categories: [
@@ -1403,22 +1403,22 @@ const productData = [
     description:
       'Lamb chop or Lambchop may refer to: Meat chop of lamb. Lamb meat · Lamb Chop (puppet), a sock puppet sheep created by Shari Lewis and now played by .',
     type: 'grocery',
-    image: 'lamb_chops.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lamb_chops.jpg',
     gallery: [
       {
-        url: 'lamb_chops.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lamb_chops.jpg',
       },
 
       {
-        url: 'lamb_chops.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lamb_chops.jpg',
       },
 
       {
-        url: 'lamb_chops.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lamb_chops.jpg',
       },
 
       {
-        url: 'lamb_chops.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lamb_chops.jpg',
       },
     ],
     categories: [
@@ -1447,26 +1447,26 @@ const productData = [
       'Material: Laptop Shoulder Bag is made of quality canvas, protecting your laptop from dust, scratches and water',
     type: 'bags',
     image:
-      'Advent_laptop_bags.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Advent_laptop_bags.jpg',
     gallery: [
       {
         url:
-          'Advent_laptop_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Advent_laptop_bags.jpg',
       },
 
       {
         url:
-          'Advent_laptop_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Advent_laptop_bags.jpg',
       },
 
       {
         url:
-          'Advent_laptop_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Advent_laptop_bags.jpg',
       },
 
       {
         url:
-          'Advent_laptop_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Advent_laptop_bags.jpg',
       },
     ],
     categories: [
@@ -1490,26 +1490,26 @@ const productData = [
       'Luxury British fashion house Alexander McQueen is famed for its exquisitely designed handbags and accessories, as showcased through this stunning black Box bag. Expertly crafted in Italy from supple calf leather, the bag is an ideal accessory choice which suits a variety of styles and occasions.',
     type: 'bags',
     image:
-      'Alex_maquine_shoulder.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Alex_maquine_shoulder.jpg',
     gallery: [
       {
         url:
-          'Alex_maquine_shoulder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Alex_maquine_shoulder.jpg',
       },
 
       {
         url:
-          'Alex_maquine_shoulder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Alex_maquine_shoulder.jpg',
       },
 
       {
         url:
-          'Alex_maquine_shoulder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Alex_maquine_shoulder.jpg',
       },
 
       {
         url:
-          'Alex_maquine_shoulder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Alex_maquine_shoulder.jpg',
       },
     ],
     categories: [
@@ -1533,26 +1533,26 @@ const productData = [
       'Brand New Emporio Armani Leather Wallet. Shipped with USPS First Class Package.',
     type: 'bags',
     image:
-      'Armani_black_wallet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_black_wallet.jpg',
     gallery: [
       {
         url:
-          'Armani_black_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_black_wallet.jpg',
       },
 
       {
         url:
-          'Armani_black_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_black_wallet.jpg',
       },
 
       {
         url:
-          'Armani_black_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_black_wallet.jpg',
       },
 
       {
         url:
-          'Armani_black_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_black_wallet.jpg',
       },
     ],
     categories: [
@@ -1576,26 +1576,26 @@ const productData = [
       'Black logo embossed messenger bag from Giorgio Armani featuring an adjustable shoulder strap, a top zip fastening and a front zip pocket.',
     type: 'bags',
     image:
-      'Armani_Handbag.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_Handbag.jpg',
     gallery: [
       {
         url:
-          'Armani_Handbag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_Handbag.jpg',
       },
 
       {
         url:
-          'Armani_Handbag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_Handbag.jpg',
       },
 
       {
         url:
-          'Armani_Handbag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_Handbag.jpg',
       },
 
       {
         url:
-          'Armani_Handbag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_Handbag.jpg',
       },
     ],
     categories: [
@@ -1619,26 +1619,26 @@ const productData = [
       'The name Giorgio Armani has become synonymous with clean lines and Italian style. One of the most recognisable fashion houses in the world, the label has dressed some of the world’s most beautiful women.',
     type: 'bags',
     image:
-      'Armani_leather_purse.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_leather_purse.jpg',
     gallery: [
       {
         url:
-          'Armani_leather_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_leather_purse.jpg',
       },
 
       {
         url:
-          'Armani_leather_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_leather_purse.jpg',
       },
 
       {
         url:
-          'Armani_leather_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_leather_purse.jpg',
       },
 
       {
         url:
-          'Armani_leather_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_leather_purse.jpg',
       },
     ],
     categories: [
@@ -1661,26 +1661,26 @@ const productData = [
     description:
       'Black logo embossed messenger bag from Giorgio Armani featuring an adjustable shoulder strap, a top zip fastening and a front zip pocket.',
     type: 'bags',
-    image: 'Armani_purse.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_purse.jpg',
     gallery: [
       {
         url:
-          'Armani_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_purse.jpg',
       },
 
       {
         url:
-          'Armani_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_purse.jpg',
       },
 
       {
         url:
-          'Armani_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_purse.jpg',
       },
 
       {
         url:
-          'Armani_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_purse.jpg',
       },
     ],
     categories: [
@@ -1704,26 +1704,26 @@ const productData = [
       'Brand New Emporio Armani Leather Wallet. Shipped with USPS First Class Package.',
     type: 'bags',
     image:
-      'Armani_wallet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_wallet.jpg',
     gallery: [
       {
         url:
-          'Armani_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_wallet.jpg',
       },
 
       {
         url:
-          'Armani_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_wallet.jpg',
       },
 
       {
         url:
-          'Armani_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_wallet.jpg',
       },
 
       {
         url:
-          'Armani_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Armani_wallet.jpg',
       },
     ],
     categories: [
@@ -1747,26 +1747,26 @@ const productData = [
       '00% Authenticity Guaranteed Chanel Classic Jumbo Single Flap Black Caviar Shoulder Bag',
     type: 'bags',
     image:
-      'chanel_shoulder_bag.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_shoulder_bag.jpg',
     gallery: [
       {
         url:
-          'chanel_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_shoulder_bag.jpg',
       },
 
       {
         url:
-          'chanel_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_shoulder_bag.jpg',
       },
 
       {
         url:
-          'chanel_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_shoulder_bag.jpg',
       },
 
       {
         url:
-          'chanel_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_shoulder_bag.jpg',
       },
     ],
     categories: [
@@ -1790,26 +1790,26 @@ const productData = [
       'Beautiful new Chanel fingerless wallet. Tweed with leather CC on top and leather on the backside of the wallet.',
     type: 'bags',
     image:
-      'chanel_wallet_brown.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_wallet_brown.jpg',
     gallery: [
       {
         url:
-          'chanel_wallet_brown.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_wallet_brown.jpg',
       },
 
       {
         url:
-          'chanel_wallet_brown.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_wallet_brown.jpg',
       },
 
       {
         url:
-          'chanel_wallet_brown.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_wallet_brown.jpg',
       },
 
       {
         url:
-          'chanel_wallet_brown.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chanel_wallet_brown.jpg',
       },
     ],
     categories: [
@@ -1832,26 +1832,26 @@ const productData = [
       'Beautiful new Chanel fingerless wallet. Tweed with leather CC on top and leather on the backside of the wallet.',
     type: 'bags',
     image:
-      'Chanel_wallet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
     gallery: [
       {
         url:
-          'Chanel_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
       },
 
       {
         url:
-          'Chanel_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
       },
 
       {
         url:
-          'Chanel_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
       },
 
       {
         url:
-          'Chanel_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
       },
     ],
     categories: [
@@ -1875,26 +1875,26 @@ const productData = [
       "Established in 1952, Givenchy's stance on contemporary elegance is perfectly captured through the brand’s premium accessory collections. Crafted from calf leather, this grey GV3 croc-effect shoulder bag from Givenchy features a chain top handle with logo charm, a detachable shoulder strap, a front flap closure, a metal logo plaque to the front, gold-tone hardware and suede panels.",
     type: 'bags',
     image:
-      'Givenchy_shoulder_bag.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Givenchy_shoulder_bag.jpg',
     gallery: [
       {
         url:
-          'Chanel_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
       },
 
       {
         url:
-          'Chanel_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
       },
 
       {
         url:
-          'Chanel_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
       },
 
       {
         url:
-          'Chanel_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chanel_wallet.jpg',
       },
     ],
     categories: [
@@ -1918,26 +1918,26 @@ const productData = [
       "Established in 1952, Givenchy's stance on contemporary elegance is perfectly captured through the brand’s premium accessory collections. Crafted from calf leather, this grey GV3 croc-effect shoulder bag from Givenchy features a chain top handle with logo charm, a detachable shoulder strap, a front flap closure, a metal logo plaque to the front, gold-tone hardware and suede panels.",
     type: 'bags',
     image:
-      'givency_purse.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/givency_purse.jpg',
     gallery: [
       {
         url:
-          'givency_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/givency_purse.jpg',
       },
 
       {
         url:
-          'givency_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/givency_purse.jpg',
       },
 
       {
         url:
-          'givency_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/givency_purse.jpg',
       },
 
       {
         url:
-          'givency_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/givency_purse.jpg',
       },
     ],
     categories: [
@@ -1960,22 +1960,22 @@ const productData = [
     description:
       'Luxury Italian fashion house Gucci is renowned for its instantly recognisable bags and accessories, infusing its unique sense of quality and exquisite design into each piece. This pink logo print leather backpack from Gucci features top handles, a drawstring fastening, a pebbled leather texture, a removable zipped pouch and a vintage Gucci logo.',
     type: 'bags',
-    image: 'gucchi.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucchi.jpg',
     gallery: [
       {
-        url: 'gucchi.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucchi.jpg',
       },
 
       {
-        url: 'gucchi.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucchi.jpg',
       },
 
       {
-        url: 'gucchi.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucchi.jpg',
       },
 
       {
-        url: 'gucchi.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucchi.jpg',
       },
     ],
     categories: [
@@ -1999,26 +1999,26 @@ const productData = [
       'Luxury Italian fashion house Gucci is renowned for its instantly recognisable bags and accessories, infusing its unique sense of quality and exquisite design into each piece. This pink logo print leather backpack from Gucci features top handles, a drawstring fastening, a pebbled leather texture, a removable zipped pouch and a vintage Gucci logo.',
     type: 'bags',
     image:
-      'gucci_mini_purse.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
     gallery: [
       {
         url:
-          'gucci_mini_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'gucci_mini_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'gucci_mini_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'gucci_mini_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
       },
     ],
     categories: [
@@ -2040,26 +2040,26 @@ const productData = [
     description:
       'Luxury Italian fashion house Gucci is renowned for its instantly recognisable bags and accessories, infusing its unique sense of quality and exquisite design into each piece. This pink logo print leather backpack from Gucci features top handles, a drawstring fastening, a pebbled leather texture, a removable zipped pouch and a vintage Gucci logo.',
     type: 'bags',
-    image: 'gucci_purse.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_purse.jpg',
     gallery: [
       {
         url:
-          'gucci_mini_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'gucci_mini_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'gucci_mini_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
       },
 
       {
         url:
-          'gucci_mini_purse.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gucci_mini_purse.jpg',
       },
     ],
     categories: [
@@ -2083,26 +2083,26 @@ const productData = [
       'Bewitching black, plush padding and faux-fur lining surround and cradle your 15.6 Ultrabook in trendsetting luxury. It is the perfect accessory for every season and all occasions. Dress it up; dress it down. Take it with you everywhere you go.',
     type: 'bags',
     image:
-      'hp_laptop_bag.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hp_laptop_bag.jpg',
     gallery: [
       {
         url:
-          'hp_laptop_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hp_laptop_bag.jpg',
       },
 
       {
         url:
-          'hp_laptop_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hp_laptop_bag.jpg',
       },
 
       {
         url:
-          'hp_laptop_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hp_laptop_bag.jpg',
       },
 
       {
         url:
-          'hp_laptop_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hp_laptop_bag.jpg',
       },
     ],
     categories: [
@@ -2126,26 +2126,26 @@ const productData = [
       'Bewitching black, plush padding and faux-fur lining surround and cradle your 15.6 macbook™ in trendsetting luxury. It is the perfect accessory for every season and all occasions. Dress it up; dress it down. Take it with you everywhere you go.',
     type: 'bags',
     image:
-      'mac_laptop_bag.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac_laptop_bag.jpg',
     gallery: [
       {
         url:
-          'mac_laptop_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac_laptop_bag.jpg',
       },
 
       {
         url:
-          'mac_laptop_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac_laptop_bag.jpg',
       },
 
       {
         url:
-          'mac_laptop_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac_laptop_bag.jpg',
       },
 
       {
         url:
-          'mac_laptop_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac_laptop_bag.jpg',
       },
     ],
     categories: [
@@ -2168,26 +2168,26 @@ const productData = [
     description:
       'Muse Medium Zip Around Wallet has been crafted from a beautiful clotted cream saffiano leather. The leather has been thoughtfully paired with brass hardware throughout and a discrete foil logo. The interior is lined with cotton twill and is fitted with 2 main compartments with a zip coin pocket, 2 note pockets and 12 credit card slots, all in soft nappa leather.',
     type: 'bags',
-    image: 'Muse_wallet.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Muse_wallet.jpg',
     gallery: [
       {
         url:
-          'Muse_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Muse_wallet.jpg',
       },
 
       {
         url:
-          'Muse_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Muse_wallet.jpg',
       },
 
       {
         url:
-          'Muse_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Muse_wallet.jpg',
       },
 
       {
         url:
-          'Muse_wallet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Muse_wallet.jpg',
       },
     ],
     categories: [
@@ -2210,26 +2210,26 @@ const productData = [
       "Structured buffed nappa leather top handle bag in 'scarlet' red. Carry handle at top. Detachable and adjustable shoulder strap with lanyard clasp fastening. Foldover flap with signature logo-engraved 'paper clip' fastening. Patch pocket and gold-tone logo stamp at two-compartment interior. ",
     type: 'bags',
     image:
-      'Philip_lim_shoulder_bag.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Philip_lim_shoulder_bag.jpg',
     gallery: [
       {
         url:
-          'Philip_lim_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Philip_lim_shoulder_bag.jpg',
       },
 
       {
         url:
-          'Philip_lim_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Philip_lim_shoulder_bag.jpg',
       },
 
       {
         url:
-          'Philip_lim_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Philip_lim_shoulder_bag.jpg',
       },
 
       {
         url:
-          'Philip_lim_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Philip_lim_shoulder_bag.jpg',
       },
     ],
     categories: [
@@ -2253,26 +2253,26 @@ const productData = [
       "Structured buffed nappa leather top handle bag in 'scarlet' red. Carry handle at top. Detachable and adjustable shoulder strap with lanyard clasp fastening. Foldover flap with signature logo-engraved 'paper clip' fastening. Patch pocket and gold-tone logo stamp at two-compartment interior. ",
     type: 'bags',
     image:
-      'Sports_shoulder_bag.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Sports_shoulder_bag.jpg',
     gallery: [
       {
         url:
-          'Sports_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Sports_shoulder_bag.jpg',
       },
 
       {
         url:
-          'Sports_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Sports_shoulder_bag.jpg',
       },
 
       {
         url:
-          'Sports_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Sports_shoulder_bag.jpg',
       },
 
       {
         url:
-          'Sports_shoulder_bag.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Sports_shoulder_bag.jpg',
       },
     ],
     categories: [
@@ -2295,26 +2295,26 @@ const productData = [
       "Structured buffed nappa leather top handle bag in 'scarlet' red. Carry handle at top. Detachable and adjustable shoulder strap with lanyard clasp fastening. Foldover flap with signature logo-engraved 'paper clip' fastening. Patch pocket and gold-tone logo stamp at two-compartment interior. ",
     type: 'bags',
     image:
-      'supreme_shoulder_bags.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/supreme_shoulder_bags.jpg',
     gallery: [
       {
         url:
-          'supreme_shoulder_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/supreme_shoulder_bags.jpg',
       },
 
       {
         url:
-          'supreme_shoulder_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/supreme_shoulder_bags.jpg',
       },
 
       {
         url:
-          'supreme_shoulder_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/supreme_shoulder_bags.jpg',
       },
 
       {
         url:
-          'supreme_shoulder_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/supreme_shoulder_bags.jpg',
       },
     ],
     categories: [
@@ -2337,26 +2337,26 @@ const productData = [
       'Fendi began life in 1925 as a fur and leather speciality store in Rome. Despite growing into one of the world’s most renowned luxury labels, the business has retained its family feel, with a focus on fine detail, Italian craftsmanship and the support of local artisans.',
     type: 'women-cloths',
     image:
-      'Roadstar_solid_top.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadstar_solid_top.jpg',
     gallery: [
       {
         url:
-          'Roadstar_solid_top.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadstar_solid_top.jpg',
       },
 
       {
         url:
-          'Roadstar_solid_top.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadstar_solid_top.jpg',
       },
 
       {
         url:
-          'Roadstar_solid_top.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadstar_solid_top.jpg',
       },
 
       {
         url:
-          'Roadstar_solid_top.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadstar_solid_top.jpg',
       },
     ],
     categories: [
@@ -2379,22 +2379,22 @@ const productData = [
     description:
       'Mauve printed knitted fit and flare dress, has a round neck, three-quarter sleeves, concealed zip closure,, flared hem',
     type: 'women-cloths',
-    image: 'magnetic.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/magnetic.jpg',
     gallery: [
       {
-        url: 'magnetic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/magnetic.jpg',
       },
 
       {
-        url: 'magnetic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/magnetic.jpg',
       },
 
       {
-        url: 'magnetic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/magnetic.jpg',
       },
 
       {
-        url: 'magnetic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/magnetic.jpg',
       },
     ],
     categories: [
@@ -2422,22 +2422,22 @@ const productData = [
     description:
       'Off-White self-striped knitted midi A-line dress, has a scoop neck, sleeveless, straight hem',
     type: 'women-cloths',
-    image: 'mango.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mango.jpg',
     gallery: [
       {
-        url: 'mango.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mango.jpg',
       },
 
       {
-        url: 'mango.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mango.jpg',
       },
 
       {
-        url: 'mango.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mango.jpg',
       },
 
       {
-        url: 'mango.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mango.jpg',
       },
     ],
     categories: [
@@ -2465,22 +2465,22 @@ const productData = [
     description:
       'Grey solid woven bodycon dress, has a round neck, sleeveless, straight hem',
     type: 'women-cloths',
-    image: 'FOREVER_21.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FOREVER_21.jpg',
     gallery: [
       {
-        url: 'FOREVER_21.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FOREVER_21.jpg',
       },
 
       {
-        url: 'FOREVER_21.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FOREVER_21.jpg',
       },
 
       {
-        url: 'FOREVER_21.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FOREVER_21.jpg',
       },
 
       {
-        url: 'FOREVER_21.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FOREVER_21.jpg',
       },
     ],
     categories: [
@@ -2509,26 +2509,26 @@ const productData = [
       'Rust red self-striped knitted A-line dress, has a V-neck with button detailing, three-quarter sleeves, flared hem',
     type: 'women-cloths',
     image:
-      'DOROTHY_PERKINS.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DOROTHY_PERKINS.jpg',
     gallery: [
       {
         url:
-          'DOROTHY_PERKINS.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DOROTHY_PERKINS.jpg',
       },
 
       {
         url:
-          'DOROTHY_PERKINS.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DOROTHY_PERKINS.jpg',
       },
 
       {
         url:
-          'DOROTHY_PERKINS.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DOROTHY_PERKINS.jpg',
       },
 
       {
         url:
-          'DOROTHY_PERKINS.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DOROTHY_PERKINS.jpg',
       },
     ],
     categories: [
@@ -2556,26 +2556,26 @@ const productData = [
     description:
       'Blue washed mini A-line denim pencil skirt, has a waistband with nabelt loops, button closures',
     type: 'women-cloths',
-    image: 'Flounce_High.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Flounce_High.jpg',
     gallery: [
       {
         url:
-          'Flounce_High.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Flounce_High.jpg',
       },
 
       {
         url:
-          'Flounce_High.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Flounce_High.jpg',
       },
 
       {
         url:
-          'Flounce_High.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Flounce_High.jpg',
       },
 
       {
         url:
-          'Flounce_High.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Flounce_High.jpg',
       },
     ],
     categories: [
@@ -2598,26 +2598,26 @@ const productData = [
     description:
       'Blue washed pencil denim distressed skirt with ruffle detail, has a waistband with belt loops, 2 pockets, straight hem with back slit Comes with a fabric belt.',
     type: 'women-cloths',
-    image: 'Basic_hollow.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Basic_hollow.jpg',
     gallery: [
       {
         url:
-          'Basic_hollow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Basic_hollow.jpg',
       },
 
       {
         url:
-          'Basic_hollow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Basic_hollow.jpg',
       },
 
       {
         url:
-          'Basic_hollow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Basic_hollow.jpg',
       },
 
       {
         url:
-          'Basic_hollow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Basic_hollow.jpg',
       },
     ],
     categories: [
@@ -2640,26 +2640,26 @@ const productData = [
     salePrice: 28,
     discountInPercent: 20,
     type: 'women-cloths',
-    image: 'Charming_red.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Charming_red.jpg',
     gallery: [
       {
         url:
-          'Charming_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Charming_red.jpg',
       },
 
       {
         url:
-          'Charming_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Charming_red.jpg',
       },
 
       {
         url:
-          'Charming_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Charming_red.jpg',
       },
 
       {
         url:
-          'Charming_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Charming_red.jpg',
       },
     ],
     categories: [
@@ -2682,22 +2682,22 @@ const productData = [
     description:
       'Red and gold-coloured printed flared maxi skirt with satin lining, has an elasticated waistband with side hook closure, flared hem',
     type: 'women-cloths',
-    image: 'Plain_midi.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Plain_midi.jpg',
     gallery: [
       {
-        url: 'Plain_midi.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Plain_midi.jpg',
       },
 
       {
-        url: 'Plain_midi.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Plain_midi.jpg',
       },
 
       {
-        url: 'Plain_midi.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Plain_midi.jpg',
       },
 
       {
-        url: 'Plain_midi.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Plain_midi.jpg',
       },
     ],
     categories: [
@@ -2719,22 +2719,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Fold_over.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fold_over.jpg',
     gallery: [
       {
-        url: 'Fold_over.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fold_over.jpg',
       },
 
       {
-        url: 'Fold_over.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fold_over.jpg',
       },
 
       {
-        url: 'Fold_over.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fold_over.jpg',
       },
 
       {
-        url: 'Fold_over.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fold_over.jpg',
       },
     ],
     categories: [
@@ -2762,26 +2762,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Solid_Notch.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Solid_Notch.jpg',
     gallery: [
       {
         url:
-          'Solid_Notch.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Solid_Notch.jpg',
       },
 
       {
         url:
-          'Solid_Notch.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Solid_Notch.jpg',
       },
 
       {
         url:
-          'Solid_Notch.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Solid_Notch.jpg',
       },
 
       {
         url:
-          'Solid_Notch.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Solid_Notch.jpg',
       },
     ],
     categories: [
@@ -2809,26 +2809,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Notch_Lapel.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel.jpg',
     gallery: [
       {
         url:
-          'Notch_Lapel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel.jpg',
       },
 
       {
         url:
-          'Notch_Lapel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel.jpg',
       },
 
       {
         url:
-          'Notch_Lapel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel.jpg',
       },
 
       {
         url:
-          'Notch_Lapel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel.jpg',
       },
     ],
     categories: [
@@ -2856,26 +2856,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Narrow_Notch.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Narrow_Notch.jpg',
     gallery: [
       {
         url:
-          'Narrow_Notch.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Narrow_Notch.jpg',
       },
 
       {
         url:
-          'Narrow_Notch.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Narrow_Notch.jpg',
       },
 
       {
         url:
-          'Narrow_Notch.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Narrow_Notch.jpg',
       },
 
       {
         url:
-          'Narrow_Notch.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Narrow_Notch.jpg',
       },
     ],
     categories: [
@@ -2904,26 +2904,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Notch_Lapel_Elastic.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel_Elastic.jpg',
     gallery: [
       {
         url:
-          'Notch_Lapel_Elastic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel_Elastic.jpg',
       },
 
       {
         url:
-          'Notch_Lapel_Elastic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel_Elastic.jpg',
       },
 
       {
         url:
-          'Notch_Lapel_Elastic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel_Elastic.jpg',
       },
 
       {
         url:
-          'Notch_Lapel_Elastic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Notch_Lapel_Elastic.jpg',
       },
     ],
     categories: [
@@ -2950,22 +2950,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Turn_Down.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Turn_Down.jpg',
     gallery: [
       {
-        url: 'Turn_Down.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Turn_Down.jpg',
       },
 
       {
-        url: 'Turn_Down.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Turn_Down.jpg',
       },
 
       {
-        url: 'Turn_Down.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Turn_Down.jpg',
       },
 
       {
-        url: 'Turn_Down.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Turn_Down.jpg',
       },
     ],
     categories: [
@@ -2991,22 +2991,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Cowl_Neck.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cowl_Neck.jpg',
     gallery: [
       {
-        url: 'Cowl_Neck.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cowl_Neck.jpg',
       },
 
       {
-        url: 'Cowl_Neck.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cowl_Neck.jpg',
       },
 
       {
-        url: 'Cowl_Neck.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cowl_Neck.jpg',
       },
 
       {
-        url: 'Cowl_Neck.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cowl_Neck.jpg',
       },
     ],
     categories: [
@@ -3033,26 +3033,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Hooded_Zips.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hooded_Zips.jpg',
     gallery: [
       {
         url:
-          'Hooded_Zips.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hooded_Zips.jpg',
       },
 
       {
         url:
-          'Hooded_Zips.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hooded_Zips.jpg',
       },
 
       {
         url:
-          'Hooded_Zips.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hooded_Zips.jpg',
       },
 
       {
         url:
-          'Hooded_Zips.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hooded_Zips.jpg',
       },
     ],
     categories: [
@@ -3080,22 +3080,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Lapel_Zips.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lapel_Zips.jpg',
     gallery: [
       {
-        url: 'Lapel_Zips.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lapel_Zips.jpg',
       },
 
       {
-        url: 'Lapel_Zips.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lapel_Zips.jpg',
       },
 
       {
-        url: 'Lapel_Zips.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lapel_Zips.jpg',
       },
 
       {
-        url: 'Lapel_Zips.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lapel_Zips.jpg',
       },
     ],
     categories: [
@@ -3123,26 +3123,26 @@ const productData = [
       'Blue and navy cotton Decima zipped cardigan from ANGLOZINE featuring a classic collar, a front zip fastening, a chest pocket, long sleeves, contrasting panels and a slim fit. This item is unisex.',
     type: 'women-cloths',
     image:
-      'BOXY_CARDIGAN.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BOXY_CARDIGAN.jpg',
     gallery: [
       {
         url:
-          'BOXY_CARDIGAN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BOXY_CARDIGAN.jpg',
       },
 
       {
         url:
-          'BOXY_CARDIGAN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BOXY_CARDIGAN.jpg',
       },
 
       {
         url:
-          'BOXY_CARDIGAN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BOXY_CARDIGAN.jpg',
       },
 
       {
         url:
-          'BOXY_CARDIGAN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BOXY_CARDIGAN.jpg',
       },
     ],
     categories: [
@@ -3170,26 +3170,26 @@ const productData = [
       'Blue and navy cotton Decima zipped cardigan from ANGLOZINE featuring a classic collar, a front zip fastening, a chest pocket, long sleeves, contrasting panels and a slim fit. This item is unisex.',
     type: 'women-cloths',
     image:
-      'STRETCH_COTTON.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/STRETCH_COTTON.jpg',
     gallery: [
       {
         url:
-          'STRETCH_COTTON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/STRETCH_COTTON.jpg',
       },
 
       {
         url:
-          'STRETCH_COTTON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/STRETCH_COTTON.jpg',
       },
 
       {
         url:
-          'STRETCH_COTTON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/STRETCH_COTTON.jpg',
       },
 
       {
         url:
-          'STRETCH_COTTON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/STRETCH_COTTON.jpg',
       },
     ],
     categories: [
@@ -3218,26 +3218,26 @@ const productData = [
       "Black cotton shearling denim jacket from Levi's featuring long sleeves, a front button fastening, two chest pockets, side slit pockets, a shearling lining and a logo tag.",
     type: 'women-cloths',
     image:
-      "LEVI'S_WESTERN.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LEVI'S_WESTERN.jpg",
     gallery: [
       {
         url:
-          "LEVI'S_WESTERN.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LEVI'S_WESTERN.jpg",
       },
 
       {
         url:
-          "LEVI'S_WESTERN.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LEVI'S_WESTERN.jpg",
       },
 
       {
         url:
-          "LEVI'S_WESTERN.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LEVI'S_WESTERN.jpg",
       },
 
       {
         url:
-          "LEVI'S_WESTERN.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LEVI'S_WESTERN.jpg",
       },
     ],
     categories: [
@@ -3260,26 +3260,26 @@ const productData = [
     description:
       "Black cotton shearling denim jacket from Levi's featuring long sleeves, a front button fastening, two chest pockets, side slit pockets, a shearling lining and a logo tag.",
     type: 'women-cloths',
-    image: 'IVORY_CHECK.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/IVORY_CHECK.jpg',
     gallery: [
       {
         url:
-          'IVORY_CHECK.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/IVORY_CHECK.jpg',
       },
 
       {
         url:
-          'IVORY_CHECK.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/IVORY_CHECK.jpg',
       },
 
       {
         url:
-          'IVORY_CHECK.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/IVORY_CHECK.jpg',
       },
 
       {
         url:
-          'IVORY_CHECK.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/IVORY_CHECK.jpg',
       },
     ],
     categories: [
@@ -3301,22 +3301,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'VERO_MODA.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VERO_MODA.jpg',
     gallery: [
       {
-        url: 'VERO_MODA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VERO_MODA.jpg',
       },
 
       {
-        url: 'VERO_MODA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VERO_MODA.jpg',
       },
 
       {
-        url: 'VERO_MODA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VERO_MODA.jpg',
       },
 
       {
-        url: 'VERO_MODA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VERO_MODA.jpg',
       },
     ],
     categories: [
@@ -3344,26 +3344,26 @@ const productData = [
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
     image:
-      'SKECHERS_KALLEN.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SKECHERS_KALLEN.jpg',
     gallery: [
       {
         url:
-          'SKECHERS_KALLEN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SKECHERS_KALLEN.jpg',
       },
 
       {
         url:
-          'SKECHERS_KALLEN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SKECHERS_KALLEN.jpg',
       },
 
       {
         url:
-          'SKECHERS_KALLEN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SKECHERS_KALLEN.jpg',
       },
 
       {
         url:
-          'SKECHERS_KALLEN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SKECHERS_KALLEN.jpg',
       },
     ],
     categories: [
@@ -3390,22 +3390,22 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'REEBOK.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/REEBOK.jpg',
     gallery: [
       {
-        url: 'REEBOK.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/REEBOK.jpg',
       },
 
       {
-        url: 'REEBOK.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/REEBOK.jpg',
       },
 
       {
-        url: 'REEBOK.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/REEBOK.jpg',
       },
 
       {
-        url: 'REEBOK.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/REEBOK.jpg',
       },
     ],
     categories: [
@@ -3433,26 +3433,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'WHITE_INFINITY.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/WHITE_INFINITY.jpg',
     gallery: [
       {
         url:
-          'WHITE_INFINITY.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/WHITE_INFINITY.jpg',
       },
 
       {
         url:
-          'WHITE_INFINITY.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/WHITE_INFINITY.jpg',
       },
 
       {
         url:
-          'WHITE_INFINITY.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/WHITE_INFINITY.jpg',
       },
 
       {
         url:
-          'WHITE_INFINITY.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/WHITE_INFINITY.jpg',
       },
     ],
     categories: [
@@ -3481,26 +3481,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'JUNAROSE_QUEEN.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/JUNAROSE_QUEEN.jpg',
     gallery: [
       {
         url:
-          'JUNAROSE_QUEEN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/JUNAROSE_QUEEN.jpg',
       },
 
       {
         url:
-          'JUNAROSE_QUEEN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/JUNAROSE_QUEEN.jpg',
       },
 
       {
         url:
-          'JUNAROSE_QUEEN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/JUNAROSE_QUEEN.jpg',
       },
 
       {
         url:
-          'JUNAROSE_QUEEN.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/JUNAROSE_QUEEN.jpg',
       },
     ],
     categories: [
@@ -3527,22 +3527,22 @@ const productData = [
     description:
       'Bourjois Little Round Pot Blusher has been keeping women beautiful for generations. Made in an exclusive baked technology process, its incredibly transparent & light texture formula is easy to apply and blends impeccably.',
     type: 'makeup',
-    image: 'Bourjois.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bourjois.jpg',
     gallery: [
       {
-        url: 'Bourjois.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bourjois.jpg',
       },
 
       {
-        url: 'Bourjois.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bourjois.jpg',
       },
 
       {
-        url: 'Bourjois.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bourjois.jpg',
       },
 
       {
-        url: 'Bourjois.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bourjois.jpg',
       },
     ],
     categories: [
@@ -3570,22 +3570,22 @@ const productData = [
     description:
       'Bourjois Little Round Pot Blusher has been keeping women beautiful for generations. Made in an exclusive baked technology process, its incredibly transparent & light texture formula is easy to apply and blends impeccably.',
     type: 'makeup',
-    image: 'CYO.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CYO.jpg',
     gallery: [
       {
-        url: 'CYO.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CYO.jpg',
       },
 
       {
-        url: 'CYO.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CYO.jpg',
       },
 
       {
-        url: 'CYO.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CYO.jpg',
       },
 
       {
-        url: 'CYO.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CYO.jpg',
       },
     ],
     categories: [
@@ -3612,22 +3612,22 @@ const productData = [
     description:
       "An easy-to-use, six-well contour kit with pigment-packed, blendable highlighter, bronzer, and blush powders. Use these versatile shades to create an effortlessly lifted neutral look or a warm, just-cruised-down-the-coast glow. It features three matte and two pearlescent powders to shape, bronze, and highlight. It also includes one matte blush to add a youthful flush of subtle color to any look. It is formulated Without: - Parabens- Phthalates This laid-back makeup palette makes it easy to add warmth and dimension to your look. Customize your signature Cali glow using six neutrals, including two of Smashbox's bestselling contour shades. This product is cruelty-free and formulated without parabens, phthalates, fragrance.",
     type: 'makeup',
-    image: 'Smashbox.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Smashbox.jpg',
     gallery: [
       {
-        url: 'Smashbox.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Smashbox.jpg',
       },
 
       {
-        url: 'Smashbox.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Smashbox.jpg',
       },
 
       {
-        url: 'Smashbox.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Smashbox.jpg',
       },
 
       {
-        url: 'Smashbox.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Smashbox.jpg',
       },
     ],
     categories: [
@@ -3654,22 +3654,22 @@ const productData = [
     description:
       "An easy-to-use, six-well contour kit with pigment-packed, blendable highlighter, bronzer, and blush powders. Use these versatile shades to create an effortlessly lifted neutral look or a warm, just-cruised-down-the-coast glow. It features three matte and two pearlescent powders to shape, bronze, and highlight. It also includes one matte blush to add a youthful flush of subtle color to any look. It is formulated Without: - Parabens- Phthalates This laid-back makeup palette makes it easy to add warmth and dimension to your look. Customize your signature Cali glow using six neutrals, including two of Smashbox's bestselling contour shades. This product is cruelty-free and formulated without parabens, phthalates, fragrance.",
     type: 'makeup',
-    image: 'DIOR.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DIOR.jpg',
     gallery: [
       {
-        url: 'DIOR.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DIOR.jpg',
       },
 
       {
-        url: 'DIOR.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DIOR.jpg',
       },
 
       {
-        url: 'DIOR.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DIOR.jpg',
       },
 
       {
-        url: 'DIOR.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DIOR.jpg',
       },
     ],
     categories: [
@@ -3697,22 +3697,22 @@ const productData = [
     description:
       'Everything you need to create beautiful eye make-up looks. From dark and dramatic, blown out colour, pastel washes and contoured creations, this is the ultimate eye blending set. The larger shaders are ideal to apply a base colour, then build the detail with the smaller shaders and blenders.',
     type: 'makeup',
-    image: 'Spectrum.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Spectrum.jpg',
     gallery: [
       {
-        url: 'Spectrum.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Spectrum.jpg',
       },
 
       {
-        url: 'Spectrum.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Spectrum.jpg',
       },
 
       {
-        url: 'Spectrum.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Spectrum.jpg',
       },
 
       {
-        url: 'Spectrum.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Spectrum.jpg',
       },
     ],
     categories: [
@@ -3735,22 +3735,22 @@ const productData = [
     description:
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
-    image: 'Max_factor.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Max_factor.jpg',
     gallery: [
       {
-        url: 'Max_factor.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Max_factor.jpg',
       },
 
       {
-        url: 'Max_factor.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Max_factor.jpg',
       },
 
       {
-        url: 'Max_factor.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Max_factor.jpg',
       },
 
       {
-        url: 'Max_factor.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Max_factor.jpg',
       },
     ],
     categories: [
@@ -3777,26 +3777,26 @@ const productData = [
     description:
       'An eyeshadow palette of 16 longwearing Moroccan-inspired shades ranging from matte to shimmer finishes—perfect for spicing up your look in limitless ways.',
     type: 'makeup',
-    image: 'Fenty_Beauty.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fenty_Beauty.jpg',
     gallery: [
       {
         url:
-          'Fenty_Beauty.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fenty_Beauty.jpg',
       },
 
       {
         url:
-          'Fenty_Beauty.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fenty_Beauty.jpg',
       },
 
       {
         url:
-          'Fenty_Beauty.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fenty_Beauty.jpg',
       },
 
       {
         url:
-          'Fenty_Beauty.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fenty_Beauty.jpg',
       },
     ],
     categories: [
@@ -3823,22 +3823,22 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'Clarins.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Clarins.jpg',
     gallery: [
       {
-        url: 'Clarins.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Clarins.jpg',
       },
 
       {
-        url: 'Clarins.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Clarins.jpg',
       },
 
       {
-        url: 'Clarins.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Clarins.jpg',
       },
 
       {
-        url: 'Clarins.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Clarins.jpg',
       },
     ],
     categories: [
@@ -3865,22 +3865,22 @@ const productData = [
     description:
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
-    image: 'Stila.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stila.jpg',
     gallery: [
       {
-        url: 'Stila.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stila.jpg',
       },
 
       {
-        url: 'Stila.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stila.jpg',
       },
 
       {
-        url: 'Stila.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stila.jpg',
       },
 
       {
-        url: 'Stila.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stila.jpg',
       },
     ],
     categories: [
@@ -3907,22 +3907,22 @@ const productData = [
     description:
       "No more bad days with our Party Glitter Mirror. Keeping your make up in check is easy as can be with this cute little addition! Plus, it's the perfect size to throw in your handbag!",
     type: 'makeup',
-    image: 'Skinnydip.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Skinnydip.jpg',
     gallery: [
       {
-        url: 'Skinnydip.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Skinnydip.jpg',
       },
 
       {
-        url: 'Skinnydip.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Skinnydip.jpg',
       },
 
       {
-        url: 'Skinnydip.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Skinnydip.jpg',
       },
 
       {
-        url: 'Skinnydip.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Skinnydip.jpg',
       },
     ],
     categories: [
@@ -3949,22 +3949,22 @@ const productData = [
     description:
       'Shockwaves Sleek n Shine Hairspray 250ml for a hairstyle that you want to look great, just apply Sleek and Shine Hairspray to damp or dry hair and allow it to dry naturally or blow dry using a diffusor. Great for all types and styles of hair, this product provides sleek looks with lasting shape, definition and shine, helped by an anti-freeze effect. It protects your hair from the humidity and gives it that beautiful, sleek  feel that lasts for up to 24 hours.',
     type: 'makeup',
-    image: 'Shockwaves.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Shockwaves.jpg',
     gallery: [
       {
-        url: 'Shockwaves.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Shockwaves.jpg',
       },
 
       {
-        url: 'Shockwaves.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Shockwaves.jpg',
       },
 
       {
-        url: 'Shockwaves.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Shockwaves.jpg',
       },
 
       {
-        url: 'Shockwaves.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Shockwaves.jpg',
       },
     ],
     categories: [
@@ -3987,22 +3987,22 @@ const productData = [
     description:
       'A lightunit and luminous liquid base formulated with light diffusers to unify skin tone and effortlessly cover imperfections. Specially designed ‘true colour’ pigments work perfectly with your skins’ natural tones in an ultra-blendable formula.',
     type: 'makeup',
-    image: 'EX1.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EX1.jpg',
     gallery: [
       {
-        url: 'EX1.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EX1.jpg',
       },
 
       {
-        url: 'EX1.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EX1.jpg',
       },
 
       {
-        url: 'EX1.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EX1.jpg',
       },
 
       {
-        url: 'EX1.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EX1.jpg',
       },
     ],
     categories: [
@@ -4029,22 +4029,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'Barry.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
     gallery: [
       {
-        url: 'Barry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
       },
 
       {
-        url: 'Barry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
       },
 
       {
-        url: 'Barry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
       },
 
       {
-        url: 'Barry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
       },
     ],
     categories: [
@@ -4071,22 +4071,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'RETRO.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RETRO.jpg',
     gallery: [
       {
-        url: 'RETRO.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RETRO.jpg',
       },
 
       {
-        url: 'RETRO.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RETRO.jpg',
       },
 
       {
-        url: 'RETRO.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RETRO.jpg',
       },
 
       {
-        url: 'RETRO.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RETRO.jpg',
       },
     ],
     categories: [
@@ -4114,22 +4114,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'LIPTENSITY.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LIPTENSITY.jpg',
     gallery: [
       {
-        url: 'LIPTENSITY.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LIPTENSITY.jpg',
       },
 
       {
-        url: 'LIPTENSITY.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LIPTENSITY.jpg',
       },
 
       {
-        url: 'LIPTENSITY.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LIPTENSITY.jpg',
       },
 
       {
-        url: 'LIPTENSITY.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/LIPTENSITY.jpg',
       },
     ],
     categories: [
@@ -4157,22 +4157,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'BLING.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BLING.jpg',
     gallery: [
       {
-        url: 'BLING.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BLING.jpg',
       },
 
       {
-        url: 'BLING.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BLING.jpg',
       },
 
       {
-        url: 'BLING.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BLING.jpg',
       },
 
       {
-        url: 'BLING.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/BLING.jpg',
       },
     ],
     categories: [
@@ -4199,22 +4199,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'VIVA.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VIVA.jpg',
     gallery: [
       {
-        url: 'VIVA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VIVA.jpg',
       },
 
       {
-        url: 'VIVA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VIVA.jpg',
       },
 
       {
-        url: 'VIVA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VIVA.jpg',
       },
 
       {
-        url: 'VIVA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/VIVA.jpg',
       },
     ],
     categories: [
@@ -4241,22 +4241,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'Too_Faced.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Too_Faced.jpg',
     gallery: [
       {
-        url: 'Too_Faced.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Too_Faced.jpg',
       },
 
       {
-        url: 'Too_Faced.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Too_Faced.jpg',
       },
 
       {
-        url: 'Too_Faced.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Too_Faced.jpg',
       },
 
       {
-        url: 'Too_Faced.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Too_Faced.jpg',
       },
     ],
     categories: [
@@ -4283,22 +4283,22 @@ const productData = [
     description:
       "NIVEA Daily essentials Double Effective Eye Make-up Remover with a two-phase extra strength formula: The oil phase effectively removes even waterproof mascara and eye-make-up. Specially formulated and tested for the sensitive eye area. The aqueous phase protects and cares for the eye lashes with it's caring formula, without leaving an oily residue.",
     type: 'makeup',
-    image: 'NIVEA.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/NIVEA.jpg',
     gallery: [
       {
-        url: 'NIVEA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/NIVEA.jpg',
       },
 
       {
-        url: 'NIVEA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/NIVEA.jpg',
       },
 
       {
-        url: 'NIVEA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/NIVEA.jpg',
       },
 
       {
-        url: 'NIVEA.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/NIVEA.jpg',
       },
     ],
     categories: [
@@ -4320,22 +4320,22 @@ const productData = [
     description:
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
-    image: 'Lancome.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lancome.jpg',
     gallery: [
       {
-        url: 'Lancome.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lancome.jpg',
       },
 
       {
-        url: 'Lancome.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lancome.jpg',
       },
 
       {
-        url: 'Lancome.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lancome.jpg',
       },
 
       {
-        url: 'Lancome.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Lancome.jpg',
       },
     ],
     categories: [
@@ -4362,22 +4362,22 @@ const productData = [
     description:
       "This formula is infused with ID.SCULPT Technology—a blend of Micro-Tingling Spicules and a patented Sodium Deoxycholate Complex—that work together to help define and firm the appearance of skin over time. Experience the exclusive skin secrets from Dr. Sanghoon Park, founder of Korea's premier dermatology clinic ID ",
     type: 'makeup',
-    image: 'skin_serum.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/skin_serum.jpg',
     gallery: [
       {
-        url: 'skin_serum.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/skin_serum.jpg',
       },
 
       {
-        url: 'skin_serum.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/skin_serum.jpg',
       },
 
       {
-        url: 'skin_serum.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/skin_serum.jpg',
       },
 
       {
-        url: 'skin_serum.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/skin_serum.jpg',
       },
     ],
     categories: [
@@ -4401,26 +4401,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'belmont_custard_cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/belmont_custard_cream.jpg',
     gallery: [
       {
         url:
-          'belmont_custard_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/belmont_custard_cream.jpg',
       },
 
       {
         url:
-          'belmont_custard_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/belmont_custard_cream.jpg',
       },
 
       {
         url:
-          'belmont_custard_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/belmont_custard_cream.jpg',
       },
 
       {
         url:
-          'belmont_custard_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/belmont_custard_cream.jpg',
       },
     ],
     categories: [
@@ -4449,26 +4449,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'crawford_digestives.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_digestives.jpg',
     gallery: [
       {
         url:
-          'crawford_digestives.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_digestives.jpg',
       },
 
       {
         url:
-          'crawford_digestives.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_digestives.jpg',
       },
 
       {
         url:
-          'crawford_digestives.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_digestives.jpg',
       },
 
       {
         url:
-          'crawford_digestives.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_digestives.jpg',
       },
     ],
     categories: [
@@ -4496,26 +4496,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'crawford_shortie.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_shortie.jpg',
     gallery: [
       {
         url:
-          'crawford_shortie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_shortie.jpg',
       },
 
       {
         url:
-          'crawford_shortie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_shortie.jpg',
       },
 
       {
         url:
-          'crawford_shortie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_shortie.jpg',
       },
 
       {
         url:
-          'crawford_shortie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crawford_shortie.jpg',
       },
     ],
     categories: [
@@ -4543,26 +4543,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'Hill_Biscuits_Mini_Pack_Mix_.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hill_Biscuits_Mini_Pack_Mix_.jpg',
     gallery: [
       {
         url:
-          'Hill_Biscuits_Mini_Pack_Mix_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hill_Biscuits_Mini_Pack_Mix_.jpg',
       },
 
       {
         url:
-          'Hill_Biscuits_Mini_Pack_Mix_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hill_Biscuits_Mini_Pack_Mix_.jpg',
       },
 
       {
         url:
-          'Hill_Biscuits_Mini_Pack_Mix_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hill_Biscuits_Mini_Pack_Mix_.jpg',
       },
 
       {
         url:
-          'Hill_Biscuits_Mini_Pack_Mix_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hill_Biscuits_Mini_Pack_Mix_.jpg',
       },
     ],
     categories: [
@@ -4590,26 +4590,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'Jammie_Dodgers.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie_Dodgers.jpg',
     gallery: [
       {
         url:
-          'Jammie_Dodgers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie_Dodgers.jpg',
       },
 
       {
         url:
-          'Jammie_Dodgers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie_Dodgers.jpg',
       },
 
       {
         url:
-          'Jammie_Dodgers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie_Dodgers.jpg',
       },
 
       {
         url:
-          'Jammie_Dodgers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie_Dodgers.jpg',
       },
     ],
     categories: [
@@ -4637,26 +4637,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'Jammie-Bakes-Raspberry.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie-Bakes-Raspberry.jpg',
     gallery: [
       {
         url:
-          'Jammie-Bakes-Raspberry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie-Bakes-Raspberry.jpg',
       },
 
       {
         url:
-          'Jammie-Bakes-Raspberry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie-Bakes-Raspberry.jpg',
       },
 
       {
         url:
-          'Jammie-Bakes-Raspberry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie-Bakes-Raspberry.jpg',
       },
 
       {
         url:
-          'Jammie-Bakes-Raspberry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jammie-Bakes-Raspberry.jpg',
       },
     ],
     categories: [
@@ -4684,26 +4684,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'julis_cheese_crackers.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/julis_cheese_crackers.jpg',
     gallery: [
       {
         url:
-          'julis_cheese_crackers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/julis_cheese_crackers.jpg',
       },
 
       {
         url:
-          'julis_cheese_crackers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/julis_cheese_crackers.jpg',
       },
 
       {
         url:
-          'julis_cheese_crackers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/julis_cheese_crackers.jpg',
       },
 
       {
         url:
-          'julis_cheese_crackers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/julis_cheese_crackers.jpg',
       },
     ],
     categories: [
@@ -4731,26 +4731,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'khong_guan_orange_cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_orange_cream.jpg',
     gallery: [
       {
         url:
-          'khong_guan_orange_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_orange_cream.jpg',
       },
 
       {
         url:
-          'khong_guan_orange_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_orange_cream.jpg',
       },
 
       {
         url:
-          'khong_guan_orange_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_orange_cream.jpg',
       },
 
       {
         url:
-          'khong_guan_orange_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_orange_cream.jpg',
       },
     ],
     categories: [
@@ -4778,26 +4778,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'khong_guan_premium_marie.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_premium_marie.jpg',
     gallery: [
       {
         url:
-          'khong_guan_premium_marie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_premium_marie.jpg',
       },
 
       {
         url:
-          'khong_guan_premium_marie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_premium_marie.jpg',
       },
 
       {
         url:
-          'khong_guan_premium_marie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_premium_marie.jpg',
       },
 
       {
         url:
-          'khong_guan_orange_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/khong_guan_orange_cream.jpg',
       },
     ],
     categories: [
@@ -4825,26 +4825,26 @@ const productData = [
       'A biscuit is a flour-based baked food product. This article covers the type of biscuit found in Africa, Asia, and Europe, which is typically hard, flat, and unleavened. ',
     type: 'grocery',
     image:
-      'lotus_biscoff.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lotus_biscoff.jpg',
     gallery: [
       {
         url:
-          'lotus_biscoff.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lotus_biscoff.jpg',
       },
 
       {
         url:
-          'lotus_biscoff.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lotus_biscoff.jpg',
       },
 
       {
         url:
-          'lotus_biscoff.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lotus_biscoff.jpg',
       },
 
       {
         url:
-          'lotus_biscoff.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lotus_biscoff.jpg',
       },
     ],
     categories: [
@@ -4872,26 +4872,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods.',
     type: 'grocery',
     image:
-      'artiach_filipino.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/artiach_filipino.jpg',
     gallery: [
       {
         url:
-          'artiach_filipino.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/artiach_filipino.jpg',
       },
 
       {
         url:
-          'artiach_filipino.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/artiach_filipino.jpg',
       },
 
       {
         url:
-          'artiach_filipino.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/artiach_filipino.jpg',
       },
 
       {
         url:
-          'artiach_filipino.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/artiach_filipino.jpg',
       },
     ],
     categories: [
@@ -4919,26 +4919,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'cadbury_dairy_milk_crispello.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_dairy_milk_crispello.jpg',
     gallery: [
       {
         url:
-          'cadbury_dairy_milk_crispello.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_dairy_milk_crispello.jpg',
       },
 
       {
         url:
-          'cadbury_dairy_milk_crispello.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_dairy_milk_crispello.jpg',
       },
 
       {
         url:
-          'cadbury_dairy_milk_crispello.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_dairy_milk_crispello.jpg',
       },
 
       {
         url:
-          'cadbury_dairy_milk_crispello.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_dairy_milk_crispello.jpg',
       },
     ],
     categories: [
@@ -4966,26 +4966,26 @@ const productData = [
     description:
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
-    image: 'cadbury_zip.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_zip.jpg',
     gallery: [
       {
         url:
-          'cadbury_zip.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_zip.jpg',
       },
 
       {
         url:
-          'cadbury_zip.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_zip.jpg',
       },
 
       {
         url:
-          'cadbury_zip.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_zip.jpg',
       },
 
       {
         url:
-          'cadbury_zip.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury_zip.jpg',
       },
     ],
     categories: [
@@ -5013,26 +5013,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods.',
     type: 'grocery',
     image:
-      'cadbury-dairy-milk-reclose.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury-dairy-milk-reclose.jpg',
     gallery: [
       {
         url:
-          'cadbury-dairy-milk-reclose.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury-dairy-milk-reclose.jpg',
       },
 
       {
         url:
-          'cadbury-dairy-milk-reclose.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury-dairy-milk-reclose.jpg',
       },
 
       {
         url:
-          'cadbury-dairy-milk-reclose.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury-dairy-milk-reclose.jpg',
       },
 
       {
         url:
-          'cadbury-dairy-milk-reclose.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cadbury-dairy-milk-reclose.jpg',
       },
     ],
     categories: [
@@ -5060,26 +5060,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'cloetta_chocowoffle.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_chocowoffle.jpg',
     gallery: [
       {
         url:
-          'cloetta_chocowoffle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_chocowoffle.jpg',
       },
 
       {
         url:
-          'cloetta_chocowoffle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_chocowoffle.jpg',
       },
 
       {
         url:
-          'cloetta_chocowoffle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_chocowoffle.jpg',
       },
 
       {
         url:
-          'cloetta_chocowoffle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_chocowoffle.jpg',
       },
     ],
     categories: [
@@ -5107,26 +5107,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'cloetta_sprinkle.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_sprinkle.jpg',
     gallery: [
       {
         url:
-          'cloetta_sprinkle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_sprinkle.jpg',
       },
 
       {
         url:
-          'cloetta_sprinkle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_sprinkle.jpg',
       },
 
       {
         url:
-          'cloetta_sprinkle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_sprinkle.jpg',
       },
 
       {
         url:
-          'cloetta_sprinkle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cloetta_sprinkle.jpg',
       },
     ],
     categories: [
@@ -5154,26 +5154,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'hershey_symphony.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hershey_symphony.jpg',
     gallery: [
       {
         url:
-          'hershey_symphony.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hershey_symphony.jpg',
       },
 
       {
         url:
-          'hershey_symphony.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hershey_symphony.jpg',
       },
 
       {
         url:
-          'hershey_symphony.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hershey_symphony.jpg',
       },
 
       {
         url:
-          'hershey_symphony.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hershey_symphony.jpg',
       },
     ],
     categories: [
@@ -5202,26 +5202,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'hersheys_kisses.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hersheys_kisses.jpg',
     gallery: [
       {
         url:
-          'hersheys_kisses.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hersheys_kisses.jpg',
       },
 
       {
         url:
-          'hersheys_kisses.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hersheys_kisses.jpg',
       },
 
       {
         url:
-          'hersheys_kisses.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hersheys_kisses.jpg',
       },
 
       {
         url:
-          'hersheys_kisses.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hersheys_kisses.jpg',
       },
     ],
     categories: [
@@ -5248,26 +5248,26 @@ const productData = [
     description:
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
-    image: 'm&m_funsize.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/m&m_funsize.jpg',
     gallery: [
       {
         url:
-          'm&m_funsize.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/m&m_funsize.jpg',
       },
 
       {
         url:
-          'm&m_funsize.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/m&m_funsize.jpg',
       },
 
       {
         url:
-          'm&m_funsize.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/m&m_funsize.jpg',
       },
 
       {
         url:
-          'm&m_funsize.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/m&m_funsize.jpg',
       },
     ],
     categories: [
@@ -5295,26 +5295,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'nestle_butterfinger.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_butterfinger.jpg',
     gallery: [
       {
         url:
-          'nestle_butterfinger.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_butterfinger.jpg',
       },
 
       {
         url:
-          'nestle_butterfinger.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_butterfinger.jpg',
       },
 
       {
         url:
-          'nestle_butterfinger.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_butterfinger.jpg',
       },
 
       {
         url:
-          'nestle_butterfinger.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_butterfinger.jpg',
       },
     ],
     categories: [
@@ -5342,26 +5342,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'nestle_kitkat.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_kitkat.jpg',
     gallery: [
       {
         url:
-          'nestle_kitkat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_kitkat.jpg',
       },
 
       {
         url:
-          'nestle_kitkat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_kitkat.jpg',
       },
 
       {
         url:
-          'nestle_kitkat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_kitkat.jpg',
       },
 
       {
         url:
-          'nestle_kitkat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_kitkat.jpg',
       },
     ],
     categories: [
@@ -5389,26 +5389,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'snikers_slice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_slice.jpg',
     gallery: [
       {
         url:
-          'snikers_slice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_slice.jpg',
       },
 
       {
         url:
-          'snikers_slice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_slice.jpg',
       },
 
       {
         url:
-          'snikers_slice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_slice.jpg',
       },
 
       {
         url:
-          'snikers_slice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_slice.jpg',
       },
     ],
     categories: [
@@ -5436,26 +5436,26 @@ const productData = [
       'Chocolate is a usually sweet, brown food preparation of roasted and ground cacao seeds that is made in the form of a liquid, paste, or in a block, or used as a flavoring ingredient in other foods. ',
     type: 'grocery',
     image:
-      'snikers_snacksize.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_snacksize.jpg',
     gallery: [
       {
         url:
-          'snikers_snacksize.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_snacksize.jpg',
       },
 
       {
         url:
-          'snikers_snacksize.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_snacksize.jpg',
       },
 
       {
         url:
-          'snikers_snacksize.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_snacksize.jpg',
       },
 
       {
         url:
-          'snikers_snacksize.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snikers_snacksize.jpg',
       },
     ],
     categories: [
@@ -5483,26 +5483,26 @@ const productData = [
     description:
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
-    image: 'cottage_bbq.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cottage_bbq.jpg',
     gallery: [
       {
         url:
-          'cottage_bbq.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cottage_bbq.jpg',
       },
 
       {
         url:
-          'cottage_bbq.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cottage_bbq.jpg',
       },
 
       {
         url:
-          'cottage_bbq.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cottage_bbq.jpg',
       },
 
       {
         url:
-          'cottage_bbq.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cottage_bbq.jpg',
       },
     ],
     categories: [
@@ -5530,26 +5530,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'crisps-puzzle.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crisps-puzzle.jpg',
     gallery: [
       {
         url:
-          'crisps-puzzle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crisps-puzzle.jpg',
       },
 
       {
         url:
-          'crisps-puzzle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crisps-puzzle.jpg',
       },
 
       {
         url:
-          'crisps-puzzle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crisps-puzzle.jpg',
       },
 
       {
         url:
-          'crisps-puzzle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crisps-puzzle.jpg',
       },
     ],
     categories: [
@@ -5576,22 +5576,22 @@ const productData = [
     description:
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
-    image: 'doritos.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/doritos.jpg',
     gallery: [
       {
-        url: 'doritos.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/doritos.jpg',
       },
 
       {
-        url: 'doritos.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/doritos.jpg',
       },
 
       {
-        url: 'doritos.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/doritos.jpg',
       },
 
       {
-        url: 'doritos.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/doritos.jpg',
       },
     ],
     categories: [
@@ -5618,22 +5618,22 @@ const productData = [
     description:
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
-    image: 'lays_baked.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_baked.jpg',
     gallery: [
       {
-        url: 'lays_baked.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_baked.jpg',
       },
 
       {
-        url: 'lays_baked.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_baked.jpg',
       },
 
       {
-        url: 'lays_baked.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_baked.jpg',
       },
 
       {
-        url: 'lays_baked.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_baked.jpg',
       },
     ],
     categories: [
@@ -5661,26 +5661,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'lays_sea_salted.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_sea_salted.jpg',
     gallery: [
       {
         url:
-          'lays_sea_salted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_sea_salted.jpg',
       },
 
       {
         url:
-          'lays_sea_salted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_sea_salted.jpg',
       },
 
       {
         url:
-          'lays_sea_salted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_sea_salted.jpg',
       },
 
       {
         url:
-          'lays_sea_salted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays_sea_salted.jpg',
       },
     ],
     categories: [
@@ -5708,26 +5708,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'lays-kettle-cooked.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-kettle-cooked.jpg',
     gallery: [
       {
         url:
-          'lays-kettle-cooked.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-kettle-cooked.jpg',
       },
 
       {
         url:
-          'lays-kettle-cooked.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-kettle-cooked.jpg',
       },
 
       {
         url:
-          'lays-kettle-cooked.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-kettle-cooked.jpg',
       },
 
       {
         url:
-          'lays-kettle-cooked.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-kettle-cooked.jpg',
       },
     ],
     categories: [
@@ -5755,26 +5755,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'lays-sour-cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-sour-cream.jpg',
     gallery: [
       {
         url:
-          'lays-sour-cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-sour-cream.jpg',
       },
 
       {
         url:
-          'lays-sour-cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-sour-cream.jpg',
       },
 
       {
         url:
-          'lays-sour-cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-sour-cream.jpg',
       },
 
       {
         url:
-          'lays-sour-cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lays-sour-cream.jpg',
       },
     ],
     categories: [
@@ -5802,26 +5802,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'nims_apple_fruit.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nims_apple_fruit.jpg',
     gallery: [
       {
         url:
-          'nims_apple_fruit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nims_apple_fruit.jpg',
       },
 
       {
         url:
-          'nims_apple_fruit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nims_apple_fruit.jpg',
       },
 
       {
         url:
-          'nims_apple_fruit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nims_apple_fruit.jpg',
       },
 
       {
         url:
-          'nims_apple_fruit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nims_apple_fruit.jpg',
       },
     ],
     categories: [
@@ -5849,26 +5849,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'Ready-Salted-Crisps.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ready-Salted-Crisps.jpg',
     gallery: [
       {
         url:
-          'Ready-Salted-Crisps.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ready-Salted-Crisps.jpg',
       },
 
       {
         url:
-          'Ready-Salted-Crisps.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ready-Salted-Crisps.jpg',
       },
 
       {
         url:
-          'Ready-Salted-Crisps.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ready-Salted-Crisps.jpg',
       },
 
       {
         url:
-          'Ready-Salted-Crisps.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ready-Salted-Crisps.jpg',
       },
     ],
     categories: [
@@ -5895,26 +5895,26 @@ const productData = [
     description:
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
-    image: 'Roysters_6pk.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roysters_6pk.jpg',
     gallery: [
       {
         url:
-          'Roysters_6pk.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roysters_6pk.jpg',
       },
 
       {
         url:
-          'Roysters_6pk.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roysters_6pk.jpg',
       },
 
       {
         url:
-          'Roysters_6pk.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roysters_6pk.jpg',
       },
 
       {
         url:
-          'Roysters_6pk.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roysters_6pk.jpg',
       },
     ],
     categories: [
@@ -5942,26 +5942,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'snackrite_bags.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snackrite_bags.jpg',
     gallery: [
       {
         url:
-          'snackrite_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snackrite_bags.jpg',
       },
 
       {
         url:
-          'snackrite_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snackrite_bags.jpg',
       },
 
       {
         url:
-          'snackrite_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snackrite_bags.jpg',
       },
 
       {
         url:
-          'snackrite_bags.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/snackrite_bags.jpg',
       },
     ],
     categories: [
@@ -5989,26 +5989,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'tayto_cheese_onion.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_cheese_onion.jpg',
     gallery: [
       {
         url:
-          'tayto_cheese_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_cheese_onion.jpg',
       },
 
       {
         url:
-          'tayto_cheese_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_cheese_onion.jpg',
       },
 
       {
         url:
-          'tayto_cheese_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_cheese_onion.jpg',
       },
 
       {
         url:
-          'tayto_cheese_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_cheese_onion.jpg',
       },
     ],
     categories: [
@@ -6036,26 +6036,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'tayto_pickled_onion.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_pickled_onion.jpg',
     gallery: [
       {
         url:
-          'tayto_pickled_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_pickled_onion.jpg',
       },
 
       {
         url:
-          'tayto_pickled_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_pickled_onion.jpg',
       },
 
       {
         url:
-          'tayto_pickled_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_pickled_onion.jpg',
       },
 
       {
         url:
-          'tayto_pickled_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tayto_pickled_onion.jpg',
       },
     ],
     categories: [
@@ -6083,26 +6083,26 @@ const productData = [
       'Potato chips (often just chips), or crisps, are thin slices of potato that have been deep fried or baked until crunchy. They are commonly served as a snack, side dish, or appetizer. The basic chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.',
     type: 'grocery',
     image:
-      'walkers_cheese_onion.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/walkers_cheese_onion.jpg',
     gallery: [
       {
         url:
-          'walkers_cheese_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/walkers_cheese_onion.jpg',
       },
 
       {
         url:
-          'walkers_cheese_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/walkers_cheese_onion.jpg',
       },
 
       {
         url:
-          'walkers_cheese_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/walkers_cheese_onion.jpg',
       },
 
       {
         url:
-          'walkers_cheese_onion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/walkers_cheese_onion.jpg',
       },
     ],
     categories: [
@@ -6130,26 +6130,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use.',
     type: 'grocery',
     image:
-      'cintan_chicken.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cintan_chicken.jpg',
     gallery: [
       {
         url:
-          'cintan_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cintan_chicken.jpg',
       },
 
       {
         url:
-          'cintan_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cintan_chicken.jpg',
       },
 
       {
         url:
-          'cintan_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cintan_chicken.jpg',
       },
 
       {
         url:
-          'cintan_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cintan_chicken.jpg',
       },
     ],
     categories: [
@@ -6177,26 +6177,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use.',
     type: 'grocery',
     image:
-      'indomie_special_chicken.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/indomie_special_chicken.jpg',
     gallery: [
       {
         url:
-          'indomie_special_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/indomie_special_chicken.jpg',
       },
 
       {
         url:
-          'indomie_special_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/indomie_special_chicken.jpg',
       },
 
       {
         url:
-          'indomie_special_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/indomie_special_chicken.jpg',
       },
 
       {
         url:
-          'indomie_special_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/indomie_special_chicken.jpg',
       },
     ],
     categories: [
@@ -6224,26 +6224,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use.',
     type: 'grocery',
     image:
-      'kame_stir_fry.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kame_stir_fry.jpg',
     gallery: [
       {
         url:
-          'kame_stir_fry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kame_stir_fry.jpg',
       },
 
       {
         url:
-          'kame_stir_fry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kame_stir_fry.jpg',
       },
 
       {
         url:
-          'kame_stir_fry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kame_stir_fry.jpg',
       },
 
       {
         url:
-          'kame_stir_fry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kame_stir_fry.jpg',
       },
     ],
     categories: [
@@ -6270,22 +6270,22 @@ const productData = [
     description:
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
-    image: 'koka_curry.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/koka_curry.jpg',
     gallery: [
       {
-        url: 'koka_curry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/koka_curry.jpg',
       },
 
       {
-        url: 'koka_curry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/koka_curry.jpg',
       },
 
       {
-        url: 'koka_curry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/koka_curry.jpg',
       },
 
       {
-        url: 'koka_curry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/koka_curry.jpg',
       },
     ],
     categories: [
@@ -6312,22 +6312,22 @@ const productData = [
     description:
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
-    image: 'maggi_bbq.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_bbq.jpg',
     gallery: [
       {
-        url: 'maggi_bbq.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_bbq.jpg',
       },
 
       {
-        url: 'maggi_bbq.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_bbq.jpg',
       },
 
       {
-        url: 'maggi_bbq.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_bbq.jpg',
       },
 
       {
-        url: 'maggi_bbq.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_bbq.jpg',
       },
     ],
     categories: [
@@ -6354,22 +6354,22 @@ const productData = [
     description:
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
-    image: 'maggi_beef.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_beef.jpg',
     gallery: [
       {
-        url: 'maggi_beef.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_beef.jpg',
       },
 
       {
-        url: 'maggi_beef.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_beef.jpg',
       },
 
       {
-        url: 'maggi_beef.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_beef.jpg',
       },
 
       {
-        url: 'maggi_beef.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_beef.jpg',
       },
     ],
     categories: [
@@ -6397,26 +6397,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
     image:
-      'maggi_biriyani.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_biriyani.jpg',
     gallery: [
       {
         url:
-          'maggi_biriyani.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_biriyani.jpg',
       },
 
       {
         url:
-          'maggi_biriyani.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_biriyani.jpg',
       },
 
       {
         url:
-          'maggi_biriyani.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_biriyani.jpg',
       },
 
       {
         url:
-          'maggi_biriyani.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_biriyani.jpg',
       },
     ],
     categories: [
@@ -6444,26 +6444,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
     image:
-      'maggi_chicken.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_chicken.jpg',
     gallery: [
       {
         url:
-          'maggi_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_chicken.jpg',
       },
 
       {
         url:
-          'maggi_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_chicken.jpg',
       },
 
       {
         url:
-          'maggi_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_chicken.jpg',
       },
 
       {
         url:
-          'maggi_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maggi_chicken.jpg',
       },
     ],
     categories: [
@@ -6491,26 +6491,26 @@ const productData = [
       'Noodles are a type of food made from unleavened dough which is rolled flat and cut, or extruded, into long strips or strings. Noodles can be refrigerated for short-term storage or dried and stored for future use..',
     type: 'grocery',
     image:
-      'pixxden_chisense_masala.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pixxden_chisense_masala.jpg',
     gallery: [
       {
         url:
-          'pixxden_chisense_masala.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pixxden_chisense_masala.jpg',
       },
 
       {
         url:
-          'pixxden_chisense_masala.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pixxden_chisense_masala.jpg',
       },
 
       {
         url:
-          'pixxden_chisense_masala.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pixxden_chisense_masala.jpg',
       },
 
       {
         url:
-          'pixxden_chisense_masala.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pixxden_chisense_masala.jpg',
       },
     ],
     categories: [
@@ -6538,26 +6538,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'badia_pinenuts.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badia_pinenuts.jpg',
     gallery: [
       {
         url:
-          'badia_pinenuts.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badia_pinenuts.jpg',
       },
 
       {
         url:
-          'badia_pinenuts.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badia_pinenuts.jpg',
       },
 
       {
         url:
-          'badia_pinenuts.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badia_pinenuts.jpg',
       },
 
       {
         url:
-          'badia_pinenuts.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badia_pinenuts.jpg',
       },
     ],
     categories: [
@@ -6585,26 +6585,26 @@ const productData = [
     description:
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
-    image: 'cacao_cashew.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cacao_cashew.jpg',
     gallery: [
       {
         url:
-          'cacao_cashew.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cacao_cashew.jpg',
       },
 
       {
         url:
-          'cacao_cashew.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cacao_cashew.jpg',
       },
 
       {
         url:
-          'cacao_cashew.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cacao_cashew.jpg',
       },
 
       {
         url:
-          'cacao_cashew.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cacao_cashew.jpg',
       },
     ],
     categories: [
@@ -6632,26 +6632,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'fisher_peanut.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fisher_peanut.jpg',
     gallery: [
       {
         url:
-          'fisher_peanut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fisher_peanut.jpg',
       },
 
       {
         url:
-          'fisher_peanut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fisher_peanut.jpg',
       },
 
       {
         url:
-          'fisher_peanut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fisher_peanut.jpg',
       },
 
       {
         url:
-          'fisher_peanut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fisher_peanut.jpg',
       },
     ],
     categories: [
@@ -6679,26 +6679,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
     gallery: [
       {
         url:
-          'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
       },
 
       {
         url:
-          'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
       },
 
       {
         url:
-          'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
       },
 
       {
         url:
-          'Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Bottle-Front.jpg',
       },
     ],
     categories: [
@@ -6726,26 +6726,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'Fruits-And-Nuts-Full-Meal-Packet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Packet.jpg',
     gallery: [
       {
         url:
-          'Fruits-And-Nuts-Full-Meal-Packet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Packet.jpg',
       },
 
       {
         url:
-          'Fruits-And-Nuts-Full-Meal-Packet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Packet.jpg',
       },
 
       {
         url:
-          'Fruits-And-Nuts-Full-Meal-Packet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Packet.jpg',
       },
 
       {
         url:
-          'Fruits-And-Nuts-Full-Meal-Packet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fruits-And-Nuts-Full-Meal-Packet.jpg',
       },
     ],
     categories: [
@@ -6773,26 +6773,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'ivory_cashewnut.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ivory_cashewnut.jpg',
     gallery: [
       {
         url:
-          'ivory_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ivory_cashewnut.jpg',
       },
 
       {
         url:
-          'ivory_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ivory_cashewnut.jpg',
       },
 
       {
         url:
-          'ivory_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ivory_cashewnut.jpg',
       },
 
       {
         url:
-          'ivory_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ivory_cashewnut.jpg',
       },
     ],
     categories: [
@@ -6820,26 +6820,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'jaybee_whole_cashewnut.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/jaybee_whole_cashewnut.jpg',
     gallery: [
       {
         url:
-          'jaybee_whole_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/jaybee_whole_cashewnut.jpg',
       },
 
       {
         url:
-          'jaybee_whole_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/jaybee_whole_cashewnut.jpg',
       },
 
       {
         url:
-          'jaybee_whole_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/jaybee_whole_cashewnut.jpg',
       },
 
       {
         url:
-          'jaybee_whole_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/jaybee_whole_cashewnut.jpg',
       },
     ],
     categories: [
@@ -6867,26 +6867,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'kirkland_mixed_nuts.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kirkland_mixed_nuts.jpg',
     gallery: [
       {
         url:
-          'kirkland_mixed_nuts.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kirkland_mixed_nuts.jpg',
       },
 
       {
         url:
-          'kirkland_mixed_nuts.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kirkland_mixed_nuts.jpg',
       },
 
       {
         url:
-          'kirkland_mixed_nuts.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kirkland_mixed_nuts.jpg',
       },
 
       {
         url:
-          'kirkland_mixed_nuts.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kirkland_mixed_nuts.jpg',
       },
     ],
     categories: [
@@ -6914,26 +6914,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'natural_cashewnut.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_cashewnut.jpg',
     gallery: [
       {
         url:
-          'natural_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_cashewnut.jpg',
       },
 
       {
         url:
-          'natural_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_cashewnut.jpg',
       },
 
       {
         url:
-          'natural_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_cashewnut.jpg',
       },
 
       {
         url:
-          'natural_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_cashewnut.jpg',
       },
     ],
     categories: [
@@ -6961,26 +6961,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'planter_cashewnut.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planter_cashewnut.jpg',
     gallery: [
       {
         url:
-          'planter_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planter_cashewnut.jpg',
       },
 
       {
         url:
-          'planter_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planter_cashewnut.jpg',
       },
 
       {
         url:
-          'planter_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planter_cashewnut.jpg',
       },
 
       {
         url:
-          'planter_cashewnut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planter_cashewnut.jpg',
       },
     ],
     categories: [
@@ -7008,26 +7008,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'planters_dry_roasted.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_dry_roasted.jpg',
     gallery: [
       {
         url:
-          'planters_dry_roasted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_dry_roasted.jpg',
       },
 
       {
         url:
-          'planters_dry_roasted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_dry_roasted.jpg',
       },
 
       {
         url:
-          'planters_dry_roasted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_dry_roasted.jpg',
       },
 
       {
         url:
-          'planters_dry_roasted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_dry_roasted.jpg',
       },
     ],
     categories: [
@@ -7055,26 +7055,26 @@ const productData = [
       'A nut is a fruit composed of an inedible hard shell and a seed, which is generally edible. In general usage, a wide variety of dried seeds are called nuts, but in a botanical context nut implies that the shell does not open to release the seed.',
     type: 'grocery',
     image:
-      'planters_honey_roasted.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_honey_roasted.jpg',
     gallery: [
       {
         url:
-          'planters_honey_roasted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_honey_roasted.jpg',
       },
 
       {
         url:
-          'planters_honey_roasted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_honey_roasted.jpg',
       },
 
       {
         url:
-          'planters_honey_roasted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_honey_roasted.jpg',
       },
 
       {
         url:
-          'planters_honey_roasted.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/planters_honey_roasted.jpg',
       },
     ],
     categories: [
@@ -7102,26 +7102,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'bambino_macaroni.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_macaroni.jpg',
     gallery: [
       {
         url:
-          'bambino_macaroni.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_macaroni.jpg',
       },
 
       {
         url:
-          'bambino_macaroni.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_macaroni.jpg',
       },
 
       {
         url:
-          'bambino_macaroni.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_macaroni.jpg',
       },
 
       {
         url:
-          'bambino_macaroni.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_macaroni.jpg',
       },
     ],
     categories: [
@@ -7149,26 +7149,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'bambino_premium_pasta.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_premium_pasta.jpg',
     gallery: [
       {
         url:
-          'bambino_premium_pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_premium_pasta.jpg',
       },
 
       {
         url:
-          'bambino_premium_pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_premium_pasta.jpg',
       },
 
       {
         url:
-          'bambino_premium_pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_premium_pasta.jpg',
       },
 
       {
         url:
-          'bambino_premium_pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bambino_premium_pasta.jpg',
       },
     ],
     categories: [
@@ -7196,26 +7196,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'batchelors_pasta_sauce.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/batchelors_pasta_sauce.jpg',
     gallery: [
       {
         url:
-          'batchelors_pasta_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/batchelors_pasta_sauce.jpg',
       },
 
       {
         url:
-          'batchelors_pasta_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/batchelors_pasta_sauce.jpg',
       },
 
       {
         url:
-          'batchelors_pasta_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/batchelors_pasta_sauce.jpg',
       },
 
       {
         url:
-          'batchelors_pasta_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/batchelors_pasta_sauce.jpg',
       },
     ],
     categories: [
@@ -7242,26 +7242,26 @@ const productData = [
     description:
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
-    image: 'borges-pasta.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/borges-pasta.jpg',
     gallery: [
       {
         url:
-          'borges-pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/borges-pasta.jpg',
       },
 
       {
         url:
-          'borges-pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/borges-pasta.jpg',
       },
 
       {
         url:
-          'borges-pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/borges-pasta.jpg',
       },
 
       {
         url:
-          'borges-pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/borges-pasta.jpg',
       },
     ],
     categories: [
@@ -7290,26 +7290,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
     gallery: [
       {
         url:
-          'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
       },
 
       {
         url:
-          'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
       },
 
       {
         url:
-          'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
       },
 
       {
         url:
-          'Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Cheese-&-Broccoli-Pasta-&-Sauce.jpg',
       },
     ],
     categories: [
@@ -7338,26 +7338,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'sunremo_chicken_curry_pasta.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sunremo_chicken_curry_pasta.jpg',
     gallery: [
       {
         url:
-          'sunremo_chicken_curry_pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sunremo_chicken_curry_pasta.jpg',
       },
 
       {
         url:
-          'sunremo_chicken_curry_pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sunremo_chicken_curry_pasta.jpg',
       },
 
       {
         url:
-          'sunremo_chicken_curry_pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sunremo_chicken_curry_pasta.jpg',
       },
 
       {
         url:
-          'sunremo_chicken_curry_pasta.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sunremo_chicken_curry_pasta.jpg',
       },
     ],
     categories: [
@@ -7385,26 +7385,26 @@ const productData = [
       'Pasta is a type of food typically made from an unleavened dough of durum wheat flour mixed with water or eggs, and formed into sheets or various shapes, then cooked by boiling or baking',
     type: 'grocery',
     image:
-      'knorr_pastaria.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_pastaria.jpg',
     gallery: [
       {
         url:
-          'knorr_pastaria.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_pastaria.jpg',
       },
 
       {
         url:
-          'knorr_pastaria.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_pastaria.jpg',
       },
 
       {
         url:
-          'knorr_pastaria.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_pastaria.jpg',
       },
 
       {
         url:
-          'knorr_pastaria.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_pastaria.jpg',
       },
     ],
     categories: [
@@ -7432,26 +7432,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'allegro_bbq_sauce.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/allegro_bbq_sauce.jpg',
     gallery: [
       {
         url:
-          'allegro_bbq_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/allegro_bbq_sauce.jpg',
       },
 
       {
         url:
-          'allegro_bbq_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/allegro_bbq_sauce.jpg',
       },
 
       {
         url:
-          'allegro_bbq_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/allegro_bbq_sauce.jpg',
       },
 
       {
         url:
-          'allegro_bbq_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/allegro_bbq_sauce.jpg',
       },
     ],
     categories: [
@@ -7479,26 +7479,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'asain_zing_chili.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/asain_zing_chili.jpg',
     gallery: [
       {
         url:
-          'asain_zing_chili.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/asain_zing_chili.jpg',
       },
 
       {
         url:
-          'asain_zing_chili.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/asain_zing_chili.jpg',
       },
 
       {
         url:
-          'asain_zing_chili.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/asain_zing_chili.jpg',
       },
 
       {
         url:
-          'asain_zing_chili.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/asain_zing_chili.jpg',
       },
     ],
     categories: [
@@ -7526,26 +7526,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'crunch_hot_chili_sauce.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crunch_hot_chili_sauce.jpg',
     gallery: [
       {
         url:
-          'crunch_hot_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crunch_hot_chili_sauce.jpg',
       },
 
       {
         url:
-          'crunch_hot_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crunch_hot_chili_sauce.jpg',
       },
 
       {
         url:
-          'crunch_hot_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crunch_hot_chili_sauce.jpg',
       },
 
       {
         url:
-          'crunch_hot_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crunch_hot_chili_sauce.jpg',
       },
     ],
     categories: [
@@ -7573,26 +7573,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'felix_chili_sauce.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/felix_chili_sauce.jpg',
     gallery: [
       {
         url:
-          'felix_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/felix_chili_sauce.jpg',
       },
 
       {
         url:
-          'felix_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/felix_chili_sauce.jpg',
       },
 
       {
         url:
-          'felix_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/felix_chili_sauce.jpg',
       },
 
       {
         url:
-          'felix_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/felix_chili_sauce.jpg',
       },
     ],
     categories: [
@@ -7620,26 +7620,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'heinz_chili_sauce.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/heinz_chili_sauce.jpg',
     gallery: [
       {
         url:
-          'heinz_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/heinz_chili_sauce.jpg',
       },
 
       {
         url:
-          'heinz_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/heinz_chili_sauce.jpg',
       },
 
       {
         url:
-          'heinz_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/heinz_chili_sauce.jpg',
       },
 
       {
         url:
-          'heinz_chili_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/heinz_chili_sauce.jpg',
       },
     ],
     categories: [
@@ -7666,22 +7666,22 @@ const productData = [
     description:
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
-    image: 'kosmos_bbq.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kosmos_bbq.jpg',
     gallery: [
       {
-        url: 'kosmos_bbq.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kosmos_bbq.jpg',
       },
 
       {
-        url: 'kosmos_bbq.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kosmos_bbq.jpg',
       },
 
       {
-        url: 'kosmos_bbq.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kosmos_bbq.jpg',
       },
 
       {
-        url: 'kosmos_bbq.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kosmos_bbq.jpg',
       },
     ],
     categories: [
@@ -7709,26 +7709,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'taco_bell_diablo_sauce.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_diablo_sauce.jpg',
     gallery: [
       {
         url:
-          'taco_bell_diablo_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_diablo_sauce.jpg',
       },
 
       {
         url:
-          'taco_bell_diablo_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_diablo_sauce.jpg',
       },
 
       {
         url:
-          'taco_bell_diablo_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_diablo_sauce.jpg',
       },
 
       {
         url:
-          'taco_bell_diablo_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_diablo_sauce.jpg',
       },
     ],
     categories: [
@@ -7756,26 +7756,26 @@ const productData = [
       'In cooking, a sauce is a liquid, cream, or semi-solid food, served on or used in preparing other foods. Most sauces are not normally consumed by themselves; they add flavor, moisture, and visual appeal to a dish.',
     type: 'grocery',
     image:
-      'taco_bell_fire_sauce.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_fire_sauce.jpg',
     gallery: [
       {
         url:
-          'taco_bell_fire_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_fire_sauce.jpg',
       },
 
       {
         url:
-          'taco_bell_fire_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_fire_sauce.jpg',
       },
 
       {
         url:
-          'taco_bell_fire_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_fire_sauce.jpg',
       },
 
       {
         url:
-          'taco_bell_fire_sauce.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taco_bell_fire_sauce.jpg',
       },
     ],
     categories: [
@@ -7802,26 +7802,26 @@ const productData = [
     description:
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
-    image: 'bak_kuh_teh.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bak_kuh_teh.jpg',
     gallery: [
       {
         url:
-          'bak_kuh_teh.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bak_kuh_teh.jpg',
       },
 
       {
         url:
-          'bak_kuh_teh.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bak_kuh_teh.jpg',
       },
 
       {
         url:
-          'bak_kuh_teh.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bak_kuh_teh.jpg',
       },
 
       {
         url:
-          'bak_kuh_teh.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bak_kuh_teh.jpg',
       },
     ],
     categories: [
@@ -7849,26 +7849,26 @@ const productData = [
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
     image:
-      'chings_mixvegsoup.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chings_mixvegsoup.jpg',
     gallery: [
       {
         url:
-          'chings_mixvegsoup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chings_mixvegsoup.jpg',
       },
 
       {
         url:
-          'chings_mixvegsoup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chings_mixvegsoup.jpg',
       },
 
       {
         url:
-          'chings_mixvegsoup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chings_mixvegsoup.jpg',
       },
 
       {
         url:
-          'chings_mixvegsoup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chings_mixvegsoup.jpg',
       },
     ],
     categories: [
@@ -7896,26 +7896,26 @@ const productData = [
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
     image:
-      'dashi_chicken_corn.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dashi_chicken_corn.jpg',
     gallery: [
       {
         url:
-          'dashi_chicken_corn.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dashi_chicken_corn.jpg',
       },
 
       {
         url:
-          'dashi_chicken_corn.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dashi_chicken_corn.jpg',
       },
 
       {
         url:
-          'dashi_chicken_corn.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dashi_chicken_corn.jpg',
       },
 
       {
         url:
-          'dashi_chicken_corn.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dashi_chicken_corn.jpg',
       },
     ],
     categories: [
@@ -7943,26 +7943,26 @@ const productData = [
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
     image:
-      'knorr_thai_vegetable.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_thai_vegetable.jpg',
     gallery: [
       {
         url:
-          'knorr_thai_vegetable.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_thai_vegetable.jpg',
       },
 
       {
         url:
-          'knorr_thai_vegetable.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_thai_vegetable.jpg',
       },
 
       {
         url:
-          'knorr_thai_vegetable.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_thai_vegetable.jpg',
       },
 
       {
         url:
-          'knorr_thai_vegetable.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/knorr_thai_vegetable.jpg',
       },
     ],
     categories: [
@@ -7989,22 +7989,22 @@ const productData = [
     description:
       'Soup is a primarily liquid food, generally served warm or hot (but may be cool or cold), that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted, forming a broth.',
     type: 'grocery',
-    image: 'rempah_sup.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/rempah_sup.jpg',
     gallery: [
       {
-        url: 'rempah_sup.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/rempah_sup.jpg',
       },
 
       {
-        url: 'rempah_sup.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/rempah_sup.jpg',
       },
 
       {
-        url: 'rempah_sup.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/rempah_sup.jpg',
       },
 
       {
-        url: 'rempah_sup.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/rempah_sup.jpg',
       },
     ],
     categories: [
@@ -8031,22 +8031,22 @@ const productData = [
     description:
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
-    image: 'grain_free.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/grain_free.jpg',
     gallery: [
       {
-        url: 'grain_free.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/grain_free.jpg',
       },
 
       {
-        url: 'grain_free.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/grain_free.jpg',
       },
 
       {
-        url: 'grain_free.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/grain_free.jpg',
       },
 
       {
-        url: 'grain_free.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/grain_free.jpg',
       },
     ],
     categories: [
@@ -8074,26 +8074,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'hills_science_diet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hills_science_diet.jpg',
     gallery: [
       {
         url:
-          'hills_science_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hills_science_diet.jpg',
       },
 
       {
         url:
-          'hills_science_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hills_science_diet.jpg',
       },
 
       {
         url:
-          'hills_science_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hills_science_diet.jpg',
       },
 
       {
         url:
-          'hills_science_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hills_science_diet.jpg',
       },
     ],
     categories: [
@@ -8121,26 +8121,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'instinct_the_raw.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/instinct_the_raw.jpg',
     gallery: [
       {
         url:
-          'instinct_the_raw.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/instinct_the_raw.jpg',
       },
 
       {
         url:
-          'instinct_the_raw.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/instinct_the_raw.jpg',
       },
 
       {
         url:
-          'instinct_the_raw.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/instinct_the_raw.jpg',
       },
 
       {
         url:
-          'instinct_the_raw.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/instinct_the_raw.jpg',
       },
     ],
     categories: [
@@ -8168,26 +8168,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'natural_balance.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_balance.jpg',
     gallery: [
       {
         url:
-          'natural_balance.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_balance.jpg',
       },
 
       {
         url:
-          'natural_balance.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_balance.jpg',
       },
 
       {
         url:
-          'natural_balance.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_balance.jpg',
       },
 
       {
         url:
-          'natural_balance.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/natural_balance.jpg',
       },
     ],
     categories: [
@@ -8215,26 +8215,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'prescription_diet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/prescription_diet.jpg',
     gallery: [
       {
         url:
-          'prescription_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/prescription_diet.jpg',
       },
 
       {
         url:
-          'prescription_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/prescription_diet.jpg',
       },
 
       {
         url:
-          'prescription_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/prescription_diet.jpg',
       },
 
       {
         url:
-          'prescription_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/prescription_diet.jpg',
       },
     ],
     categories: [
@@ -8261,22 +8261,22 @@ const productData = [
     description:
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
-    image: 'pro_diet.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pro_diet.jpg',
     gallery: [
       {
-        url: 'pro_diet.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pro_diet.jpg',
       },
 
       {
-        url: 'pro_diet.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pro_diet.jpg',
       },
 
       {
-        url: 'pro_diet.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pro_diet.jpg',
       },
 
       {
-        url: 'pro_diet.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pro_diet.jpg',
       },
     ],
     categories: [
@@ -8304,26 +8304,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'purina_pro_plan.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/purina_pro_plan.jpg',
     gallery: [
       {
         url:
-          'purina_pro_plan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/purina_pro_plan.jpg',
       },
 
       {
         url:
-          'purina_pro_plan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/purina_pro_plan.jpg',
       },
 
       {
         url:
-          'purina_pro_plan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/purina_pro_plan.jpg',
       },
 
       {
         url:
-          'purina_pro_plan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/purina_pro_plan.jpg',
       },
     ],
     categories: [
@@ -8351,26 +8351,26 @@ const productData = [
       'Cat food is food specifically formulated and intended for consumption by cats and other related canines. Like all carnivores, cats have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'special_kitty.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/special_kitty.jpg',
     gallery: [
       {
         url:
-          'special_kitty.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/special_kitty.jpg',
       },
 
       {
         url:
-          'special_kitty.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/special_kitty.jpg',
       },
 
       {
         url:
-          'special_kitty.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/special_kitty.jpg',
       },
 
       {
         url:
-          'special_kitty.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/special_kitty.jpg',
       },
     ],
     categories: [
@@ -8398,26 +8398,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
     gallery: [
       {
         url:
-          'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_adult_all_breeds_lamb&rice.jpg',
       },
     ],
     categories: [
@@ -8445,26 +8445,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
     gallery: [
       {
         url:
-          'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_all_breeds_lamb&rice.jpg',
       },
     ],
     categories: [
@@ -8492,26 +8492,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
     gallery: [
       {
         url:
-          'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
       },
 
       {
         url:
-          'dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_black_hawk_puppy_large_breedchicken&rice.jpg',
       },
     ],
     categories: [
@@ -8539,26 +8539,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      "dog_food_blain's_farm&fleet.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blain's_farm&fleet.jpg",
     gallery: [
       {
         url:
-          "dog_food_blain's_farm&fleet.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blain's_farm&fleet.jpg",
       },
 
       {
         url:
-          "dog_food_blain's_farm&fleet.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blain's_farm&fleet.jpg",
       },
 
       {
         url:
-          "dog_food_blain's_farm&fleet.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blain's_farm&fleet.jpg",
       },
 
       {
         url:
-          "dog_food_blain's_farm&fleet.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blain's_farm&fleet.jpg",
       },
     ],
     categories: [
@@ -8587,26 +8587,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'dog_food_blue_wilderness.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blue_wilderness.jpg',
     gallery: [
       {
         url:
-          'dog_food_blue_wilderness.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blue_wilderness.jpg',
       },
 
       {
         url:
-          'dog_food_blue_wilderness.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blue_wilderness.jpg',
       },
 
       {
         url:
-          'dog_food_blue_wilderness.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blue_wilderness.jpg',
       },
 
       {
         url:
-          'dog_food_blue_wilderness.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_blue_wilderness.jpg',
       },
     ],
     categories: [
@@ -8634,26 +8634,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'dog_food_whole_hearted_beef&pea.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_beef&pea.jpg',
     gallery: [
       {
         url:
-          'dog_food_whole_hearted_beef&pea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_beef&pea.jpg',
       },
 
       {
         url:
-          'dog_food_whole_hearted_beef&pea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_beef&pea.jpg',
       },
 
       {
         url:
-          'dog_food_whole_hearted_beef&pea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_beef&pea.jpg',
       },
 
       {
         url:
-          'dog_food_whole_hearted_beef&pea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_beef&pea.jpg',
       },
     ],
     categories: [
@@ -8681,26 +8681,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'dog_food_whole_hearted_salmon&pea.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_salmon&pea.jpg',
     gallery: [
       {
         url:
-          'dog_food_whole_hearted_salmon&pea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_salmon&pea.jpg',
       },
 
       {
         url:
-          'dog_food_whole_hearted_salmon&pea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_salmon&pea.jpg',
       },
 
       {
         url:
-          'dog_food_whole_hearted_salmon&pea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_salmon&pea.jpg',
       },
 
       {
         url:
-          'dog_food_whole_hearted_salmon&pea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_whole_hearted_salmon&pea.jpg',
       },
     ],
     categories: [
@@ -8728,26 +8728,26 @@ const productData = [
       'Dog food is food specifically formulated and intended for consumption by dogs and other related canines. Like all carnivores, dogs have sharp, pointed teeth, and have short gastrointestinal tracts better suited for the consumption of meat than of vegetable substances.',
     type: 'grocery',
     image:
-      'dog_food_zenith.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_zenith.jpg',
     gallery: [
       {
         url:
-          'dog_food_zenith.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_zenith.jpg',
       },
 
       {
         url:
-          'dog_food_zenith.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_zenith.jpg',
       },
 
       {
         url:
-          'dog_food_zenith.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_zenith.jpg',
       },
 
       {
         url:
-          'dog_food_zenith.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dog_food_zenith.jpg',
       },
     ],
     categories: [
@@ -8775,26 +8775,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_applaws_adult_cat_chicken.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_applaws_adult_cat_chicken.jpg',
     gallery: [
       {
         url:
-          'kitten_food_applaws_adult_cat_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_applaws_adult_cat_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_applaws_adult_cat_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_applaws_adult_cat_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_applaws_adult_cat_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_applaws_adult_cat_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_applaws_adult_cat_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_applaws_adult_cat_chicken.jpg',
       },
     ],
     categories: [
@@ -8822,26 +8822,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_authority_real_chicken.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_authority_real_chicken.jpg',
     gallery: [
       {
         url:
-          'kitten_food_authority_real_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_authority_real_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_authority_real_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_authority_real_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_authority_real_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_authority_real_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_authority_real_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_authority_real_chicken.jpg',
       },
     ],
     categories: [
@@ -8869,26 +8869,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_blue_wilderness_chicken.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_blue_wilderness_chicken.jpg',
     gallery: [
       {
         url:
-          'kitten_food_blue_wilderness_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_blue_wilderness_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_blue_wilderness_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_blue_wilderness_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_blue_wilderness_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_blue_wilderness_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_blue_wilderness_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_blue_wilderness_chicken.jpg',
       },
     ],
     categories: [
@@ -8916,26 +8916,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
     gallery: [
       {
         url:
-          "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
       },
 
       {
         url:
-          "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
       },
 
       {
         url:
-          "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
       },
 
       {
         url:
-          "kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_ideal_balance_over1year_kitten.jpg",
       },
     ],
     categories: [
@@ -8963,26 +8963,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
     gallery: [
       {
         url:
-          "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
       },
 
       {
         url:
-          "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
       },
 
       {
         url:
-          "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
       },
 
       {
         url:
-          "kitten_food_hill's_science_diet_upto1year_kitten.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_hill's_science_diet_upto1year_kitten.jpg",
       },
     ],
     categories: [
@@ -9010,26 +9010,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_iamso_upto1year.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_iamso_upto1year.jpg',
     gallery: [
       {
         url:
-          'kitten_food_iamso_upto1year.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_iamso_upto1year.jpg',
       },
 
       {
         url:
-          'kitten_food_iamso_upto1year.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_iamso_upto1year.jpg',
       },
 
       {
         url:
-          'kitten_food_iamso_upto1year.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_iamso_upto1year.jpg',
       },
 
       {
         url:
-          'kitten_food_iamso_upto1year.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_iamso_upto1year.jpg',
       },
     ],
     categories: [
@@ -9057,26 +9057,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_instinct_chicken.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_instinct_chicken.jpg',
     gallery: [
       {
         url:
-          'kitten_food_instinct_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_instinct_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_instinct_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_instinct_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_instinct_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_instinct_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_instinct_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_instinct_chicken.jpg',
       },
     ],
     categories: [
@@ -9104,26 +9104,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_merrick.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
     gallery: [
       {
         url:
-          'kitten_food_merrick.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'kitten_food_merrick.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'kitten_food_merrick.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'kitten_food_merrick.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
       },
     ],
     categories: [
@@ -9151,26 +9151,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_merrick.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
     gallery: [
       {
         url:
-          'kitten_food_merrick.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'kitten_food_merrick.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'kitten_food_merrick.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
       },
 
       {
         url:
-          'kitten_food_merrick.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_merrick.jpg',
       },
     ],
     categories: [
@@ -9199,26 +9199,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_purina_one.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_one.jpg',
     gallery: [
       {
         url:
-          'kitten_food_purina_one.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_one.jpg',
       },
 
       {
         url:
-          'kitten_food_purina_one.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_one.jpg',
       },
 
       {
         url:
-          'kitten_food_purina_one.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_one.jpg',
       },
 
       {
         url:
-          'kitten_food_purina_one.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_one.jpg',
       },
     ],
     categories: [
@@ -9246,26 +9246,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_purina_proplan.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_proplan.jpg',
     gallery: [
       {
         url:
-          'kitten_food_purina_proplan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_proplan.jpg',
       },
 
       {
         url:
-          'kitten_food_purina_proplan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_proplan.jpg',
       },
 
       {
         url:
-          'kitten_food_purina_proplan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_proplan.jpg',
       },
 
       {
         url:
-          'kitten_food_purina_proplan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_purina_proplan.jpg',
       },
     ],
     categories: [
@@ -9293,26 +9293,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_wellness.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_wellness.jpg',
     gallery: [
       {
         url:
-          'kitten_food_wellness.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_wellness.jpg',
       },
 
       {
         url:
-          'kitten_food_wellness.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_wellness.jpg',
       },
 
       {
         url:
-          'kitten_food_wellness.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_wellness.jpg',
       },
 
       {
         url:
-          'kitten_food_wellness.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_wellness.jpg',
       },
     ],
     categories: [
@@ -9340,26 +9340,26 @@ const productData = [
       'Kitten food is food for consumption by kitten. Kittens have specific requirements for their dietary nutrients. Certain nutrients, including many vitamins and amino acids, are degraded by the temperatures, pressures and chemical treatments used during manufacture, and hence must be added after manufacture to avoid nutritional deficiency.',
     type: 'grocery',
     image:
-      'kitten_food_whiskas_real_chicken.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_whiskas_real_chicken.jpg',
     gallery: [
       {
         url:
-          'kitten_food_whiskas_real_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_whiskas_real_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_whiskas_real_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_whiskas_real_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_whiskas_real_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_whiskas_real_chicken.jpg',
       },
 
       {
         url:
-          'kitten_food_whiskas_real_chicken.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitten_food_whiskas_real_chicken.jpg',
       },
     ],
     categories: [
@@ -9387,26 +9387,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_black_winter_cap.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_black_winter_cap.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_black_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_black_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_black_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_black_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_black_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_black_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_black_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_black_winter_cap.jpg',
       },
     ],
     categories: [
@@ -9434,26 +9434,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_brown&white_winter_cap.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_brown&white_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_brown&white_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_brown&white_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_brown&white_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
       },
     ],
     categories: [
@@ -9481,26 +9481,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_brown&white_winter_cap.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_brown&white_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_brown&white_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_brown&white_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_brown&white_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_brown&white_winter_cap.jpg',
       },
     ],
     categories: [
@@ -9528,26 +9528,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_costume1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume1.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_costume1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume1.jpg',
       },
 
       {
         url:
-          'pet_accessories_costume1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume1.jpg',
       },
 
       {
         url:
-          'pet_accessories_costume1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume1.jpg',
       },
 
       {
         url:
-          'pet_accessories_costume1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume1.jpg',
       },
     ],
     categories: [
@@ -9576,26 +9576,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_costume2.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume2.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_costume2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume2.jpg',
       },
 
       {
         url:
-          'pet_accessories_costume2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume2.jpg',
       },
 
       {
         url:
-          'pet_accessories_costume2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume2.jpg',
       },
 
       {
         url:
-          'pet_accessories_costume2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_costume2.jpg',
       },
     ],
     categories: [
@@ -9624,26 +9624,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_jacket_ash.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_ash.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_jacket_ash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_ash.jpg',
       },
 
       {
         url:
-          'pet_accessories_jacket_ash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_ash.jpg',
       },
 
       {
         url:
-          'pet_accessories_jacket_ash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_ash.jpg',
       },
 
       {
         url:
-          'pet_accessories_jacket_ash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_ash.jpg',
       },
     ],
     categories: [
@@ -9672,26 +9672,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_jacket_red.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_red.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_jacket_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_red.jpg',
       },
 
       {
         url:
-          'pet_accessories_jacket_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_red.jpg',
       },
 
       {
         url:
-          'pet_accessories_jacket_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_red.jpg',
       },
 
       {
         url:
-          'pet_accessories_jacket_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_jacket_red.jpg',
       },
     ],
     categories: [
@@ -9719,26 +9719,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_pet_bed1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed1.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_pet_bed1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed1.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed1.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed1.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed1.jpg',
       },
     ],
     categories: [
@@ -9766,26 +9766,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_pet_bed2.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed2.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_pet_bed2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed2.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed2.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed2.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed2.jpg',
       },
     ],
     categories: [
@@ -9814,26 +9814,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_pet_bed3.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed3.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_pet_bed3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed3.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed3.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed3.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed3.jpg',
       },
     ],
     categories: [
@@ -9861,26 +9861,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_pet_bed4.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed4.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_pet_bed4.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed4.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed4.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed4.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed4.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed4.jpg',
       },
 
       {
         url:
-          'pet_accessories_pet_bed4.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_pet_bed4.jpg',
       },
     ],
     categories: [
@@ -9908,26 +9908,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_red&white_christmas_sweater.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_christmas_sweater.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_red&white_christmas_sweater.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_christmas_sweater.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_christmas_sweater.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_christmas_sweater.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_christmas_sweater.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_christmas_sweater.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_christmas_sweater.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_christmas_sweater.jpg',
       },
     ],
     categories: [
@@ -9955,26 +9955,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_red&white_jumper1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper1.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_red&white_jumper1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper1.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper1.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper1.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper1.jpg',
       },
     ],
     categories: [
@@ -10002,26 +10002,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_red&white_jumper2.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper2.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_red&white_jumper2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper2.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper2.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper2.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper2.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper2.jpg',
       },
     ],
     categories: [
@@ -10050,26 +10050,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_red&white_jumper3.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper3.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_red&white_jumper3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper3.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper3.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper3.jpg',
       },
 
       {
         url:
-          'pet_accessories_red&white_jumper3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red&white_jumper3.jpg',
       },
     ],
     categories: [
@@ -10097,26 +10097,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_red_crhistmas_winter_cap.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red_crhistmas_winter_cap.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_red_crhistmas_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red_crhistmas_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_red_crhistmas_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red_crhistmas_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_red_crhistmas_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red_crhistmas_winter_cap.jpg',
       },
 
       {
         url:
-          'pet_accessories_red_crhistmas_winter_cap.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_red_crhistmas_winter_cap.jpg',
       },
     ],
     categories: [
@@ -10144,26 +10144,26 @@ const productData = [
       'A variety of animal supplies and pet accessories are also sold in pet shops. The products sold include: food, treats, toys, collars, leashes, cat litter, cages and aquariums.',
     type: 'grocery',
     image:
-      'pet_accessories_tie.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_tie.jpg',
     gallery: [
       {
         url:
-          'pet_accessories_tie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_tie.jpg',
       },
 
       {
         url:
-          'pet_accessories_tie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_tie.jpg',
       },
 
       {
         url:
-          'pet_accessories_tie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_tie.jpg',
       },
 
       {
         url:
-          'pet_accessories_tie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pet_accessories_tie.jpg',
       },
     ],
     categories: [
@@ -10191,26 +10191,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_acana_ozmo.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_acana_ozmo.jpg',
     gallery: [
       {
         url:
-          'air_freshner_acana_ozmo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_acana_ozmo.jpg',
       },
 
       {
         url:
-          'air_freshner_acana_ozmo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_acana_ozmo.jpg',
       },
 
       {
         url:
-          'air_freshner_acana_ozmo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_acana_ozmo.jpg',
       },
 
       {
         url:
-          'air_freshner_acana_ozmo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_acana_ozmo.jpg',
       },
     ],
     categories: [
@@ -10238,26 +10238,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_air_wick_essential_oils.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_air_wick_essential_oils.jpg',
     gallery: [
       {
         url:
-          'air_freshner_air_wick_essential_oils.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_air_wick_essential_oils.jpg',
       },
 
       {
         url:
-          'air_freshner_air_wick_essential_oils.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_air_wick_essential_oils.jpg',
       },
 
       {
         url:
-          'air_freshner_air_wick_essential_oils.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_air_wick_essential_oils.jpg',
       },
 
       {
         url:
-          'air_freshner_air_wick_essential_oils.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_air_wick_essential_oils.jpg',
       },
     ],
     categories: [
@@ -10286,26 +10286,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
     gallery: [
       {
         url:
-          'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
       },
 
       {
         url:
-          'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
       },
 
       {
         url:
-          'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
       },
 
       {
         url:
-          'air_freshner_ambipur_air_sweet_citrus&zest.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_ambipur_air_sweet_citrus&zest.jpg',
       },
     ],
     categories: [
@@ -10334,26 +10334,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_boardwalk_mango.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_boardwalk_mango.jpg',
     gallery: [
       {
         url:
-          'air_freshner_boardwalk_mango.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_boardwalk_mango.jpg',
       },
 
       {
         url:
-          'air_freshner_boardwalk_mango.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_boardwalk_mango.jpg',
       },
 
       {
         url:
-          'air_freshner_boardwalk_mango.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_boardwalk_mango.jpg',
       },
 
       {
         url:
-          'air_freshner_boardwalk_mango.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_boardwalk_mango.jpg',
       },
     ],
     categories: [
@@ -10382,26 +10382,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_febreze_air_bora_bora.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_bora_bora.jpg',
     gallery: [
       {
         url:
-          'air_freshner_febreze_air_bora_bora.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_bora_bora.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_bora_bora.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_bora_bora.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_bora_bora.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_bora_bora.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_bora_bora.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_bora_bora.jpg',
       },
     ],
     categories: [
@@ -10430,26 +10430,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_febreze_air_effects.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_effects.jpg',
     gallery: [
       {
         url:
-          'air_freshner_febreze_air_effects.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_effects.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_effects.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_effects.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_effects.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_effects.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_effects.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_effects.jpg',
       },
     ],
     categories: [
@@ -10478,26 +10478,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_febreze_air_hawaiian.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_hawaiian.jpg',
     gallery: [
       {
         url:
-          'air_freshner_febreze_air_hawaiian.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_hawaiian.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_hawaiian.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_hawaiian.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_hawaiian.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_hawaiian.jpg',
       },
 
       {
         url:
-          'air_freshner_febreze_air_hawaiian.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_febreze_air_hawaiian.jpg',
       },
     ],
     categories: [
@@ -10525,26 +10525,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
     gallery: [
       {
         url:
-          'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
       },
 
       {
         url:
-          'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
       },
 
       {
         url:
-          'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
       },
 
       {
         url:
-          'air_freshner_sc_johnson_glade_blue_odyssey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_blue_odyssey.jpg',
       },
     ],
     categories: [
@@ -10572,26 +10572,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_sc_johnson_glade_clean_linen.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_clean_linen.jpg',
     gallery: [
       {
         url:
-          'air_freshner_sc_johnson_glade_clean_linen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_clean_linen.jpg',
       },
 
       {
         url:
-          'air_freshner_sc_johnson_glade_clean_linen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_clean_linen.jpg',
       },
 
       {
         url:
-          'air_freshner_sc_johnson_glade_clean_linen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_clean_linen.jpg',
       },
 
       {
         url:
-          'air_freshner_sc_johnson_glade_clean_linen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_sc_johnson_glade_clean_linen.jpg',
       },
     ],
     categories: [
@@ -10619,26 +10619,26 @@ const productData = [
       'Air fresheners are consumer products that typically emit fragrance and are used in homes or commercial interiors such as restrooms, foyers, hallways, vestibules and other smaller indoor areas, as well as larger areas such as hotel lobbies, auto dealerships, medical facilities, public arenas and other large interior spaces. ',
     type: 'grocery',
     image:
-      'air_freshner_vibrant_linen.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_vibrant_linen.jpg',
     gallery: [
       {
         url:
-          'air_freshner_vibrant_linen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_vibrant_linen.jpg',
       },
 
       {
         url:
-          'air_freshner_vibrant_linen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_vibrant_linen.jpg',
       },
 
       {
         url:
-          'air_freshner_vibrant_linen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_vibrant_linen.jpg',
       },
 
       {
         url:
-          'air_freshner_vibrant_linen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/air_freshner_vibrant_linen.jpg',
       },
     ],
     categories: [
@@ -10666,26 +10666,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'cleaning_supply_ajax.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ajax.jpg',
     gallery: [
       {
         url:
-          'cleaning_supply_ajax.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ajax.jpg',
       },
 
       {
         url:
-          'cleaning_supply_ajax.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ajax.jpg',
       },
 
       {
         url:
-          'cleaning_supply_ajax.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ajax.jpg',
       },
 
       {
         url:
-          'cleaning_supply_ajax.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ajax.jpg',
       },
     ],
     categories: [
@@ -10714,26 +10714,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'cleaning_supply_astonish.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_astonish.jpg',
     gallery: [
       {
         url:
-          'cleaning_supply_astonish.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_astonish.jpg',
       },
 
       {
         url:
-          'cleaning_supply_astonish.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_astonish.jpg',
       },
 
       {
         url:
-          'cleaning_supply_astonish.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_astonish.jpg',
       },
 
       {
         url:
-          'cleaning_supply_astonish.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_astonish.jpg',
       },
     ],
     categories: [
@@ -10762,26 +10762,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'cleaning_supply_bio.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bio.jpg',
     gallery: [
       {
         url:
-          'cleaning_supply_bio.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bio.jpg',
       },
 
       {
         url:
-          'cleaning_supply_bio.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bio.jpg',
       },
 
       {
         url:
-          'cleaning_supply_bio.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bio.jpg',
       },
 
       {
         url:
-          'cleaning_supply_bio.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bio.jpg',
       },
     ],
     categories: [
@@ -10810,26 +10810,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'cleaning_supply_bona.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bona.jpg',
     gallery: [
       {
         url:
-          'cleaning_supply_bona.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bona.jpg',
       },
 
       {
         url:
-          'cleaning_supply_bona.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bona.jpg',
       },
 
       {
         url:
-          'cleaning_supply_bona.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bona.jpg',
       },
 
       {
         url:
-          'cleaning_supply_bona.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_bona.jpg',
       },
     ],
     categories: [
@@ -10858,26 +10858,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'cleaning_supply_ever_spring.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ever_spring.jpg',
     gallery: [
       {
         url:
-          'cleaning_supply_ever_spring.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ever_spring.jpg',
       },
 
       {
         url:
-          'cleaning_supply_ever_spring.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ever_spring.jpg',
       },
 
       {
         url:
-          'cleaning_supply_ever_spring.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ever_spring.jpg',
       },
 
       {
         url:
-          'cleaning_supply_ever_spring.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_ever_spring.jpg',
       },
     ],
     categories: [
@@ -10906,26 +10906,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'cleaning_supply_glitz_glass_cleaner.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_glass_cleaner.jpg',
     gallery: [
       {
         url:
-          'cleaning_supply_glitz_glass_cleaner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_glass_cleaner.jpg',
       },
 
       {
         url:
-          'cleaning_supply_glitz_glass_cleaner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_glass_cleaner.jpg',
       },
 
       {
         url:
-          'cleaning_supply_glitz_glass_cleaner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_glass_cleaner.jpg',
       },
 
       {
         url:
-          'cleaning_supply_glitz_glass_cleaner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_glass_cleaner.jpg',
       },
     ],
     categories: [
@@ -10954,26 +10954,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'cleaning_supply_glitz_steel_cleaner.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_steel_cleaner.jpg',
     gallery: [
       {
         url:
-          'cleaning_supply_glitz_steel_cleaner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_steel_cleaner.jpg',
       },
 
       {
         url:
-          'cleaning_supply_glitz_steel_cleaner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_steel_cleaner.jpg',
       },
 
       {
         url:
-          'cleaning_supply_glitz_steel_cleaner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_steel_cleaner.jpg',
       },
 
       {
         url:
-          'cleaning_supply_glitz_steel_cleaner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_glitz_steel_cleaner.jpg',
       },
     ],
     categories: [
@@ -11001,26 +11001,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'cleaning_supply_method.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_method.jpg',
     gallery: [
       {
         url:
-          'cleaning_supply_method.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_method.jpg',
       },
 
       {
         url:
-          'cleaning_supply_method.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_method.jpg',
       },
 
       {
         url:
-          'cleaning_supply_method.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_method.jpg',
       },
 
       {
         url:
-          'cleaning_supply_method.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/cleaning_supply_method.jpg',
       },
     ],
     categories: [
@@ -11048,26 +11048,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'dishwasher_dawn_la_faune.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_la_faune.jpg',
     gallery: [
       {
         url:
-          'dishwasher_dawn_la_faune.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_la_faune.jpg',
       },
 
       {
         url:
-          'dishwasher_dawn_la_faune.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_la_faune.jpg',
       },
 
       {
         url:
-          'dishwasher_dawn_la_faune.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_la_faune.jpg',
       },
 
       {
         url:
-          'dishwasher_dawn_la_faune.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_la_faune.jpg',
       },
     ],
     categories: [
@@ -11095,26 +11095,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'dishwasher_dawn_new_zealand_spring_scent.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_new_zealand_spring_scent.jpg',
     gallery: [
       {
         url:
-          'dishwasher_dawn_new_zealand_spring_scent.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_new_zealand_spring_scent.jpg',
       },
 
       {
         url:
-          'dishwasher_dawn_new_zealand_spring_scent.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_new_zealand_spring_scent.jpg',
       },
 
       {
         url:
-          'dishwasher_dawn_new_zealand_spring_scent.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_new_zealand_spring_scent.jpg',
       },
 
       {
         url:
-          'dishwasher_dawn_new_zealand_spring_scent.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_dawn_new_zealand_spring_scent.jpg',
       },
     ],
     categories: [
@@ -11142,26 +11142,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'dishwasher_fairy_lemon.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_fairy_lemon.jpg',
     gallery: [
       {
         url:
-          'dishwasher_fairy_lemon.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_fairy_lemon.jpg',
       },
 
       {
         url:
-          'dishwasher_fairy_lemon.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_fairy_lemon.jpg',
       },
 
       {
         url:
-          'dishwasher_fairy_lemon.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_fairy_lemon.jpg',
       },
 
       {
         url:
-          'dishwasher_fairy_lemon.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_fairy_lemon.jpg',
       },
     ],
     categories: [
@@ -11189,26 +11189,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'dishwasher_finish.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_finish.jpg',
     gallery: [
       {
         url:
-          'dishwasher_finish.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_finish.jpg',
       },
 
       {
         url:
-          'dishwasher_finish.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_finish.jpg',
       },
 
       {
         url:
-          'dishwasher_finish.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_finish.jpg',
       },
 
       {
         url:
-          'dishwasher_finish.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_finish.jpg',
       },
     ],
     categories: [
@@ -11236,26 +11236,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'dishwasher_lemi_shine.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_lemi_shine.jpg',
     gallery: [
       {
         url:
-          'dishwasher_lemi_shine.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_lemi_shine.jpg',
       },
 
       {
         url:
-          'dishwasher_lemi_shine.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_lemi_shine.jpg',
       },
 
       {
         url:
-          'dishwasher_lemi_shine.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_lemi_shine.jpg',
       },
 
       {
         url:
-          'dishwasher_lemi_shine.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_lemi_shine.jpg',
       },
     ],
     categories: [
@@ -11283,26 +11283,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      'dishwasher_seventh_generation_free&clear.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_seventh_generation_free&clear.jpg',
     gallery: [
       {
         url:
-          'dishwasher_seventh_generation_free&clear.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_seventh_generation_free&clear.jpg',
       },
 
       {
         url:
-          'dishwasher_seventh_generation_free&clear.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_seventh_generation_free&clear.jpg',
       },
 
       {
         url:
-          'dishwasher_seventh_generation_free&clear.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_seventh_generation_free&clear.jpg',
       },
 
       {
         url:
-          'dishwasher_seventh_generation_free&clear.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_seventh_generation_free&clear.jpg',
       },
     ],
     categories: [
@@ -11330,26 +11330,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      "dishwasher_winni's_bango_schiuma.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_bango_schiuma.jpg",
     gallery: [
       {
         url:
-          "dishwasher_winni's_bango_schiuma.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_bango_schiuma.jpg",
       },
 
       {
         url:
-          "dishwasher_winni's_bango_schiuma.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_bango_schiuma.jpg",
       },
 
       {
         url:
-          "dishwasher_winni's_bango_schiuma.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_bango_schiuma.jpg",
       },
 
       {
         url:
-          "dishwasher_winni's_bango_schiuma.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_bango_schiuma.jpg",
       },
     ],
     categories: [
@@ -11377,26 +11377,26 @@ const productData = [
       'Cleaning liquid (BrE: washing-up liquid), known as cleaning soap, cleaning detergent and dish soap, is a detergent or liquid used to assist in cleaning. It is usually a highly-foaming mixture of surfactants with low skin irritation ',
     type: 'grocery',
     image:
-      "dishwasher_winni's_fiori_bianchi.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_fiori_bianchi.jpg",
     gallery: [
       {
         url:
-          "dishwasher_winni's_fiori_bianchi.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_fiori_bianchi.jpg",
       },
 
       {
         url:
-          "dishwasher_winni's_fiori_bianchi.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_fiori_bianchi.jpg",
       },
 
       {
         url:
-          "dishwasher_winni's_fiori_bianchi.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_fiori_bianchi.jpg",
       },
 
       {
         url:
-          "dishwasher_winni's_fiori_bianchi.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dishwasher_winni's_fiori_bianchi.jpg",
       },
     ],
     categories: [
@@ -11424,26 +11424,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'kitchen_accessories_camp_cutlery.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_camp_cutlery.jpg',
     gallery: [
       {
         url:
-          'kitchen_accessories_camp_cutlery.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_camp_cutlery.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_camp_cutlery.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_camp_cutlery.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_camp_cutlery.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_camp_cutlery.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_camp_cutlery.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_camp_cutlery.jpg',
       },
     ],
     categories: [
@@ -11471,26 +11471,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'kitchen_accessories_dinner_spoons.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_dinner_spoons.jpg',
     gallery: [
       {
         url:
-          'kitchen_accessories_dinner_spoons.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_dinner_spoons.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_dinner_spoons.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_dinner_spoons.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_dinner_spoons.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_dinner_spoons.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_dinner_spoons.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_dinner_spoons.jpg',
       },
     ],
     categories: [
@@ -11518,26 +11518,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'kitchen_accessories_ice_cream_scoop.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_ice_cream_scoop.jpg',
     gallery: [
       {
         url:
-          'kitchen_accessories_ice_cream_scoop.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_ice_cream_scoop.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_ice_cream_scoop.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_ice_cream_scoop.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_ice_cream_scoop.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_ice_cream_scoop.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_ice_cream_scoop.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_ice_cream_scoop.jpg',
       },
     ],
     categories: [
@@ -11565,26 +11565,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'kitchen_accessories_kitchen_tools.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_kitchen_tools.jpg',
     gallery: [
       {
         url:
-          'kitchen_accessories_kitchen_tools.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_kitchen_tools.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_kitchen_tools.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_kitchen_tools.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_kitchen_tools.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_kitchen_tools.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_kitchen_tools.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_kitchen_tools.jpg',
       },
     ],
     categories: [
@@ -11612,26 +11612,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'kitchen_accessories_mash_strainers.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_mash_strainers.jpg',
     gallery: [
       {
         url:
-          'kitchen_accessories_mash_strainers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_mash_strainers.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_mash_strainers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_mash_strainers.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_mash_strainers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_mash_strainers.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_mash_strainers.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_mash_strainers.jpg',
       },
     ],
     categories: [
@@ -11659,26 +11659,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'kitchen_accessories_skimmer.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_skimmer.jpg',
     gallery: [
       {
         url:
-          'kitchen_accessories_skimmer.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_skimmer.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_skimmer.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_skimmer.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_skimmer.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_skimmer.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_skimmer.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_skimmer.jpg',
       },
     ],
     categories: [
@@ -11706,26 +11706,26 @@ const productData = [
       'Kitchen accessories are the tools, utensils, appliances, dishes, and cookware used in food preparation, or the serving of food.Kitchen accessories can also be used to hold or store food before or after preparation.',
     type: 'grocery',
     image:
-      'kitchen_accessories_solid_turner.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_solid_turner.jpg',
     gallery: [
       {
         url:
-          'kitchen_accessories_solid_turner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_solid_turner.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_solid_turner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_solid_turner.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_solid_turner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_solid_turner.jpg',
       },
 
       {
         url:
-          'kitchen_accessories_solid_turner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kitchen_accessories_solid_turner.jpg',
       },
     ],
     categories: [
@@ -11753,26 +11753,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_woolite.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_woolite.jpg',
     gallery: [
       {
         url:
-          'laundry_products_woolite.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_woolite.jpg',
       },
 
       {
         url:
-          'laundry_products_woolite.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_woolite.jpg',
       },
 
       {
         url:
-          'laundry_products_woolite.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_woolite.jpg',
       },
 
       {
         url:
-          'laundry_products_woolite.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_woolite.jpg',
       },
     ],
     categories: [
@@ -11800,26 +11800,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_tide.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_tide.jpg',
     gallery: [
       {
         url:
-          'laundry_products_tide.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_tide.jpg',
       },
 
       {
         url:
-          'laundry_products_tide.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_tide.jpg',
       },
 
       {
         url:
-          'laundry_products_tide.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_tide.jpg',
       },
 
       {
         url:
-          'laundry_products_tide.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_tide.jpg',
       },
     ],
     categories: [
@@ -11847,26 +11847,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_seventh_generation.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_seventh_generation.jpg',
     gallery: [
       {
         url:
-          'laundry_products_seventh_generation.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_seventh_generation.jpg',
       },
 
       {
         url:
-          'laundry_products_seventh_generation.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_seventh_generation.jpg',
       },
 
       {
         url:
-          'laundry_products_seventh_generation.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_seventh_generation.jpg',
       },
 
       {
         url:
-          'laundry_products_seventh_generation.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_seventh_generation.jpg',
       },
     ],
     categories: [
@@ -11894,26 +11894,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_safe_wash.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_safe_wash.jpg',
     gallery: [
       {
         url:
-          'laundry_products_safe_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_safe_wash.jpg',
       },
 
       {
         url:
-          'laundry_products_safe_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_safe_wash.jpg',
       },
 
       {
         url:
-          'laundry_products_safe_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_safe_wash.jpg',
       },
 
       {
         url:
-          'laundry_products_safe_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_safe_wash.jpg',
       },
     ],
     categories: [
@@ -11941,26 +11941,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_purex.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_purex.jpg',
     gallery: [
       {
         url:
-          'laundry_products_purex.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_purex.jpg',
       },
 
       {
         url:
-          'laundry_products_purex.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_purex.jpg',
       },
 
       {
         url:
-          'laundry_products_purex.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_purex.jpg',
       },
 
       {
         url:
-          'laundry_products_purex.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_purex.jpg',
       },
     ],
     categories: [
@@ -11988,26 +11988,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_persil.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_persil.jpg',
     gallery: [
       {
         url:
-          'laundry_products_persil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_persil.jpg',
       },
 
       {
         url:
-          'laundry_products_persil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_persil.jpg',
       },
 
       {
         url:
-          'laundry_products_persil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_persil.jpg',
       },
 
       {
         url:
-          'laundry_products_persil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_persil.jpg',
       },
     ],
     categories: [
@@ -12035,26 +12035,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_home_made_simple.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_home_made_simple.jpg',
     gallery: [
       {
         url:
-          'laundry_products_home_made_simple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_home_made_simple.jpg',
       },
 
       {
         url:
-          'laundry_products_home_made_simple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_home_made_simple.jpg',
       },
 
       {
         url:
-          'laundry_products_home_made_simple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_home_made_simple.jpg',
       },
 
       {
         url:
-          'laundry_products_home_made_simple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_home_made_simple.jpg',
       },
     ],
     categories: [
@@ -12082,26 +12082,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_ecos.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_ecos.jpg',
     gallery: [
       {
         url:
-          'laundry_products_ecos.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_ecos.jpg',
       },
 
       {
         url:
-          'laundry_products_ecos.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_ecos.jpg',
       },
 
       {
         url:
-          'laundry_products_ecos.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_ecos.jpg',
       },
 
       {
         url:
-          'laundry_products_ecos.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_ecos.jpg',
       },
     ],
     categories: [
@@ -12129,26 +12129,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_daz.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_daz.jpg',
     gallery: [
       {
         url:
-          'laundry_products_daz.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_daz.jpg',
       },
 
       {
         url:
-          'laundry_products_daz.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_daz.jpg',
       },
 
       {
         url:
-          'laundry_products_daz.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_daz.jpg',
       },
 
       {
         url:
-          'laundry_products_daz.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_daz.jpg',
       },
     ],
     categories: [
@@ -12176,26 +12176,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_chomel.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chomel.jpg',
     gallery: [
       {
         url:
-          'laundry_products_chomel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chomel.jpg',
       },
 
       {
         url:
-          'laundry_products_chomel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chomel.jpg',
       },
 
       {
         url:
-          'laundry_products_chomel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chomel.jpg',
       },
 
       {
         url:
-          'laundry_products_chomel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chomel.jpg',
       },
     ],
     categories: [
@@ -12223,26 +12223,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_chicco.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chicco.jpg',
     gallery: [
       {
         url:
-          'laundry_products_chicco.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chicco.jpg',
       },
 
       {
         url:
-          'laundry_products_chicco.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chicco.jpg',
       },
 
       {
         url:
-          'laundry_products_chicco.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chicco.jpg',
       },
 
       {
         url:
-          'laundry_products_chicco.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_chicco.jpg',
       },
     ],
     categories: [
@@ -12270,26 +12270,26 @@ const productData = [
       'Laundry detergent, or washing powder, is a type of detergent (cleaning agent) that is added for cleaning laundry. While detergent is still sold in powdered form, liquid detergents have been taking major market shares in many countries since their introduction in the 1950s.',
     type: 'grocery',
     image:
-      'laundry_products_babyhug.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_babyhug.jpg',
     gallery: [
       {
         url:
-          'laundry_products_babyhug.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_babyhug.jpg',
       },
 
       {
         url:
-          'laundry_products_babyhug.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_babyhug.jpg',
       },
 
       {
         url:
-          'laundry_products_babyhug.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_babyhug.jpg',
       },
 
       {
         url:
-          'laundry_products_babyhug.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/laundry_products_babyhug.jpg',
       },
     ],
     categories: [
@@ -12317,26 +12317,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'pest_control_doff.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_doff.jpg',
     gallery: [
       {
         url:
-          'pest_control_doff.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_doff.jpg',
       },
 
       {
         url:
-          'pest_control_doff.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_doff.jpg',
       },
 
       {
         url:
-          'pest_control_doff.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_doff.jpg',
       },
 
       {
         url:
-          'pest_control_doff.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_doff.jpg',
       },
     ],
     categories: [
@@ -12364,26 +12364,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'pest_control_eco_deffence_home_pest_control.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_eco_deffence_home_pest_control.jpg',
     gallery: [
       {
         url:
-          'pest_control_eco_deffence_home_pest_control.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_eco_deffence_home_pest_control.jpg',
       },
 
       {
         url:
-          'pest_control_eco_deffence_home_pest_control.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_eco_deffence_home_pest_control.jpg',
       },
 
       {
         url:
-          'pest_control_eco_deffence_home_pest_control.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_eco_deffence_home_pest_control.jpg',
       },
 
       {
         url:
-          'pest_control_eco_deffence_home_pest_control.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_eco_deffence_home_pest_control.jpg',
       },
     ],
     categories: [
@@ -12411,26 +12411,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'pest_control_karlsten.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_karlsten.jpg',
     gallery: [
       {
         url:
-          'pest_control_karlsten.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_karlsten.jpg',
       },
 
       {
         url:
-          'pest_control_karlsten.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_karlsten.jpg',
       },
 
       {
         url:
-          'pest_control_karlsten.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_karlsten.jpg',
       },
 
       {
         url:
-          'pest_control_karlsten.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_karlsten.jpg',
       },
     ],
     categories: [
@@ -12458,26 +12458,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'pest_control_kritterkill.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_kritterkill.jpg',
     gallery: [
       {
         url:
-          'pest_control_kritterkill.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_kritterkill.jpg',
       },
 
       {
         url:
-          'pest_control_kritterkill.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_kritterkill.jpg',
       },
 
       {
         url:
-          'pest_control_kritterkill.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_kritterkill.jpg',
       },
 
       {
         url:
-          'pest_control_kritterkill.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_kritterkill.jpg',
       },
     ],
     categories: [
@@ -12505,26 +12505,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'pest_control_naturally_green.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_naturally_green.jpg',
     gallery: [
       {
         url:
-          'pest_control_naturally_green.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_naturally_green.jpg',
       },
 
       {
         url:
-          'pest_control_naturally_green.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_naturally_green.jpg',
       },
 
       {
         url:
-          'pest_control_naturally_green.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_naturally_green.jpg',
       },
 
       {
         url:
-          'pest_control_naturally_green.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_naturally_green.jpg',
       },
     ],
     categories: [
@@ -12552,26 +12552,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'pest_control_sc_johnson_raid.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_sc_johnson_raid.jpg',
     gallery: [
       {
         url:
-          'pest_control_sc_johnson_raid.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_sc_johnson_raid.jpg',
       },
 
       {
         url:
-          'pest_control_sc_johnson_raid.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_sc_johnson_raid.jpg',
       },
 
       {
         url:
-          'pest_control_sc_johnson_raid.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_sc_johnson_raid.jpg',
       },
 
       {
         url:
-          'pest_control_sc_johnson_raid.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_sc_johnson_raid.jpg',
       },
     ],
     categories: [
@@ -12599,26 +12599,26 @@ const productData = [
       'Pest control is the regulation or management of a species defined as a pest, a member of the animal kingdom that impacts adversely on human activities. The human response depends on the importance of the damage done, and will range from tolerance, through deterrence and management, to attempts to completely eradicate the pest.',
     type: 'grocery',
     image:
-      'pest_control_wondercide_indoor_pest_control.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_wondercide_indoor_pest_control.jpg',
     gallery: [
       {
         url:
-          'pest_control_wondercide_indoor_pest_control.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_wondercide_indoor_pest_control.jpg',
       },
 
       {
         url:
-          'pest_control_wondercide_indoor_pest_control.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_wondercide_indoor_pest_control.jpg',
       },
 
       {
         url:
-          'pest_control_wondercide_indoor_pest_control.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_wondercide_indoor_pest_control.jpg',
       },
 
       {
         url:
-          'pest_control_wondercide_indoor_pest_control.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pest_control_wondercide_indoor_pest_control.jpg',
       },
     ],
     categories: [
@@ -12646,26 +12646,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'butter_barney.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_barney.jpg',
     gallery: [
       {
         url:
-          'butter_barney.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_barney.jpg',
       },
 
       {
         url:
-          'butter_barney.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_barney.jpg',
       },
 
       {
         url:
-          'butter_barney.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_barney.jpg',
       },
 
       {
         url:
-          'butter_barney.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_barney.jpg',
       },
     ],
     categories: [
@@ -12693,26 +12693,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'butter_ground_up.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_ground_up.jpg',
     gallery: [
       {
         url:
-          'butter_ground_up.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_ground_up.jpg',
       },
 
       {
         url:
-          'butter_ground_up.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_ground_up.jpg',
       },
 
       {
         url:
-          'butter_ground_up.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_ground_up.jpg',
       },
 
       {
         url:
-          'butter_ground_up.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_ground_up.jpg',
       },
     ],
     categories: [
@@ -12740,26 +12740,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'butter_kirkland.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_kirkland.jpg',
     gallery: [
       {
         url:
-          'butter_kirkland.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_kirkland.jpg',
       },
 
       {
         url:
-          'butter_kirkland.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_kirkland.jpg',
       },
 
       {
         url:
-          'butter_kirkland.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_kirkland.jpg',
       },
 
       {
         url:
-          'butter_kirkland.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_kirkland.jpg',
       },
     ],
     categories: [
@@ -12787,26 +12787,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      "butter_nature's_tattva.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nature's_tattva.jpg",
     gallery: [
       {
         url:
-          "butter_nature's_tattva.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nature's_tattva.jpg",
       },
 
       {
         url:
-          "butter_nature's_tattva.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nature's_tattva.jpg",
       },
 
       {
         url:
-          "butter_nature's_tattva.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nature's_tattva.jpg",
       },
 
       {
         url:
-          "butter_nature's_tattva.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nature's_tattva.jpg",
       },
     ],
     categories: [
@@ -12834,26 +12834,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      "butter_nikki's.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nikki's.jpg",
     gallery: [
       {
         url:
-          "butter_nikki's.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nikki's.jpg",
       },
 
       {
         url:
-          "butter_nikki's.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nikki's.jpg",
       },
 
       {
         url:
-          "butter_nikki's.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nikki's.jpg",
       },
 
       {
         url:
-          "butter_nikki's.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_nikki's.jpg",
       },
     ],
     categories: [
@@ -12880,26 +12880,26 @@ const productData = [
     description:
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
-    image: 'butter_tnuva.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tnuva.jpg',
     gallery: [
       {
         url:
-          'butter_tnuva.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tnuva.jpg',
       },
 
       {
         url:
-          'butter_tnuva.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tnuva.jpg',
       },
 
       {
         url:
-          'butter_tnuva.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tnuva.jpg',
       },
 
       {
         url:
-          'butter_tnuva.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tnuva.jpg',
       },
     ],
     categories: [
@@ -12927,26 +12927,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'butter_tru_nut.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tru_nut.jpg',
     gallery: [
       {
         url:
-          'butter_tru_nut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tru_nut.jpg',
       },
 
       {
         url:
-          'butter_tru_nut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tru_nut.jpg',
       },
 
       {
         url:
-          'butter_tru_nut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tru_nut.jpg',
       },
 
       {
         url:
-          'butter_tru_nut.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_tru_nut.jpg',
       },
     ],
     categories: [
@@ -12974,26 +12974,26 @@ const productData = [
       'Butter is a dairy product with high butterfat content which is solid when chilled and at room temperature in some regions, and liquid when warmed. It is made by churning fresh or fermented cream or milk to separate the butterfat from the buttermilk.',
     type: 'grocery',
     image:
-      'butter_whole_earth.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_whole_earth.jpg',
     gallery: [
       {
         url:
-          'butter_whole_earth.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_whole_earth.jpg',
       },
 
       {
         url:
-          'butter_whole_earth.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_whole_earth.jpg',
       },
 
       {
         url:
-          'butter_whole_earth.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_whole_earth.jpg',
       },
 
       {
         url:
-          'butter_whole_earth.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/butter_whole_earth.jpg',
       },
     ],
     categories: [
@@ -13020,26 +13020,26 @@ const productData = [
     description:
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
-    image: 'egg_cavanagh.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cavanagh.jpg',
     gallery: [
       {
         url:
-          'egg_cavanagh.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cavanagh.jpg',
       },
 
       {
         url:
-          'egg_cavanagh.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cavanagh.jpg',
       },
 
       {
         url:
-          'egg_cavanagh.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cavanagh.jpg',
       },
 
       {
         url:
-          'egg_cavanagh.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cavanagh.jpg',
       },
     ],
     categories: [
@@ -13067,26 +13067,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'egg_clarenece_court.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_clarenece_court.jpg',
     gallery: [
       {
         url:
-          'egg_clarenece_court.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_clarenece_court.jpg',
       },
 
       {
         url:
-          'egg_clarenece_court.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_clarenece_court.jpg',
       },
 
       {
         url:
-          'egg_clarenece_court.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_clarenece_court.jpg',
       },
 
       {
         url:
-          'egg_clarenece_court.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_clarenece_court.jpg',
       },
     ],
     categories: [
@@ -13113,22 +13113,22 @@ const productData = [
     description:
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
-    image: 'egg_cp.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cp.jpg',
     gallery: [
       {
-        url: 'egg_cp.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cp.jpg',
       },
 
       {
-        url: 'egg_cp.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cp.jpg',
       },
 
       {
-        url: 'egg_cp.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cp.jpg',
       },
 
       {
-        url: 'egg_cp.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_cp.jpg',
       },
     ],
     categories: [
@@ -13156,26 +13156,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'egg_freshlay_golden_yolks.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_freshlay_golden_yolks.jpg',
     gallery: [
       {
         url:
-          'egg_freshlay_golden_yolks.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_freshlay_golden_yolks.jpg',
       },
 
       {
         url:
-          'egg_freshlay_golden_yolks.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_freshlay_golden_yolks.jpg',
       },
 
       {
         url:
-          'egg_freshlay_golden_yolks.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_freshlay_golden_yolks.jpg',
       },
 
       {
         url:
-          'egg_freshlay_golden_yolks.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_freshlay_golden_yolks.jpg',
       },
     ],
     categories: [
@@ -13202,26 +13202,26 @@ const productData = [
     description:
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
-    image: 'egg_gold_hen.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_gold_hen.jpg',
     gallery: [
       {
         url:
-          'egg_gold_hen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_gold_hen.jpg',
       },
 
       {
         url:
-          'egg_gold_hen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_gold_hen.jpg',
       },
 
       {
         url:
-          'egg_gold_hen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_gold_hen.jpg',
       },
 
       {
         url:
-          'egg_gold_hen.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_gold_hen.jpg',
       },
     ],
     categories: [
@@ -13249,26 +13249,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'egg_happy_egg_organic.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_happy_egg_organic.jpg',
     gallery: [
       {
         url:
-          'egg_happy_egg_organic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_happy_egg_organic.jpg',
       },
 
       {
         url:
-          'egg_happy_egg_organic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_happy_egg_organic.jpg',
       },
 
       {
         url:
-          'egg_happy_egg_organic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_happy_egg_organic.jpg',
       },
 
       {
         url:
-          'egg_happy_egg_organic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_happy_egg_organic.jpg',
       },
     ],
     categories: [
@@ -13296,26 +13296,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'egg_morrisons.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_morrisons.jpg',
     gallery: [
       {
         url:
-          'egg_morrisons.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_morrisons.jpg',
       },
 
       {
         url:
-          'egg_morrisons.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_morrisons.jpg',
       },
 
       {
         url:
-          'egg_morrisons.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_morrisons.jpg',
       },
 
       {
         url:
-          'egg_morrisons.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_morrisons.jpg',
       },
     ],
     categories: [
@@ -13343,26 +13343,26 @@ const productData = [
       'The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches. An egg results from fertilization of an egg cell. Most arthropods, vertebrates (excluding mammals), and mollusks lay eggs, although some, such as scorpions, do not.',
     type: 'grocery',
     image:
-      'egg_nutri_plus_telur_kampang_omega3.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_nutri_plus_telur_kampang_omega3.jpg',
     gallery: [
       {
         url:
-          'egg_nutri_plus_telur_kampang_omega3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_nutri_plus_telur_kampang_omega3.jpg',
       },
 
       {
         url:
-          'egg_nutri_plus_telur_kampang_omega3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_nutri_plus_telur_kampang_omega3.jpg',
       },
 
       {
         url:
-          'egg_nutri_plus_telur_kampang_omega3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_nutri_plus_telur_kampang_omega3.jpg',
       },
 
       {
         url:
-          'egg_nutri_plus_telur_kampang_omega3.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/egg_nutri_plus_telur_kampang_omega3.jpg',
       },
     ],
     categories: [
@@ -13390,26 +13390,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'milk_arla_lacto_free.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_lacto_free.jpg',
     gallery: [
       {
         url:
-          'milk_arla_lacto_free.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_lacto_free.jpg',
       },
 
       {
         url:
-          'milk_arla_lacto_free.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_lacto_free.jpg',
       },
 
       {
         url:
-          'milk_arla_lacto_free.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_lacto_free.jpg',
       },
 
       {
         url:
-          'milk_arla_lacto_free.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_lacto_free.jpg',
       },
     ],
     categories: [
@@ -13437,26 +13437,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'milk_arla_low_fat1.5.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_low_fat1.5.jpg',
     gallery: [
       {
         url:
-          'milk_arla_low_fat1.5.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_low_fat1.5.jpg',
       },
 
       {
         url:
-          'milk_arla_low_fat1.5.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_low_fat1.5.jpg',
       },
 
       {
         url:
-          'milk_arla_low_fat1.5.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_low_fat1.5.jpg',
       },
 
       {
         url:
-          'milk_arla_low_fat1.5.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_arla_low_fat1.5.jpg',
       },
     ],
     categories: [
@@ -13484,26 +13484,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'milk_f&n_magnolia.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_f&n_magnolia.jpg',
     gallery: [
       {
         url:
-          'milk_f&n_magnolia.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_f&n_magnolia.jpg',
       },
 
       {
         url:
-          'milk_f&n_magnolia.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_f&n_magnolia.jpg',
       },
 
       {
         url:
-          'milk_f&n_magnolia.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_f&n_magnolia.jpg',
       },
 
       {
         url:
-          'milk_f&n_magnolia.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_f&n_magnolia.jpg',
       },
     ],
     categories: [
@@ -13532,26 +13532,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'milk_greenfields_choco_malt_flavoured.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_greenfields_choco_malt_flavoured.jpg',
     gallery: [
       {
         url:
-          'milk_greenfields_choco_malt_flavoured.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_greenfields_choco_malt_flavoured.jpg',
       },
 
       {
         url:
-          'milk_greenfields_choco_malt_flavoured.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_greenfields_choco_malt_flavoured.jpg',
       },
 
       {
         url:
-          'milk_greenfields_choco_malt_flavoured.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_greenfields_choco_malt_flavoured.jpg',
       },
 
       {
         url:
-          'milk_greenfields_choco_malt_flavoured.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_greenfields_choco_malt_flavoured.jpg',
       },
     ],
     categories: [
@@ -13579,26 +13579,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'milk_heritage.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_heritage.jpg',
     gallery: [
       {
         url:
-          'milk_heritage.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_heritage.jpg',
       },
 
       {
         url:
-          'milk_heritage.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_heritage.jpg',
       },
 
       {
         url:
-          'milk_heritage.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_heritage.jpg',
       },
 
       {
         url:
-          'milk_heritage.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_heritage.jpg',
       },
     ],
     categories: [
@@ -13625,26 +13625,26 @@ const productData = [
     description:
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
-    image: 'milk_lactaid.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_lactaid.jpg',
     gallery: [
       {
         url:
-          'milk_lactaid.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_lactaid.jpg',
       },
 
       {
         url:
-          'milk_lactaid.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_lactaid.jpg',
       },
 
       {
         url:
-          'milk_lactaid.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_lactaid.jpg',
       },
 
       {
         url:
-          'milk_lactaid.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_lactaid.jpg',
       },
     ],
     categories: [
@@ -13672,26 +13672,26 @@ const productData = [
       'Milk is a nutrient-rich, white liquid food produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who are breastfed) before they are able to digest other types of food.',
     type: 'grocery',
     image:
-      'milk_living_planet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_living_planet.jpg',
     gallery: [
       {
         url:
-          'milk_living_planet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_living_planet.jpg',
       },
 
       {
         url:
-          'milk_living_planet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_living_planet.jpg',
       },
 
       {
         url:
-          'milk_living_planet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_living_planet.jpg',
       },
 
       {
         url:
-          'milk_living_planet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_living_planet.jpg',
       },
     ],
     categories: [
@@ -13719,26 +13719,26 @@ const productData = [
       'Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top.',
     type: 'grocery',
     image:
-      'milk_cream_califia_farms.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_califia_farms.jpg',
     gallery: [
       {
         url:
-          'milk_cream_califia_farms.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_califia_farms.jpg',
       },
 
       {
         url:
-          'milk_cream_califia_farms.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_califia_farms.jpg',
       },
 
       {
         url:
-          'milk_cream_califia_farms.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_califia_farms.jpg',
       },
 
       {
         url:
-          'milk_cream_califia_farms.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_califia_farms.jpg',
       },
     ],
     categories: [
@@ -13766,26 +13766,26 @@ const productData = [
       'Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top.',
     type: 'grocery',
     image:
-      'milk_cream_clover.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_clover.jpg',
     gallery: [
       {
         url:
-          'milk_cream_clover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_clover.jpg',
       },
 
       {
         url:
-          'milk_cream_clover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_clover.jpg',
       },
 
       {
         url:
-          'milk_cream_clover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_clover.jpg',
       },
 
       {
         url:
-          'milk_cream_clover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_clover.jpg',
       },
     ],
     categories: [
@@ -13813,26 +13813,26 @@ const productData = [
       'Cream is a dairy product composed of the higher-fat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, eventually rises to the top.',
     type: 'grocery',
     image:
-      'milk_cream_fernleaf.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_fernleaf.jpg',
     gallery: [
       {
         url:
-          'milk_cream_fernleaf.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_fernleaf.jpg',
       },
 
       {
         url:
-          'milk_cream_fernleaf.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_fernleaf.jpg',
       },
 
       {
         url:
-          'milk_cream_fernleaf.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_fernleaf.jpg',
       },
 
       {
         url:
-          'milk_cream_fernleaf.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_fernleaf.jpg',
       },
     ],
     categories: [
@@ -13860,26 +13860,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'powder_milk_scape.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_scape.jpg',
     gallery: [
       {
         url:
-          'powder_milk_scape.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_scape.jpg',
       },
 
       {
         url:
-          'powder_milk_scape.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_scape.jpg',
       },
 
       {
         url:
-          'powder_milk_scape.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_scape.jpg',
       },
 
       {
         url:
-          'powder_milk_scape.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_scape.jpg',
       },
     ],
     categories: [
@@ -13907,26 +13907,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'powder_milk_z_natural_foods.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_z_natural_foods.jpg',
     gallery: [
       {
         url:
-          'powder_milk_z_natural_foods.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_z_natural_foods.jpg',
       },
 
       {
         url:
-          'powder_milk_z_natural_foods.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_z_natural_foods.jpg',
       },
 
       {
         url:
-          'powder_milk_z_natural_foods.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_z_natural_foods.jpg',
       },
 
       {
         url:
-          'powder_milk_z_natural_foods.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_z_natural_foods.jpg',
       },
     ],
     categories: [
@@ -13954,26 +13954,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'powder_milk_param.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_param.jpg',
     gallery: [
       {
         url:
-          'powder_milk_param.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_param.jpg',
       },
 
       {
         url:
-          'powder_milk_param.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_param.jpg',
       },
 
       {
         url:
-          'powder_milk_param.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_param.jpg',
       },
 
       {
         url:
-          'powder_milk_param.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_param.jpg',
       },
     ],
     categories: [
@@ -14001,26 +14001,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'powder_milk_nestle_nido_900gram.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_nestle_nido_900gram.jpg',
     gallery: [
       {
         url:
-          'powder_milk_nestle_nido_900gram.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_nestle_nido_900gram.jpg',
       },
 
       {
         url:
-          'powder_milk_nestle_nido_900gram.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_nestle_nido_900gram.jpg',
       },
 
       {
         url:
-          'powder_milk_nestle_nido_900gram.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_nestle_nido_900gram.jpg',
       },
 
       {
         url:
-          'powder_milk_nestle_nido_900gram.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_nestle_nido_900gram.jpg',
       },
     ],
     categories: [
@@ -14048,26 +14048,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'powder_milk_milgro.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_milgro.jpg',
     gallery: [
       {
         url:
-          'powder_milk_milgro.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_milgro.jpg',
       },
 
       {
         url:
-          'powder_milk_milgro.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_milgro.jpg',
       },
 
       {
         url:
-          'powder_milk_milgro.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_milgro.jpg',
       },
 
       {
         url:
-          'powder_milk_milgro.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_milgro.jpg',
       },
     ],
     categories: [
@@ -14095,26 +14095,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'powder_milk_lifestyle_food.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_lifestyle_food.jpg',
     gallery: [
       {
         url:
-          'powder_milk_lifestyle_food.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_lifestyle_food.jpg',
       },
 
       {
         url:
-          'powder_milk_lifestyle_food.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_lifestyle_food.jpg',
       },
 
       {
         url:
-          'powder_milk_lifestyle_food.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_lifestyle_food.jpg',
       },
 
       {
         url:
-          'powder_milk_lifestyle_food.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_lifestyle_food.jpg',
       },
     ],
     categories: [
@@ -14142,26 +14142,26 @@ const productData = [
       'Powdered milk or dried milk is a manufactured dairy product made by evaporating milk to dryness. One purpose of drying milk is to preserve it; milk powder has a far longer shelf life than liquid milk and does not need to be refrigerated, due to its low moisture content. Another purpose is to reduce its bulk for economy of transportation.',
     type: 'grocery',
     image:
-      'powder_milk_goldmilys.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_goldmilys.jpg',
     gallery: [
       {
         url:
-          'powder_milk_goldmilys.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_goldmilys.jpg',
       },
 
       {
         url:
-          'powder_milk_goldmilys.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_goldmilys.jpg',
       },
 
       {
         url:
-          'powder_milk_goldmilys.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_goldmilys.jpg',
       },
 
       {
         url:
-          'powder_milk_goldmilys.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/powder_milk_goldmilys.jpg',
       },
     ],
     categories: [
@@ -14189,26 +14189,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'milk_cream_nammilk.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_nammilk.jpg',
     gallery: [
       {
         url:
-          'milk_cream_nammilk.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_nammilk.jpg',
       },
 
       {
         url:
-          'milk_cream_nammilk.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_nammilk.jpg',
       },
 
       {
         url:
-          'milk_cream_nammilk.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_nammilk.jpg',
       },
 
       {
         url:
-          'milk_cream_nammilk.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/milk_cream_nammilk.jpg',
       },
     ],
     categories: [
@@ -14236,26 +14236,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'yogourt_astro_balkan.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_balkan.jpg',
     gallery: [
       {
         url:
-          'yogourt_astro_balkan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_balkan.jpg',
       },
 
       {
         url:
-          'yogourt_astro_balkan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_balkan.jpg',
       },
 
       {
         url:
-          'yogourt_astro_balkan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_balkan.jpg',
       },
 
       {
         url:
-          'yogourt_astro_balkan.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_balkan.jpg',
       },
     ],
     categories: [
@@ -14283,26 +14283,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'yogourt_astro_bio_best.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_bio_best.jpg',
     gallery: [
       {
         url:
-          'yogourt_astro_bio_best.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_bio_best.jpg',
       },
 
       {
         url:
-          'yogourt_astro_bio_best.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_bio_best.jpg',
       },
 
       {
         url:
-          'yogourt_astro_bio_best.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_bio_best.jpg',
       },
 
       {
         url:
-          'yogourt_astro_bio_best.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_astro_bio_best.jpg',
       },
     ],
     categories: [
@@ -14330,26 +14330,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'yogourt_chobani_plain_non_fat.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_plain_non_fat.jpg',
     gallery: [
       {
         url:
-          'yogourt_chobani_plain_non_fat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_plain_non_fat.jpg',
       },
 
       {
         url:
-          'yogourt_chobani_plain_non_fat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_plain_non_fat.jpg',
       },
 
       {
         url:
-          'yogourt_chobani_plain_non_fat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_plain_non_fat.jpg',
       },
 
       {
         url:
-          'yogourt_chobani_plain_non_fat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_plain_non_fat.jpg',
       },
     ],
     categories: [
@@ -14377,26 +14377,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'yogourt_chobani_vanilla.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_vanilla.jpg',
     gallery: [
       {
         url:
-          'yogourt_chobani_vanilla.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_vanilla.jpg',
       },
 
       {
         url:
-          'yogourt_chobani_vanilla.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_vanilla.jpg',
       },
 
       {
         url:
-          'yogourt_chobani_vanilla.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_vanilla.jpg',
       },
 
       {
         url:
-          'yogourt_chobani_vanilla.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_chobani_vanilla.jpg',
       },
     ],
     categories: [
@@ -14424,26 +14424,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'yogourt_dannon_strawberry.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_strawberry.jpg',
     gallery: [
       {
         url:
-          'yogourt_dannon_strawberry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_strawberry.jpg',
       },
 
       {
         url:
-          'yogourt_dannon_strawberry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_strawberry.jpg',
       },
 
       {
         url:
-          'yogourt_dannon_strawberry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_strawberry.jpg',
       },
 
       {
         url:
-          'yogourt_dannon_strawberry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_strawberry.jpg',
       },
     ],
     categories: [
@@ -14471,26 +14471,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'yogourt_dannon_vanilla.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_vanilla.jpg',
     gallery: [
       {
         url:
-          'yogourt_dannon_vanilla.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_vanilla.jpg',
       },
 
       {
         url:
-          'yogourt_dannon_vanilla.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_vanilla.jpg',
       },
 
       {
         url:
-          'yogourt_dannon_vanilla.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_vanilla.jpg',
       },
 
       {
         url:
-          'yogourt_dannon_vanilla.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_dannon_vanilla.jpg',
       },
     ],
     categories: [
@@ -14518,26 +14518,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'yogourt_marigold.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_marigold.jpg',
     gallery: [
       {
         url:
-          'yogourt_marigold.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_marigold.jpg',
       },
 
       {
         url:
-          'yogourt_marigold.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_marigold.jpg',
       },
 
       {
         url:
-          'yogourt_marigold.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_marigold.jpg',
       },
 
       {
         url:
-          'yogourt_marigold.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_marigold.jpg',
       },
     ],
     categories: [
@@ -14565,26 +14565,26 @@ const productData = [
       'yoghurt, yogourt or yoghourt, is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as yogurt cultures.',
     type: 'grocery',
     image:
-      'yogourt_stony_field_vanilla_fudge_swirl.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_stony_field_vanilla_fudge_swirl.jpg',
     gallery: [
       {
         url:
-          'yogourt_stony_field_vanilla_fudge_swirl.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_stony_field_vanilla_fudge_swirl.jpg',
       },
 
       {
         url:
-          'yogourt_stony_field_vanilla_fudge_swirl.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_stony_field_vanilla_fudge_swirl.jpg',
       },
 
       {
         url:
-          'yogourt_stony_field_vanilla_fudge_swirl.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_stony_field_vanilla_fudge_swirl.jpg',
       },
 
       {
         url:
-          'yogourt_stony_field_vanilla_fudge_swirl.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yogourt_stony_field_vanilla_fudge_swirl.jpg',
       },
     ],
     categories: [
@@ -14612,26 +14612,26 @@ const productData = [
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
     image:
-      'oil_1_2_3_vegitable.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_1_2_3_vegitable.jpg',
     gallery: [
       {
         url:
-          'oil_1_2_3_vegitable.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_1_2_3_vegitable.jpg',
       },
 
       {
         url:
-          'oil_1_2_3_vegitable.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_1_2_3_vegitable.jpg',
       },
 
       {
         url:
-          'oil_1_2_3_vegitable.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_1_2_3_vegitable.jpg',
       },
 
       {
         url:
-          'oil_1_2_3_vegitable.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_1_2_3_vegitable.jpg',
       },
     ],
     categories: [
@@ -14659,26 +14659,26 @@ const productData = [
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
     image:
-      'oil_clover_valley.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_clover_valley.jpg',
     gallery: [
       {
         url:
-          'oil_clover_valley.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_clover_valley.jpg',
       },
 
       {
         url:
-          'oil_clover_valley.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_clover_valley.jpg',
       },
 
       {
         url:
-          'oil_clover_valley.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_clover_valley.jpg',
       },
 
       {
         url:
-          'oil_clover_valley.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_clover_valley.jpg',
       },
     ],
     categories: [
@@ -14705,22 +14705,22 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'oil_daisy.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_daisy.jpg',
     gallery: [
       {
-        url: 'oil_daisy.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_daisy.jpg',
       },
 
       {
-        url: 'oil_daisy.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_daisy.jpg',
       },
 
       {
-        url: 'oil_daisy.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_daisy.jpg',
       },
 
       {
-        url: 'oil_daisy.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_daisy.jpg',
       },
     ],
     categories: [
@@ -14747,22 +14747,22 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'oil_eva.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_eva.jpg',
     gallery: [
       {
-        url: 'oil_eva.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_eva.jpg',
       },
 
       {
-        url: 'oil_eva.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_eva.jpg',
       },
 
       {
-        url: 'oil_eva.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_eva.jpg',
       },
 
       {
-        url: 'oil_eva.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_eva.jpg',
       },
     ],
     categories: [
@@ -14789,22 +14789,22 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'oil_goya.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_goya.jpg',
     gallery: [
       {
-        url: 'oil_goya.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_goya.jpg',
       },
 
       {
-        url: 'oil_goya.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_goya.jpg',
       },
 
       {
-        url: 'oil_goya.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_goya.jpg',
       },
 
       {
-        url: 'oil_goya.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_goya.jpg',
       },
     ],
     categories: [
@@ -14831,26 +14831,26 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'oil_natural.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_natural.jpg',
     gallery: [
       {
         url:
-          'oil_natural.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_natural.jpg',
       },
 
       {
         url:
-          'oil_natural.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_natural.jpg',
       },
 
       {
         url:
-          'oil_natural.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_natural.jpg',
       },
 
       {
         url:
-          'oil_natural.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_natural.jpg',
       },
     ],
     categories: [
@@ -14878,26 +14878,26 @@ const productData = [
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
     image:
-      'oil_san_lucas.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_san_lucas.jpg',
     gallery: [
       {
         url:
-          'oil_san_lucas.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_san_lucas.jpg',
       },
 
       {
         url:
-          'oil_san_lucas.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_san_lucas.jpg',
       },
 
       {
         url:
-          'oil_san_lucas.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_san_lucas.jpg',
       },
 
       {
         url:
-          'oil_san_lucas.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_san_lucas.jpg',
       },
     ],
     categories: [
@@ -14924,26 +14924,26 @@ const productData = [
     description:
       'An oil is any nonpolar chemical substance that is a viscous liquid at ambient temperatures and is both hydrophobic (does not mix with water, literally water fearing) and lipophilic (mixes with other oils, literally fat loving). Oils have a high carbon and hydrogen content and are usually flammable and surface active.',
     type: 'grocery',
-    image: 'oil_sunfoil.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_sunfoil.jpg',
     gallery: [
       {
         url:
-          'oil_sunfoil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_sunfoil.jpg',
       },
 
       {
         url:
-          'oil_sunfoil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_sunfoil.jpg',
       },
 
       {
         url:
-          'oil_sunfoil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_sunfoil.jpg',
       },
 
       {
         url:
-          'oil_sunfoil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/oil_sunfoil.jpg',
       },
     ],
     categories: [
@@ -14971,26 +14971,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'chefa_choice_bamboo_rice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chefa_choice_bamboo_rice.jpg',
     gallery: [
       {
         url:
-          'chefa_choice_bamboo_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chefa_choice_bamboo_rice.jpg',
       },
 
       {
         url:
-          'chefa_choice_bamboo_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chefa_choice_bamboo_rice.jpg',
       },
 
       {
         url:
-          'chefa_choice_bamboo_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chefa_choice_bamboo_rice.jpg',
       },
 
       {
         url:
-          'chefa_choice_bamboo_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chefa_choice_bamboo_rice.jpg',
       },
     ],
     categories: [
@@ -15018,26 +15018,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
     gallery: [
       {
         url:
-          'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
       },
 
       {
         url:
-          'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
       },
 
       {
         url:
-          'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
       },
 
       {
         url:
-          'everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/everyday_essentials_Golden_Vegetable_Savoury_Rice.jpg',
       },
     ],
     categories: [
@@ -15065,26 +15065,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'hulas_premium_basmati_rice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hulas_premium_basmati_rice.jpg',
     gallery: [
       {
         url:
-          'hulas_premium_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hulas_premium_basmati_rice.jpg',
       },
 
       {
         url:
-          'hulas_premium_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hulas_premium_basmati_rice.jpg',
       },
 
       {
         url:
-          'hulas_premium_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hulas_premium_basmati_rice.jpg',
       },
 
       {
         url:
-          'hulas_premium_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/hulas_premium_basmati_rice.jpg',
       },
     ],
     categories: [
@@ -15112,26 +15112,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
     gallery: [
       {
         url:
-          'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
       },
 
       {
         url:
-          'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
       },
 
       {
         url:
-          'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
       },
 
       {
         url:
-          'Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iberia_Long_Grain_Enriched_Fragrant_Rice_18_lbs.jpg',
       },
     ],
     categories: [
@@ -15159,26 +15159,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'india_gate_basmati_rice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/india_gate_basmati_rice.jpg',
     gallery: [
       {
         url:
-          'india_gate_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/india_gate_basmati_rice.jpg',
       },
 
       {
         url:
-          'india_gate_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/india_gate_basmati_rice.jpg',
       },
 
       {
         url:
-          'india_gate_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/india_gate_basmati_rice.jpg',
       },
 
       {
         url:
-          'india_gate_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/india_gate_basmati_rice.jpg',
       },
     ],
     categories: [
@@ -15206,26 +15206,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      "nature's_gift_basmati_rice.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nature's_gift_basmati_rice.jpg",
     gallery: [
       {
         url:
-          "nature's_gift_basmati_rice.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nature's_gift_basmati_rice.jpg",
       },
 
       {
         url:
-          "nature's_gift_basmati_rice.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nature's_gift_basmati_rice.jpg",
       },
 
       {
         url:
-          "nature's_gift_basmati_rice.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nature's_gift_basmati_rice.jpg",
       },
 
       {
         url:
-          "nature's_gift_basmati_rice.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nature's_gift_basmati_rice.jpg",
       },
     ],
     categories: [
@@ -15253,26 +15253,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'seeds_of_change_brown_basmati_rice.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/seeds_of_change_brown_basmati_rice.jpg',
     gallery: [
       {
         url:
-          'seeds_of_change_brown_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/seeds_of_change_brown_basmati_rice.jpg',
       },
 
       {
         url:
-          'seeds_of_change_brown_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/seeds_of_change_brown_basmati_rice.jpg',
       },
 
       {
         url:
-          'seeds_of_change_brown_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/seeds_of_change_brown_basmati_rice.jpg',
       },
 
       {
         url:
-          'seeds_of_change_brown_basmati_rice.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/seeds_of_change_brown_basmati_rice.jpg',
       },
     ],
     categories: [
@@ -15300,26 +15300,26 @@ const productData = [
       "Rice is the seed of the grass species Oryza sativa (Asian rice) or Oryza glaberrima (African rice). As a cereal grain, it is the most widely consumed staple food for a large part of the world's human population, especially in Asia.",
     type: 'grocery',
     image:
-      'tai_ping_Sushi_Rice_1kg.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tai_ping_Sushi_Rice_1kg.jpg',
     gallery: [
       {
         url:
-          'tai_ping_Sushi_Rice_1kg.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tai_ping_Sushi_Rice_1kg.jpg',
       },
 
       {
         url:
-          'tai_ping_Sushi_Rice_1kg.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tai_ping_Sushi_Rice_1kg.jpg',
       },
 
       {
         url:
-          'tai_ping_Sushi_Rice_1kg.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tai_ping_Sushi_Rice_1kg.jpg',
       },
 
       {
         url:
-          'tai_ping_Sushi_Rice_1kg.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tai_ping_Sushi_Rice_1kg.jpg',
       },
     ],
     categories: [
@@ -15347,26 +15347,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'clover_valley_sea_salt_grinder.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/clover_valley_sea_salt_grinder.jpg',
     gallery: [
       {
         url:
-          'clover_valley_sea_salt_grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/clover_valley_sea_salt_grinder.jpg',
       },
 
       {
         url:
-          'clover_valley_sea_salt_grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/clover_valley_sea_salt_grinder.jpg',
       },
 
       {
         url:
-          'clover_valley_sea_salt_grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/clover_valley_sea_salt_grinder.jpg',
       },
 
       {
         url:
-          'clover_valley_sea_salt_grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/clover_valley_sea_salt_grinder.jpg',
       },
     ],
     categories: [
@@ -15394,26 +15394,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'gathering_place_sea_salt_100g_grinder.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gathering_place_sea_salt_100g_grinder.jpg',
     gallery: [
       {
         url:
-          'gathering_place_sea_salt_100g_grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gathering_place_sea_salt_100g_grinder.jpg',
       },
 
       {
         url:
-          'gathering_place_sea_salt_100g_grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gathering_place_sea_salt_100g_grinder.jpg',
       },
 
       {
         url:
-          'gathering_place_sea_salt_100g_grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gathering_place_sea_salt_100g_grinder.jpg',
       },
 
       {
         url:
-          'gathering_place_sea_salt_100g_grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gathering_place_sea_salt_100g_grinder.jpg',
       },
     ],
     categories: [
@@ -15441,26 +15441,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'herbivore_Calm_deadsea_soaking_salt.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/herbivore_Calm_deadsea_soaking_salt.jpg',
     gallery: [
       {
         url:
-          'herbivore_Calm_deadsea_soaking_salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/herbivore_Calm_deadsea_soaking_salt.jpg',
       },
 
       {
         url:
-          'herbivore_Calm_deadsea_soaking_salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/herbivore_Calm_deadsea_soaking_salt.jpg',
       },
 
       {
         url:
-          'herbivore_Calm_deadsea_soaking_salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/herbivore_Calm_deadsea_soaking_salt.jpg',
       },
 
       {
         url:
-          'herbivore_Calm_deadsea_soaking_salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/herbivore_Calm_deadsea_soaking_salt.jpg',
       },
     ],
     categories: [
@@ -15488,26 +15488,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'nomu_atlantic_Sea_Salt_Grinder.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nomu_atlantic_Sea_Salt_Grinder.jpg',
     gallery: [
       {
         url:
-          'nomu_atlantic_Sea_Salt_Grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nomu_atlantic_Sea_Salt_Grinder.jpg',
       },
 
       {
         url:
-          'nomu_atlantic_Sea_Salt_Grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nomu_atlantic_Sea_Salt_Grinder.jpg',
       },
 
       {
         url:
-          'nomu_atlantic_Sea_Salt_Grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nomu_atlantic_Sea_Salt_Grinder.jpg',
       },
 
       {
         url:
-          'nomu_atlantic_Sea_Salt_Grinder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nomu_atlantic_Sea_Salt_Grinder.jpg',
       },
     ],
     categories: [
@@ -15535,26 +15535,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'tasteology_chili_salt.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tasteology_chili_salt.jpg',
     gallery: [
       {
         url:
-          'tasteology_chili_salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tasteology_chili_salt.jpg',
       },
 
       {
         url:
-          'tasteology_chili_salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tasteology_chili_salt.jpg',
       },
 
       {
         url:
-          'tasteology_chili_salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tasteology_chili_salt.jpg',
       },
 
       {
         url:
-          'tasteology_chili_salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tasteology_chili_salt.jpg',
       },
     ],
     categories: [
@@ -15582,26 +15582,26 @@ const productData = [
       'Salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt .',
     type: 'grocery',
     image:
-      'the_spice_house_white_Truffle_Salt.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_spice_house_white_Truffle_Salt.jpg',
     gallery: [
       {
         url:
-          'the_spice_house_white_Truffle_Salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_spice_house_white_Truffle_Salt.jpg',
       },
 
       {
         url:
-          'the_spice_house_white_Truffle_Salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_spice_house_white_Truffle_Salt.jpg',
       },
 
       {
         url:
-          'the_spice_house_white_Truffle_Salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_spice_house_white_Truffle_Salt.jpg',
       },
 
       {
         url:
-          'the_spice_house_white_Truffle_Salt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_spice_house_white_Truffle_Salt.jpg',
       },
     ],
     categories: [
@@ -15629,26 +15629,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'gula_aromatic_brown_sugar.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gula_aromatic_brown_sugar.jpg',
     gallery: [
       {
         url:
-          'gula_aromatic_brown_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gula_aromatic_brown_sugar.jpg',
       },
 
       {
         url:
-          'gula_aromatic_brown_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gula_aromatic_brown_sugar.jpg',
       },
 
       {
         url:
-          'gula_aromatic_brown_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gula_aromatic_brown_sugar.jpg',
       },
 
       {
         url:
-          'gula_aromatic_brown_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gula_aromatic_brown_sugar.jpg',
       },
     ],
     categories: [
@@ -15676,26 +15676,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'sis_white_sugar.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sis_white_sugar.jpg',
     gallery: [
       {
         url:
-          'sis_white_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sis_white_sugar.jpg',
       },
 
       {
         url:
-          'sis_white_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sis_white_sugar.jpg',
       },
 
       {
         url:
-          'sis_white_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sis_white_sugar.jpg',
       },
 
       {
         url:
-          'sis_white_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/sis_white_sugar.jpg',
       },
     ],
     categories: [
@@ -15722,22 +15722,22 @@ const productData = [
     description:
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
-    image: 'tate_sugar.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tate_sugar.jpg',
     gallery: [
       {
-        url: 'tate_sugar.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tate_sugar.jpg',
       },
 
       {
-        url: 'tate_sugar.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tate_sugar.jpg',
       },
 
       {
-        url: 'tate_sugar.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tate_sugar.jpg',
       },
 
       {
-        url: 'tate_sugar.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tate_sugar.jpg',
       },
     ],
     categories: [
@@ -15765,26 +15765,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'the_pantry_icing_Sugar.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_pantry_icing_Sugar.jpg',
     gallery: [
       {
         url:
-          'the_pantry_icing_Sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_pantry_icing_Sugar.jpg',
       },
 
       {
         url:
-          'the_pantry_icing_Sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_pantry_icing_Sugar.jpg',
       },
 
       {
         url:
-          'the_pantry_icing_Sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_pantry_icing_Sugar.jpg',
       },
 
       {
         url:
-          'the_pantry_icing_Sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_pantry_icing_Sugar.jpg',
       },
     ],
     categories: [
@@ -15812,26 +15812,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'whitworths_sugar.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/whitworths_sugar.jpg',
     gallery: [
       {
         url:
-          'whitworths_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/whitworths_sugar.jpg',
       },
 
       {
         url:
-          'whitworths_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/whitworths_sugar.jpg',
       },
 
       {
         url:
-          'whitworths_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/whitworths_sugar.jpg',
       },
 
       {
         url:
-          'whitworths_sugar.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/whitworths_sugar.jpg',
       },
     ],
     categories: [
@@ -15859,26 +15859,26 @@ const productData = [
       'Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. Simple sugars, also called monosaccharides, include glucose, fructose, and galactose.',
     type: 'grocery',
     image:
-      'Wholesome_Organic_Cane_Sugar_2LB.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wholesome_Organic_Cane_Sugar_2LB.jpg',
     gallery: [
       {
         url:
-          'Wholesome_Organic_Cane_Sugar_2LB.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wholesome_Organic_Cane_Sugar_2LB.jpg',
       },
 
       {
         url:
-          'Wholesome_Organic_Cane_Sugar_2LB.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wholesome_Organic_Cane_Sugar_2LB.jpg',
       },
 
       {
         url:
-          'Wholesome_Organic_Cane_Sugar_2LB.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wholesome_Organic_Cane_Sugar_2LB.jpg',
       },
 
       {
         url:
-          'Wholesome_Organic_Cane_Sugar_2LB.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wholesome_Organic_Cane_Sugar_2LB.jpg',
       },
     ],
     categories: [
@@ -15906,26 +15906,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
     gallery: [
       {
         url:
-          'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
       },
 
       {
         url:
-          'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
       },
 
       {
         url:
-          'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
       },
 
       {
         url:
-          'club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/club_house_la_grille_smouldering_smoked_applewood_seasoning.jpg',
       },
     ],
     categories: [
@@ -15953,26 +15953,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'crispy_chill_flakes.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crispy_chill_flakes.jpg',
     gallery: [
       {
         url:
-          'crispy_chill_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crispy_chill_flakes.jpg',
       },
 
       {
         url:
-          'crispy_chill_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crispy_chill_flakes.jpg',
       },
 
       {
         url:
-          'crispy_chill_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crispy_chill_flakes.jpg',
       },
 
       {
         url:
-          'crispy_chill_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crispy_chill_flakes.jpg',
       },
     ],
     categories: [
@@ -16000,26 +16000,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
     gallery: [
       {
         url:
-          'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
       },
 
       {
         url:
-          'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
       },
 
       {
         url:
-          'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
       },
 
       {
         url:
-          'Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Dell_Cove_Spices_Spicy_Chipotle_Seasoning.jpg',
       },
     ],
     categories: [
@@ -16047,26 +16047,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'Frontier_Curry_Powder.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Frontier_Curry_Powder.jpg',
     gallery: [
       {
         url:
-          'Frontier_Curry_Powder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Frontier_Curry_Powder.jpg',
       },
 
       {
         url:
-          'Frontier_Curry_Powder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Frontier_Curry_Powder.jpg',
       },
 
       {
         url:
-          'Frontier_Curry_Powder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Frontier_Curry_Powder.jpg',
       },
 
       {
         url:
-          'Frontier_Curry_Powder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Frontier_Curry_Powder.jpg',
       },
     ],
     categories: [
@@ -16094,26 +16094,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'mccormic_chilli_flakes.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mccormic_chilli_flakes.jpg',
     gallery: [
       {
         url:
-          'mccormic_chilli_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mccormic_chilli_flakes.jpg',
       },
 
       {
         url:
-          'mccormic_chilli_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mccormic_chilli_flakes.jpg',
       },
 
       {
         url:
-          'mccormic_chilli_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mccormic_chilli_flakes.jpg',
       },
 
       {
         url:
-          'mccormic_chilli_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mccormic_chilli_flakes.jpg',
       },
     ],
     categories: [
@@ -16141,26 +16141,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'redman_red_chilli_powder.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/redman_red_chilli_powder.jpg',
     gallery: [
       {
         url:
-          'redman_red_chilli_powder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/redman_red_chilli_powder.jpg',
       },
 
       {
         url:
-          'redman_red_chilli_powder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/redman_red_chilli_powder.jpg',
       },
 
       {
         url:
-          'redman_red_chilli_powder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/redman_red_chilli_powder.jpg',
       },
 
       {
         url:
-          'redman_red_chilli_powder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/redman_red_chilli_powder.jpg',
       },
     ],
     categories: [
@@ -16188,26 +16188,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'tajin_clasico_seasoning.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tajin_clasico_seasoning.jpg',
     gallery: [
       {
         url:
-          'tajin_clasico_seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tajin_clasico_seasoning.jpg',
       },
 
       {
         url:
-          'tajin_clasico_seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tajin_clasico_seasoning.jpg',
       },
 
       {
         url:
-          'tajin_clasico_seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tajin_clasico_seasoning.jpg',
       },
 
       {
         url:
-          'tajin_clasico_seasoning.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tajin_clasico_seasoning.jpg',
       },
     ],
     categories: [
@@ -16235,26 +16235,26 @@ const productData = [
       'A spice is a seed, fruit, root, bark, or other plant substance primarily used for flavoring, coloring or preserving food. Spices are distinguished from herbs, which are the leaves, flowers, or stems of plants used for flavoring or as a garnish.',
     type: 'grocery',
     image:
-      'weber_all_natural.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/weber_all_natural.jpg',
     gallery: [
       {
         url:
-          'weber_all_natural.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/weber_all_natural.jpg',
       },
 
       {
         url:
-          'weber_all_natural.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/weber_all_natural.jpg',
       },
 
       {
         url:
-          'weber_all_natural.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/weber_all_natural.jpg',
       },
 
       {
         url:
-          'weber_all_natural.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/weber_all_natural.jpg',
       },
     ],
     categories: [
@@ -16282,26 +16282,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'best_taste_Bread_garry.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_taste_Bread_garry.jpg',
     gallery: [
       {
         url:
-          'best_taste_Bread_garry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_taste_Bread_garry.jpg',
       },
 
       {
         url:
-          'best_taste_Bread_garry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_taste_Bread_garry.jpg',
       },
 
       {
         url:
-          'best_taste_Bread_garry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_taste_Bread_garry.jpg',
       },
 
       {
         url:
-          'best_taste_Bread_garry.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_taste_Bread_garry.jpg',
       },
     ],
     categories: [
@@ -16330,26 +16330,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'Everyday_Essentials_Wholemeal_Bread.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Everyday_Essentials_Wholemeal_Bread.jpg',
     gallery: [
       {
         url:
-          'Everyday_Essentials_Wholemeal_Bread.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Everyday_Essentials_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'Everyday_Essentials_Wholemeal_Bread.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Everyday_Essentials_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'Everyday_Essentials_Wholemeal_Bread.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Everyday_Essentials_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'Everyday_Essentials_Wholemeal_Bread.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Everyday_Essentials_Wholemeal_Bread.jpg',
       },
     ],
     categories: [
@@ -16377,26 +16377,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
     gallery: [
       {
         url:
-          'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
       },
 
       {
         url:
-          'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
       },
 
       {
         url:
-          'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
       },
 
       {
         url:
-          'Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Farmhouse_Multigrain_Batch_loaf_purple_pack.jpg',
       },
     ],
     categories: [
@@ -16425,26 +16425,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'roberts_Seriously_Seeded_Bloomer.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roberts_Seriously_Seeded_Bloomer.jpg',
     gallery: [
       {
         url:
-          'roberts_Seriously_Seeded_Bloomer.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roberts_Seriously_Seeded_Bloomer.jpg',
       },
 
       {
         url:
-          'roberts_Seriously_Seeded_Bloomer.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roberts_Seriously_Seeded_Bloomer.jpg',
       },
 
       {
         url:
-          'roberts_Seriously_Seeded_Bloomer.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roberts_Seriously_Seeded_Bloomer.jpg',
       },
 
       {
         url:
-          'roberts_Seriously_Seeded_Bloomer.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roberts_Seriously_Seeded_Bloomer.jpg',
       },
     ],
     categories: [
@@ -16473,26 +16473,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
     gallery: [
       {
         url:
-          'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
       },
 
       {
         url:
-          'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
       },
 
       {
         url:
-          'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
       },
 
       {
         url:
-          'the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Both_In_One_Loaf_white_wholemeal.jpg',
       },
     ],
     categories: [
@@ -16521,26 +16521,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'the_village_bakery_danish_low_fat.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_low_fat.jpg',
     gallery: [
       {
         url:
-          'the_village_bakery_danish_low_fat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_low_fat.jpg',
       },
 
       {
         url:
-          'the_village_bakery_danish_low_fat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_low_fat.jpg',
       },
 
       {
         url:
-          'the_village_bakery_danish_low_fat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_low_fat.jpg',
       },
 
       {
         url:
-          'the_village_bakery_danish_low_fat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_low_fat.jpg',
       },
     ],
     categories: [
@@ -16568,26 +16568,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'the_village_bakery_danish_Soft_White_Toastie.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_Soft_White_Toastie.jpg',
     gallery: [
       {
         url:
-          'the_village_bakery_danish_Soft_White_Toastie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_Soft_White_Toastie.jpg',
       },
 
       {
         url:
-          'the_village_bakery_danish_Soft_White_Toastie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_Soft_White_Toastie.jpg',
       },
 
       {
         url:
-          'the_village_bakery_danish_Soft_White_Toastie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_Soft_White_Toastie.jpg',
       },
 
       {
         url:
-          'the_village_bakery_danish_Soft_White_Toastie.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_danish_Soft_White_Toastie.jpg',
       },
     ],
     categories: [
@@ -16616,26 +16616,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'the_village_bakery_Soft_Wholemeal_Bread.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Soft_Wholemeal_Bread.jpg',
     gallery: [
       {
         url:
-          'the_village_bakery_Soft_Wholemeal_Bread.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Soft_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'the_village_bakery_Soft_Wholemeal_Bread.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Soft_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'the_village_bakery_Soft_Wholemeal_Bread.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Soft_Wholemeal_Bread.jpg',
       },
 
       {
         url:
-          'the_village_bakery_Soft_Wholemeal_Bread.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_village_bakery_Soft_Wholemeal_Bread.jpg',
       },
     ],
     categories: [
@@ -16663,26 +16663,26 @@ const productData = [
       'Bread is a staple food prepared from a dough of flour and water, usually by baking. Throughout recorded history it has been a prominent food in large parts of the world and is one of the oldest man-made foods, having been of significant importance since the dawn of agriculture.',
     type: 'grocery',
     image:
-      'Warburtons_Wholemeal_mild_soft.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Warburtons_Wholemeal_mild_soft.jpg',
     gallery: [
       {
         url:
-          'Warburtons_Wholemeal_mild_soft.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Warburtons_Wholemeal_mild_soft.jpg',
       },
 
       {
         url:
-          'Warburtons_Wholemeal_mild_soft.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Warburtons_Wholemeal_mild_soft.jpg',
       },
 
       {
         url:
-          'Warburtons_Wholemeal_mild_soft.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Warburtons_Wholemeal_mild_soft.jpg',
       },
 
       {
         url:
-          'Warburtons_Wholemeal_mild_soft.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Warburtons_Wholemeal_mild_soft.jpg',
       },
     ],
     categories: [
@@ -16710,26 +16710,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'fibre1_crunchy_original.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fibre1_crunchy_original.jpg',
     gallery: [
       {
         url:
-          'fibre1_crunchy_original.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fibre1_crunchy_original.jpg',
       },
 
       {
         url:
-          'fibre1_crunchy_original.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fibre1_crunchy_original.jpg',
       },
 
       {
         url:
-          'fibre1_crunchy_original.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fibre1_crunchy_original.jpg',
       },
 
       {
         url:
-          'fibre1_crunchy_original.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/fibre1_crunchy_original.jpg',
       },
     ],
     categories: [
@@ -16758,26 +16758,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
     gallery: [
       {
         url:
-          'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
       },
 
       {
         url:
-          'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
       },
 
       {
         url:
-          'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
       },
 
       {
         url:
-          'general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_first_ingredient_trix_wildberry_red_swirls.jpg',
       },
     ],
     categories: [
@@ -16805,26 +16805,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
     gallery: [
       {
         url:
-          'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
       },
 
       {
         url:
-          'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
       },
 
       {
         url:
-          'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
       },
 
       {
         url:
-          'general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/general_mills_with_whole_grain_guaranted_fiber_one_honey_clusters.jpg',
       },
     ],
     categories: [
@@ -16852,26 +16852,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'nestle_made_with_whole_grain_corn_flakes.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_made_with_whole_grain_corn_flakes.jpg',
     gallery: [
       {
         url:
-          'nestle_made_with_whole_grain_corn_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_made_with_whole_grain_corn_flakes.jpg',
       },
 
       {
         url:
-          'nestle_made_with_whole_grain_corn_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_made_with_whole_grain_corn_flakes.jpg',
       },
 
       {
         url:
-          'nestle_made_with_whole_grain_corn_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_made_with_whole_grain_corn_flakes.jpg',
       },
 
       {
         url:
-          'nestle_made_with_whole_grain_corn_flakes.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nestle_made_with_whole_grain_corn_flakes.jpg',
       },
     ],
     categories: [
@@ -16899,26 +16899,26 @@ const productData = [
       'A cereal is any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'post_honey_comb_cereal_12.5oz.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/post_honey_comb_cereal_12.5oz.jpg',
     gallery: [
       {
         url:
-          'post_honey_comb_cereal_12.5oz.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/post_honey_comb_cereal_12.5oz.jpg',
       },
 
       {
         url:
-          'post_honey_comb_cereal_12.5oz.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/post_honey_comb_cereal_12.5oz.jpg',
       },
 
       {
         url:
-          'post_honey_comb_cereal_12.5oz.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/post_honey_comb_cereal_12.5oz.jpg',
       },
 
       {
         url:
-          'post_honey_comb_cereal_12.5oz.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/post_honey_comb_cereal_12.5oz.jpg',
       },
     ],
     categories: [
@@ -16946,26 +16946,26 @@ const productData = [
       'Honey is a sweet, viscous food substance made by bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation',
     type: 'grocery',
     image:
-      'beechworth_honey_bee_creamy_creamy_honey.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beechworth_honey_bee_creamy_creamy_honey.jpg',
     gallery: [
       {
         url:
-          'beechworth_honey_bee_creamy_creamy_honey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beechworth_honey_bee_creamy_creamy_honey.jpg',
       },
 
       {
         url:
-          'beechworth_honey_bee_creamy_creamy_honey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beechworth_honey_bee_creamy_creamy_honey.jpg',
       },
 
       {
         url:
-          'beechworth_honey_bee_creamy_creamy_honey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beechworth_honey_bee_creamy_creamy_honey.jpg',
       },
 
       {
         url:
-          'beechworth_honey_bee_creamy_creamy_honey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beechworth_honey_bee_creamy_creamy_honey.jpg',
       },
     ],
     categories: [
@@ -16993,26 +16993,26 @@ const productData = [
       'Honey is a sweet, viscous food substance made by bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation',
     type: 'grocery',
     image:
-      "beekeeper's_naturals_wildflower_raw_honey.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beekeeper's_naturals_wildflower_raw_honey.jpg",
     gallery: [
       {
         url:
-          "beekeeper's_naturals_wildflower_raw_honey.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beekeeper's_naturals_wildflower_raw_honey.jpg",
       },
 
       {
         url:
-          "beekeeper's_naturals_wildflower_raw_honey.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beekeeper's_naturals_wildflower_raw_honey.jpg",
       },
 
       {
         url:
-          "beekeeper's_naturals_wildflower_raw_honey.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beekeeper's_naturals_wildflower_raw_honey.jpg",
       },
 
       {
         url:
-          "beekeeper's_naturals_wildflower_raw_honey.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beekeeper's_naturals_wildflower_raw_honey.jpg",
       },
     ],
     categories: [
@@ -17040,26 +17040,26 @@ const productData = [
       'Honey is a sweet, viscous food substance made by bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation',
     type: 'grocery',
     image:
-      'coffee_blossom_honey.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coffee_blossom_honey.jpg',
     gallery: [
       {
         url:
-          'coffee_blossom_honey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coffee_blossom_honey.jpg',
       },
 
       {
         url:
-          'coffee_blossom_honey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coffee_blossom_honey.jpg',
       },
 
       {
         url:
-          'coffee_blossom_honey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coffee_blossom_honey.jpg',
       },
 
       {
         url:
-          'coffee_blossom_honey.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coffee_blossom_honey.jpg',
       },
     ],
     categories: [
@@ -17087,26 +17087,26 @@ const productData = [
       'Honey is a sweet, viscous food substance made by bees and some related insects. Bees produce honey from the sugary secretions of plants (floral nectar) or from secretions of other insects (such as honeydew), by regurgitation, enzymatic activity, and water evaporation',
     type: 'grocery',
     image:
-      'Urban_Bee_Honey_fireweed.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Urban_Bee_Honey_fireweed.jpg',
     gallery: [
       {
         url:
-          'Urban_Bee_Honey_fireweed.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Urban_Bee_Honey_fireweed.jpg',
       },
 
       {
         url:
-          'Urban_Bee_Honey_fireweed.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Urban_Bee_Honey_fireweed.jpg',
       },
 
       {
         url:
-          'Urban_Bee_Honey_fireweed.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Urban_Bee_Honey_fireweed.jpg',
       },
 
       {
         url:
-          'Urban_Bee_Honey_fireweed.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Urban_Bee_Honey_fireweed.jpg',
       },
     ],
     categories: [
@@ -17134,26 +17134,26 @@ const productData = [
       'Jam typically contains both the juice and flesh of a fruit or vegetable, although one cookbook defines it as a cooked and jelled puree. The term jam refers to a product made of whole fruit cut into pieces or crushed, then heated with water and sugar to activate its pectin before being put into containers:',
     type: 'grocery',
     image:
-      'chivers_mixed_fruit_jam.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chivers_mixed_fruit_jam.jpg',
     gallery: [
       {
         url:
-          'chivers_mixed_fruit_jam.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chivers_mixed_fruit_jam.jpg',
       },
 
       {
         url:
-          'chivers_mixed_fruit_jam.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chivers_mixed_fruit_jam.jpg',
       },
 
       {
         url:
-          'chivers_mixed_fruit_jam.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chivers_mixed_fruit_jam.jpg',
       },
 
       {
         url:
-          'chivers_mixed_fruit_jam.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/chivers_mixed_fruit_jam.jpg',
       },
     ],
     categories: [
@@ -17181,26 +17181,26 @@ const productData = [
       'Jam typically contains both the juice and flesh of a fruit or vegetable, although one cookbook defines it as a cooked and jelled puree. The term jam refers to a product made of whole fruit cut into pieces or crushed, then heated with water and sugar to activate its pectin before being put into containers:',
     type: 'grocery',
     image:
-      'red_jacket_raspberry_jam.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_jacket_raspberry_jam.jpg',
     gallery: [
       {
         url:
-          'red_jacket_raspberry_jam.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_jacket_raspberry_jam.jpg',
       },
 
       {
         url:
-          'red_jacket_raspberry_jam.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_jacket_raspberry_jam.jpg',
       },
 
       {
         url:
-          'red_jacket_raspberry_jam.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_jacket_raspberry_jam.jpg',
       },
 
       {
         url:
-          'red_jacket_raspberry_jam.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_jacket_raspberry_jam.jpg',
       },
     ],
     categories: [
@@ -17227,22 +17227,22 @@ const productData = [
     description:
       'Jam typically contains both the juice and flesh of a fruit or vegetable, although one cookbook defines it as a cooked and jelled puree. The term jam refers to a product made of whole fruit cut into pieces or crushed, then heated with water and sugar to activate its pectin before being put into containers:',
     type: 'grocery',
-    image: 'Gin_Jam.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gin_Jam.jpg',
     gallery: [
       {
-        url: 'Gin_Jam.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gin_Jam.jpg',
       },
 
       {
-        url: 'Gin_Jam.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gin_Jam.jpg',
       },
 
       {
-        url: 'Gin_Jam.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gin_Jam.jpg',
       },
 
       {
-        url: 'Gin_Jam.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gin_Jam.jpg',
       },
     ],
     categories: [
@@ -17270,26 +17270,26 @@ const productData = [
       'Mayonnaise , informally mayo  is a thick cold condiment or dressing commonly used in sandwiches and composed salads or on chips (French fries)',
     type: 'grocery',
     image:
-      'best_foods_mayonnaise1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_foods_mayonnaise1.jpg',
     gallery: [
       {
         url:
-          'best_foods_mayonnaise1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_foods_mayonnaise1.jpg',
       },
 
       {
         url:
-          'best_foods_mayonnaise1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_foods_mayonnaise1.jpg',
       },
 
       {
         url:
-          'best_foods_mayonnaise1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_foods_mayonnaise1.jpg',
       },
 
       {
         url:
-          'best_foods_mayonnaise1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/best_foods_mayonnaise1.jpg',
       },
     ],
     categories: [
@@ -17317,26 +17317,26 @@ const productData = [
       'Mayonnaise , informally mayo  is a thick cold condiment or dressing commonly used in sandwiches and composed salads or on chips (French fries)',
     type: 'grocery',
     image:
-      'Ballymaloe_Mayonnaise_240g.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ballymaloe_Mayonnaise_240g.jpg',
     gallery: [
       {
         url:
-          'Ballymaloe_Mayonnaise_240g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ballymaloe_Mayonnaise_240g.jpg',
       },
 
       {
         url:
-          'Ballymaloe_Mayonnaise_240g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ballymaloe_Mayonnaise_240g.jpg',
       },
 
       {
         url:
-          'Ballymaloe_Mayonnaise_240g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ballymaloe_Mayonnaise_240g.jpg',
       },
 
       {
         url:
-          'Ballymaloe_Mayonnaise_240g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ballymaloe_Mayonnaise_240g.jpg',
       },
     ],
     categories: [
@@ -17364,26 +17364,26 @@ const productData = [
       'Mayonnaise , informally mayo  is a thick cold condiment or dressing commonly used in sandwiches and composed salads or on chips (French fries)',
     type: 'grocery',
     image:
-      'Heinz_Mayonnaise.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Heinz_Mayonnaise.jpg',
     gallery: [
       {
         url:
-          'Heinz_Mayonnaise.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Heinz_Mayonnaise.jpg',
       },
 
       {
         url:
-          'Heinz_Mayonnaise.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Heinz_Mayonnaise.jpg',
       },
 
       {
         url:
-          'Heinz_Mayonnaise.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Heinz_Mayonnaise.jpg',
       },
 
       {
         url:
-          'Heinz_Mayonnaise.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Heinz_Mayonnaise.jpg',
       },
     ],
     categories: [
@@ -17411,26 +17411,26 @@ const productData = [
       'Mayonnaise , informally mayo  is a thick cold condiment or dressing commonly used in sandwiches and composed salads or on chips (French fries)',
     type: 'grocery',
     image:
-      'kraft_mayonnaise1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kraft_mayonnaise1.jpg',
     gallery: [
       {
         url:
-          'kraft_mayonnaise1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kraft_mayonnaise1.jpg',
       },
 
       {
         url:
-          'kraft_mayonnaise1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kraft_mayonnaise1.jpg',
       },
 
       {
         url:
-          'kraft_mayonnaise1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kraft_mayonnaise1.jpg',
       },
 
       {
         url:
-          'kraft_mayonnaise1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/kraft_mayonnaise1.jpg',
       },
     ],
     categories: [
@@ -17458,26 +17458,26 @@ const productData = [
       'Oats are any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'FITWELL_OAT_ENRICH.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FITWELL_OAT_ENRICH.jpg',
     gallery: [
       {
         url:
-          'FITWELL_OAT_ENRICH.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FITWELL_OAT_ENRICH.jpg',
       },
 
       {
         url:
-          'FITWELL_OAT_ENRICH.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FITWELL_OAT_ENRICH.jpg',
       },
 
       {
         url:
-          'FITWELL_OAT_ENRICH.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FITWELL_OAT_ENRICH.jpg',
       },
 
       {
         url:
-          'FITWELL_OAT_ENRICH.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/FITWELL_OAT_ENRICH.jpg',
       },
     ],
     categories: [
@@ -17505,26 +17505,26 @@ const productData = [
       'Oats are any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'quaker_large_flake_oats.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/quaker_large_flake_oats.jpg',
     gallery: [
       {
         url:
-          'quaker_large_flake_oats.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/quaker_large_flake_oats.jpg',
       },
 
       {
         url:
-          'quaker_large_flake_oats.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/quaker_large_flake_oats.jpg',
       },
 
       {
         url:
-          'quaker_large_flake_oats.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/quaker_large_flake_oats.jpg',
       },
 
       {
         url:
-          'quaker_large_flake_oats.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/quaker_large_flake_oats.jpg',
       },
     ],
     categories: [
@@ -17552,26 +17552,26 @@ const productData = [
       'Oats are any grass cultivated for the edible components of its grain, composed of the endosperm, germ, and bran. The term may also refer to the resulting grain itself.',
     type: 'grocery',
     image:
-      'mornflake_jumbo_oats.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mornflake_jumbo_oats.jpg',
     gallery: [
       {
         url:
-          'mornflake_jumbo_oats.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mornflake_jumbo_oats.jpg',
       },
 
       {
         url:
-          'mornflake_jumbo_oats.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mornflake_jumbo_oats.jpg',
       },
 
       {
         url:
-          'mornflake_jumbo_oats.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mornflake_jumbo_oats.jpg',
       },
 
       {
         url:
-          'mornflake_jumbo_oats.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mornflake_jumbo_oats.jpg',
       },
     ],
     categories: [
@@ -17599,26 +17599,26 @@ const productData = [
       'Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.',
     type: 'grocery',
     image:
-      'javarama_classic.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/javarama_classic.jpg',
     gallery: [
       {
         url:
-          'javarama_classic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/javarama_classic.jpg',
       },
 
       {
         url:
-          'javarama_classic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/javarama_classic.jpg',
       },
 
       {
         url:
-          'javarama_classic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/javarama_classic.jpg',
       },
 
       {
         url:
-          'javarama_classic.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/javarama_classic.jpg',
       },
     ],
     categories: [
@@ -17646,26 +17646,26 @@ const productData = [
       'Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.',
     type: 'grocery',
     image:
-      'starbucks_house_blend.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_house_blend.jpg',
     gallery: [
       {
         url:
-          'starbucks_house_blend.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_house_blend.jpg',
       },
 
       {
         url:
-          'starbucks_house_blend.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_house_blend.jpg',
       },
 
       {
         url:
-          'starbucks_house_blend.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_house_blend.jpg',
       },
 
       {
         url:
-          'starbucks_house_blend.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_house_blend.jpg',
       },
     ],
     categories: [
@@ -17693,26 +17693,26 @@ const productData = [
       'Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.',
     type: 'grocery',
     image:
-      'starbucks_vanilla_latte.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_vanilla_latte.jpg',
     gallery: [
       {
         url:
-          'starbucks_vanilla_latte.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_vanilla_latte.jpg',
       },
 
       {
         url:
-          'starbucks_vanilla_latte.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_vanilla_latte.jpg',
       },
 
       {
         url:
-          'starbucks_vanilla_latte.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_vanilla_latte.jpg',
       },
 
       {
         url:
-          'starbucks_vanilla_latte.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/starbucks_vanilla_latte.jpg',
       },
     ],
     categories: [
@@ -17740,26 +17740,26 @@ const productData = [
       'Coffee is a brewed drink prepared from roasted coffee beans, the seeds of berries from certain Coffea species. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean.',
     type: 'grocery',
     image:
-      'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
     gallery: [
       {
         url:
-          'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
       },
 
       {
         url:
-          'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
       },
 
       {
         url:
-          'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
       },
 
       {
         url:
-          'teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/teeccino_herbal_coffee_alternative_almond_amaretto.jpg',
       },
     ],
     categories: [
@@ -17786,22 +17786,22 @@ const productData = [
     description:
       'An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).',
     type: 'grocery',
-    image: 'dragon.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dragon.jpg',
     gallery: [
       {
-        url: 'dragon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dragon.jpg',
       },
 
       {
-        url: 'dragon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dragon.jpg',
       },
 
       {
-        url: 'dragon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dragon.jpg',
       },
 
       {
-        url: 'dragon.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dragon.jpg',
       },
     ],
     categories: [
@@ -17828,22 +17828,22 @@ const productData = [
     description:
       'An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).',
     type: 'grocery',
-    image: 'Monster.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Monster.jpg',
     gallery: [
       {
-        url: 'Monster.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Monster.jpg',
       },
 
       {
-        url: 'Monster.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Monster.jpg',
       },
 
       {
-        url: 'Monster.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Monster.jpg',
       },
 
       {
-        url: 'Monster.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Monster.jpg',
       },
     ],
     categories: [
@@ -17870,22 +17870,22 @@ const productData = [
     description:
       'An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).',
     type: 'grocery',
-    image: 'Quake.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Quake.jpg',
     gallery: [
       {
-        url: 'Quake.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Quake.jpg',
       },
 
       {
-        url: 'Quake.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Quake.jpg',
       },
 
       {
-        url: 'Quake.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Quake.jpg',
       },
 
       {
-        url: 'Quake.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Quake.jpg',
       },
     ],
     categories: [
@@ -17912,22 +17912,22 @@ const productData = [
     description:
       'An energy drink is a type of drink containing sugar and stimulant compounds, usually caffeine, which is marketed as providing mental and physical stimulation (marketed as energy, but distinct from food energy).',
     type: 'grocery',
-    image: 'red_bull.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_bull.jpg',
     gallery: [
       {
-        url: 'red_bull.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_bull.jpg',
       },
 
       {
-        url: 'red_bull.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_bull.jpg',
       },
 
       {
-        url: 'red_bull.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_bull.jpg',
       },
 
       {
-        url: 'red_bull.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/red_bull.jpg',
       },
     ],
     categories: [
@@ -17955,26 +17955,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'iceland_tropical_juice_drink.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/iceland_tropical_juice_drink.jpg',
     gallery: [
       {
         url:
-          'iceland_tropical_juice_drink.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/iceland_tropical_juice_drink.jpg',
       },
 
       {
         url:
-          'iceland_tropical_juice_drink.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/iceland_tropical_juice_drink.jpg',
       },
 
       {
         url:
-          'iceland_tropical_juice_drink.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/iceland_tropical_juice_drink.jpg',
       },
 
       {
         url:
-          'iceland_tropical_juice_drink.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/iceland_tropical_juice_drink.jpg',
       },
     ],
     categories: [
@@ -18002,26 +18002,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'minute_maid_orange.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/minute_maid_orange.jpg',
     gallery: [
       {
         url:
-          'minute_maid_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/minute_maid_orange.jpg',
       },
 
       {
         url:
-          'minute_maid_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/minute_maid_orange.jpg',
       },
 
       {
         url:
-          'minute_maid_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/minute_maid_orange.jpg',
       },
 
       {
         url:
-          'minute_maid_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/minute_maid_orange.jpg',
       },
     ],
     categories: [
@@ -18049,26 +18049,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'nongmo_simply_apple.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nongmo_simply_apple.jpg',
     gallery: [
       {
         url:
-          'nongmo_simply_apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nongmo_simply_apple.jpg',
       },
 
       {
         url:
-          'nongmo_simply_apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nongmo_simply_apple.jpg',
       },
 
       {
         url:
-          'nongmo_simply_apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nongmo_simply_apple.jpg',
       },
 
       {
         url:
-          'nongmo_simply_apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nongmo_simply_apple.jpg',
       },
     ],
     categories: [
@@ -18096,26 +18096,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'tropicana_apple.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_apple.jpg',
     gallery: [
       {
         url:
-          'tropicana_apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_apple.jpg',
       },
 
       {
         url:
-          'tropicana_apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_apple.jpg',
       },
 
       {
         url:
-          'tropicana_apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_apple.jpg',
       },
 
       {
         url:
-          'tropicana_apple.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_apple.jpg',
       },
     ],
     categories: [
@@ -18143,26 +18143,26 @@ const productData = [
       'Juice is a drink made from the extraction or pressing of the natural liquid contained in fruit and vegetables. It can also refer to liquids that are flavored with concentrate or other biological food sources, such as meat or seafood, such as clam juice. ',
     type: 'grocery',
     image:
-      'tropicana_orange_no_pulp.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_orange_no_pulp.jpg',
     gallery: [
       {
         url:
-          'tropicana_orange_no_pulp.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_orange_no_pulp.jpg',
       },
 
       {
         url:
-          'tropicana_orange_no_pulp.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_orange_no_pulp.jpg',
       },
 
       {
         url:
-          'tropicana_orange_no_pulp.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_orange_no_pulp.jpg',
       },
 
       {
         url:
-          'tropicana_orange_no_pulp.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tropicana_orange_no_pulp.jpg',
       },
     ],
     categories: [
@@ -18190,26 +18190,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      '7up_lemon_lime_355ml.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/7up_lemon_lime_355ml.jpg',
     gallery: [
       {
         url:
-          '7up_lemon_lime_355ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/7up_lemon_lime_355ml.jpg',
       },
 
       {
         url:
-          '7up_lemon_lime_355ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/7up_lemon_lime_355ml.jpg',
       },
 
       {
         url:
-          '7up_lemon_lime_355ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/7up_lemon_lime_355ml.jpg',
       },
 
       {
         url:
-          '7up_lemon_lime_355ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/7up_lemon_lime_355ml.jpg',
       },
     ],
     categories: [
@@ -18237,26 +18237,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'Coca_Cola_200ml_Bottle.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Coca_Cola_200ml_Bottle.jpg',
     gallery: [
       {
         url:
-          'Coca_Cola_200ml_Bottle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Coca_Cola_200ml_Bottle.jpg',
       },
 
       {
         url:
-          'Coca_Cola_200ml_Bottle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Coca_Cola_200ml_Bottle.jpg',
       },
 
       {
         url:
-          'Coca_Cola_200ml_Bottle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Coca_Cola_200ml_Bottle.jpg',
       },
 
       {
         url:
-          'Coca_Cola_200ml_Bottle.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Coca_Cola_200ml_Bottle.jpg',
       },
     ],
     categories: [
@@ -18284,26 +18284,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'coca_cola_zero.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coca_cola_zero.jpg',
     gallery: [
       {
         url:
-          'coca_cola_zero.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coca_cola_zero.jpg',
       },
 
       {
         url:
-          'coca_cola_zero.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coca_cola_zero.jpg',
       },
 
       {
         url:
-          'coca_cola_zero.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coca_cola_zero.jpg',
       },
 
       {
         url:
-          'coca_cola_zero.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coca_cola_zero.jpg',
       },
     ],
     categories: [
@@ -18331,26 +18331,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'coke_diet_355ml.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coke_diet_355ml.jpg',
     gallery: [
       {
         url:
-          'coke_diet_355ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coke_diet_355ml.jpg',
       },
 
       {
         url:
-          'coke_diet_355ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coke_diet_355ml.jpg',
       },
 
       {
         url:
-          'coke_diet_355ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coke_diet_355ml.jpg',
       },
 
       {
         url:
-          'coke_diet_355ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/coke_diet_355ml.jpg',
       },
     ],
     categories: [
@@ -18378,26 +18378,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'dr_pepper_diet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dr_pepper_diet.jpg',
     gallery: [
       {
         url:
-          'dr_pepper_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dr_pepper_diet.jpg',
       },
 
       {
         url:
-          'dr_pepper_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dr_pepper_diet.jpg',
       },
 
       {
         url:
-          'dr_pepper_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dr_pepper_diet.jpg',
       },
 
       {
         url:
-          'dr_pepper_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dr_pepper_diet.jpg',
       },
     ],
     categories: [
@@ -18425,26 +18425,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'Fanta_orange_can_250ml.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fanta_orange_can_250ml.jpg',
     gallery: [
       {
         url:
-          'Fanta_orange_can_250ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fanta_orange_can_250ml.jpg',
       },
 
       {
         url:
-          'Fanta_orange_can_250ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fanta_orange_can_250ml.jpg',
       },
 
       {
         url:
-          'Fanta_orange_can_250ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fanta_orange_can_250ml.jpg',
       },
 
       {
         url:
-          'Fanta_orange_can_250ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fanta_orange_can_250ml.jpg',
       },
     ],
     categories: [
@@ -18472,26 +18472,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'mountain_dew_diet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mountain_dew_diet.jpg',
     gallery: [
       {
         url:
-          'mountain_dew_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mountain_dew_diet.jpg',
       },
 
       {
         url:
-          'mountain_dew_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mountain_dew_diet.jpg',
       },
 
       {
         url:
-          'mountain_dew_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mountain_dew_diet.jpg',
       },
 
       {
         url:
-          'mountain_dew_diet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mountain_dew_diet.jpg',
       },
     ],
     categories: [
@@ -18519,26 +18519,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'aunt_jemima_original_syrup.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aunt_jemima_original_syrup.jpg',
     gallery: [
       {
         url:
-          'aunt_jemima_original_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aunt_jemima_original_syrup.jpg',
       },
 
       {
         url:
-          'aunt_jemima_original_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aunt_jemima_original_syrup.jpg',
       },
 
       {
         url:
-          'aunt_jemima_original_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aunt_jemima_original_syrup.jpg',
       },
 
       {
         url:
-          'aunt_jemima_original_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aunt_jemima_original_syrup.jpg',
       },
     ],
     categories: [
@@ -18566,26 +18566,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'canadian_maple_syrup.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
     gallery: [
       {
         url:
-          'canadian_maple_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'canadian_maple_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'canadian_maple_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'canadian_maple_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
       },
     ],
     categories: [
@@ -18613,26 +18613,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'canadian_maple_syrup.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
     gallery: [
       {
         url:
-          'canadian_maple_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'canadian_maple_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'canadian_maple_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
       },
 
       {
         url:
-          'canadian_maple_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/canadian_maple_syrup.jpg',
       },
     ],
     categories: [
@@ -18660,26 +18660,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'gatorade_thirst_quencher_powder_packs_orange.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gatorade_thirst_quencher_powder_packs_orange.jpg',
     gallery: [
       {
         url:
-          'gatorade_thirst_quencher_powder_packs_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gatorade_thirst_quencher_powder_packs_orange.jpg',
       },
 
       {
         url:
-          'gatorade_thirst_quencher_powder_packs_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gatorade_thirst_quencher_powder_packs_orange.jpg',
       },
 
       {
         url:
-          'gatorade_thirst_quencher_powder_packs_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gatorade_thirst_quencher_powder_packs_orange.jpg',
       },
 
       {
         url:
-          'gatorade_thirst_quencher_powder_packs_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gatorade_thirst_quencher_powder_packs_orange.jpg',
       },
     ],
     categories: [
@@ -18707,26 +18707,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'horlicks_classic_malt.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/horlicks_classic_malt.jpg',
     gallery: [
       {
         url:
-          'horlicks_classic_malt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/horlicks_classic_malt.jpg',
       },
 
       {
         url:
-          'horlicks_classic_malt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/horlicks_classic_malt.jpg',
       },
 
       {
         url:
-          'horlicks_classic_malt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/horlicks_classic_malt.jpg',
       },
 
       {
         url:
-          'horlicks_classic_malt.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/horlicks_classic_malt.jpg',
       },
     ],
     categories: [
@@ -18754,26 +18754,26 @@ const productData = [
       'A soft drink is a drink that usually contains carbonated water, a sweetener, and a natural or artificial flavoring. The sweetener may be a sugar, high-fructose corn syrup, fruit juice, a sugar substitute, or some combination of these.',
     type: 'grocery',
     image:
-      'servivita_chocolate_syrup.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/servivita_chocolate_syrup.jpg',
     gallery: [
       {
         url:
-          'servivita_chocolate_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/servivita_chocolate_syrup.jpg',
       },
 
       {
         url:
-          'servivita_chocolate_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/servivita_chocolate_syrup.jpg',
       },
 
       {
         url:
-          'servivita_chocolate_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/servivita_chocolate_syrup.jpg',
       },
 
       {
         url:
-          'servivita_chocolate_syrup.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/servivita_chocolate_syrup.jpg',
       },
     ],
     categories: [
@@ -18801,26 +18801,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'ava_juice_Detox_Matcha.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ava_juice_Detox_Matcha.jpg',
     gallery: [
       {
         url:
-          'ava_juice_Detox_Matcha.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ava_juice_Detox_Matcha.jpg',
       },
 
       {
         url:
-          'ava_juice_Detox_Matcha.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ava_juice_Detox_Matcha.jpg',
       },
 
       {
         url:
-          'ava_juice_Detox_Matcha.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ava_juice_Detox_Matcha.jpg',
       },
 
       {
         url:
-          'ava_juice_Detox_Matcha.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ava_juice_Detox_Matcha.jpg',
       },
     ],
     categories: [
@@ -18848,26 +18848,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'boh_3in1_instant_tea_mix.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boh_3in1_instant_tea_mix.jpg',
     gallery: [
       {
         url:
-          'boh_3in1_instant_tea_mix.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boh_3in1_instant_tea_mix.jpg',
       },
 
       {
         url:
-          'boh_3in1_instant_tea_mix.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boh_3in1_instant_tea_mix.jpg',
       },
 
       {
         url:
-          'boh_3in1_instant_tea_mix.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boh_3in1_instant_tea_mix.jpg',
       },
 
       {
         url:
-          'boh_3in1_instant_tea_mix.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/boh_3in1_instant_tea_mix.jpg',
       },
     ],
     categories: [
@@ -18895,26 +18895,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'crystal_light_lemon_iced_tea.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crystal_light_lemon_iced_tea.jpg',
     gallery: [
       {
         url:
-          'crystal_light_lemon_iced_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crystal_light_lemon_iced_tea.jpg',
       },
 
       {
         url:
-          'crystal_light_lemon_iced_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crystal_light_lemon_iced_tea.jpg',
       },
 
       {
         url:
-          'crystal_light_lemon_iced_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crystal_light_lemon_iced_tea.jpg',
       },
 
       {
         url:
-          'crystal_light_lemon_iced_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/crystal_light_lemon_iced_tea.jpg',
       },
     ],
     categories: [
@@ -18942,26 +18942,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'imperial_tea_longjing_tea.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/imperial_tea_longjing_tea.jpg',
     gallery: [
       {
         url:
-          'imperial_tea_longjing_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/imperial_tea_longjing_tea.jpg',
       },
 
       {
         url:
-          'imperial_tea_longjing_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/imperial_tea_longjing_tea.jpg',
       },
 
       {
         url:
-          'imperial_tea_longjing_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/imperial_tea_longjing_tea.jpg',
       },
 
       {
         url:
-          'imperial_tea_longjing_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/imperial_tea_longjing_tea.jpg',
       },
     ],
     categories: [
@@ -18989,26 +18989,26 @@ const productData = [
       'Tea is an aromatic beverage commonly prepared by pouring hot or boiling water over cured leaves of the Camellia sinensis, an evergreen shrub native to East Asia. After water, it is the most widely consumed drink in the world.',
     type: 'grocery',
     image:
-      'luzianne_iced_tea.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/luzianne_iced_tea.jpg',
     gallery: [
       {
         url:
-          'luzianne_iced_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/luzianne_iced_tea.jpg',
       },
 
       {
         url:
-          'luzianne_iced_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/luzianne_iced_tea.jpg',
       },
 
       {
         url:
-          'luzianne_iced_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/luzianne_iced_tea.jpg',
       },
 
       {
         url:
-          'luzianne_iced_tea.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/luzianne_iced_tea.jpg',
       },
     ],
     categories: [
@@ -19037,26 +19037,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'Elkali_natural_alkaline_spring_water.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Elkali_natural_alkaline_spring_water.jpg',
     gallery: [
       {
         url:
-          'Elkali_natural_alkaline_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Elkali_natural_alkaline_spring_water.jpg',
       },
 
       {
         url:
-          'Elkali_natural_alkaline_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Elkali_natural_alkaline_spring_water.jpg',
       },
 
       {
         url:
-          'Elkali_natural_alkaline_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Elkali_natural_alkaline_spring_water.jpg',
       },
 
       {
         url:
-          'Elkali_natural_alkaline_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Elkali_natural_alkaline_spring_water.jpg',
       },
     ],
     categories: [
@@ -19084,26 +19084,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'glaceau_smart_water.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glaceau_smart_water.jpg',
     gallery: [
       {
         url:
-          'glaceau_smart_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glaceau_smart_water.jpg',
       },
 
       {
         url:
-          'glaceau_smart_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glaceau_smart_water.jpg',
       },
 
       {
         url:
-          'glaceau_smart_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glaceau_smart_water.jpg',
       },
 
       {
         url:
-          'glaceau_smart_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glaceau_smart_water.jpg',
       },
     ],
     categories: [
@@ -19131,26 +19131,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'glastonbury_still_spring_water.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glastonbury_still_spring_water.jpg',
     gallery: [
       {
         url:
-          'glastonbury_still_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glastonbury_still_spring_water.jpg',
       },
 
       {
         url:
-          'glastonbury_still_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glastonbury_still_spring_water.jpg',
       },
 
       {
         url:
-          'glastonbury_still_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glastonbury_still_spring_water.jpg',
       },
 
       {
         url:
-          'glastonbury_still_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/glastonbury_still_spring_water.jpg',
       },
     ],
     categories: [
@@ -19178,26 +19178,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'poland_spring_natural_spring_water.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/poland_spring_natural_spring_water.jpg',
     gallery: [
       {
         url:
-          'poland_spring_natural_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/poland_spring_natural_spring_water.jpg',
       },
 
       {
         url:
-          'poland_spring_natural_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/poland_spring_natural_spring_water.jpg',
       },
 
       {
         url:
-          'poland_spring_natural_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/poland_spring_natural_spring_water.jpg',
       },
 
       {
         url:
-          'poland_spring_natural_spring_water.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/poland_spring_natural_spring_water.jpg',
       },
     ],
     categories: [
@@ -19225,26 +19225,26 @@ const productData = [
       "Water is a transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients.",
     type: 'grocery',
     image:
-      'westfield_pure_spring_water_300ml.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/westfield_pure_spring_water_300ml.jpg',
     gallery: [
       {
         url:
-          'westfield_pure_spring_water_300ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/westfield_pure_spring_water_300ml.jpg',
       },
 
       {
         url:
-          'westfield_pure_spring_water_300ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/westfield_pure_spring_water_300ml.jpg',
       },
 
       {
         url:
-          'westfield_pure_spring_water_300ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/westfield_pure_spring_water_300ml.jpg',
       },
 
       {
         url:
-          'westfield_pure_spring_water_300ml.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/westfield_pure_spring_water_300ml.jpg',
       },
     ],
     categories: [
@@ -19272,26 +19272,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'attitude_night_bubble_bath.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
     gallery: [
       {
         url:
-          'attitude_night_bubble_bath.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'attitude_night_bubble_bath.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'attitude_night_bubble_bath.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'attitude_night_bubble_bath.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
       },
     ],
     categories: [
@@ -19319,26 +19319,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'aveeno_baby_shampoo.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
     gallery: [
       {
         url:
-          'aveeno_baby_shampoo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'aveeno_baby_shampoo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'aveeno_baby_shampoo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'aveeno_baby_shampoo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
       },
     ],
     categories: [
@@ -19366,26 +19366,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'moisturizing_hair_bath_g.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
     gallery: [
       {
         url:
-          'moisturizing_hair_bath_g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'moisturizing_hair_bath_g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'moisturizing_hair_bath_g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'moisturizing_hair_bath_g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
       },
     ],
     categories: [
@@ -19413,26 +19413,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'neutrogena_Body_Oil.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
     gallery: [
       {
         url:
-          'neutrogena_Body_Oil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'neutrogena_Body_Oil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'neutrogena_Body_Oil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'neutrogena_Body_Oil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
       },
     ],
     categories: [
@@ -19460,26 +19460,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'eo_body_lotion.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
     gallery: [
       {
         url:
-          'eo_body_lotion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
       },
 
       {
         url:
-          'eo_body_lotion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
       },
 
       {
         url:
-          'eo_body_lotion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
       },
 
       {
         url:
-          'eo_body_lotion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
       },
     ],
     categories: [
@@ -19507,26 +19507,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'gnc_aloe_vera_moisturizing_cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_aloe_vera_moisturizing_cream.jpg',
     gallery: [
       {
         url:
-          'gnc_aloe_vera_moisturizing_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_aloe_vera_moisturizing_cream.jpg',
       },
 
       {
         url:
-          'gnc_aloe_vera_moisturizing_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_aloe_vera_moisturizing_cream.jpg',
       },
 
       {
         url:
-          'gnc_aloe_vera_moisturizing_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_aloe_vera_moisturizing_cream.jpg',
       },
 
       {
         url:
-          'gnc_aloe_vera_moisturizing_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_aloe_vera_moisturizing_cream.jpg',
       },
     ],
     categories: [
@@ -19554,26 +19554,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'loreal_paris_age_perfect.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_paris_age_perfect.jpg',
     gallery: [
       {
         url:
-          'loreal_paris_age_perfect.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_paris_age_perfect.jpg',
       },
 
       {
         url:
-          'loreal_paris_age_perfect.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_paris_age_perfect.jpg',
       },
 
       {
         url:
-          'loreal_paris_age_perfect.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_paris_age_perfect.jpg',
       },
 
       {
         url:
-          'loreal_paris_age_perfect.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_paris_age_perfect.jpg',
       },
     ],
     categories: [
@@ -19601,26 +19601,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      'waso_shiseido_mega_hydrating_cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/waso_shiseido_mega_hydrating_cream.jpg',
     gallery: [
       {
         url:
-          'waso_shiseido_mega_hydrating_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/waso_shiseido_mega_hydrating_cream.jpg',
       },
 
       {
         url:
-          'waso_shiseido_mega_hydrating_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/waso_shiseido_mega_hydrating_cream.jpg',
       },
 
       {
         url:
-          'waso_shiseido_mega_hydrating_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/waso_shiseido_mega_hydrating_cream.jpg',
       },
 
       {
         url:
-          'waso_shiseido_mega_hydrating_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/waso_shiseido_mega_hydrating_cream.jpg',
       },
     ],
     categories: [
@@ -19648,26 +19648,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'grocery',
     image:
-      "gnc_women's_progesterone_cream.jpg",
+      "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_women's_progesterone_cream.jpg",
     gallery: [
       {
         url:
-          "gnc_women's_progesterone_cream.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_women's_progesterone_cream.jpg",
       },
 
       {
         url:
-          "gnc_women's_progesterone_cream.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_women's_progesterone_cream.jpg",
       },
 
       {
         url:
-          "gnc_women's_progesterone_cream.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_women's_progesterone_cream.jpg",
       },
 
       {
         url:
-          "gnc_women's_progesterone_cream.jpg",
+          "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gnc_women's_progesterone_cream.jpg",
       },
     ],
     categories: [
@@ -19695,26 +19695,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'bionsen_DEO_ROLL_ON.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
     gallery: [
       {
         url:
-          'bionsen_DEO_ROLL_ON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'bionsen_DEO_ROLL_ON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'bionsen_DEO_ROLL_ON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'bionsen_DEO_ROLL_ON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
       },
     ],
     categories: [
@@ -19742,26 +19742,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'vichy_deodorant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
     gallery: [
       {
         url:
-          'vichy_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
       },
 
       {
         url:
-          'vichy_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
       },
 
       {
         url:
-          'vichy_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
       },
 
       {
         url:
-          'vichy_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
       },
     ],
     categories: [
@@ -19789,26 +19789,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'type_A_ashley_graham_deodorant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
     gallery: [
       {
         url:
-          'type_A_ashley_graham_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'type_A_ashley_graham_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'type_A_ashley_graham_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'type_A_ashley_graham_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
       },
     ],
     categories: [
@@ -19836,26 +19836,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'the_post_deodorant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
     gallery: [
       {
         url:
-          'the_post_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
       },
 
       {
         url:
-          'the_post_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
       },
 
       {
         url:
-          'the_post_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
       },
 
       {
         url:
-          'the_post_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
       },
     ],
     categories: [
@@ -19883,26 +19883,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
     gallery: [
       {
         url:
-          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
     ],
     categories: [
@@ -19930,26 +19930,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'grocery',
     image:
-      'spadet_Deodorant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
     gallery: [
       {
         url:
-          'spadet_Deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'spadet_Deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'spadet_Deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'spadet_Deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
       },
     ],
     categories: [
@@ -19977,26 +19977,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'grocery',
     image:
-      'face_republic_Sun_gel.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
     gallery: [
       {
         url:
-          'face_republic_Sun_gel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'face_republic_Sun_gel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'face_republic_Sun_gel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'face_republic_Sun_gel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
       },
     ],
     categories: [
@@ -20024,26 +20024,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'grocery',
     image:
-      'frei_ol_urea2in1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
     gallery: [
       {
         url:
-          'frei_ol_urea2in1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'frei_ol_urea2in1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'frei_ol_urea2in1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'frei_ol_urea2in1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
       },
     ],
     categories: [
@@ -20071,26 +20071,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'grocery',
     image:
-      'garnier_pure_active.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
     gallery: [
       {
         url:
-          'garnier_pure_active.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
       },
 
       {
         url:
-          'garnier_pure_active.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
       },
 
       {
         url:
-          'garnier_pure_active.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
       },
 
       {
         url:
-          'garnier_pure_active.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
       },
     ],
     categories: [
@@ -20118,26 +20118,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'grocery',
     image:
-      'nuage_men_facial_wash.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
     gallery: [
       {
         url:
-          'nuage_men_facial_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'nuage_men_facial_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'nuage_men_facial_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'nuage_men_facial_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
       },
     ],
     categories: [
@@ -20165,26 +20165,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'grocery',
     image:
-      'absolute_plus_Meat_Dental_Set_.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
     gallery: [
       {
         url:
-          'absolute_plus_Meat_Dental_Set_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'absolute_plus_Meat_Dental_Set_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'absolute_plus_Meat_Dental_Set_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'absolute_plus_Meat_Dental_Set_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
       },
     ],
     categories: [
@@ -20212,26 +20212,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'grocery',
     image:
-      'dentek_professional_oral_care_kit1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_oral_care_kit1.jpg',
     gallery: [
       {
         url:
-          'dentek_professional_oral_care_kit1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_oral_care_kit1.jpg',
       },
 
       {
         url:
-          'dentek_professional_oral_care_kit1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_oral_care_kit1.jpg',
       },
 
       {
         url:
-          'dentek_professional_oral_care_kit1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_oral_care_kit1.jpg',
       },
 
       {
         url:
-          'dentek_professional_oral_care_kit1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_oral_care_kit1.jpg',
       },
     ],
     categories: [
@@ -20259,26 +20259,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'grocery',
     image:
-      'gum_oral_care_cleaning_kit.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_oral_care_cleaning_kit.jpg',
     gallery: [
       {
         url:
-          'gum_oral_care_cleaning_kit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'gum_oral_care_cleaning_kit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'gum_oral_care_cleaning_kit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'gum_oral_care_cleaning_kit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_oral_care_cleaning_kit.jpg',
       },
     ],
     categories: [
@@ -20306,26 +20306,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'Duke_Cannon_SHAVE_CREAM.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
     gallery: [
       {
         url:
-          'Duke_Cannon_SHAVE_CREAM.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'Duke_Cannon_SHAVE_CREAM.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'Duke_Cannon_SHAVE_CREAM.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'Duke_Cannon_SHAVE_CREAM.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
       },
     ],
     categories: [
@@ -20353,26 +20353,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'nair_hair_remover.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
     gallery: [
       {
         url:
-          'nair_hair_remover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
       },
 
       {
         url:
-          'nair_hair_remover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
       },
 
       {
         url:
-          'nair_hair_remover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
       },
 
       {
         url:
-          'nair_hair_remover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
       },
     ],
     categories: [
@@ -20400,26 +20400,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'Longmarket_Barber_Aftershave_Balm.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
     gallery: [
       {
         url:
-          'Longmarket_Barber_Aftershave_Balm.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'Longmarket_Barber_Aftershave_Balm.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'Longmarket_Barber_Aftershave_Balm.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'Longmarket_Barber_Aftershave_Balm.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
       },
     ],
     categories: [
@@ -20447,26 +20447,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'espa_men_dual_action_shave_mud.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
     gallery: [
       {
         url:
-          'espa_men_dual_action_shave_mud.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'espa_men_dual_action_shave_mud.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'espa_men_dual_action_shave_mud.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'espa_men_dual_action_shave_mud.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
       },
     ],
     categories: [
@@ -20494,26 +20494,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'human_nature_shaving_cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
     gallery: [
       {
         url:
-          'human_nature_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'human_nature_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'human_nature_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'human_nature_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
       },
     ],
     categories: [
@@ -20541,26 +20541,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'grocery',
     image:
-      'pacific_shaving_co._natural_shaving_cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
     gallery: [
       {
         url:
-          'pacific_shaving_co._natural_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'pacific_shaving_co._natural_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'pacific_shaving_co._natural_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'pacific_shaving_co._natural_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
       },
     ],
     categories: [
@@ -20588,26 +20588,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'Duke_Cannon_SHAVE_CREAM.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
     gallery: [
       {
         url:
-          'Duke_Cannon_SHAVE_CREAM.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'Duke_Cannon_SHAVE_CREAM.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'Duke_Cannon_SHAVE_CREAM.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
       },
 
       {
         url:
-          'Duke_Cannon_SHAVE_CREAM.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Duke_Cannon_SHAVE_CREAM.jpg',
       },
     ],
     categories: [
@@ -20630,26 +20630,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'nair_hair_remover.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
     gallery: [
       {
         url:
-          'nair_hair_remover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
       },
 
       {
         url:
-          'nair_hair_remover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
       },
 
       {
         url:
-          'nair_hair_remover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
       },
 
       {
         url:
-          'nair_hair_remover.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nair_hair_remover.jpg',
       },
     ],
     categories: [
@@ -20672,26 +20672,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'Longmarket_Barber_Aftershave_Balm.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
     gallery: [
       {
         url:
-          'Longmarket_Barber_Aftershave_Balm.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'Longmarket_Barber_Aftershave_Balm.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'Longmarket_Barber_Aftershave_Balm.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
       },
 
       {
         url:
-          'Longmarket_Barber_Aftershave_Balm.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Longmarket_Barber_Aftershave_Balm.jpg',
       },
     ],
     categories: [
@@ -20714,26 +20714,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'espa_men_dual_action_shave_mud.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
     gallery: [
       {
         url:
-          'espa_men_dual_action_shave_mud.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'espa_men_dual_action_shave_mud.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'espa_men_dual_action_shave_mud.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
       },
 
       {
         url:
-          'espa_men_dual_action_shave_mud.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/espa_men_dual_action_shave_mud.jpg',
       },
     ],
     categories: [
@@ -20756,26 +20756,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'human_nature_shaving_cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
     gallery: [
       {
         url:
-          'human_nature_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'human_nature_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'human_nature_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
       },
 
       {
         url:
-          'human_nature_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/human_nature_shaving_cream.jpg',
       },
     ],
     categories: [
@@ -20798,26 +20798,26 @@ const productData = [
       'Shaving is the removal of hair, by using a razor or any other kind of bladed implement, to slice it down—to the level of the skin or otherwise. Shaving is most commonly practiced by men to remove their facial hair and by women to remove their leg and underarm hair. ',
     type: 'makeup',
     image:
-      'pacific_shaving_co._natural_shaving_cream.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
     gallery: [
       {
         url:
-          'pacific_shaving_co._natural_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'pacific_shaving_co._natural_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'pacific_shaving_co._natural_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
       },
 
       {
         url:
-          'pacific_shaving_co._natural_shaving_cream.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pacific_shaving_co._natural_shaving_cream.jpg',
       },
     ],
     categories: [
@@ -20840,26 +20840,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'makeup',
     image:
-      'absolute_plus_Meat_Dental_Set_.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
     gallery: [
       {
         url:
-          'absolute_plus_Meat_Dental_Set_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'absolute_plus_Meat_Dental_Set_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'absolute_plus_Meat_Dental_Set_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
       },
 
       {
         url:
-          'absolute_plus_Meat_Dental_Set_.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/absolute_plus_Meat_Dental_Set_.jpg',
       },
     ],
     categories: [
@@ -20882,26 +20882,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'makeup',
     image:
-      'dentek_professional_Oral_care_kit1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_Oral_care_kit1.jpg',
     gallery: [
       {
         url:
-          'dentek_professional_Oral_care_kit1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_Oral_care_kit1.jpg',
       },
 
       {
         url:
-          'dentek_professional_Oral_care_kit1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_Oral_care_kit1.jpg',
       },
 
       {
         url:
-          'dentek_professional_Oral_care_kit1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_Oral_care_kit1.jpg',
       },
 
       {
         url:
-          'dentek_professional_Oral_care_kit1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dentek_professional_Oral_care_kit1.jpg',
       },
     ],
     categories: [
@@ -20924,26 +20924,26 @@ const productData = [
       "Oral hygiene is the practice of keeping one's mouth clean and free of disease and other problems (e.g. bad breath) by regular brushing of the teeth (dental hygiene) and cleaning between the teeth. It is important that oral hygiene be carried out on a regular basis to enable prevention of dental disease and bad breath. ",
     type: 'makeup',
     image:
-      'gum_Oral_care_cleaning_kit.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_Oral_care_cleaning_kit.jpg',
     gallery: [
       {
         url:
-          'gum_Oral_care_cleaning_kit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_Oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'gum_Oral_care_cleaning_kit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_Oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'gum_Oral_care_cleaning_kit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_Oral_care_cleaning_kit.jpg',
       },
 
       {
         url:
-          'gum_Oral_care_cleaning_kit.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gum_Oral_care_cleaning_kit.jpg',
       },
     ],
     categories: [
@@ -20966,26 +20966,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'makeup',
     image:
-      'face_republic_Sun_gel.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
     gallery: [
       {
         url:
-          'face_republic_Sun_gel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'face_republic_Sun_gel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'face_republic_Sun_gel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
       },
 
       {
         url:
-          'face_republic_Sun_gel.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/face_republic_Sun_gel.jpg',
       },
     ],
     categories: [
@@ -21008,26 +21008,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'makeup',
     image:
-      'frei_ol_urea2in1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
     gallery: [
       {
         url:
-          'frei_ol_urea2in1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'frei_ol_urea2in1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'frei_ol_urea2in1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
       },
 
       {
         url:
-          'frei_ol_urea2in1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/frei_ol_urea2in1.jpg',
       },
     ],
     categories: [
@@ -21050,26 +21050,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'makeup',
     image:
-      'garnier_pure_active.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
     gallery: [
       {
         url:
-          'garnier_pure_active.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
       },
 
       {
         url:
-          'garnier_pure_active.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
       },
 
       {
         url:
-          'garnier_pure_active.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
       },
 
       {
         url:
-          'garnier_pure_active.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/garnier_pure_active.jpg',
       },
     ],
     categories: [
@@ -21092,26 +21092,26 @@ const productData = [
       'The term cleanser refers to a product that cleans or removes dirt or other substances. A cleanser could be a detergent, and there are many types of cleansers that are produced with a specific objective or focus.',
     type: 'makeup',
     image:
-      'nuage_men_facial_wash.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
     gallery: [
       {
         url:
-          'nuage_men_facial_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'nuage_men_facial_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'nuage_men_facial_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
       },
 
       {
         url:
-          'nuage_men_facial_wash.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nuage_men_facial_wash.jpg',
       },
     ],
     categories: [
@@ -21134,26 +21134,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'bionsen_DEO_ROLL_ON.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
     gallery: [
       {
         url:
-          'bionsen_DEO_ROLL_ON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'bionsen_DEO_ROLL_ON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'bionsen_DEO_ROLL_ON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
       },
 
       {
         url:
-          'bionsen_DEO_ROLL_ON.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/bionsen_DEO_ROLL_ON.jpg',
       },
     ],
     categories: [
@@ -21176,26 +21176,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'vichy_deodorant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
     gallery: [
       {
         url:
-          'vichy_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
       },
 
       {
         url:
-          'vichy_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
       },
 
       {
         url:
-          'vichy_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
       },
 
       {
         url:
-          'vichy_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/vichy_deodorant.jpg',
       },
     ],
     categories: [
@@ -21218,26 +21218,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'type_A_ashley_graham_deodorant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
     gallery: [
       {
         url:
-          'type_A_ashley_graham_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'type_A_ashley_graham_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'type_A_ashley_graham_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
       },
 
       {
         url:
-          'type_A_ashley_graham_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/type_A_ashley_graham_deodorant.jpg',
       },
     ],
     categories: [
@@ -21260,26 +21260,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'the_post_deodorant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
     gallery: [
       {
         url:
-          'the_post_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
       },
 
       {
         url:
-          'the_post_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
       },
 
       {
         url:
-          'the_post_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
       },
 
       {
         url:
-          'the_post_deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/the_post_deodorant.jpg',
       },
     ],
     categories: [
@@ -21302,26 +21302,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
     gallery: [
       {
         url:
-          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
 
       {
         url:
-          'taoasis_baldini_bio_deo_sauge_et_orange.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/taoasis_baldini_bio_deo_sauge_et_orange.jpg',
       },
     ],
     categories: [
@@ -21344,26 +21344,26 @@ const productData = [
       'A deodorant is a substance applied to the body to prevent or mask (hide) body odor due to bacterial breakdown of perspiration in the armpits, groin, and feet, and in some cases vaginal secretions. A subclass of deodorants, called antiperspirants,',
     type: 'makeup',
     image:
-      'spadet_Deodorant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
     gallery: [
       {
         url:
-          'spadet_Deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'spadet_Deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'spadet_Deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
       },
 
       {
         url:
-          'spadet_Deodorant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/spadet_Deodorant.jpg',
       },
     ],
     categories: [
@@ -21386,26 +21386,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'attitude_night_bubble_bath.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
     gallery: [
       {
         url:
-          'attitude_night_bubble_bath.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'attitude_night_bubble_bath.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'attitude_night_bubble_bath.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
       },
 
       {
         url:
-          'attitude_night_bubble_bath.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/attitude_night_bubble_bath.jpg',
       },
     ],
     categories: [
@@ -21428,26 +21428,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'aveeno_baby_shampoo.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
     gallery: [
       {
         url:
-          'aveeno_baby_shampoo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'aveeno_baby_shampoo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'aveeno_baby_shampoo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
       },
 
       {
         url:
-          'aveeno_baby_shampoo.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/aveeno_baby_shampoo.jpg',
       },
     ],
     categories: [
@@ -21470,26 +21470,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'moisturizing_hair_bath_g.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
     gallery: [
       {
         url:
-          'moisturizing_hair_bath_g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'moisturizing_hair_bath_g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'moisturizing_hair_bath_g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
       },
 
       {
         url:
-          'moisturizing_hair_bath_g.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/moisturizing_hair_bath_g.jpg',
       },
     ],
     categories: [
@@ -21512,26 +21512,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'neutrogena_Body_Oil.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
     gallery: [
       {
         url:
-          'neutrogena_Body_Oil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'neutrogena_Body_Oil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'neutrogena_Body_Oil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
       },
 
       {
         url:
-          'neutrogena_Body_Oil.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/neutrogena_Body_Oil.jpg',
       },
     ],
     categories: [
@@ -21554,26 +21554,26 @@ const productData = [
       'Bath gel is a specialized liquid product used for cleaning the body during baths. Not to be confused with liquid soaps, bath gels, in fact, do not contain saponified oil. Instead, it uses synthetic detergents derived from either petroleum or plant sources.',
     type: 'makeup',
     image:
-      'eo_body_lotion.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
     gallery: [
       {
         url:
-          'eo_body_lotion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
       },
 
       {
         url:
-          'eo_body_lotion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
       },
 
       {
         url:
-          'eo_body_lotion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
       },
 
       {
         url:
-          'eo_body_lotion.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/eo_body_lotion.jpg',
       },
     ],
     categories: [
@@ -21596,26 +21596,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'EXPERT_WEAR_EYE_SHADOW.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EXPERT_WEAR_EYE_SHADOW.jpg',
     gallery: [
       {
         url:
-          'EXPERT_WEAR_EYE_SHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EXPERT_WEAR_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'EXPERT_WEAR_EYE_SHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EXPERT_WEAR_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'EXPERT_WEAR_EYE_SHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EXPERT_WEAR_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'EXPERT_WEAR_EYE_SHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/EXPERT_WEAR_EYE_SHADOW.jpg',
       },
     ],
     categories: [
@@ -21643,26 +21643,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'Matte_Bar_Eyeshadow.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Matte_Bar_Eyeshadow.jpg',
     gallery: [
       {
         url:
-          'Matte_Bar_Eyeshadow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Matte_Bar_Eyeshadow.jpg',
       },
 
       {
         url:
-          'Matte_Bar_Eyeshadow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Matte_Bar_Eyeshadow.jpg',
       },
 
       {
         url:
-          'Matte_Bar_Eyeshadow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Matte_Bar_Eyeshadow.jpg',
       },
 
       {
         url:
-          'Matte_Bar_Eyeshadow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Matte_Bar_Eyeshadow.jpg',
       },
     ],
     categories: [
@@ -21690,26 +21690,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'SODA_POP_EYESHADOW.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SODA_POP_EYESHADOW.jpg',
     gallery: [
       {
         url:
-          'SODA_POP_EYESHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SODA_POP_EYESHADOW.jpg',
       },
 
       {
         url:
-          'SODA_POP_EYESHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SODA_POP_EYESHADOW.jpg',
       },
 
       {
         url:
-          'SODA_POP_EYESHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SODA_POP_EYESHADOW.jpg',
       },
 
       {
         url:
-          'SODA_POP_EYESHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/SODA_POP_EYESHADOW.jpg',
       },
     ],
     categories: [
@@ -21737,26 +21737,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'THE%20CITY_MINI_PALETTE.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE%20CITY_MINI_PALETTE.jpg',
     gallery: [
       {
         url:
-          'THE%20CITY_MINI_PALETTE.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE%20CITY_MINI_PALETTE.jpg',
       },
 
       {
         url:
-          'THE%20CITY_MINI_PALETTE.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE%20CITY_MINI_PALETTE.jpg',
       },
 
       {
         url:
-          'THE%20CITY_MINI_PALETTE.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE%20CITY_MINI_PALETTE.jpg',
       },
 
       {
         url:
-          'THE%20CITY_MINI_PALETTE.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE%20CITY_MINI_PALETTE.jpg',
       },
     ],
     categories: [
@@ -21784,26 +21784,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'THE_BURGUNDY_BAR_EYESHADOW.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_BURGUNDY_BAR_EYESHADOW.jpg',
     gallery: [
       {
         url:
-          'THE_BURGUNDY_BAR_EYESHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_BURGUNDY_BAR_EYESHADOW.jpg',
       },
 
       {
         url:
-          'THE_BURGUNDY_BAR_EYESHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_BURGUNDY_BAR_EYESHADOW.jpg',
       },
 
       {
         url:
-          'THE_BURGUNDY_BAR_EYESHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_BURGUNDY_BAR_EYESHADOW.jpg',
       },
 
       {
         url:
-          'THE_BURGUNDY_BAR_EYESHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_BURGUNDY_BAR_EYESHADOW.jpg',
       },
     ],
     categories: [
@@ -21831,26 +21831,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'THE_ROCK_NUDES_EYE_SHADOW.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_ROCK_NUDES_EYE_SHADOW.jpg',
     gallery: [
       {
         url:
-          'THE_ROCK_NUDES_EYE_SHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_ROCK_NUDES_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'THE_ROCK_NUDES_EYE_SHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_ROCK_NUDES_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'THE_ROCK_NUDES_EYE_SHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_ROCK_NUDES_EYE_SHADOW.jpg',
       },
 
       {
         url:
-          'THE_ROCK_NUDES_EYE_SHADOW.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/THE_ROCK_NUDES_EYE_SHADOW.jpg',
       },
     ],
     categories: [
@@ -21879,26 +21879,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
     gallery: [
       {
         url:
-          'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
       },
 
       {
         url:
-          'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
       },
 
       {
         url:
-          'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
       },
 
       {
         url:
-          'too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/too-faced-chocolate-bon-bons-eyeshadow-palette-too-faced-chocolate-bon-bons-eyeshadow-palette.jpg',
       },
     ],
     categories: [
@@ -21926,26 +21926,26 @@ const productData = [
       'Pigment packed formula for bold colour looks! Max Factor Wild Shadow Eye Shadow Pots bring a highly pigmented shadow to sweep across your lids, providing a fierce shot of intense colour. The formula is micro-fine and can be used wet for a more intense look, is easily blendable and buildable colour for endless versatility.',
     type: 'makeup',
     image:
-      'TOTAL_TEMPTATION_EYESHADOW.jpeg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/TOTAL_TEMPTATION_EYESHADOW.jpeg',
     gallery: [
       {
         url:
-          'TOTAL_TEMPTATION_EYESHADOW.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/TOTAL_TEMPTATION_EYESHADOW.jpeg',
       },
 
       {
         url:
-          'TOTAL_TEMPTATION_EYESHADOW.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/TOTAL_TEMPTATION_EYESHADOW.jpeg',
       },
 
       {
         url:
-          'TOTAL_TEMPTATION_EYESHADOW.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/TOTAL_TEMPTATION_EYESHADOW.jpeg',
       },
 
       {
         url:
-          'TOTAL_TEMPTATION_EYESHADOW.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/TOTAL_TEMPTATION_EYESHADOW.jpeg',
       },
     ],
     categories: [
@@ -21972,22 +21972,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'roadster.png',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roadster.png',
     gallery: [
       {
-        url: 'roadster.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roadster.png',
       },
 
       {
-        url: 'roadster.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roadster.png',
       },
 
       {
-        url: 'roadster.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roadster.png',
       },
 
       {
-        url: 'roadster.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/roadster.png',
       },
     ],
     categories: [
@@ -22014,26 +22014,26 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'RICHTAN_hero.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RICHTAN_hero.jpg',
     gallery: [
       {
         url:
-          'RICHTAN_hero.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RICHTAN_hero.jpg',
       },
 
       {
         url:
-          'RICHTAN_hero.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RICHTAN_hero.jpg',
       },
 
       {
         url:
-          'RICHTAN_hero.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RICHTAN_hero.jpg',
       },
 
       {
         url:
-          'RICHTAN_hero.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/RICHTAN_hero.jpg',
       },
     ],
     categories: [
@@ -22060,22 +22060,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'Invictus.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Invictus.jpg',
     gallery: [
       {
-        url: 'Invictus.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Invictus.jpg',
       },
 
       {
-        url: 'Invictus.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Invictus.jpg',
       },
 
       {
-        url: 'Invictus.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Invictus.jpg',
       },
 
       {
-        url: 'Invictus.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Invictus.jpg',
       },
     ],
     categories: [
@@ -22103,26 +22103,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'High_Lander_Light_Khaki.jpeg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Light_Khaki.jpeg',
     gallery: [
       {
         url:
-          'High_Lander_Light_Khaki.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Light_Khaki.jpeg',
       },
 
       {
         url:
-          'High_Lander_Light_Khaki.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Light_Khaki.jpeg',
       },
 
       {
         url:
-          'High_Lander_Light_Khaki.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Light_Khaki.jpeg',
       },
 
       {
         url:
-          'High_Lander_Light_Khaki.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Light_Khaki.jpeg',
       },
     ],
     categories: [
@@ -22150,26 +22150,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'High_Lander_Deep_Khaki.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Deep_Khaki.jpg',
     gallery: [
       {
         url:
-          'High_Lander_Deep_Khaki.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Deep_Khaki.jpg',
       },
 
       {
         url:
-          'High_Lander_Deep_Khaki.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Deep_Khaki.jpeg',
       },
 
       {
         url:
-          'High_Lander_Deep_Khaki.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Deep_Khaki.jpeg',
       },
 
       {
         url:
-          'High_Lander_Deep_Khaki.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander_Deep_Khaki.jpeg',
       },
     ],
     categories: [
@@ -22197,26 +22197,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'A.P.C._classic_chinos.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/A.P.C._classic_chinos.jpg',
     gallery: [
       {
         url:
-          'A.P.C._classic_chinos.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/A.P.C._classic_chinos.jpg',
       },
 
       {
         url:
-          'A.P.C._classic_chinos.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/A.P.C._classic_chinos.jpeg',
       },
 
       {
         url:
-          'A.P.C._classic_chinos.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/A.P.C._classic_chinos.jpeg',
       },
 
       {
         url:
-          'A.P.C._classic_chinos.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/A.P.C._classic_chinos.jpeg',
       },
     ],
     categories: [
@@ -22243,26 +22243,26 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'David_Jones.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/David_Jones.jpg',
     gallery: [
       {
         url:
-          'David_Jones.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/David_Jones.jpg',
       },
 
       {
         url:
-          'David_Jones.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/David_Jones.jpg',
       },
 
       {
         url:
-          'David_Jones.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/David_Jones.jpg',
       },
 
       {
         url:
-          'David_Jones.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/David_Jones.jpg',
       },
     ],
     categories: [
@@ -22289,22 +22289,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'GOLDERS.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/GOLDERS.jpg',
     gallery: [
       {
-        url: 'GOLDERS.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/GOLDERS.jpg',
       },
 
       {
-        url: 'GOLDERS.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/GOLDERS.jpg',
       },
 
       {
-        url: 'GOLDERS.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/GOLDERS.jpg',
       },
 
       {
-        url: 'GOLDERS.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/GOLDERS.jpg',
       },
     ],
     categories: [
@@ -22331,22 +22331,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Mos_Mosh.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mos_Mosh.jpg',
     gallery: [
       {
-        url: 'Mos_Mosh.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mos_Mosh.jpg',
       },
 
       {
-        url: 'Mos_Mosh.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mos_Mosh.jpg',
       },
 
       {
-        url: 'Mos_Mosh.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mos_Mosh.jpg',
       },
 
       {
-        url: 'Mos_Mosh.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Mos_Mosh.jpg',
       },
     ],
     categories: [
@@ -22373,22 +22373,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Raymond.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raymond.jpg',
     gallery: [
       {
-        url: 'Raymond.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raymond.jpg',
       },
 
       {
-        url: 'Raymond.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raymond.jpg',
       },
 
       {
-        url: 'Raymond.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raymond.jpg',
       },
 
       {
-        url: 'Raymond.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raymond.jpg',
       },
     ],
     categories: [
@@ -22415,22 +22415,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: "Ricki's.jpg",
+    image: "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ricki's.jpg",
     gallery: [
       {
-        url: "Ricki's.jpg",
+        url: "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ricki's.jpg",
       },
 
       {
-        url: "Ricki's.jpg",
+        url: "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ricki's.jpg",
       },
 
       {
-        url: "Ricki's.jpg",
+        url: "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ricki's.jpg",
       },
 
       {
-        url: "Ricki's.jpg",
+        url: "https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ricki's.jpg",
       },
     ],
     categories: [
@@ -22457,22 +22457,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'The_Row.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/The_Row.jpg',
     gallery: [
       {
-        url: 'The_Row.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/The_Row.jpg',
       },
 
       {
-        url: 'The_Row.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/The_Row.jpg',
       },
 
       {
-        url: 'The_Row.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/The_Row.jpg',
       },
 
       {
-        url: 'The_Row.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/The_Row.jpg',
       },
     ],
     categories: [
@@ -22500,26 +22500,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Bluebird_M_AlpineStartJacket.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bluebird_M_AlpineStartJacket.jpg',
     gallery: [
       {
         url:
-          'Bluebird_M_AlpineStartJacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bluebird_M_AlpineStartJacket.jpg',
       },
 
       {
         url:
-          'Bluebird_M_AlpineStartJacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bluebird_M_AlpineStartJacket.jpg',
       },
 
       {
         url:
-          'Bluebird_M_AlpineStartJacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bluebird_M_AlpineStartJacket.jpg',
       },
 
       {
         url:
-          'Bluebird_M_AlpineStartJacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bluebird_M_AlpineStartJacket.jpg',
       },
     ],
     categories: [
@@ -22547,26 +22547,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Fred_perry_taped_sports_jacket_in_wine.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_taped_sports_jacket_in_wine.jpg',
     gallery: [
       {
         url:
-          'Fred_perry_taped_sports_jacket_in_wine.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_taped_sports_jacket_in_wine.jpg',
       },
 
       {
         url:
-          'Fred_perry_taped_sports_jacket_in_wine.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_taped_sports_jacket_in_wine.jpg',
       },
 
       {
         url:
-          'Fred_perry_taped_sports_jacket_in_wine.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_taped_sports_jacket_in_wine.jpg',
       },
 
       {
         url:
-          'Fred_perry_taped_sports_jacket_in_wine.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_taped_sports_jacket_in_wine.jpg',
       },
     ],
     categories: [
@@ -22594,26 +22594,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
     gallery: [
       {
         url:
-          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
     ],
     categories: [
@@ -22641,26 +22641,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
     gallery: [
       {
         url:
-          'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
       },
 
       {
         url:
-          'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
       },
 
       {
         url:
-          'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
       },
 
       {
         url:
-          'Fred_perry_tipped_brentham_jacket_in_navy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Fred_perry_tipped_brentham_jacket_in_navy.jpg',
       },
     ],
     categories: [
@@ -22688,26 +22688,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
     gallery: [
       {
         url:
-          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
 
       {
         url:
-          'Loap_infery_kids_winter_jacket_blue_gray.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_infery_kids_winter_jacket_blue_gray.jpg',
       },
     ],
     categories: [
@@ -22735,26 +22735,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
     gallery: [
       {
         url:
-          'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
       },
 
       {
         url:
-          'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
       },
 
       {
         url:
-          'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
       },
 
       {
         url:
-          'Loap_jerryk_mens_winter_city_jacket_blue.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_blue.jpg',
       },
     ],
     categories: [
@@ -22782,26 +22782,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Loap_jerryk_mens_winter_city_jacket_red.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_red.jpg',
     gallery: [
       {
         url:
-          'Loap_jerryk_mens_winter_city_jacket_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_red.jpg',
       },
 
       {
         url:
-          'Loap_jerryk_mens_winter_city_jacket_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_red.jpg',
       },
 
       {
         url:
-          'Loap_jerryk_mens_winter_city_jacket_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_red.jpg',
       },
 
       {
         url:
-          'Loap_jerryk_mens_winter_city_jacket_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Loap_jerryk_mens_winter_city_jacket_red.jpg',
       },
     ],
     categories: [
@@ -22829,26 +22829,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Roadster_Polar_fleece_jacket.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster_Polar_fleece_jacket.jpg',
     gallery: [
       {
         url:
-          'Roadster_Polar_fleece_jacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster_Polar_fleece_jacket.jpg',
       },
 
       {
         url:
-          'Roadster_Polar_fleece_jacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster_Polar_fleece_jacket.jpg',
       },
 
       {
         url:
-          'Roadster_Polar_fleece_jacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster_Polar_fleece_jacket.jpg',
       },
 
       {
         url:
-          'Roadster_Polar_fleece_jacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster_Polar_fleece_jacket.jpg',
       },
     ],
     categories: [
@@ -22876,26 +22876,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Montane_womens_phoenix_jacket.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Montane_womens_phoenix_jacket.jpg',
     gallery: [
       {
         url:
-          'Montane_womens_phoenix_jacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Montane_womens_phoenix_jacket.jpg',
       },
 
       {
         url:
-          'Montane_womens_phoenix_jacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Montane_womens_phoenix_jacket.jpg',
       },
 
       {
         url:
-          'Montane_womens_phoenix_jacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Montane_womens_phoenix_jacket.jpg',
       },
 
       {
         url:
-          'Montane_womens_phoenix_jacket.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Montane_womens_phoenix_jacket.jpg',
       },
     ],
     categories: [
@@ -22923,26 +22923,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Score_lazio_red.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Score_lazio_red.jpg',
     gallery: [
       {
         url:
-          'Score_lazio_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Score_lazio_red.jpg',
       },
 
       {
         url:
-          'Score_lazio_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Score_lazio_red.jpg',
       },
 
       {
         url:
-          'Score_lazio_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Score_lazio_red.jpg',
       },
 
       {
         url:
-          'Score_lazio_red.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Score_lazio_red.jpg',
       },
     ],
     categories: [
@@ -22970,26 +22970,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Brook_Taverner.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_Taverner.jpg',
     gallery: [
       {
         url:
-          'Brook_Taverner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_Taverner.jpg',
       },
 
       {
         url:
-          'Brook_Taverner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_Taverner.jpg',
       },
 
       {
         url:
-          'Brook_Taverner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_Taverner.jpg',
       },
 
       {
         url:
-          'Brook_Taverner.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_Taverner.jpg',
       },
     ],
     categories: [
@@ -23017,26 +23017,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Brook_taverner_scapoli_ladies_waistcoat.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_taverner_scapoli_ladies_waistcoat.jpg',
     gallery: [
       {
         url:
-          'Brook_taverner_scapoli_ladies_waistcoat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_taverner_scapoli_ladies_waistcoat.jpg',
       },
 
       {
         url:
-          'Brook_taverner_scapoli_ladies_waistcoat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_taverner_scapoli_ladies_waistcoat.jpg',
       },
 
       {
         url:
-          'Brook_taverner_scapoli_ladies_waistcoat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_taverner_scapoli_ladies_waistcoat.jpg',
       },
 
       {
         url:
-          'Brook_taverner_scapoli_ladies_waistcoat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Brook_taverner_scapoli_ladies_waistcoat.jpg',
       },
     ],
     categories: [
@@ -23064,26 +23064,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Chill_Winston.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chill_Winston.jpg',
     gallery: [
       {
         url:
-          'Chill_Winston.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chill_Winston.jpg',
       },
 
       {
         url:
-          'Chill_Winston.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chill_Winston.jpg',
       },
 
       {
         url:
-          'Chill_Winston.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chill_Winston.jpg',
       },
 
       {
         url:
-          'Chill_Winston.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Chill_Winston.jpg',
       },
     ],
     categories: [
@@ -23110,22 +23110,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Deyann.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Deyann.jpg',
     gallery: [
       {
-        url: 'Deyann.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Deyann.jpg',
       },
 
       {
-        url: 'Deyann.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Deyann.jpg',
       },
 
       {
-        url: 'Deyann.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Deyann.jpg',
       },
 
       {
-        url: 'Deyann.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Deyann.jpg',
       },
     ],
     categories: [
@@ -23153,26 +23153,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Hypernation_render_Gilet.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hypernation_render_Gilet.jpg',
     gallery: [
       {
         url:
-          'Hypernation_render_Gilet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hypernation_render_Gilet.jpg',
       },
 
       {
         url:
-          'Hypernation_render_Gilet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hypernation_render_Gilet.jpg',
       },
 
       {
         url:
-          'Hypernation_render_Gilet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hypernation_render_Gilet.jpg',
       },
 
       {
         url:
-          'Hypernation_render_Gilet.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hypernation_render_Gilet.jpg',
       },
     ],
     categories: [
@@ -23199,22 +23199,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Jack&Jones.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jack&Jones.jpg',
     gallery: [
       {
-        url: 'Jack&Jones.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jack&Jones.jpg',
       },
 
       {
-        url: 'Jack&Jones.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jack&Jones.jpg',
       },
 
       {
-        url: 'Jack&Jones.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jack&Jones.jpg',
       },
 
       {
-        url: 'Jack&Jones.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Jack&Jones.jpg',
       },
     ],
     categories: [
@@ -23241,22 +23241,22 @@ const productData = [
     description:
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
-    image: 'Raas.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raas.jpg',
     gallery: [
       {
-        url: 'Raas.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raas.jpg',
       },
 
       {
-        url: 'Raas.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raas.jpg',
       },
 
       {
-        url: 'Raas.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raas.jpg',
       },
 
       {
-        url: 'Raas.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Raas.jpg',
       },
     ],
     categories: [
@@ -23284,26 +23284,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Rhino-_Waistcoat_Navy.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Rhino-_Waistcoat_Navy.jpg',
     gallery: [
       {
         url:
-          'Rhino-_Waistcoat_Navy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Rhino-_Waistcoat_Navy.jpg',
       },
 
       {
         url:
-          'Rhino-_Waistcoat_Navy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Rhino-_Waistcoat_Navy.jpg',
       },
 
       {
         url:
-          'Rhino-_Waistcoat_Navy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Rhino-_Waistcoat_Navy.jpg',
       },
 
       {
         url:
-          'Rhino-_Waistcoat_Navy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Rhino-_Waistcoat_Navy.jpg',
       },
     ],
     categories: [
@@ -23331,26 +23331,26 @@ const productData = [
       'Black bandhgala, has a mandarin collar, a full button placket, long sleeves, three pockets, double vented back hem, and has an attached lining',
     type: 'women-cloths',
     image:
-      'Scott_washable_performance_waistcoat.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scott_washable_performance_waistcoat.jpg',
     gallery: [
       {
         url:
-          'Scott_washable_performance_waistcoat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scott_washable_performance_waistcoat.jpg',
       },
 
       {
         url:
-          'Scott_washable_performance_waistcoat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scott_washable_performance_waistcoat.jpg',
       },
 
       {
         url:
-          'Scott_washable_performance_waistcoat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scott_washable_performance_waistcoat.jpg',
       },
 
       {
         url:
-          'Scott_washable_performance_waistcoat.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scott_washable_performance_waistcoat.jpg',
       },
     ],
     categories: [
@@ -23378,22 +23378,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'Bossini.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bossini.jpg',
     gallery: [
       {
-        url: 'Bossini.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bossini.jpg',
       },
 
       {
-        url: 'Bossini.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bossini.jpg',
       },
 
       {
-        url: 'Bossini.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bossini.jpg',
       },
 
       {
-        url: 'Bossini.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Bossini.jpg',
       },
     ],
     categories: [
@@ -23420,26 +23420,26 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'High_Lander.png',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander.png',
     gallery: [
       {
         url:
-          'High_Lander.png',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander.png',
       },
 
       {
         url:
-          'High_Lander.png',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander.png',
       },
 
       {
         url:
-          'High_Lander.png',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander.png',
       },
 
       {
         url:
-          'High_Lander.png',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/High_Lander.png',
       },
     ],
     categories: [
@@ -23466,22 +23466,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'Roadster.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster.jpg',
     gallery: [
       {
-        url: 'Roadster.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster.jpg',
       },
 
       {
-        url: 'Roadster.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster.jpg',
       },
 
       {
-        url: 'Roadster.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster.jpg',
       },
 
       {
-        url: 'Roadster.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Roadster.jpg',
       },
     ],
     categories: [
@@ -23509,26 +23509,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'Scotch_soda_ralston_stone_and_sand.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_ralston_stone_and_sand.jpg',
     gallery: [
       {
         url:
-          'Scotch_soda_ralston_stone_and_sand.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_ralston_stone_and_sand.jpg',
       },
 
       {
         url:
-          'Scotch_soda_ralston_stone_and_sand.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_ralston_stone_and_sand.jpg',
       },
 
       {
         url:
-          'Scotch_soda_ralston_stone_and_sand.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_ralston_stone_and_sand.jpg',
       },
 
       {
         url:
-          'Scotch_soda_ralston_stone_and_sand.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_ralston_stone_and_sand.jpg',
       },
     ],
     categories: [
@@ -23556,26 +23556,26 @@ const productData = [
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
     image:
-      'Scotch_soda_skim.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_skim.jpg',
     gallery: [
       {
         url:
-          'Scotch_soda_skim.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_skim.jpg',
       },
 
       {
         url:
-          'Scotch_soda_skim.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_skim.jpg',
       },
 
       {
         url:
-          'Scotch_soda_skim.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_skim.jpg',
       },
 
       {
         url:
-          'Scotch_soda_skim.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Scotch_soda_skim.jpg',
       },
     ],
     categories: [
@@ -23602,22 +23602,22 @@ const productData = [
     description:
       "Indigo blue cotton mid rise denim shorts from Levi's featuring a waistband with belt loops, a button and zip fly, an unfinished hem and a five pocket design.",
     type: 'women-cloths',
-    image: 'Wrogn.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wrogn.jpg',
     gallery: [
       {
-        url: 'Wrogn.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wrogn.jpg',
       },
 
       {
-        url: 'Wrogn.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wrogn.jpg',
       },
 
       {
-        url: 'Wrogn.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wrogn.jpg',
       },
 
       {
-        url: 'Wrogn.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Wrogn.jpg',
       },
     ],
     categories: [
@@ -23644,22 +23644,22 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: '2Go.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2Go.jpg',
     gallery: [
       {
-        url: '2Go.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2Go.jpg',
       },
 
       {
-        url: '2Go.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2Go.jpg',
       },
 
       {
-        url: '2Go.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2Go.jpg',
       },
 
       {
-        url: '2Go.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2Go.jpg',
       },
     ],
     categories: [
@@ -23686,22 +23686,22 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'Addidas.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Addidas.jpg',
     gallery: [
       {
-        url: 'Addidas.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Addidas.jpg',
       },
 
       {
-        url: 'Addidas.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Addidas.jpg',
       },
 
       {
-        url: 'Addidas.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Addidas.jpg',
       },
 
       {
-        url: 'Addidas.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Addidas.jpg',
       },
     ],
     categories: [
@@ -23728,22 +23728,22 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'Champion.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Champion.jpg',
     gallery: [
       {
-        url: 'Champion.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Champion.jpg',
       },
 
       {
-        url: 'Champion.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Champion.jpg',
       },
 
       {
-        url: 'Champion.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Champion.jpg',
       },
 
       {
-        url: 'Champion.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Champion.jpg',
       },
     ],
     categories: [
@@ -23771,26 +23771,26 @@ const productData = [
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
     image:
-      'Ellesse_candreva_joggers_dress_blue.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ellesse_candreva_joggers_dress_blue.jpg',
     gallery: [
       {
         url:
-          'Ellesse_candreva_joggers_dress_blue.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ellesse_candreva_joggers_dress_blue.jpg',
       },
 
       {
         url:
-          'Ellesse_candreva_joggers_dress_blue.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ellesse_candreva_joggers_dress_blue.jpg',
       },
 
       {
         url:
-          'Ellesse_candreva_joggers_dress_blue.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ellesse_candreva_joggers_dress_blue.jpg',
       },
 
       {
         url:
-          'Ellesse_candreva_joggers_dress_blue.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Ellesse_candreva_joggers_dress_blue.jpg',
       },
     ],
     categories: [
@@ -23817,26 +23817,26 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'Hubberholme.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hubberholme.jpg',
     gallery: [
       {
         url:
-          'Hubberholme.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hubberholme.jpg',
       },
 
       {
         url:
-          'Hubberholme.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hubberholme.jpg',
       },
 
       {
         url:
-          'Hubberholme.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hubberholme.jpg',
       },
 
       {
         url:
-          'Hubberholme.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Hubberholme.jpg',
       },
     ],
     categories: [
@@ -23864,26 +23864,26 @@ const productData = [
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
     image:
-      'Kids_Nike_Dry_Academy_Football_Pant.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Kids_Nike_Dry_Academy_Football_Pant.jpg',
     gallery: [
       {
         url:
-          'Kids_Nike_Dry_Academy_Football_Pant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Kids_Nike_Dry_Academy_Football_Pant.jpg',
       },
 
       {
         url:
-          'Kids_Nike_Dry_Academy_Football_Pant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Kids_Nike_Dry_Academy_Football_Pant.jpg',
       },
 
       {
         url:
-          'Kids_Nike_Dry_Academy_Football_Pant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Kids_Nike_Dry_Academy_Football_Pant.jpg',
       },
 
       {
         url:
-          'Kids_Nike_Dry_Academy_Football_Pant.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Kids_Nike_Dry_Academy_Football_Pant.jpg',
       },
     ],
     categories: [
@@ -23910,26 +23910,26 @@ const productData = [
     description:
       'Brown Yogi High Rise 7/8 tights from Nimble Activewear featuring a high waist, a fitted silhouette, a lightunit construction and a cropped length.',
     type: 'women-cloths',
-    image: 'Under_Armour.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Under_Armour.jpg',
     gallery: [
       {
         url:
-          'Under_Armour.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Under_Armour.jpg',
       },
 
       {
         url:
-          'Under_Armour.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Under_Armour.jpg',
       },
 
       {
         url:
-          'Under_Armour.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Under_Armour.jpg',
       },
 
       {
         url:
-          'Under_Armour.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Under_Armour.jpg',
       },
     ],
     categories: [
@@ -23956,22 +23956,22 @@ const productData = [
     description:
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
-    image: '13361.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/13361.jpg',
     gallery: [
       {
-        url: '13361.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/13361.jpg',
       },
 
       {
-        url: '13361.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/13361.jpg',
       },
 
       {
-        url: '13361.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/13361.jpg',
       },
 
       {
-        url: '13361.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/13361.jpg',
       },
     ],
     categories: [
@@ -23999,26 +23999,26 @@ const productData = [
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
     image:
-      'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
     gallery: [
       {
         url:
-          'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
       },
 
       {
         url:
-          'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
       },
 
       {
         url:
-          'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
       },
 
       {
         url:
-          'dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dee5eb09-4cd1-4f14-8407-6c9c5e17485a1553259228027-1.jpg',
       },
     ],
     categories: [
@@ -24046,26 +24046,26 @@ const productData = [
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
     image:
-      'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
     gallery: [
       {
         url:
-          'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
       },
 
       {
         url:
-          'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
       },
 
       {
         url:
-          'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
       },
 
       {
         url:
-          'HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/HTB1eUwkzwKTBuNkSne1q6yJoXXaY.jpg',
       },
     ],
     categories: [
@@ -24092,22 +24092,22 @@ const productData = [
     description:
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
-    image: 'ILU003.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ILU003.jpg',
     gallery: [
       {
-        url: 'ILU003.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ILU003.jpg',
       },
 
       {
-        url: 'ILU003.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ILU003.jpg',
       },
 
       {
-        url: 'ILU003.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ILU003.jpg',
       },
 
       {
-        url: 'ILU003.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/ILU003.jpg',
       },
     ],
     categories: [
@@ -24135,26 +24135,26 @@ const productData = [
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
     image:
-      'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
     gallery: [
       {
         url:
-          'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
       },
 
       {
         url:
-          'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
       },
 
       {
         url:
-          'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
       },
 
       {
         url:
-          'Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Marc-Jacobs-Beauty-See-quins-Glam-Glitter-Eyeshadow.jpg',
       },
     ],
     categories: [
@@ -24182,26 +24182,26 @@ const productData = [
       'This brilliantly long-wearing sparkle eye shadow combines the perfect mix of pearl and glitter to lavish eyes with incredible luster and shimmer.  With its uniquely lightunit, water-infused texture, Glitter & Glow glides on effortlessly, then dries down smoothly, locking in maximum sparkle with minimal fallout, for eyes with a real wow! factor.',
     type: 'makeup',
     image:
-      'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
     gallery: [
       {
         url:
-          'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
       },
 
       {
         url:
-          'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
       },
 
       {
         url:
-          'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
       },
 
       {
         url:
-          'PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/PMG_EYEDOLS_CLOSED_CORRUPTCOPPER.jpg',
       },
     ],
     categories: [
@@ -24229,26 +24229,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
     gallery: [
       {
         url:
-          '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
       },
 
       {
         url:
-          '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
       },
 
       {
         url:
-          '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
       },
 
       {
         url:
-          '2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/2_3_6412600840186_Lumene_true_mystic_volume_mascara_black.jpg',
       },
     ],
     categories: [
@@ -24275,22 +24275,22 @@ const productData = [
     description:
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
-    image: '10725812.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/10725812.jpg',
     gallery: [
       {
-        url: '10725812.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/10725812.jpg',
       },
 
       {
-        url: '10725812.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/10725812.jpg',
       },
 
       {
-        url: '10725812.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/10725812.jpg',
       },
 
       {
-        url: '10725812.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/10725812.jpg',
       },
     ],
     categories: [
@@ -24318,26 +24318,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      '1539805842-lancome-big-monsieur-1500313391.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1539805842-lancome-big-monsieur-1500313391.jpg',
     gallery: [
       {
         url:
-          '1539805842-lancome-big-monsieur-1500313391.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1539805842-lancome-big-monsieur-1500313391.jpg',
       },
 
       {
         url:
-          '1539805842-lancome-big-monsieur-1500313391.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1539805842-lancome-big-monsieur-1500313391.jpg',
       },
 
       {
         url:
-          '1539805842-lancome-big-monsieur-1500313391.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1539805842-lancome-big-monsieur-1500313391.jpg',
       },
 
       {
         url:
-          '1539805842-lancome-big-monsieur-1500313391.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1539805842-lancome-big-monsieur-1500313391.jpg',
       },
     ],
     categories: [
@@ -24365,26 +24365,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      '1553526549-dior-1553526540.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1553526549-dior-1553526540.jpg',
     gallery: [
       {
         url:
-          '1553526549-dior-1553526540.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1553526549-dior-1553526540.jpg',
       },
 
       {
         url:
-          '1553526549-dior-1553526540.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1553526549-dior-1553526540.jpg',
       },
 
       {
         url:
-          '1553526549-dior-1553526540.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1553526549-dior-1553526540.jpg',
       },
 
       {
         url:
-          '1553526549-dior-1553526540.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/1553526549-dior-1553526540.jpg',
       },
     ],
     categories: [
@@ -24412,26 +24412,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'big-look-mascara-cap-on-appl-to-side.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/big-look-mascara-cap-on-appl-to-side.jpg',
     gallery: [
       {
         url:
-          'big-look-mascara-cap-on-appl-to-side.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/big-look-mascara-cap-on-appl-to-side.jpg',
       },
 
       {
         url:
-          'big-look-mascara-cap-on-appl-to-side.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/big-look-mascara-cap-on-appl-to-side.jpg',
       },
 
       {
         url:
-          'big-look-mascara-cap-on-appl-to-side.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/big-look-mascara-cap-on-appl-to-side.jpg',
       },
 
       {
         url:
-          'big-look-mascara-cap-on-appl-to-side.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/big-look-mascara-cap-on-appl-to-side.jpg',
       },
     ],
     categories: [
@@ -24459,26 +24459,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'mascara_cap_off-black-web_ready_1.jpeg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mascara_cap_off-black-web_ready_1.jpeg',
     gallery: [
       {
         url:
-          'mascara_cap_off-black-web_ready_1.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mascara_cap_off-black-web_ready_1.jpeg',
       },
 
       {
         url:
-          'mascara_cap_off-black-web_ready_1.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mascara_cap_off-black-web_ready_1.jpeg',
       },
 
       {
         url:
-          'mascara_cap_off-black-web_ready_1.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mascara_cap_off-black-web_ready_1.jpeg',
       },
 
       {
         url:
-          'mascara_cap_off-black-web_ready_1.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mascara_cap_off-black-web_ready_1.jpeg',
       },
     ],
     categories: [
@@ -24506,26 +24506,26 @@ const productData = [
       "For lavishly long, perfectly defined lashes, this iconic award-winning mascara provides the ultimate in separation and has been the number 1 mascara for 16+ years! Carefully selected polymers coat each lash from root to tip, to help lengthen and outline each lash for unmatched definition. This best-selling mascara's unique brush applicator has specially grooved bristles that hold the perfect amount of product for gradual, even application every time.",
     type: 'makeup',
     image:
-      'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
     gallery: [
       {
         url:
-          'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
       },
 
       {
         url:
-          'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
       },
 
       {
         url:
-          'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
       },
 
       {
         url:
-          'Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Stellar-Lash-Mascara-CapOff-web_1400x1400.jpg',
       },
     ],
     categories: [
@@ -24552,22 +24552,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'beauty.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beauty.jpg',
     gallery: [
       {
-        url: 'beauty.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beauty.jpg',
       },
 
       {
-        url: 'beauty.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beauty.jpg',
       },
 
       {
-        url: 'beauty.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beauty.jpg',
       },
 
       {
-        url: 'beauty.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/beauty.jpg',
       },
     ],
     categories: [
@@ -24595,26 +24595,26 @@ const productData = [
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
     image:
-      'DrHauschka_CompactPowder.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DrHauschka_CompactPowder.jpg',
     gallery: [
       {
         url:
-          'DrHauschka_CompactPowder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DrHauschka_CompactPowder.jpg',
       },
 
       {
         url:
-          'DrHauschka_CompactPowder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DrHauschka_CompactPowder.jpg',
       },
 
       {
         url:
-          'DrHauschka_CompactPowder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DrHauschka_CompactPowder.jpg',
       },
 
       {
         url:
-          'DrHauschka_CompactPowder.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/DrHauschka_CompactPowder.jpg',
       },
     ],
     categories: [
@@ -24641,22 +24641,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'g9.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/g9.jpg',
     gallery: [
       {
-        url: 'g9.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/g9.jpg',
       },
 
       {
-        url: 'g9.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/g9.jpg',
       },
 
       {
-        url: 'g9.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/g9.jpg',
       },
 
       {
-        url: 'g9.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/g9.jpg',
       },
     ],
     categories: [
@@ -24683,22 +24683,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'Iman.jpeg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iman.jpeg',
     gallery: [
       {
-        url: 'Iman.jpeg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iman.jpeg',
       },
 
       {
-        url: 'Iman.jpeg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iman.jpeg',
       },
 
       {
-        url: 'Iman.jpeg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iman.jpeg',
       },
 
       {
-        url: 'Iman.jpeg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Iman.jpeg',
       },
     ],
     categories: [
@@ -24725,22 +24725,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'lorac.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lorac.jpg',
     gallery: [
       {
-        url: 'lorac.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lorac.jpg',
       },
 
       {
-        url: 'lorac.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lorac.jpg',
       },
 
       {
-        url: 'lorac.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lorac.jpg',
       },
 
       {
-        url: 'lorac.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lorac.jpg',
       },
     ],
     categories: [
@@ -24767,22 +24767,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'pupa.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pupa.jpg',
     gallery: [
       {
-        url: 'pupa.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pupa.jpg',
       },
 
       {
-        url: 'pupa.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pupa.jpg',
       },
 
       {
-        url: 'pupa.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pupa.jpg',
       },
 
       {
-        url: 'pupa.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pupa.jpg',
       },
     ],
     categories: [
@@ -24810,26 +24810,26 @@ const productData = [
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
     image:
-      'revlon_colorstay.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_colorstay.jpg',
     gallery: [
       {
         url:
-          'revlon_colorstay.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_colorstay.jpg',
       },
 
       {
         url:
-          'revlon_colorstay.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_colorstay.jpg',
       },
 
       {
         url:
-          'revlon_colorstay.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_colorstay.jpg',
       },
 
       {
         url:
-          'revlon_colorstay.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_colorstay.jpg',
       },
     ],
     categories: [
@@ -24856,22 +24856,22 @@ const productData = [
     description:
       'Our silky, lightunit powder sets makeup for longer wear while providing a veil of perfecting luminosity and a finish so natural they’ll think you were Born This Way.',
     type: 'makeup',
-    image: 'wet_wild.png',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/wet_wild.png',
     gallery: [
       {
-        url: 'wet_wild.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/wet_wild.png',
       },
 
       {
-        url: 'wet_wild.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/wet_wild.png',
       },
 
       {
-        url: 'wet_wild.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/wet_wild.png',
       },
 
       {
-        url: 'wet_wild.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/wet_wild.png',
       },
     ],
     categories: [
@@ -24898,22 +24898,22 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'elf.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/elf.jpg',
     gallery: [
       {
-        url: 'elf.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/elf.jpg',
       },
 
       {
-        url: 'elf.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/elf.jpg',
       },
 
       {
-        url: 'elf.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/elf.jpg',
       },
 
       {
-        url: 'elf.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/elf.jpg',
       },
     ],
     categories: [
@@ -24940,26 +24940,26 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'loreal_24hr.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_24hr.jpg',
     gallery: [
       {
         url:
-          'loreal_24hr.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_24hr.jpg',
       },
 
       {
         url:
-          'loreal_24hr.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_24hr.jpg',
       },
 
       {
         url:
-          'loreal_24hr.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_24hr.jpg',
       },
 
       {
         url:
-          'loreal_24hr.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_24hr.jpg',
       },
     ],
     categories: [
@@ -24987,26 +24987,26 @@ const productData = [
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
     image:
-      'loreal_infallable.jpeg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_infallable.jpeg',
     gallery: [
       {
         url:
-          'loreal_infallable.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_infallable.jpeg',
       },
 
       {
         url:
-          'loreal_infallable.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_infallable.jpeg',
       },
 
       {
         url:
-          'loreal_infallable.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_infallable.jpeg',
       },
 
       {
         url:
-          'loreal_infallable.jpeg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_infallable.jpeg',
       },
     ],
     categories: [
@@ -25034,26 +25034,26 @@ const productData = [
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
     image:
-      'loreal_true_match.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_true_match.jpg',
     gallery: [
       {
         url:
-          'loreal_true_match.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_true_match.jpg',
       },
 
       {
         url:
-          'loreal_true_match.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_true_match.jpg',
       },
 
       {
         url:
-          'loreal_true_match.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_true_match.jpg',
       },
 
       {
         url:
-          'loreal_true_match.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/loreal_true_match.jpg',
       },
     ],
     categories: [
@@ -25081,26 +25081,26 @@ const productData = [
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
     image:
-      'lucy_minerals.png',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy_minerals.png',
     gallery: [
       {
         url:
-          'lucy_minerals.png',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy_minerals.png',
       },
 
       {
         url:
-          'lucy_minerals.png',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy_minerals.png',
       },
 
       {
         url:
-          'lucy_minerals.png',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy_minerals.png',
       },
 
       {
         url:
-          'lucy_minerals.png',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy_minerals.png',
       },
     ],
     categories: [
@@ -25127,22 +25127,22 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'mac.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac.jpg',
     gallery: [
       {
-        url: 'mac.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac.jpg',
       },
 
       {
-        url: 'mac.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac.jpg',
       },
 
       {
-        url: 'mac.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac.jpg',
       },
 
       {
-        url: 'mac.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/mac.jpg',
       },
     ],
     categories: [
@@ -25169,22 +25169,22 @@ const productData = [
     description:
       "A 15-hour matte finish your skin will feel good about! Clarins' long-wearing compact foundation evens out skin tone and minimizes the look of imperfections in seconds, delivering a shine-free, matte finish and hours of comfortable wear. Ultra-fine texture resists heat, humidity and perspiration for flawless coverage that lasts throughout the day.",
     type: 'makeup',
-    image: 'pur.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pur.jpg',
     gallery: [
       {
-        url: 'pur.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pur.jpg',
       },
 
       {
-        url: 'pur.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pur.jpg',
       },
 
       {
-        url: 'pur.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pur.jpg',
       },
 
       {
-        url: 'pur.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/pur.jpg',
       },
     ],
     categories: [
@@ -25211,22 +25211,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'Barry.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
     gallery: [
       {
-        url: 'Barry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
       },
 
       {
-        url: 'Barry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
       },
 
       {
-        url: 'Barry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
       },
 
       {
-        url: 'Barry.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Barry.jpg',
       },
     ],
     categories: [
@@ -25253,22 +25253,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'CT.jpeg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CT.jpeg',
     gallery: [
       {
-        url: 'CT.jpeg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CT.jpeg',
       },
 
       {
-        url: 'CT.jpeg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CT.jpeg',
       },
 
       {
-        url: 'CT.jpeg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CT.jpeg',
       },
 
       {
-        url: 'CT.jpeg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/CT.jpeg',
       },
     ],
     categories: [
@@ -25295,22 +25295,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'dsl.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dsl.jpg',
     gallery: [
       {
-        url: 'dsl.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dsl.jpg',
       },
 
       {
-        url: 'dsl.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dsl.jpg',
       },
 
       {
-        url: 'dsl.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dsl.jpg',
       },
 
       {
-        url: 'dsl.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/dsl.jpg',
       },
     ],
     categories: [
@@ -25337,22 +25337,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'find.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/find.jpg',
     gallery: [
       {
-        url: 'find.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/find.jpg',
       },
 
       {
-        url: 'find.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/find.jpg',
       },
 
       {
-        url: 'find.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/find.jpg',
       },
 
       {
-        url: 'find.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/find.jpg',
       },
     ],
     categories: [
@@ -25379,22 +25379,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'image.png',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/image.png',
     gallery: [
       {
-        url: 'image.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/image.png',
       },
 
       {
-        url: 'image.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/image.png',
       },
 
       {
-        url: 'image.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/image.png',
       },
 
       {
-        url: 'image.png',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/image.png',
       },
     ],
     categories: [
@@ -25421,26 +25421,26 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'star_strucl.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/star_strucl.jpg',
     gallery: [
       {
         url:
-          'star_strucl.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/star_strucl.jpg',
       },
 
       {
         url:
-          'star_strucl.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/star_strucl.jpg',
       },
 
       {
         url:
-          'star_strucl.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/star_strucl.jpg',
       },
 
       {
         url:
-          'star_strucl.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/star_strucl.jpg',
       },
     ],
     categories: [
@@ -25467,22 +25467,22 @@ const productData = [
     description:
       'Reach pout perfection with the Matte Me Up Liquid Lip Paint and Liner. Its non-drying, ultra-long wearing formula is easy to apply and will leave lips with a gorgeously bold finish. Each kit comes with a matte liquid Lip Paint and Lip Liner. ',
     type: 'makeup',
-    image: 'technic.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/technic.jpg',
     gallery: [
       {
-        url: 'technic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/technic.jpg',
       },
 
       {
-        url: 'technic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/technic.jpg',
       },
 
       {
-        url: 'technic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/technic.jpg',
       },
 
       {
-        url: 'technic.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/technic.jpg',
       },
     ],
     categories: [
@@ -25509,22 +25509,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'believe.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/believe.jpg',
     gallery: [
       {
-        url: 'believe.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/believe.jpg',
       },
 
       {
-        url: 'believe.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/believe.jpg',
       },
 
       {
-        url: 'believe.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/believe.jpg',
       },
 
       {
-        url: 'believe.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/believe.jpg',
       },
     ],
     categories: [
@@ -25552,26 +25552,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'charlottetilbury.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/charlottetilbury.jpg',
     gallery: [
       {
         url:
-          'charlottetilbury.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/charlottetilbury.jpg',
       },
 
       {
         url:
-          'charlottetilbury.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/charlottetilbury.jpg',
       },
 
       {
         url:
-          'charlottetilbury.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/charlottetilbury.jpg',
       },
 
       {
         url:
-          'charlottetilbury.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/charlottetilbury.jpg',
       },
     ],
     categories: [
@@ -25599,26 +25599,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'covergirl-melting-pout-vinyl-wow.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/covergirl-melting-pout-vinyl-wow.jpg',
     gallery: [
       {
         url:
-          'covergirl-melting-pout-vinyl-wow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/covergirl-melting-pout-vinyl-wow.jpg',
       },
 
       {
         url:
-          'covergirl-melting-pout-vinyl-wow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/covergirl-melting-pout-vinyl-wow.jpg',
       },
 
       {
         url:
-          'covergirl-melting-pout-vinyl-wow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/covergirl-melting-pout-vinyl-wow.jpg',
       },
 
       {
         url:
-          'covergirl-melting-pout-vinyl-wow.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/covergirl-melting-pout-vinyl-wow.jpg',
       },
     ],
     categories: [
@@ -25646,26 +25646,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'gosh_lip_gloss.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gosh_lip_gloss.jpg',
     gallery: [
       {
         url:
-          'gosh_lip_gloss.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gosh_lip_gloss.jpg',
       },
 
       {
         url:
-          'gosh_lip_gloss.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gosh_lip_gloss.jpg',
       },
 
       {
         url:
-          'gosh_lip_gloss.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gosh_lip_gloss.jpg',
       },
 
       {
         url:
-          'gosh_lip_gloss.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/gosh_lip_gloss.jpg',
       },
     ],
     categories: [
@@ -25692,22 +25692,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'lucy.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy.jpg',
     gallery: [
       {
-        url: 'lucy.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy.jpg',
       },
 
       {
-        url: 'lucy.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy.jpg',
       },
 
       {
-        url: 'lucy.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy.jpg',
       },
 
       {
-        url: 'lucy.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/lucy.jpg',
       },
     ],
     categories: [
@@ -25735,26 +25735,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'revlon_the_gloss.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_the_gloss.jpg',
     gallery: [
       {
         url:
-          'revlon_the_gloss.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_the_gloss.jpg',
       },
 
       {
         url:
-          'revlon_the_gloss.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_the_gloss.jpg',
       },
 
       {
         url:
-          'revlon_the_gloss.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_the_gloss.jpg',
       },
 
       {
         url:
-          'revlon_the_gloss.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/revlon_the_gloss.jpg',
       },
     ],
     categories: [
@@ -25782,26 +25782,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'tarteist-glossy.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tarteist-glossy.jpg',
     gallery: [
       {
         url:
-          'tarteist-glossy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tarteist-glossy.jpg',
       },
 
       {
         url:
-          'tarteist-glossy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tarteist-glossy.jpg',
       },
 
       {
         url:
-          'tarteist-glossy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tarteist-glossy.jpg',
       },
 
       {
         url:
-          'tarteist-glossy.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/tarteist-glossy.jpg',
       },
     ],
     categories: [
@@ -25828,22 +25828,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'w7-kiss-me.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/w7-kiss-me.jpg',
     gallery: [
       {
-        url: 'w7-kiss-me.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/w7-kiss-me.jpg',
       },
 
       {
-        url: 'w7-kiss-me.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/w7-kiss-me.jpg',
       },
 
       {
-        url: 'w7-kiss-me.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/w7-kiss-me.jpg',
       },
 
       {
-        url: 'w7-kiss-me.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/w7-kiss-me.jpg',
       },
     ],
     categories: [
@@ -25871,26 +25871,26 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'badass-icon.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badass-icon.jpg',
     gallery: [
       {
         url:
-          'badass-icon.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badass-icon.jpg',
       },
 
       {
         url:
-          'badass-icon.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badass-icon.jpg',
       },
 
       {
         url:
-          'badass-icon.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badass-icon.jpg',
       },
 
       {
         url:
-          'badass-icon.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/badass-icon.jpg',
       },
     ],
     categories: [
@@ -25918,26 +25918,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'Gel-Semi-Matte.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gel-Semi-Matte.jpg',
     gallery: [
       {
         url:
-          'Gel-Semi-Matte.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gel-Semi-Matte.jpg',
       },
 
       {
         url:
-          'Gel-Semi-Matte.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gel-Semi-Matte.jpg',
       },
 
       {
         url:
-          'Gel-Semi-Matte.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gel-Semi-Matte.jpg',
       },
 
       {
         url:
-          'Gel-Semi-Matte.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/Gel-Semi-Matte.jpg',
       },
     ],
     categories: [
@@ -25965,26 +25965,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'maybelline-new-york.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maybelline-new-york.jpg',
     gallery: [
       {
         url:
-          'maybelline-new-york.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maybelline-new-york.jpg',
       },
 
       {
         url:
-          'maybelline-new-york.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maybelline-new-york.jpg',
       },
 
       {
         url:
-          'maybelline-new-york.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maybelline-new-york.jpg',
       },
 
       {
         url:
-          'maybelline-new-york.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/maybelline-new-york.jpg',
       },
     ],
     categories: [
@@ -26012,26 +26012,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'nars-lipstick-dressed-to-kill.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nars-lipstick-dressed-to-kill.jpg',
     gallery: [
       {
         url:
-          'nars-lipstick-dressed-to-kill.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nars-lipstick-dressed-to-kill.jpg',
       },
 
       {
         url:
-          'nars-lipstick-dressed-to-kill.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nars-lipstick-dressed-to-kill.jpg',
       },
 
       {
         url:
-          'nars-lipstick-dressed-to-kill.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nars-lipstick-dressed-to-kill.jpg',
       },
 
       {
         url:
-          'nars-lipstick-dressed-to-kill.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/nars-lipstick-dressed-to-kill.jpg',
       },
     ],
     categories: [
@@ -26058,22 +26058,22 @@ const productData = [
     description:
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
-    image: 'yo182_1.jpg',
+    image: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yo182_1.jpg',
     gallery: [
       {
-        url: 'yo182_1.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yo182_1.jpg',
       },
 
       {
-        url: 'yo182_1.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yo182_1.jpg',
       },
 
       {
-        url: 'yo182_1.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yo182_1.jpg',
       },
 
       {
-        url: 'yo182_1.jpg',
+        url: 'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/yo182_1.jpg',
       },
     ],
     categories: [
@@ -26101,26 +26101,26 @@ const productData = [
       'M·A·C Lipstick – the iconic product that made M·A·C famous. This long-wearing formula features an intense colour payoff and a completely matte finish.',
     type: 'makeup',
     image:
-      'youngblood-casablanca.jpg',
+      'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/youngblood-casablanca.jpg',
     gallery: [
       {
         url:
-          'youngblood-casablanca.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/youngblood-casablanca.jpg',
       },
 
       {
         url:
-          'youngblood-casablanca.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/youngblood-casablanca.jpg',
       },
 
       {
         url:
-          'youngblood-casablanca.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/youngblood-casablanca.jpg',
       },
 
       {
         url:
-          'youngblood-casablanca.jpg',
+          'https://github.com/nahidacm/dummy-ecommerce-data/raw/master/images/youngblood-casablanca.jpg',
       },
     ],
     categories: [
