@@ -25286,7 +25286,7 @@ const productData = [
   },
   {
     id: 550,
-    name: 'D$L Lip Kit',
+    name: 'DSL Lip Kit',
     slug: 'dsl.jpg',
     unit: '1 pc(s)',
     price: 40,
